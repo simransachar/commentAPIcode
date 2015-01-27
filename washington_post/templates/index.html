@@ -49,7 +49,7 @@ Licence URI: http://www.os-templates.com/template-terms
     <div id="topnav">
       <ul>
         <li class="active"><a href="/">Home</a></li>
-        <li><a href="/add_article">Add Article</a></li>
+        <li><a href="/new_article">Add Article</a></li>
 
       </ul>
     </div>
@@ -185,8 +185,31 @@ Licence URI: http://www.os-templates.com/template-terms
           </li>
 
         </ul>
+
         <br class="clear" />
       </div>
+       <div id="hpage_latest">
+        <h2>Latest </h2>
+        <ul>
+
+
+        {%  for row in disp_list %}
+            <li><img src="static/images/demo/190x130.gif" alt="" />
+              <p><strong><a href="/articles?article_url={{ row[1] }}">{{ row[0] }}</a></strong></p>
+            <p>{{ row[2]| truncate(140) }}.</p>
+            <p class="readmore"><a href="/articles?article_url={{ row[1] }}">Continue Reading &raquo;</a></p>
+            </li>
+         {% endfor %}
+        <li class="last"><img src="static/images/demo/19.jpg" alt="" />
+            <p><strong><a href="/articles?article_url={{ article_url[9] }}">{{ article_title[9] }}</a></strong></p>
+            <p>{{ article_text_list[9]| truncate(140) }}.</p>
+            <p class="readmore"><a href="/articles?article_url={{ article_url[9] }}">Continue Reading &raquo;</a></p>
+          </li>
+        </ul>
+
+        <br class="clear" />
+      </div>
+
     </div>
 <div class="column">
 <div id="hpage_latest">

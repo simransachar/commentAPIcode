@@ -31,10 +31,14 @@ nDocuments = 0
 #                               database='comment_iq')
 
 
-json_data = open("data/vocab_freq.json")
+json_data = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/vocab_freq.json", "r")
+#json_data = open("data/vocab_freq.json")
+
 vocab_freq = json.load(json_data)
 
-count_read = open("data/count.txt", "r")
+#count_read = open("data/count.txt", "r")
+count_read = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/count.txt", "r")
+
 nDocuments = count_read.read()
 nDocuments = int(nDocuments)
 
