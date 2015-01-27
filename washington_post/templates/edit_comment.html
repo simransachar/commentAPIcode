@@ -92,7 +92,22 @@ Licence URI: http://www.os-templates.com/template-terms
           <div id='CamListDiv'>
         <ul class="commentlist">
              {% for comment in comment_data %}
+                {% if comment[5]|int == commentID|int %}
+                    <form action="{{ url_for('update_comment',commentID = commentID,article_url=article_data[2]) }}" method=post>
+                    <li class="comment_odd">
+                    <div class="author"><img class="avatar" src="static/images/demo/avatar.gif" width="32" height="32" alt="" /><span class="name"><a href="#">{{ comment[2] }}</a></span> <span class="wrote">wrote:</span></div>
+                 <p>
+                <textarea name="comment_text" id="yes" cols="98%" rows="5">{{ comment[0] }}</textarea>
+                <label for="comment" style="display:none;"><small>Comment (required)</small></label>
+                </p>
+                    <p>
+            <input name="submit" type="submit" id="submit" value="Update" />
 
+          </p>
+
+                </li>
+                    </form>
+             {% else %}
             <li class="comment_odd">
             <div class="author"><img class="avatar" src="static/images/demo/avatar.gif" width="32" height="32" alt="" /><span class="name"><a href="#">{{ comment[2] }}</a></span> <span class="wrote">wrote:</span></div>
             <div class="submitdate"><a href="#"> {{ comment[1] }} </a></div>
@@ -100,14 +115,15 @@ Licence URI: http://www.os-templates.com/template-terms
             <div class="submitdate"><a href="#"> AR: {{ comment[3] }},CR: {{ comment[4] }} </a> </div>
                 </br>
              <div class="submitdate">    <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> | <a href="">delete</a> </div>
-            {% if comment[5]|int == updated|int %}
-                      <input type="text" name="name" id="yes" value="" size="0" />
 
-                 {% endif %}
           </li>
-
+            {% endif %}
            {% endfor %}
+         <li>
 
+
+
+         </li>
         </ul>
 
       </div>
@@ -125,7 +141,7 @@ Licence URI: http://www.os-templates.com/template-terms
           </p>
 
           <p>
-            <textarea name="comment_text" id="{{ new_comment }}" cols="100%" rows="10"></textarea>
+            <textarea name="comment_text" id="" cols="100%" rows="10"></textarea>
             <label for="comment" style="display:none;"><small>Comment (required)</small></label>
           </p>
           <p>

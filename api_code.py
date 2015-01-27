@@ -32,10 +32,10 @@ def escape_string(string):
 def show_index():
     article_titles = []
     article_ids = []
-    cursor.execute("select articleID,headline from demo_articles")
+    cursor.execute("select articleID,full_text from demo_articles")
     for row in cursor:
 	    article_ids.append(row[0])
-	    article_titles.append(row[1])
+	    article_titles.append(row[1][1:50])
     return render_template('index.html',article_ids=article_ids,article_titles=article_titles)
 
 @app.route('/article_details')
@@ -70,17 +70,17 @@ def add_article():
     if request.method == 'POST':
         article_title = request.form['title']
         article_text = request.form['article_text']
-        article_url = request.form['url']
         material_type = request.form['type']
         current_time = time.strftime("%Y-%m-%d %I:%M:%S")
         article_text = article_text.strip()
         article_text = escape_string(article_text)
-        insert_query = "INSERT INTO demo_articles (pubDate, headline, articleURL, full_text, materialType, snippet)" \
-                                    " VALUES('%s', '%s', '%s', '%s', '%s', '%s')" % \
-                                    (current_time, article_title, article_url, article_text,material_type,article_text)
+        insert_query = "INSERT INTO demo_articles (pubDate, headline, full_text, materialType, snippet)" \
+                                    " VALUES('%s', '%s', '%s', '%s', '%s')" % \
+                                    (current_time, article_title, article_text,material_type,article_text)
         cursor.execute(insert_query)
         # process_comments_api.add_article(article_title, article_url, article_text,material_type)
         return redirect(url_for('show_index'))
+
     return render_template('add_article.html')
 
 @app.route('/add_comment', methods=['GET', 'POST'])
@@ -120,6 +120,23 @@ def get_scores():
 #        cnx.commit()
 
     return jsonify(ar_score = ar_score, cr_score = cr_score, demo_comment_id = demo_comment_id)
+
+@app.route('/add_demo_article', methods=['GET', 'POST'])
+def add_demo_article():
+    if request.method == 'POST':
+        current_time = time.strftime("%Y-%m-%d %I:%M:%S")
+        data = request.data
+        dataDict = json.loads(data)
+        article_text = dataDict['article_text']
+        article_text = article_text.strip()
+        article_text = escape_string(article_text)
+        insert_query = "INSERT INTO demo_articles (pubDate, full_text)" \
+                                    " VALUES('%s', '%s')" % \
+                                    (current_time, article_text)
+        cursor.execute(insert_query)
+        demo_article_id = cursor.lastrowid
+        return jsonify(demo_article_id = demo_article_id)
+
 
 if __name__ == '__main__':
     app.run()
