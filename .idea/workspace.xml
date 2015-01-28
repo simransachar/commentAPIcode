@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec41f394-336d-4bfa-ad44-76d8d0fb6f5a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/access_api.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/washington_post/templates/new_article.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/api_code.py" afterPath="$PROJECT_DIR$/api_code.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/article_comments.html" afterPath="$PROJECT_DIR$/templates/article_comments.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/calculate_score.py" afterPath="$PROJECT_DIR$/calculate_score.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/.idea/encodings.xml" afterPath="$PROJECT_DIR$/washington_post/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/templates/index.html" afterPath="$PROJECT_DIR$/washington_post/templates/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/.idea/misc.xml" afterPath="$PROJECT_DIR$/washington_post/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/.idea/modules.xml" afterPath="$PROJECT_DIR$/washington_post/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/templates/style-demo.html" afterPath="$PROJECT_DIR$/washington_post/templates/style-demo.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/.idea/untitled.iml" afterPath="$PROJECT_DIR$/washington_post/.idea/untitled.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/untitled.py" afterPath="$PROJECT_DIR$/washington_post/untitled.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/.idea/vcs.xml" afterPath="$PROJECT_DIR$/washington_post/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/washington_post/.idea/workspace.xml" afterPath="$PROJECT_DIR$/washington_post/.idea/workspace.xml" />
     </list>
     <ignored path="commentAPIcode.iws" />
@@ -440,8 +427,8 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
