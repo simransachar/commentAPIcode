@@ -101,13 +101,15 @@ Licence URI: http://www.os-templates.com/template-terms
                 </br>
              <div class="submitdate">    <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> | <a href="">delete</a> </div>
             {% if comment[5]|int == updated|int %}
-                      <input type="text" name="name" id="yes" value="" size="0" />
-
+                     <div id="new"><input type="text" name="comment" id="yes" value="" size="0" /> </div>
                  {% endif %}
+
           </li>
 
            {% endfor %}
-
+{% if new_comment %}
+                <li><div id="new"><input type="text" name="comment" id="yes" value="" size="0" /> </div></li>
+            {% endif %}
         </ul>
 
       </div>
@@ -125,7 +127,7 @@ Licence URI: http://www.os-templates.com/template-terms
           </p>
 
           <p>
-            <textarea name="comment_text" id="{{ new_comment }}" cols="100%" rows="10"></textarea>
+            <textarea name="comment_text" id="" cols="100%" rows="10"></textarea>
             <label for="comment" style="display:none;"><small>Comment (required)</small></label>
           </p>
           <p>
@@ -316,5 +318,6 @@ Licence URI: http://www.os-templates.com/template-terms
 </body>
 <script>
     document.getElementById('yes').focus()
+    document.getElementById('new').style.visibility = 'hidden';
 </script>
 </html>
