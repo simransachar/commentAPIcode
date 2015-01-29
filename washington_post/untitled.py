@@ -60,6 +60,8 @@ def articles():
     new_comment=request.args.get('new_comment')
     updated=request.args.get('updated')
     sort = request.args.get('sort')
+    print "---------"
+    print article_url
     cursor.execute("select headline,full_text,articleURL from articles where articleURL = '"+ article_url +"'")
     for row in cursor:
         article_title = row[0]
@@ -154,7 +156,7 @@ def add_comment():
         if not name:
             name = "Anonymous"
         current_time = time.strftime("%Y-%m-%d %H:%M:%S")
-        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/get_scores"
+        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/add_demo_comment"
         params = {'article_id' : a_id, 'comment_text' : comment_text}
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
@@ -230,11 +232,38 @@ def update_comment():
         article_url = request.args.get('article_url')
         comment_text = request.form['comment_text']
         comment_text = comment_text.strip()
+        cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
+        demo_commentID = cursor.fetchall()[0][0]
+        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/update_demo_comment"
+        params = {'comment_text' : comment_text, 'comment_id' : demo_commentID }
+        param_json = json.dumps(params)
+        response = requests.post(url, param_json)
+        ar_score = response.json()['ar_score']
+        cr_score = response.json()['cr_score']
         comment_text = escape_string(comment_text)
         comment_text = comment_text.encode('utf-8')
-        update = "UPDATE comments SET commentBody = '"+ str(comment_text) +"' where commentID = '"+ str(commentID) +"'"
+        update = "UPDATE comments SET commentBody = '"+ str(comment_text) +"'," \
+                 "ar_score = '"+ str(ar_score) +"',cr_score = '"+ str(cr_score) +"' " \
+                 "where commentID = '"+ str(commentID) +"'"
         cursor.execute(update)
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
+
+@app.route('/delete_comment', methods=['GET', 'POST'])
+def delete_comment():
+    commentID = request.args.get('commentID')
+    article_url = request.args.get('article_url')
+    cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
+    demo_commentID = cursor.fetchall()[0][0]
+    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/delete_demo_comment/'"+ str(demo_commentID) +"'"
+    response = requests.get(url)
+    print response.json()
+    delete = "delete from comments where commentID = '"+ str(commentID) +"'"
+    cursor.execute(delete)
+    cursor.execute("select commentID from comments where articleURL = '"+ article_url +"' and " \
+                   "commentID > '"+ commentID +"' Limit 1 ")
+    next_id = cursor.fetchall()
+    return redirect(url_for('articles',article_url=article_url,updated=next_id[0][0]))
+
 
 if __name__ == '__main__':
     app.run()

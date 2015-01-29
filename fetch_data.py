@@ -31,7 +31,7 @@ cursor = cnx.cursor()
 # for i in cursor:
 #     data.append(i)
 #data = cursor.fetchall()
-#cursor.execute("select * from comments limit 10")
+#cursor.execute("select commentID from demo_comments limit 10")
 #cursor.execute("select count(*) from comments")
 # start = timeit.default_timer()
 # #cursor.execute("select count(*) from comments")
@@ -92,8 +92,15 @@ cursor = cnx.cursor()
 #         cursor.execute(insert_query)
 # #cnx.commit()
 
-cursor.execute("select * from demo_comments limit 10")
+#cursor.execute("select * from demo_comments limit 10")
+commentID = 6734
+# cursor.execute("select articleID from demo_comments where commentID ='"+ str(commentID) +"' ")
+# articleID = cursor.fetchall()[0][0]
+# cursor.execute("select * from demo_comments where articleID = '"+ str(articleID) +"' and commentID < '"+ str(commentID) +"' ")
 #cursor.execute("select count(*) from comments")
+cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
+demo_commentID = cursor.fetchall()[0][0]
+print demo_commentID
 #cursor.execute("select * from comments limit 10")
 for i in cursor:
     print i

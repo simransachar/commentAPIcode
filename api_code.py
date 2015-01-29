@@ -100,8 +100,8 @@ def add_comment():
         new_comment="yes"
     return redirect(url_for('article_details',article_id=article_id,new_comment=new_comment))
 
-@app.route('/get_scores', methods=['GET', 'POST'])
-def get_scores():
+@app.route('/add_demo_comment', methods=['GET', 'POST'])
+def add_demo_comment():
     if request.method == 'POST':
         data = request.data
         dataDict = json.loads(data)
@@ -110,7 +110,7 @@ def get_scores():
         comment_text = comment_text.strip()
         comment_text = escape_string(comment_text)
         current_time = time.strftime("%Y-%m-%d %I:%M:%S")
-        ar_score, cr_score = calculate_score.main(comment_text,article_id)
+        ar_score, cr_score = calculate_score.addComment(comment_text,article_id)
 
         insert_query = "INSERT INTO demo_comments (commentBody, approveDate, articleID,ar_score,cr_score) " \
                        "VALUES ('%s','%s','%s','%s','%s')" % \
@@ -137,6 +137,35 @@ def add_demo_article():
         demo_article_id = cursor.lastrowid
         return jsonify(demo_article_id = demo_article_id)
 
+@app.route('/update_demo_comment', methods=['GET', 'POST'])
+def update_demo_comment():
+    if request.method == 'POST':
+        data = request.data
+        dataDict = json.loads(data)
+        comment_id = dataDict['comment_id']
+        comment_text = dataDict['comment_text']
+        comment_text = comment_text.strip()
+        comment_text = escape_string(comment_text)
+        ar_score, cr_score = calculate_score.updateComment(comment_text,comment_id)
+        update = "update demo_comments set ar_score = '"+ str(ar_score) +"', cr_score = '"+ str(cr_score) +"' where " \
+                 "commentID = '"+ str(comment_id) +"' "
+        cursor.execute(update)
+    return jsonify(ar_score = ar_score, cr_score = cr_score)
+
+@app.route('/delete_demo_comment/<commentID>',methods=['GET'])
+def delete_demo_comment(commentID):
+    if isinstance(commentID, int):
+        commentID = str(commentID)
+    commentID = commentID.replace("'", '')
+    commentID = commentID.replace('"', '')
+    delete = "delete from demo_comments where commentID = '"+ commentID +"'"
+    cursor.execute(delete)
+    rowsaffected = cursor.rowcount
+    if rowsaffected == 1:
+        result = "success"
+    else:
+        result = "operation failed"
+    return jsonify(result = result)
 
 if __name__ == '__main__':
     app.run()

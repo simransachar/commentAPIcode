@@ -31,13 +31,13 @@ nDocuments = 0
 #                               database='comment_iq')
 
 
-json_data = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/vocab_freq.json", "r")
-#json_data = open("data/vocab_freq.json")
+#json_data = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/vocab_freq.json", "r")
+json_data = open("data/vocab_freq.json")
 
 vocab_freq = json.load(json_data)
 
-#count_read = open("data/count.txt", "r")
-count_read = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/count.txt", "r")
+count_read = open("data/count.txt", "r")
+#count_read = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/count.txt", "r")
 
 nDocuments = count_read.read()
 nDocuments = int(nDocuments)
@@ -204,13 +204,29 @@ def ComputeVocabulary():
     print "unigram cutoff: " + str(unigram_cutoff)
 
 
-def ComputeCommentArticleRelevance(comment_text,article_id):
+def ComputeCommentArticleRelevance(comment_text,demo_id,operation):
     cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
                                host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
                                database='comment_iq')
     cursor = cnx.cursor()
-    cursor.execute("select full_text from demo_articles where articleID = '" + str(article_id) + "'")
-    article_data = cursor.fetchall()
+    if operation == 'add':
+        article_id = demo_id
+        cursor.execute("select full_text from demo_articles where articleID = '" + str(article_id) + "'")
+        article_data = cursor.fetchall()
+    elif operation == 'update':
+        comment_id = demo_id
+        cursor.execute("select articleID from demo_comments where commentID ='"+ str(comment_id) +"' ")
+        fetch_data = cursor.fetchall()
+        if len(fetch_data) > 0:
+            article_id = fetch_data[0][0]
+        else:
+            ar_score = 0.0
+            return ar_score
+        cursor.execute("select full_text from demo_articles where articleID = '" + str(article_id) + "'")
+        article_data = cursor.fetchall()
+    else:
+        ar_score = 0.0
+        return ar_score
     cnx.close
     if len(article_data) < 1:
         ar_score = 0.0
@@ -252,15 +268,32 @@ def ComputeCommentArticleRelevance(comment_text,article_id):
     return comment_article_similarity
 
 
-def ComputeCommentConversationalRelevance(comment_text,article_id):
+def ComputeCommentConversationalRelevance(comment_text,demo_id,operation):
     centroid_comment_stemmed_tokens = []
     centroid_comment_features = {}
     cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
                                host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
                                database='comment_iq')
     cursor = cnx.cursor()
-    cursor.execute("select commentBody from demo_comments where articleID = '" + str(article_id) + "' ")
-    comment_data = cursor.fetchall()
+    if operation == 'add':
+        article_id = demo_id
+        cursor.execute("select commentBody from demo_comments where articleID = '" + str(article_id) + "' ")
+        comment_data = cursor.fetchall()
+    elif operation == 'update':
+        comment_id = demo_id
+        cursor.execute("select articleID from demo_comments where commentID ='"+ str(comment_id) +"' ")
+        fetch_data = cursor.fetchall()
+        if len(fetch_data) > 0:
+            article_id = fetch_data[0][0]
+        else:
+            ar_score = 0.0
+            return ar_score
+        cursor.execute("select commentBody from demo_comments "
+                       "where articleID = '"+ str(article_id) +"' and commentID < '"+ str(comment_id) +"' ")
+        comment_data = cursor.fetchall()
+    else:
+        cr_score = 0.0
+        return cr_score
     cnx.close
     if len(comment_data) < 10:
         cr_score = 0.0
@@ -309,16 +342,16 @@ def ComputeCommentConversationalRelevance(comment_text,article_id):
     comment_originality = ComputeCosineSimilarity (centroid_comment_features, comment_features)
     return comment_originality
 
-# def add_article(article_title, article_url, article_text,material_type):
-#     current_time = time.strftime("%Y-%m-%d %I:%M:%S")
-#     insert_query = "INSERT INTO demo_articles (pubDate, headline, articleURL, full_text, materialType, snippet)" \
-#                                     " VALUES('%s', '%s', '%s', '%s', '%s', '%s')" % \
-#                                     (current_time, article_title, article_url, article_text,material_type,article_text)
-#     cursor.execute(insert_query)
+def updateComment(comment_text,commentID):
+    operation = "update"
+    ar_score = ComputeCommentArticleRelevance(comment_text,commentID,operation)
+    cr_score = ComputeCommentConversationalRelevance(comment_text,commentID,operation)
+    return (ar_score,cr_score)
 
-def main(comment_text,article_id):
-    ar_score = ComputeCommentArticleRelevance(comment_text,article_id)
-    cr_score = ComputeCommentConversationalRelevance(comment_text,article_id)
+def addComment(comment_text,article_id):
+    operation = "add"
+    ar_score = ComputeCommentArticleRelevance(comment_text,article_id,operation)
+    cr_score = ComputeCommentConversationalRelevance(comment_text,article_id,operation)
     return (ar_score,cr_score)
 
 

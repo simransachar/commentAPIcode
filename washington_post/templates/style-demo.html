@@ -97,9 +97,23 @@ Licence URI: http://www.os-templates.com/template-terms
             <div class="author"><img class="avatar" src="static/images/demo/avatar.gif" width="32" height="32" alt="" /><span class="name"><a href="#">{{ comment[2] }}</a></span> <span class="wrote">wrote:</span></div>
             <div class="submitdate"><a href="#"> {{ comment[1] }} </a></div>
             <p>{{ comment[0] }}</p>
-            <div class="submitdate"><a href="#"> AR: {{ comment[3] }},CR: {{ comment[4] }} </a> </div>
+            <div class="submitdate">
+                {% if comment[3] == None and comment[4] == None %}
+                    <a href="#"> AR: {{ comment[3] }} (Get score) ,CR: {{ comment[4] }} (Get score)</a>
+                {% elif comment[3] == None  %}
+                    <a href="#"> AR: {{ comment[3] }} (Get score) ,CR: {{ comment[4] }} </a>
+                {% elif comment[4] == None %}
+                    <a href="#"> AR: {{ comment[3] }}  ,CR: {{ comment[4] }}  (Get score)
+                 {% else %}
+                    <a href="#"> AR: {{ comment[3] }},CR: {{ comment[4] }} </a>
+                {% endif %}
+
+            </div>
                 </br>
-             <div class="submitdate">    <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> | <a href="">delete</a> </div>
+             <div class="submitdate">
+                 <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> |
+                 <a href="/delete_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">delete</a>
+             </div>
             {% if comment[5]|int == updated|int %}
                      <div id="new"><input type="text" name="comment" id="yes" value="" size="0" /> </div>
                  {% endif %}
@@ -139,30 +153,6 @@ Licence URI: http://www.os-templates.com/template-terms
     </div>
     </div>
     <div class="column">
-{#      <div class="subnav">#}
-{#        <h2>Secondary Navigation</h2>#}
-{#        <ul>#}
-{#          <li><a href="#">Navigation - Level 1</a></li>#}
-{#          <li><a href="#">Navigation - Level 1</a>#}
-{#            <ul>#}
-{#              <li><a href="#">Navigation - Level 2</a></li>#}
-{#              <li><a href="#">Navigation - Level 2</a></li>#}
-{#            </ul>#}
-{#          </li>#}
-{#          <li><a href="#">Navigation - Level 1</a>#}
-{#            <ul>#}
-{#              <li><a href="#">Navigation - Level 2</a></li>#}
-{#              <li><a href="#">Navigation - Level 2</a>#}
-{#                <ul>#}
-{#                  <li><a href="#">Navigation - Level 3</a></li>#}
-{#                  <li><a href="#">Navigation - Level 3</a></li>#}
-{#                </ul>#}
-{#              </li>#}
-{#            </ul>#}
-{#          </li>#}
-{#          <li><a href="#">Navigation - Level 1</a></li>#}
-{#        </ul>#}
-{#      </div>#}
          <div id="featured">
         <ul>
           <li>
@@ -189,17 +179,6 @@ Licence URI: http://www.os-templates.com/template-terms
           </li>
         </ul>
       </div>
-{#      <div class="holder">#}
-{#        <h2>Lorem ipsum dolor</h2>#}
-{#        <p>Nuncsed sed conseque a at quismodo tris mauristibus sed habiturpiscinia sed.</p>#}
-{#        <ul>#}
-{#          <li><a href="#">Lorem ipsum dolor sit</a></li>#}
-{#          <li>Etiam vel sapien et</li>#}
-{#          <li><a href="#">Etiam vel sapien et</a></li>#}
-{#        </ul>#}
-{#        <p>Nuncsed sed conseque a at quismodo tris mauristibus sed habiturpiscinia sed. Condimentumsantincidunt dui mattis magna intesque purus orci augue lor nibh.</p>#}
-{#        <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>#}
-{#      </div>#}
          <div class="holder">
         <h2 class="title"><img src="static/images/demo/21.jpg" alt="" width="60" height="60" />{{ article_title[3] }}</h2>
         <p>{{ article_text_list[3]| truncate(80) }}.</p>
