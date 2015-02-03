@@ -115,7 +115,7 @@ def new_article():
         article_url = request.form['url']
         material_type = request.form['type']
         current_time = time.strftime("%Y-%m-%d %I:%M:%S")
-        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/add_demo_article"
+        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/add_demo_article"
         params = {'article_text' : article_text }
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
@@ -156,13 +156,14 @@ def add_comment():
         if not name:
             name = "Anonymous"
         current_time = time.strftime("%Y-%m-%d %H:%M:%S")
-        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/add_demo_comment"
+        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/add_demo_comment"
         params = {'article_id' : a_id, 'comment_text' : comment_text}
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
         ar_score = response.json()['ar_score']
         cr_score = response.json()['cr_score']
         demo_comment_id = response.json()['demo_comment_id']
+        print response.json()
         comment_text = comment_text.strip()
         comment_text = escape_string(comment_text)
         insert_query = "INSERT INTO comments (commentBody, approveDate, articleURL, display_name, ar_score,cr_score, demo_commentID) " \
@@ -234,12 +235,13 @@ def update_comment():
         comment_text = comment_text.strip()
         cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
         demo_commentID = cursor.fetchall()[0][0]
-        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/update_demo_comment"
+        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/update_demo_comment"
         params = {'comment_text' : comment_text, 'comment_id' : demo_commentID }
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
         ar_score = response.json()['ar_score']
         cr_score = response.json()['cr_score']
+        print response.json()
         comment_text = escape_string(comment_text)
         comment_text = comment_text.encode('utf-8')
         update = "UPDATE comments SET commentBody = '"+ str(comment_text) +"'," \
@@ -254,7 +256,7 @@ def delete_comment():
     article_url = request.args.get('article_url')
     cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
     demo_commentID = cursor.fetchall()[0][0]
-    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/delete_demo_comment/'"+ str(demo_commentID) +"'"
+    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/delete_demo_comment/'"+ str(demo_commentID) +"'"
     response = requests.get(url)
     print response.json()
     delete = "delete from comments where commentID = '"+ str(commentID) +"'"
@@ -263,6 +265,49 @@ def delete_comment():
                    "commentID > '"+ commentID +"' Limit 1 ")
     next_id = cursor.fetchall()
     return redirect(url_for('articles',article_url=article_url,updated=next_id[0][0]))
+
+@app.route('/get_AR', methods=['GET', 'POST'])
+def get_AR():
+    commentID = request.args.get('commentID')
+    article_url = request.args.get('article_url')
+    cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
+    demo_commentID = cursor.fetchall()[0][0]
+    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/get_ArticleRelevance/'"+ str(demo_commentID) +"'"
+    response = requests.get(url)
+    ar_score = response.json()['ArticleRelevance']
+    update = "UPDATE comments SET ar_score = '" + str(ar_score) + "' where commentID = '"+ str(commentID) +"'"
+    cursor.execute(update)
+    return redirect(url_for('articles',article_url=article_url,updated=commentID))
+
+@app.route('/get_CR', methods=['GET', 'POST'])
+def get_CR():
+    commentID = request.args.get('commentID')
+    article_url = request.args.get('article_url')
+    cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
+    demo_commentID = cursor.fetchall()[0][0]
+    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/get_ConversationalRelevance/'"+ str(demo_commentID) +"'"
+    response = requests.get(url)
+    cr_score = response.json()['ConversationalRelevance']
+    print response.json()
+    update = "UPDATE comments SET cr_score = '" + str(cr_score) + "' where commentID = '"+ str(commentID) +"'"
+    cursor.execute(update)
+    return redirect(url_for('articles',article_url=article_url,updated=commentID))
+
+@app.route('/get_AllScores', methods=['GET', 'POST'])
+def get_scores():
+    commentID = request.args.get('commentID')
+    article_url = request.args.get('article_url')
+    cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
+    demo_commentID = cursor.fetchall()[0][0]
+    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/get_scores/'"+ str(demo_commentID) +"'"
+    response = requests.get(url)
+    ar_score = response.json()['ArticleRelevance']
+    cr_score = response.json()['ConversationalRelevance']
+    print response.json()
+    update = "UPDATE comments SET ar_score = '" + str(ar_score) + "', cr_score = '" + str(cr_score) + "' " \
+              "where commentID = '"+ str(commentID) +"'"
+    cursor.execute(update)
+    return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
 
 if __name__ == '__main__':

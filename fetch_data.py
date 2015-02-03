@@ -67,6 +67,7 @@ cursor = cnx.cursor()
 # cursor = cnx.cursor()
 
 # cursor.execute("DESCRIBE articles")
+cursor.execute("DESCRIBE vocab_comments")
 # for i in cursor:
 #     print i
 # for row in data:
@@ -93,15 +94,24 @@ cursor = cnx.cursor()
 # #cnx.commit()
 
 #cursor.execute("select * from demo_comments limit 10")
-commentID = 6734
+commentID = 158
 # cursor.execute("select articleID from demo_comments where commentID ='"+ str(commentID) +"' ")
 # articleID = cursor.fetchall()[0][0]
 # cursor.execute("select * from demo_comments where articleID = '"+ str(articleID) +"' and commentID < '"+ str(commentID) +"' ")
 #cursor.execute("select count(*) from comments")
-cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
-demo_commentID = cursor.fetchall()[0][0]
-print demo_commentID
+# cursor.execute("select demo_commentID from comments where commentID = '"+ str(commentID) +"'")
+# demo_commentID = cursor.fetchall()[0][0]
+# print demo_commentID
 #cursor.execute("select * from comments limit 10")
+#cursor.execute("select articleURL from articles")
+#cursor.execute("select ar_score from demo_comments where commentID = '" + str(commentID) + "' ")
+#update comments set ar_score = NULL where articleURL = 'http://www.nytimes.com/2014/01/15/booming/carson-set-up-the-universal-remote.html'
+#update comments set ar_score = NULL,cr_score = NULL where articleURL = 'http://www.nytimes.com/2014/01/15/booming/negotiating-conflicts-part-4-parents-at-a-wedding.html'
+
+#select ar_score from comments where articleURL = 'http://www.nytimes.com/2014/01/15/booming/carson-set-up-the-universal-remote.html'
+
+# cursor.execute("select commentID from demo_comments where articleID = 77")
+#cursor.execute("select * from vocab_comments")
 for i in cursor:
     print i
 # text_file = open("count.txt", "w")

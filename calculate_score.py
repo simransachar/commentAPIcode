@@ -4,43 +4,36 @@ __author__ = 'simranjitsingh'
 
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
-from nltk.tokenize import SpaceTokenizer, WhitespaceTokenizer
 import nltk.tag, nltk.util, nltk.stem
 import re
-import string
 import math
-from bs4 import BeautifulSoup
-import csv
 from decimal import *
 import mysql.connector
-import operator
 import sys
-import time
 import json
-import timeit
+import string
+from nltk.tokenize import WhitespaceTokenizer
+from CleanTokenize import CleanAndTokenize
+from TextStatistics import TextStatistics
 
 stopword_list = stopwords.words('english')
 porter = nltk.PorterStemmer()
-doc_frequency = {}
 word_features = []
 vocab_freq = {}
 nDocuments = 0
 
-# cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
-#                               host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
-#                               database='comment_iq')
-
-
-#json_data = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/vocab_freq.json", "r")
+# JSON containing Frequency of each word
 json_data = open("data/vocab_freq.json")
 
 vocab_freq = json.load(json_data)
 
+# Count of the total number of comments collected
 count_read = open("data/count.txt", "r")
-#count_read = open("C:/Users/simranjitsingh/PycharmProjects/online_commenting/commentAPIcode/data/count.txt", "r")
 
-nDocuments = count_read.read()
-nDocuments = int(nDocuments)
+nDocuments = int(count_read.read())
+
+with open("data/personal.txt") as f:
+    personal_words = f.read().splitlines()
 
 def NormalizeVector(vector):
     length = ComputeVectorLength(vector)
@@ -56,101 +49,13 @@ def ComputeVectorLength(vector):
     length = math.sqrt(length)
     return length
 
- # Assumes that both vectors are normalized
+ # Assuming that both vectors are normalized
 def ComputeCosineSimilarity(v1, v2):
 	dotproduct = 0
 	for (key1,val1) in v1.items():
 		if key1 in v2:
 			dotproduct += val1 * v2[key1]
 	return dotproduct;
-
-
-def CleanAndTokenize(text):
-    # Strip URLs and replace with token "URLURLURL"
-    r = re.compile(r"http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\(\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+")
-    text = re.sub(r, " URLURLURL", text)
-    # Strip html tags
-    soup = BeautifulSoup(text)
-    for tag in soup.findAll(True):
-        tag.replaceWithChildren()
-        text = soup.get_text()
-        # Normalize everything to lower case
-    text = text.lower()
-    # Strip line breaks and endings \r \n
-    r = re.compile(r"[\r\n]+")
-    text = re.sub(r, "", text)
-    table = {
-        ord(u'\u2018') : u"'",
-        ord(u'\u2019') : u"'",
-        ord(u'\u201C') : u'"',
-        ord(u'\u201d') : u'"',
-        ord(u'\u2026') : u'',
-        ord(u'\u2014') : u'', # get rid of em dashes
-    }
-    #text = text.translate(table)
-    # Normalize contractions
-    # e.g. can't => can not, it's => it is, he'll => he will
-    text = text.replace("can't", "can not")
-    text = text.replace("couldn't", "could not")
-    text = text.replace("don't", "do not")
-    text = text.replace("didn't", "did not")
-    text = text.replace("doesn't", "does not")
-    text = text.replace("shouldn't", "should not")
-    text = text.replace("haven't", "have not")
-    text = text.replace("aren't", "are not")
-    text = text.replace("weren't", "were not")
-    text = text.replace("wouldn't", "would not")
-    text = text.replace("hasn't", "has not")
-    text = text.replace("hadn't", "had not")
-    text = text.replace("won't", "will not")
-    text = text.replace("wasn't", "was not")
-    text = text.replace("can't", "can not")
-    text = text.replace("isn't", "is not")
-    text = text.replace("ain't", "is not")
-    text = text.replace("it's", "it is")
-    text = text.replace("i'm", "i am")
-    text = text.replace("i'm", "i am")
-    text = text.replace("i've", "i have")
-    text = text.replace("i'll", "i will")
-    text = text.replace("i'd", "i would")
-    text = text.replace("we've", "we have")
-    text = text.replace("we'll", "we will")
-    text = text.replace("we'd", "we would")
-    text = text.replace("we're", "we are")
-    text = text.replace("you've", "you have")
-    text = text.replace("you'll", "you will")
-    text = text.replace("you'd", "you would")
-    text = text.replace("you're", "you are")
-    text = text.replace("he'll", "he will")
-    text = text.replace("he'd", "he would")
-    text = text.replace("he's", "he has")
-    text = text.replace("she'll", "she will")
-    text = text.replace("she'd", "she would")
-    text = text.replace("she's", "she has")
-    text = text.replace("they've", "they have")
-    text = text.replace("they'll", "they will")
-    text = text.replace("they'd", "they would")
-    text = text.replace("they're", "they are")
-    text = text.replace("that'll", "that will")
-    text = text.replace("that's", "that is")
-    text = text.replace("there's", "there is")
-    # Strip punctuation (except for a few)
-    punctuations = string.punctuation # includes following characters: !"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~
-    excluded_punctuations = ["$", "%"]
-    for p in punctuations:
-        if p not in excluded_punctuations:
-            text = text.replace(p, " ")
-
-    # Condense double spaces
-    text = text.replace("  ", " ")
-
-    # Tokenize the text
-    # NOTE: Using a simple tokenizer based on spaces ...
-    # Could also try a more sophisticated tokenizer if abbreviations / contractions should be conserved
-    tokenizer = WhitespaceTokenizer()
-    text_tokens = tokenizer.tokenize(text)
-
-    return text_tokens
 
 def escape_string(string):
     res = string
@@ -170,83 +75,56 @@ def error_name():
     error_msg = str(error[0]) + "occured in line " + str(exc_tb.tb_lineno)
     return error_msg
 
-# Computes the vocabulary to be used for vector operations
-def ComputeVocabulary():
-    n = 0
-    cursor.execute("select commentBody from vocab_comments")
-    for row in cursor:
-        n = n + 1
-        if n % 100 == 0 :
-            print n
-        ct = CleanAndTokenize(row[0])
-        ct = [w for w in ct if w not in stopword_list]
-        stemmed_tokens = [porter.stem(t) for t in ct]
-        for t in stemmed_tokens:
-             if t not in doc_frequency:
-                 doc_frequency[t] = 1
-             else:
-                 doc_frequency[t] = doc_frequency[t]+1
+def ComputeCommentArticleRelevance(comment_text,CnameID,operation):
 
-    sorted_list = sorted(doc_frequency.items(), key=operator.itemgetter(1), reverse=True)
-    # find cutoff
-    unigram_cutoff = 0
-    json_data = {}
-    out_file = open("data/vocab_freq.json","w")
-    fileWriter = csv.writer(open("data/vocab91.csv", "wb"),delimiter=",")
-    for (i, (word, word_freq)) in enumerate(sorted_list):
-        if word_freq < 10:
-            unigram_cutoff = i - 1
-            break;
-        row = [word.encode("utf8"), word_freq]
-        json_data[word] = word_freq
-        fileWriter.writerow(row)
-    json.dump(json_data,out_file)
-    print "unigram cutoff: " + str(unigram_cutoff)
-
-
-def ComputeCommentArticleRelevance(comment_text,demo_id,operation):
     cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
                                host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
                                database='comment_iq')
     cursor = cnx.cursor()
+
     if operation == 'add':
-        article_id = demo_id
-        cursor.execute("select full_text from demo_articles where articleID = '" + str(article_id) + "'")
+        articleID = CnameID
+        cursor.execute("select full_text from cname_articles where articleID = '" + str(articleID) + "'")
         article_data = cursor.fetchall()
     elif operation == 'update':
-        comment_id = demo_id
-        cursor.execute("select articleID from demo_comments where commentID ='"+ str(comment_id) +"' ")
+        commentID = CnameID
+        cursor.execute("select articleID from cname_comments where commentID ='"+ str(commentID) +"' ")
         fetch_data = cursor.fetchall()
         if len(fetch_data) > 0:
-            article_id = fetch_data[0][0]
+            articleID = fetch_data[0][0]
         else:
-            ar_score = 0.0
-            return ar_score
-        cursor.execute("select full_text from demo_articles where articleID = '" + str(article_id) + "'")
+            ArticleRelevance = 0.0
+            return ArticleRelevance
+        cursor.execute("select full_text from cname_articles where articleID = '" + str(articleID) + "'")
         article_data = cursor.fetchall()
     else:
-        ar_score = 0.0
-        return ar_score
+        ArticleRelevance = 0.0
+        return ArticleRelevance
     cnx.close
+
     if len(article_data) < 1:
-        ar_score = 0.0
-        return ar_score
+        ArticleRelevance = 0.0
+        return ArticleRelevance
     for data in article_data:
         article_text = data[0]
-    comment_text = comment_text.strip()
-    comment_text = escape_string(comment_text)
-    ct = CleanAndTokenize(comment_text)
-    ct = [w for w in ct if w not in stopword_list]
-    comment_stemmed_tokens = [porter.stem(t) for t in ct]
+
+    comment_text = escape_string(comment_text.strip())
+
+    # clean and tokenize the comment text and article text, also exclude the stopwords
+    token_list = CleanAndTokenize(comment_text)
+    token_list = [word for word in token_list if word not in stopword_list]
+    comment_stemmed_tokens = [porter.stem(token) for token in token_list]
     comment_stemmed_tokens_fd  = FreqDist(comment_stemmed_tokens)
-    ct = CleanAndTokenize(article_text)
-    ct = [w for w in ct if w not in stopword_list]
-    article_stemmed_tokens = [porter.stem(t) for t in ct]
+    token_list = CleanAndTokenize(article_text)
+    token_list = [word for word in token_list if word not in stopword_list]
+    article_stemmed_tokens = [porter.stem(token) for token in token_list]
     article_stemmed_tokens_fd  = FreqDist(article_stemmed_tokens)
-    # now create the feature vectors for article and comment (this is redudant for the article on every iteration)
+
+    # now create the feature vectors for article and comment
     article_features = {}
     comment_features = {}
-    # print article_stemmed_tokens
+
+    # Calculate weight for each word in the comment
     for w in vocab_freq:
             df = vocab_freq[w]
             log_fraction = (nDocuments / df)
@@ -268,44 +146,49 @@ def ComputeCommentArticleRelevance(comment_text,demo_id,operation):
     return comment_article_similarity
 
 
-def ComputeCommentConversationalRelevance(comment_text,demo_id,operation):
-    centroid_comment_stemmed_tokens = []
-    centroid_comment_features = {}
+def ComputeCommentConversationalRelevance(comment_text,CnameID,operation):
+
     cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
                                host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
                                database='comment_iq')
     cursor = cnx.cursor()
     if operation == 'add':
-        article_id = demo_id
-        cursor.execute("select commentBody from demo_comments where articleID = '" + str(article_id) + "' ")
+        articleID = CnameID
+        cursor.execute("select commentBody from cname_comments where articleID = '" + str(articleID) + "' ")
         comment_data = cursor.fetchall()
     elif operation == 'update':
-        comment_id = demo_id
-        cursor.execute("select articleID from demo_comments where commentID ='"+ str(comment_id) +"' ")
+        commentID = CnameID
+        cursor.execute("select articleID from cname_comments where commentID ='"+ str(commentID) +"' ")
         fetch_data = cursor.fetchall()
         if len(fetch_data) > 0:
-            article_id = fetch_data[0][0]
+            articleID = fetch_data[0][0]
         else:
-            ar_score = 0.0
-            return ar_score
-        cursor.execute("select commentBody from demo_comments "
-                       "where articleID = '"+ str(article_id) +"' and commentID < '"+ str(comment_id) +"' ")
+            ConversationalRelevance = 0.0
+            return ConversationalRelevance
+        cursor.execute("select commentBody from cname_comments "
+                       "where articleID = '"+ str(articleID) +"' and commentID < '"+ str(commentID) +"' ")
         comment_data = cursor.fetchall()
     else:
-        cr_score = 0.0
-        return cr_score
+        ConversationalRelevance = 0.0
+        return ConversationalRelevance
     cnx.close
     if len(comment_data) < 10:
-        cr_score = 0.0
-        return cr_score
+        ConversationalRelevance = 0.0
+        return ConversationalRelevance
+
+    centroid_comment_stemmed_tokens = []
+    centroid_comment_features = {}
+
+    # clean and tokenize the all the comments text and also exclude the stopwords
     comment_list = list(zip(*comment_data)[0])
     for comment in comment_list:
-                ct = CleanAndTokenize(comment)
-                ct = [w for w in ct if w not in stopword_list]
+                token_list = CleanAndTokenize(comment)
+                token_list = [word for word in token_list if word not in stopword_list]
                 # Update and compute the centroid
-                centroid_comment_stemmed_tokens.extend([porter.stem(t) for t in ct])
+                centroid_comment_stemmed_tokens.extend([porter.stem(token) for token in token_list])
     centroid_comment_stemmed_tokens_fd = FreqDist(centroid_comment_stemmed_tokens)
-    start = timeit.default_timer()
+
+    # Calculate weight for each word in all the comments
     for w in vocab_freq:
                 log_fraction = (nDocuments / vocab_freq[w])
                 if log_fraction < 1:
@@ -314,22 +197,19 @@ def ComputeCommentConversationalRelevance(comment_text,demo_id,operation):
                     centroid_comment_features[w] = centroid_comment_stemmed_tokens_fd[w] * math.log(log_fraction)
                 else:
                     centroid_comment_features[w] = 0.0
-    stop = timeit.default_timer()
-    print stop - start
-    start = timeit.default_timer()
-    for w in vocab_freq:
-        pass
-    stop = timeit.default_timer()
-    print stop - start
+
+    # normalize vector
     centroid_comment_features = NormalizeVector(centroid_comment_features)
+
     # Now compute dist to  comment
     comment_stemmed_tokens = []
     comment_features = {}
-    comment_text = comment_text.strip()
-    comment_text = escape_string(comment_text)
-    ct = CleanAndTokenize(comment_text)
-    comment_stemmed_tokens.extend([porter.stem(t) for t in ct])
+    comment_text = escape_string(comment_text.strip())
+    token_list = CleanAndTokenize(comment_text)
+    token_list = [word for word in token_list if word not in stopword_list]
+    comment_stemmed_tokens.extend([porter.stem(token) for token in token_list])
     comment_stemmed_tokens_fd  = FreqDist(comment_stemmed_tokens)
+    # Calculate weight for each word in the comment
     for w in vocab_freq:
                 log_fraction = (nDocuments / vocab_freq[w])
                 if log_fraction < 1:
@@ -342,16 +222,63 @@ def ComputeCommentConversationalRelevance(comment_text,demo_id,operation):
     comment_originality = ComputeCosineSimilarity (centroid_comment_features, comment_features)
     return comment_originality
 
+def calcPersonalXPScores(comment_text):
+    tokenizer = WhitespaceTokenizer()
+
+    personal_xp_score = 0
+    text = comment_text.lower()
+
+    #filter out punctuations
+    punctuations = string.punctuation # includes following characters: !"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~
+    excluded_punctuations = ["$", "%", "'"]
+    for p in punctuations:
+        if p not in excluded_punctuations:
+            text = text.replace(p, " ")
+
+    # tokenize it
+    text_tokens = tokenizer.tokenize(text)
+
+    # if the tokens are in the dict then increment score
+    for tok in text_tokens:
+        tok_stem = porter.stem(tok)
+        if tok_stem in personal_words:
+            personal_xp_score = personal_xp_score + 1
+
+    # normalize by number of tokens
+    personal_xp_score = float(personal_xp_score) / float(len(text_tokens))
+
+    return personal_xp_score
+
+def calcReadability(comment_text):
+    tokenizer = WhitespaceTokenizer()
+    textstat = TextStatistics("")
+
+    text = comment_text.lower()
+
+    #filter out punctuations
+    punctuations = string.punctuation # includes following characters: !"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~
+    excluded_punctuations = ["$", "%", "'"]
+    for p in punctuations:
+        if p not in excluded_punctuations:
+            text = text.replace(p, " ")
+
+    readability_score = textstat.smog_index(text=text)
+    return readability_score
+
 def updateComment(comment_text,commentID):
     operation = "update"
-    ar_score = ComputeCommentArticleRelevance(comment_text,commentID,operation)
-    cr_score = ComputeCommentConversationalRelevance(comment_text,commentID,operation)
-    return (ar_score,cr_score)
+    ArticleRelevance = ComputeCommentArticleRelevance(comment_text,commentID,operation)
+    ConversationalRelevance = ComputeCommentConversationalRelevance(comment_text,commentID,operation)
+    PersonalXP = calcPersonalXPScores(comment_text)
+    Readability = calcReadability(comment_text)
+    return (ArticleRelevance,ConversationalRelevance,PersonalXP,Readability)
 
-def addComment(comment_text,article_id):
+def addComment(comment_text,articleID):
     operation = "add"
-    ar_score = ComputeCommentArticleRelevance(comment_text,article_id,operation)
-    cr_score = ComputeCommentConversationalRelevance(comment_text,article_id,operation)
-    return (ar_score,cr_score)
+    ArticleRelevance = ComputeCommentArticleRelevance(comment_text,articleID,operation)
+    ConversationalRelevance = ComputeCommentConversationalRelevance(comment_text,articleID,operation)
+    PersonalXP = calcPersonalXPScores(comment_text)
+    Readability = calcReadability(comment_text)
+    return (ArticleRelevance,ConversationalRelevance,PersonalXP,Readability)
 
 

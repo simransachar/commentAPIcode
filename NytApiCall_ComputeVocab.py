@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 __author__ = 'simranjitsingh'
 import urllib
 import time
@@ -6,30 +7,44 @@ import json
 import mysql.connector
 import sys
 import re
-import os
+import operator
+from nltk.corpus import stopwords
+import nltk.tag, nltk.util, nltk.stem
+from CleanTokenize import CleanAndTokenize
 
-cnx = mysql.connector.connect(user='root', password='simran',
-                              host='127.0.0.1',
-                              database='comment_iq')
+
+cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
+                             host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
+                             database='comment_iq')
 cursor = cnx.cursor()
 
+# Using all 3 API keys
 COMMUNITY_API_KEY = "5f933be26992203507b0963c96c653f1:4:66447706"
 COMMUNITY_API_KEY2 = "6adcef7a975045db61389446ca15283e:1:30173638"
 COMMUNITY_API_KEY3 = "5a3d3ff964c9975c0f23d1ad3437dd45:0:70179423"
 
+# Each key have a limit of 5000 calls per day
 key1_limit = 4999
 key2_limit = 9998
 key3_limit = 14997
 
+
+doc_frequency = {}
+stopword_list = stopwords.words('english')
+porter = nltk.PorterStemmer()
+
 global g_offset
 global g_day
+g_day = None
+g_offset = None
 
 def error_name(d,offset):
     exc_type, exc_obj, exc_tb = sys.exc_info()
     msg = str(exc_type)
     error = re.split(r'[.]',msg)
     error = re.findall(r'\w+',error[1])
-    error_msg = str(error[0]) + "occured in line " + str(exc_tb.tb_lineno) + " ,Last API call date: " + str(d) + " , offset: " + str(offset)
+    error_msg = str(error[0]) + "occured in line " + str(exc_tb.tb_lineno) + " " \
+                ",Last API call date: " + str(d) + " , offset: " + str(offset)
     return error_msg
 
 def escape_string(string):
@@ -75,9 +90,8 @@ def CollectComments():
     pagesize = 25
     API_KEY = COMMUNITY_API_KEY
     nytapi = NYTCommunityAPI(API_KEY)
-# originally started collection from 20140115
-    d_start = datetime.date(2014,04,22)
-    d_end = datetime.date(2014,06,05)
+    #originally started collection from 20140115
+    d_start, d_end = date_validate()
     d = d_start
     global g_offset
     global g_day
@@ -86,12 +100,12 @@ def CollectComments():
         g_day = d
         offset = 0
         date_string = d.strftime("%Y%m%d")
-# Get the total # of comments for today
+        #Get the total # of comments for today
         r = nytapi.apiCall(date_string, offset)
         totalCommentsFound = r["results"]["totalCommentsFound"]
         print "Total comments found: " + str(totalCommentsFound)
         count += 1
-# Loop through pages to get all comments
+        # Loop through pages to get all comments
         while offset < totalCommentsFound:
             g_offset = offset
             if (count > key1_limit) and (count < key2_limit):
@@ -136,11 +150,61 @@ def CollectComments():
             count += 1
             print "#Calls: " + str(nytapi.nCalls)
             print "counter value: " + str(count)
-# Go to next day
+        # Go to next day
         d += datetime.timedelta(days=1)
+
+# Computes the vocabulary to be used for vector operations
+def ComputeVocabulary():
+    n = 0
+    cursor.execute("select commentBody from vocab_comments")
+    for row in cursor:
+        n = n + 1
+        if n % 100 == 0 :
+            print n
+        ct = CleanAndTokenize(row[0])
+        ct = [w for w in ct if w not in stopword_list]
+        stemmed_tokens = [porter.stem(t) for t in ct]
+        for t in stemmed_tokens:
+             if t not in doc_frequency:
+                 doc_frequency[t] = 1
+             else:
+                 doc_frequency[t] = doc_frequency[t]+1
+
+    sorted_list = sorted(doc_frequency.items(), key=operator.itemgetter(1), reverse=True)
+    # find cutoff
+    unigram_cutoff = 0
+    json_data = {}
+    out_file = open("data/vocab_freq2.json","w")
+    for (i, (word, word_freq)) in enumerate(sorted_list):
+        if word_freq < 10:
+            unigram_cutoff = i - 1
+            break;
+        json_data[word] = word_freq
+    json.dump(json_data,out_file)
+    print "unigram cutoff: " + str(unigram_cutoff)
+
+def date_validate():
+    start_date = raw_input("Enter start date(YYYY-MM-DD): ")
+    end_date = raw_input("Enter end date(YYYY-MM-DD): ")
+    try:
+        datetime.datetime.strptime(start_date, '%Y-%m-%d')
+        datetime.datetime.strptime(end_date, '%Y-%m-%d')
+    except:
+         print "Incorrect date format, should be YYYY-MM-DD"
+         sys.exit(1)
+    start_dateOBJ = datetime.datetime.strptime(start_date, "%Y-%m-%d").date()
+    end_dateOBJ = datetime.datetime.strptime(end_date, "%Y-%m-%d").date()
+
+    if end_dateOBJ <= start_dateOBJ:
+        print "End date must be greater than start date"
+        sys.exit(1)
+    return (start_dateOBJ,end_dateOBJ)
+
+
 try:
     CollectComments()
-    text_file = open("count.txt", "w")
+    ComputeVocabulary()
+    text_file = open("data/count2.txt", "w")
     cursor.execute("select count(*) from vocab_comments")
     for i in cursor:
         text_file.write(str(i[0]))
