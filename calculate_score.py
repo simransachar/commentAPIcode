@@ -12,6 +12,7 @@ import mysql.connector
 import sys
 import json
 import string
+from ConfigParser import SafeConfigParser
 from nltk.tokenize import WhitespaceTokenizer
 from CleanTokenize import CleanAndTokenize
 from TextStatistics import TextStatistics
@@ -34,6 +35,14 @@ nDocuments = int(count_read.read())
 
 with open("data/personal.txt") as f:
     personal_words = f.read().splitlines()
+
+parser = SafeConfigParser()
+parser.read('data/database.ini')
+
+user = parser.get('credentials', 'user')
+password = parser.get('credentials', 'password')
+host = parser.get('credentials', 'host')
+database = parser.get('credentials', 'database')
 
 def NormalizeVector(vector):
     length = ComputeVectorLength(vector)
@@ -72,30 +81,28 @@ def error_name():
     msg = str(exc_type)
     error = re.split(r'[.]',msg)
     error = re.findall(r'\w+',error[1])
-    error_msg = str(error[0]) + "occured in line " + str(exc_tb.tb_lineno)
+    error_msg = str(error[0])
     return error_msg
 
-def ComputeCommentArticleRelevance(comment_text,CnameID,operation):
+def ComputeCommentArticleRelevance(comment_text,ID,operation):
 
-    cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
-                               host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
-                               database='comment_iq')
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
     cursor = cnx.cursor()
 
     if operation == 'add':
-        articleID = CnameID
-        cursor.execute("select full_text from cname_articles where articleID = '" + str(articleID) + "'")
+        articleID = ID
+        cursor.execute("select full_text from articles where articleID = '" + str(articleID) + "'")
         article_data = cursor.fetchall()
     elif operation == 'update':
-        commentID = CnameID
-        cursor.execute("select articleID from cname_comments where commentID ='"+ str(commentID) +"' ")
+        commentID = ID
+        cursor.execute("select articleID from comments where commentID ='"+ str(commentID) +"' ")
         fetch_data = cursor.fetchall()
         if len(fetch_data) > 0:
             articleID = fetch_data[0][0]
         else:
             ArticleRelevance = 0.0
             return ArticleRelevance
-        cursor.execute("select full_text from cname_articles where articleID = '" + str(articleID) + "'")
+        cursor.execute("select full_text from articles where articleID = '" + str(articleID) + "'")
         article_data = cursor.fetchall()
     else:
         ArticleRelevance = 0.0
@@ -146,26 +153,25 @@ def ComputeCommentArticleRelevance(comment_text,CnameID,operation):
     return comment_article_similarity
 
 
-def ComputeCommentConversationalRelevance(comment_text,CnameID,operation):
+def ComputeCommentConversationalRelevance(comment_text,ID,operation):
 
-    cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
-                               host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
-                               database='comment_iq')
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
     cursor = cnx.cursor()
+
     if operation == 'add':
-        articleID = CnameID
-        cursor.execute("select commentBody from cname_comments where articleID = '" + str(articleID) + "' ")
+        articleID = ID
+        cursor.execute("select commentBody from comments where articleID = '" + str(articleID) + "' ")
         comment_data = cursor.fetchall()
     elif operation == 'update':
-        commentID = CnameID
-        cursor.execute("select articleID from cname_comments where commentID ='"+ str(commentID) +"' ")
+        commentID = ID
+        cursor.execute("select articleID from comments where commentID ='"+ str(commentID) +"' ")
         fetch_data = cursor.fetchall()
         if len(fetch_data) > 0:
             articleID = fetch_data[0][0]
         else:
             ConversationalRelevance = 0.0
             return ConversationalRelevance
-        cursor.execute("select commentBody from cname_comments "
+        cursor.execute("select commentBody from comments "
                        "where articleID = '"+ str(articleID) +"' and commentID < '"+ str(commentID) +"' ")
         comment_data = cursor.fetchall()
     else:

@@ -6,13 +6,28 @@ import mysql.connector
 import time
 import json
 import timeit
+from ConfigParser import SafeConfigParser
+
+parser = SafeConfigParser()
+parser.read('data/database.ini')
+
+parser2 = SafeConfigParser()
+parser2.read('data/keys_config.ini')
+a = parser2.get('API-KEYS', 'KEY_LIST')
+user = parser.get('credentials', 'user')
+password = parser.get('credentials', 'password')
+host = parser.get('credentials', 'host')
+database = parser.get('credentials', 'database')
 
 print "Current time " + time.strftime("%m/%d/%Y %I:%M:%S")
 
-cnx = mysql.connector.connect(user='root', password='simran',
-                              host='127.0.0.1',
-                              database='comment_iq')
+cnx = mysql.connector.connect(user=user, password=password,
+                              host=host,
+                              database=database)
 
+# cnx = mysql.connector.connect(user='root', password='simran',
+#                               host='127.0.0.1',
+#                               database='comment_iq')
 
 # cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
 #                              host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
@@ -67,7 +82,7 @@ cursor = cnx.cursor()
 # cursor = cnx.cursor()
 
 # cursor.execute("DESCRIBE articles")
-cursor.execute("DESCRIBE vocab_comments")
+cursor.execute("DESCRIBE comments")
 # for i in cursor:
 #     print i
 # for row in data:

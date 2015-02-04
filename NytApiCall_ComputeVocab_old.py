@@ -11,35 +11,23 @@ import operator
 from nltk.corpus import stopwords
 import nltk.tag, nltk.util, nltk.stem
 from CleanTokenize import CleanAndTokenize
-from ConfigParser import SafeConfigParser
-
-parserDb = SafeConfigParser()
-parserDb.read('data/database.ini')
-
-user = parserDb.get('credentials', 'user')
-password = parserDb.get('credentials', 'password')
-host = parserDb.get('credentials', 'host')
-database = parserDb.get('credentials', 'database')
 
 
-cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
+                             host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
+                             database='comment_iq')
 cursor = cnx.cursor()
 
-parserkeys = SafeConfigParser()
-parserkeys.read('data/keys_config.ini')
-
 # Using all 3 API keys
-COMMUNITY_API_KEY = parserkeys.get('API-KEYS', 'KEY1')
-COMMUNITY_API_KEY2 = parserkeys.get('API-KEYS', 'KEY2')
-COMMUNITY_API_KEY3 = parserkeys.get('API-KEYS', 'KEY3')
+COMMUNITY_API_KEY = "5f933be26992203507b0963c96c653f1:4:66447706"
+COMMUNITY_API_KEY2 = "6adcef7a975045db61389446ca15283e:1:30173638"
+COMMUNITY_API_KEY3 = "5a3d3ff964c9975c0f23d1ad3437dd45:0:70179423"
 
 # Each key have a limit of 5000 calls per day
-key1_limit = 5
-key2_limit = 10
-key3_limit = 15
+key1_limit = 4999
+key2_limit = 9998
+key3_limit = 14997
 
-COMMUNITY_API_KEY_LIST = [COMMUNITY_API_KEY,COMMUNITY_API_KEY2,COMMUNITY_API_KEY3]
-key_limit = 7
 
 doc_frequency = {}
 stopword_list = stopwords.words('english')
@@ -100,8 +88,7 @@ class NYTCommunityAPI (object):
 
 def CollectComments():
     pagesize = 25
-    key_index = 0
-    API_KEY = COMMUNITY_API_KEY_LIST[key_index]
+    API_KEY = COMMUNITY_API_KEY
     nytapi = NYTCommunityAPI(API_KEY)
     #originally started collection from 20140115
     d_start, d_end = date_validate()
@@ -121,17 +108,19 @@ def CollectComments():
         # Loop through pages to get all comments
         while offset < totalCommentsFound:
             g_offset = offset
-            if count >= key_limit:
-                key_index += 1
-                count = 0
-                if key_index >= len(COMMUNITY_API_KEY_LIST):
-                    d_end = d
-                    print "last call on date: " + str(d)
-                    print "last offset value: " + str(offset-25)
-                    break;
-                API_KEY = COMMUNITY_API_KEY_LIST[key_index]
-                nytapi = NYTCommunityAPI(API_KEY)
-
+            if (count > key1_limit) and (count < key2_limit):
+                if API_KEY != COMMUNITY_API_KEY2:
+                    API_KEY = COMMUNITY_API_KEY2
+                    nytapi = NYTCommunityAPI(API_KEY)
+            if (count > key2_limit) and (count < key3_limit):
+                if API_KEY != COMMUNITY_API_KEY3:
+                    API_KEY = COMMUNITY_API_KEY3
+                    nytapi = NYTCommunityAPI(API_KEY)
+            if count > key3_limit:
+                d_end = d
+                print "last call on date: " + str(d)
+                print "last offset value: " + str(offset-25)
+                break;
             r = nytapi.apiCall(date_string, offset)
             # DB insertion call here.
             if "comments" in r["results"]:
@@ -212,15 +201,15 @@ def date_validate():
     return (start_dateOBJ,end_dateOBJ)
 
 
-# try:
-CollectComments()
-ComputeVocabulary()
-text_file = open("data/count2.txt", "w")
-cursor.execute("select count(*) from vocab_comments")
-for i in cursor:
-    text_file.write(str(i[0]))
-text_file.close()
+try:
+    CollectComments()
+    ComputeVocabulary()
+    text_file = open("data/count2.txt", "w")
+    cursor.execute("select count(*) from vocab_comments")
+    for i in cursor:
+        text_file.write(str(i[0]))
+    text_file.close()
 
-# except:
-#     print error_name(g_day,g_offset)
+except:
+    print error_name(g_day,g_offset)
 cnx.close()
