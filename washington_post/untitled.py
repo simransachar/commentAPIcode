@@ -74,13 +74,16 @@ def articles():
     article_data.extend((article_title,article_text,article_url))
     comment_data =[]
     if sort == 'ar':
-        cursor.execute("select commentBody,approveDate,display_name,ar_score,cr_score,commentID from comments where articleURL = '" + article_url + "' order by ar_score desc")
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance," \
+                       "commentID from comments where articleURL = '" + article_url + "' order by ar_score desc")
         new_comment="yes"
     elif sort == 'cr' :
-        cursor.execute("select commentBody,approveDate,display_name,ar_score,cr_score,commentID from comments where articleURL = '" + article_url + "' order by cr_score desc")
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       " from comments where articleURL = '" + article_url + "' order by cr_score desc")
         new_comment="yes"
     else:
-        cursor.execute("select commentBody,approveDate,display_name,ar_score,cr_score,commentID from comments where articleURL = '" + article_url + "' order by approveDate ")
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       " from comments where articleURL = '" + article_url + "' order by approveDate ")
     for row in cursor:
         row = list(row)
         row[1] = row[1].strftime('%B %d, %Y at %I:%M %p ')
