@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 __author__ = 'simranjitsingh'
 
+# This code calculate all the scores i.e Articles Relevance Score , Conversational Relevance Scores ,
+# Readability Score and Personal Experience Score
+# Subroutines used : CleanAndTokenize,TextStatistics
+
 from nltk.probability import FreqDist
 from nltk.corpus import stopwords
 import nltk.tag, nltk.util, nltk.stem
@@ -24,20 +28,21 @@ vocab_freq = {}
 nDocuments = 0
 
 # JSON containing Frequency of each word
-json_data = open("data/vocab_freq.json")
+json_data = open("apidata/vocab_freq.json")
 
 vocab_freq = json.load(json_data)
 
-# Count of the total number of comments collected
-count_read = open("data/count.txt", "r")
+count_read = open("apidata/count.txt", "r")
 
+# Total Number of comments collected
 nDocuments = int(count_read.read())
 
-with open("data/personal.txt") as f:
+# List of Personal Words from LIWC dictionary
+with open("apidata/personal.txt") as f:
     personal_words = f.read().splitlines()
 
 parser = SafeConfigParser()
-parser.read('data/database.ini')
+parser.read('apidata/database.ini')
 
 user = parser.get('credentials', 'user')
 password = parser.get('credentials', 'password')
@@ -131,7 +136,7 @@ def ComputeCommentArticleRelevance(comment_text,ID,operation):
     article_features = {}
     comment_features = {}
 
-    # Calculate weight for each word in the comment
+    # Calculate weight for each word in the comment with tf-idf
     for w in vocab_freq:
             df = vocab_freq[w]
             log_fraction = (nDocuments / df)
@@ -194,7 +199,7 @@ def ComputeCommentConversationalRelevance(comment_text,ID,operation):
                 centroid_comment_stemmed_tokens.extend([porter.stem(token) for token in token_list])
     centroid_comment_stemmed_tokens_fd = FreqDist(centroid_comment_stemmed_tokens)
 
-    # Calculate weight for each word in all the comments
+    # Calculate weight for each word in all the comments with tf-idf
     for w in vocab_freq:
                 log_fraction = (nDocuments / vocab_freq[w])
                 if log_fraction < 1:
@@ -207,7 +212,7 @@ def ComputeCommentConversationalRelevance(comment_text,ID,operation):
     # normalize vector
     centroid_comment_features = NormalizeVector(centroid_comment_features)
 
-    # Now compute dist to  comment
+    # Now compute distance to  comment
     comment_stemmed_tokens = []
     comment_features = {}
     comment_text = escape_string(comment_text.strip())
@@ -215,7 +220,7 @@ def ComputeCommentConversationalRelevance(comment_text,ID,operation):
     token_list = [word for word in token_list if word not in stopword_list]
     comment_stemmed_tokens.extend([porter.stem(token) for token in token_list])
     comment_stemmed_tokens_fd  = FreqDist(comment_stemmed_tokens)
-    # Calculate weight for each word in the comment
+    # Calculate weight for each word in the comment with tf-idf
     for w in vocab_freq:
                 log_fraction = (nDocuments / vocab_freq[w])
                 if log_fraction < 1:
@@ -229,8 +234,8 @@ def ComputeCommentConversationalRelevance(comment_text,ID,operation):
     return comment_originality
 
 def calcPersonalXPScores(comment_text):
-    tokenizer = WhitespaceTokenizer()
 
+    tokenizer = WhitespaceTokenizer()
     personal_xp_score = 0
     text = comment_text.lower()
 
@@ -244,7 +249,7 @@ def calcPersonalXPScores(comment_text):
     # tokenize it
     text_tokens = tokenizer.tokenize(text)
 
-    # if the tokens are in the dict then increment score
+    # if the tokens are in the personal_words List then increment score
     for tok in text_tokens:
         tok_stem = porter.stem(tok)
         if tok_stem in personal_words:
@@ -256,9 +261,8 @@ def calcPersonalXPScores(comment_text):
     return personal_xp_score
 
 def calcReadability(comment_text):
-    tokenizer = WhitespaceTokenizer()
-    textstat = TextStatistics("")
 
+    textstat = TextStatistics("")
     text = comment_text.lower()
 
     #filter out punctuations

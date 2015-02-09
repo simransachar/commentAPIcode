@@ -1,5 +1,8 @@
 __author__ = 'ssachar'
 
+# This is flask api code to send scores as response for the desired operations
+# The response depends upon the end points requested
+
 from flask import Flask, request, jsonify
 import time
 import mysql.connector
@@ -8,13 +11,15 @@ from mysql.connector.errors import Error
 from calculate_score import error_name, escape_string, addComment, updateComment
 from ConfigParser import SafeConfigParser
 
-
 app = Flask(__name__)
 app.debug = True
 
+# Get the config file for database
 parser = SafeConfigParser()
-parser.read('data/database.ini')
+# Edit the config file to fill in your credentials
+parser.read('apidata/database.ini')
 
+# Fetch the credentials from config file
 user = parser.get('credentials', 'user')
 password = parser.get('credentials', 'password')
 host = parser.get('credentials', 'host')
@@ -23,7 +28,7 @@ database = parser.get('credentials', 'database')
 cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
 cursor = cnx.cursor()
 
-
+#Add the article Text and return the ArticleID
 @app.route('/commentIQ/v1/addArticle', methods=['GET', 'POST'])
 def addArticle():
     if request.method == 'POST':
@@ -51,6 +56,7 @@ def addArticle():
 
     return jsonify(articleID = articleID,status = status)
 
+#Update the article Text
 @app.route('/commentIQ/v1/updateArticle', methods=['GET', 'POST'])
 def updateArticle():
     if request.method == 'POST':
@@ -71,7 +77,7 @@ def updateArticle():
             status = error_name()
     return jsonify(status = status)
 
-
+# Add the comment Text and return all the scores
 @app.route('/commentIQ/v1/addComment', methods=['GET', 'POST'])
 def AddComment():
     if request.method == 'POST':
@@ -87,6 +93,7 @@ def AddComment():
                 return jsonify(ArticleRelevance = 0.0, ConversationalRelevance = 0.0 , PersonalXP = 0.0 , \
                                Readability = 0.0, CommentID = None ,status = "Operation failed")
             else:
+                # Call addComment() function of subroutine - calculate_score to calculate all the scores
                 ArticleRelevance, ConversationalRelevance, PersonalXP, Readability = \
                 addComment(commentBody,articleID)
                 insert_query = "INSERT INTO comments (commentBody, approveDate, articleID,ArticleRelevance," \
@@ -120,6 +127,7 @@ def AddComment():
     return jsonify(ArticleRelevance = ArticleRelevance, ConversationalRelevance = ConversationalRelevance, \
                    PersonalXP = PersonalXP, Readability = Readability, CommentID = CommentID,status=status)
 
+#Update the comment Text and return the updated scores
 @app.route('/commentIQ/v1/updateComment', methods=['GET', 'POST'])
 def UpdateComments():
     if request.method == 'POST':
@@ -129,6 +137,7 @@ def UpdateComments():
             commentID = dataDict['commentID']
             commentBody = escape_string(dataDict['commentBody'].strip())
 
+            # Call updateComment() function of subroutine - calculate_score to re-calculate all the scores
             ArticleRelevance, ConversationalRelevance, PersonalXP, Readability  = \
             updateComment(commentBody,commentID)
 
@@ -158,6 +167,7 @@ def UpdateComments():
     return jsonify(ArticleRelevance = ArticleRelevance, ConversationalRelevance = ConversationalRelevance, \
                    PersonalXP = PersonalXP, Readability = Readability, status = status)
 
+#Delete the comment from the database
 @app.route('/commentIQ/v1/deleteComment/<commentID>',methods=['GET'])
 def deleteComment(commentID):
     try:
@@ -176,6 +186,7 @@ def deleteComment(commentID):
         status = error_name()
     return jsonify(status = status)
 
+# Return the Score of ArticleRelevance for the comment
 @app.route('/commentIQ/v1/getArticleRelevance/<commentID>',methods=['GET'])
 def getArticleRelevance(commentID):
     try:
@@ -197,6 +208,7 @@ def getArticleRelevance(commentID):
         status = error_name()
     return jsonify(ArticleRelevance = ArticleRelevance, status = status)
 
+# Return the Score of ConversationalRelevance for the comment
 @app.route('/commentIQ/v1/getConversationalRelevance/<commentID>',methods=['GET'])
 def getConversationalRelevance(commentID):
     try:
@@ -218,6 +230,7 @@ def getConversationalRelevance(commentID):
         ConversationalRelevance = 0.0
     return jsonify(ConversationalRelevance = ConversationalRelevance, status = status)
 
+# Return the Score of Personal Experience for the comment
 @app.route('/commentIQ/v1/getPersonalXP/<commentID>',methods=['GET'])
 def getPersonalXP(commentID):
     try:
@@ -239,6 +252,7 @@ def getPersonalXP(commentID):
         status = error_name()
     return jsonify(PersonalXP = PersonalXP, status = status)
 
+# Return the Score of Readability for the comment
 @app.route('/commentIQ/v1/getReadability/<commentID>',methods=['GET'])
 def getReadability(commentID):
     try:
@@ -260,7 +274,7 @@ def getReadability(commentID):
         status = error_name()
     return jsonify(Readability = Readability, status = status)
 
-
+# Return all the scores for the comment
 @app.route('/commentIQ/v1/getScores/<commentID>',methods=['GET'])
 def getScores(commentID):
     try:
