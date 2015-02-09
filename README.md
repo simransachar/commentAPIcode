@@ -8,13 +8,13 @@ There are 10 Different Request points and each Request point have specific funct
 1. [Add Article](#1)
 2. [Update Article](#2)
 3. [Add Comment](#3)
-4. Update Comment
-5. Delete Comment
-6. Get Article Relevance Score
-7. Get Conversational Relevance Score
-8. Get Personal Experience Score
-9. Get Readability Score
-10. Get All Scores
+4. [Update Comment](#4)
+5. [Delete Comment](#5)
+6. [Get Article Relevance Score](#6)
+7. [Get Conversational Relevance Score](#7)
+8. [Get Personal Experience Score](#8)
+9. [Get Readability Score](#9)
+10. [Get All Scores](#10)
 
                                  
 |Name    |  Values and Notes          |
@@ -228,7 +228,7 @@ To delete a comment - Comment ID needs to be send via HTTP GET method. Since Con
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/deleteComment/`<commentID>` |
+| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/deleteComment/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -268,7 +268,7 @@ To get Article Relevance Score of a comment - Comment ID needs to be send via HT
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getArticleRelevance/`<commentID>` |
+| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getArticleRelevance/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -308,7 +308,7 @@ To get Conversational Relevance Score of a comment - Comment ID needs to be send
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getConversationalRelevance/`<commentID>` |
+| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getConversationalRelevance/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -342,14 +342,14 @@ print response.json()
 }        
 ```
 
-### 8. <a name="7"></a>Get Personal Experience Score
+### 8. <a name="8"></a>Get Personal Experience Score
 #### 
 To get Personal Experience Score of a comment - Comment ID needs to be send via HTTP GET method. The Personal Experience score will be fetched and send via Response.
 
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getPersonalXP/`<commentID>` |
+| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getPersonalXP/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -384,14 +384,14 @@ print response.json()
 ```
 
 
-### 9. <a name="7"></a>Get Readability Score
+### 9. <a name="9"></a>Get Readability Score
 #### 
 To get Readability Score of a comment - Comment ID needs to be send via HTTP GET method. The Readability score will be fetched and send via Response.
 
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getReadability/`<commentID>` |
+| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getReadability/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -425,14 +425,14 @@ print response.json()
 }        
 ```
 
-### 10. <a name="7"></a>Get All Scores
+### 10. <a name="10"></a>Get All Scores
 #### 
 To get All Scores of a comment - Comment ID needs to be send via HTTP GET method. All the scores will be fetched and send via Response.
 
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getScores/`<commentID>` |
+| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getScores/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
