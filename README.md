@@ -42,7 +42,7 @@ There are 10 Different Request points and each Request point have specific funct
 ###  <a name="1"></a>1. Add Article
 #### 
 For new articles, article text needs to be send via HTTP POST method and a auto generated ArticleID will be send in response. This Article ID needs to be kept note of in order to update the article or adding comment to the article in future.             
-<b>Note: </b> Article ID is crutial in order to get the comment score
+<b>Note: </b> Article ID is crucial in order to get the comment score
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
@@ -87,7 +87,7 @@ status = response.json()['status']
 ### 2. <a name="2"></a>Update Article
 #### 
 To update articles - updated article text and ArticleID needs to be send via HTTP POST method.                
-<b>Note: </b> It is important to update the API database for article text in order to calculate correct Articl Relevance Score for a comment.
+<b>Note: </b> It is important to update the API database with updated article text in order to calculate correct Article Relevance Score for a comment.
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
@@ -170,6 +170,7 @@ AR = response.json()['ArticleRelevance']
 CR = response.json()['ConversationalRelevance']
 personal_exp = response.json()['PersonalXP']
 readability = response.json()['Readability']
+commentID = response.json()['CommentID']
 status = response.json()['status']
 ```
 ##### RESPONSE JSON
@@ -180,7 +181,7 @@ status = response.json()['status']
     "Readability": "0.0727272727273"
     "PersonalXP": "17.2"
     "status": "Insert Successful"
-    
+    "CommentID": "1714"
 }        
 ```
 
@@ -188,7 +189,7 @@ status = response.json()['status']
 ### 4. <a name="4"></a>Update Comment
 #### 
 To update comment - Comment Text and Comment ID needs to be send via HTTP POST method. All the scores will be calculated and send via Response.           
-<b>Note: </b> It is important to update the API database for comment text in order to update correct  Scores for a comment.
+<b>Note: </b> It is important to update the API database with updated comment text in order to update correct Scores for a comment.
 
 
 | Name   | Values and Notes           |
@@ -243,7 +244,7 @@ status = response.json()['status']
 ### 5. <a name="5"></a>Delete Comment
 #### 
 To delete a comment - Comment ID needs to be send via HTTP GET method.           
-<b>Note: </b> Since Conversational Relevance depends upon all the previous comments, database needs to be updated with any deleted comments.
+<b>Note: </b> Since Conversational Relevance depends upon all the previous comments, database needs to be updated with any deleted comment.
 
 
 | Name   | Values and Notes           |
