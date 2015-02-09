@@ -2,8 +2,22 @@ CommentIQ API
 =========
 Comment IQ API is a RESTful API used to evaluate the comment score on a news article and return the scores based on 4 criterias i.e Article Relevance, Conversational Relevance, Personal Experience and readability.      
 
+
+####Article Relevance 
+It is a criteria to calculate the comment score based on artcile similarity. Article Relevance score is calculated by taking cosine similarity or dot product of the respective normalized feature vectors for a comment and article to which it is attached.
+
+####Conversational Relevance
+Conversational Relevance measures how similar a comment is to other comments on the same article.Only those articles with 10 or more comments were considered in order to ensure that there was enough of a discussion to produce robust feature vectors. To measure conversational relevance, for each article’s comments a centroid feature vector was created representing the text of all of the comments on the article that were posted before a given comment. This represents the terms used across the thread up to that point in time. Then, for each comment in the thread its cosine similarity to this centroid representation was calculated in order to measure the comment’s conversational relevance.
+
+#### Personal Experience
+It is a criteria to calculate the comment score based on comments which express personal experiences and use words in LIWC categories “I”, “We”, “Family”, and “Friends” which would reflect personal (1st and 3rd person pronouns) and close relational (i.e. family and friends) experiences.
+
+#### Readability
+The Readability score specifies specifically criteria related to the style, clarity, adherence to standard grammar, and degree to which a comment is well-articulated.The Readability score is the SMOG index or reading grade level of the text.
+
 ###How to use CommentIQ API
-There are 10 Different Request points and each Request point have specific function
+There are 10 Different Request points and each Request point have specific function, parameters and responses.
+
 
 1. [Add Article](#1)
 2. [Update Article](#2)
