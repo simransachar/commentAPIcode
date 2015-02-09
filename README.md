@@ -1,7 +1,7 @@
 CommentIQ API
 =========
 Comment IQ API is a RESTful API used to evaluate the comment score on a news article and return the scores based on 4 criterias i.e Article Relevance, Conversational Relevance, Personal Experience and readability.      
-
+(Get API code and get it running on your machine. Follow the instructions <a href="https://github.com/comp-journalism/commentIQ/tree/master/CommentAPIcode" target="_blank">here</a> )
 
 ####Article Relevance 
 It is a criteria to calculate the comment score based on artcile similarity. Article Relevance score is calculated by taking cosine similarity or dot product of the respective normalized feature vectors for a comment and article to which it is attached.
@@ -14,6 +14,8 @@ It is a criteria to calculate the comment score based on comments which express 
 
 #### Readability
 The Readability score specifies specifically criteria related to the style, clarity, adherence to standard grammar, and degree to which a comment is well-articulated.The Readability score is the SMOG index or reading grade level of the text.
+
+(Get API code and get it running on your machine. Follow the instructions <a href="https://github.com/comp-journalism/commentIQ/tree/master/CommentAPIcode" target="_blank">here</a> )
 
 ###How to use CommentIQ API
 There are 10 Different Request points and each Request point have specific function, parameters and responses.
@@ -39,8 +41,8 @@ There are 10 Different Request points and each Request point have specific funct
 
 ###  <a name="1"></a>1. Add Article
 #### 
-For new articles, article text needs to be send via HTTP POST method and a auto generated ArticleID will be send in response. This Article ID needs to be kept note of in order to update the article or adding comment to the article in future.
-
+For new articles, article text needs to be send via HTTP POST method and a auto generated ArticleID will be send in response. This Article ID needs to be kept note of in order to update the article or adding comment to the article in future.             
+<b>Note: </b> Article ID is crutial in order to get the comment score
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
@@ -84,8 +86,8 @@ status = response.json()['status']
 
 ### 2. <a name="2"></a>Update Article
 #### 
-To update articles - updated article text and ArticleID needs to be send via HTTP POST method.
-
+To update articles - updated article text and ArticleID needs to be send via HTTP POST method.                
+<b>Note: </b> It is important to update the API database for article text in order to calculate correct Articl Relevance Score for a comment.
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
@@ -126,7 +128,9 @@ status = response.json()['status']
 
 ### 3. <a name="3"></a>Add Comment
 #### 
-For new comments - Comment Text and Article ID needs to be send via HTTP POST method. All the scores will be calculated and send via Response. An auto-generated commentID will also be send in response. This Comment ID needs to be kept note of in order to update or delete the Comment in future.
+For new comments - Comment Text and Article ID needs to be send via HTTP POST method. All the scores will be calculated and send via Response. An auto-generated commentID will also be send in response.                                                  
+
+<b>Note: </b> This Comment ID needs to be kept note of in order to update or delete the Comment in future.
 
 
 | Name   | Values and Notes           |
@@ -183,7 +187,8 @@ status = response.json()['status']
 
 ### 4. <a name="4"></a>Update Comment
 #### 
-To update comment - Comment Text and Comment ID needs to be send via HTTP POST method. All the scores will be calculated and send via Response. 
+To update comment - Comment Text and Comment ID needs to be send via HTTP POST method. All the scores will be calculated and send via Response.           
+<b>Note: </b> It is important to update the API database for comment text in order to update correct  Scores for a comment.
 
 
 | Name   | Values and Notes           |
@@ -237,7 +242,8 @@ status = response.json()['status']
 
 ### 5. <a name="5"></a>Delete Comment
 #### 
-To delete a comment - Comment ID needs to be send via HTTP GET method. Since Conversational Relevance depends upon all the previous comments, database needs to be updated with any deleted comments.
+To delete a comment - Comment ID needs to be send via HTTP GET method.           
+<b>Note: </b> Since Conversational Relevance depends upon all the previous comments, database needs to be updated with any deleted comments.
 
 
 | Name   | Values and Notes           |
@@ -485,3 +491,5 @@ print response.json()
     "Status": "success"
 }        
 ```
+
+(Get API code and get it running on your machine. Follow the instructions <a href="https://github.com/comp-journalism/commentIQ/tree/master/CommentAPIcode" target="_blank">here</a> )
