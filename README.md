@@ -52,7 +52,7 @@ For new articles, article text needs to be send via HTTP POST method and a autog
 ##### Python Code
 ```sh
 your_article_text = "Your Article Text"
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addArticle
+url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addArticle"
 params = {'article_text' : your_article_text }
 param_json = json.dumps(params)
 response = requests.post(url, param_json)
@@ -97,7 +97,7 @@ To update articles - updated article text and ArticleID needs to be send via HTT
 ##### Python Code
 ```sh
 your_article_text = "Updated Article Text"
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateArticle
+url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateArticle"
 params = {'article_text' : comment_text, 'articleID' : articleID }
 param_json = json.dumps(params)
 response = requests.post(url, param_json)
@@ -143,7 +143,7 @@ For new comments - Comment Text and Article ID needs to be send via HTTP POST me
 ##### Python Code
 ```sh
 your_comment_text = "Your Comment Text"
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addComment
+url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addComment"
 params = {'commentBody' : comment_text, 'articleID' : articleID }
 param_json = json.dumps(params)
 response = requests.post(url, param_json)
