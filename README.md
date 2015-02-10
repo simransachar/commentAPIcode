@@ -1,168 +1,109 @@
-CommentIQ API
-=========
-Comment IQ API is a RESTful API used to evaluate the comment score on a news article and return the scores based on 4 criterias i.e Article Relevance, Conversational Relevance, Personal Experience and readability.      
-(Get API code and get it running on your machine. Follow the instructions <a href="https://github.com/comp-journalism/commentIQ/tree/master/CommentAPIcode" target="_blank">here</a> )
+CommentIQ API Code
+========
+Get the code up and running on your machine in 5 steps :-                                             
 
-####Article Relevance 
-It is a criteria to calculate the comment score based on artcile similarity. Article Relevance score is calculated by taking cosine similarity or dot product of the respective normalized feature vectors for a comment and article to which it is attached.
-
-####Conversational Relevance
-Conversational Relevance measures how similar a comment is to other comments on the same article.Only those articles with 10 or more comments were considered in order to ensure that there was enough of a discussion to produce robust feature vectors. To measure conversational relevance, for each article’s comments a centroid feature vector was created representing the text of all of the comments on the article that were posted before a given comment. This represents the terms used across the thread up to that point in time. Then, for each comment in the thread its cosine similarity to this centroid representation was calculated in order to measure the comment’s conversational relevance.
-
-#### Personal Experience
-It is a criteria to calculate the comment score based on comments which express personal experiences and use words in LIWC categories “I”, “We”, “Family”, and “Friends” which would reflect personal (1st and 3rd person pronouns) and close relational (i.e. family and friends) experiences.
-
-#### Readability
-The Readability score specifies specifically criteria related to the style, clarity, adherence to standard grammar, and degree to which a comment is well-articulated.The Readability score is the SMOG index or reading grade level of the text.
-
-(Get API code and get it running on your machine. Follow the instructions <a href="https://github.com/comp-journalism/commentIQ/tree/master/CommentAPIcode" target="_blank">here</a> )
-
-###How to use CommentIQ API
-There are 10 Different Request points and each Request point have specific function, parameters and responses.
+1. Install All the required packages
+2. Get the database and table structures
+3. Change the Config files
+4. Scrap comments data from New York Times to get the vocabulary and Document Count
+5. Run the CommentIQ API code
 
 
-1. [Add Article](#1)
-2. [Update Article](#2)
-3. [Add Comment](#3)
-4. [Update Comment](#4)
-5. [Delete Comment](#5)
-6. [Get Article Relevance Score](#6)
-7. [Get Conversational Relevance Score](#7)
-8. [Get Personal Experience Score](#8)
-9. [Get Readability Score](#9)
-10. [Get All Scores](#10)
+### 1. Installing the required packages
 
-                                 
-|Name    |  Values and Notes          |
-|:----------|:-------------|
-| Base URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1 |
-| HTTP methods |  POST/GET |
-| Response format |  JSON (.json) |
+Please install the following softwares/packages before proceeding to step2
 
-###  <a name="1"></a>1. Add Article
-#### 
-For new articles, article text needs to be send via HTTP POST method and a auto generated ArticleID will be send in response. This Article ID needs to be kept note of in order to update the article or adding comment to the article in future.             
-<b>Note: </b> Article ID is crucial in order to get the comment score
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addArticle |
-| HTTP method |  POST |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| article_text | Should be sent as key name In JSON format |
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| ArticleID | Auto-generated ArticleID |
-| status | Success/Failure |
+* Python 2.7
+* Apache server (or any other server to run flask)
+* flask
+* NLTK
+* NLTK corpus for 'stop words' 
+* MySQL
+* MySQL Python connector
+* BeautifulSoap(bs4)
+* ConfigParser (if not included in default python libraries)
 
 
-###  Example
-##### Python Code
+### 2. Get the database and table structure
+
+The Structures for all tables is present in a self contained SQL file - TableStructures.sql in 'apidata' folder. The table structures needs to be ready in order to run step 4.                 
+The TableStructures.sql can me imported in your database and executed to create all the table skeletons.
+
+### 3. Change the Config files
+
+There are 2 config files that needs to be changed in order to run step 4 and 5.
+#### 1) database.ini
 ```sh
-your_article_text = "Your Article Text"
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addArticle"
-params = {'article_text' : your_article_text }
-param_json = json.dumps(params)
-response = requests.post(url, param_json)
-response_articleID = response.json()['articleID']
-status = response.json()['status']
+[credentials]
+user=
+password=
+host=
+database=
 ```
-##### RESPONSE JSON
+Edit the database.ini file and fill in your credential for MySQL database connection
+#### example
 ```sh
-{
-    "ArticleID": "172"
-    "status": "Insert Successful"
-}        
+[credentials]
+user=john
+password=nash
+host=127.0.0.1
+database=comment_iq
 ```
-
-
-### 2. <a name="2"></a>Update Article
-#### 
-To update articles - updated article text and ArticleID needs to be send via HTTP POST method.                
-<b>Note: </b> It is important to update the API database with updated article text in order to calculate correct Article Relevance Score for a comment.
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateArticle |
-| HTTP method |  POST |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| article_text | Should be sent as key name In JSON format |
-| articleID | Should be sent as key name In JSON format |
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| status | Success/Failure |
-
-
-###  Example
-##### Python Code
+#### 2) keys_config.ini
 ```sh
-your_article_text = "Updated Article Text"
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateArticle"
-params = {'article_text' : your_article_text, 'articleID' : articleID }
-param_json = json.dumps(params)
-response = requests.post(url, param_json)
-status = response.json()['status']
+[API-KEYS]
+KEY1=
+KEY2=
+KEY3=
 ```
-##### RESPONSE JSON
+Edit the keys_config.ini file and fill in your <b>NYT API</b> key(s)           
+(Since we need to scrap the comments data from NYT, we need NYT API key(s) ) 
+#### example
 ```sh
-{
-    "status": "Update Successful"
-}        
+KEY1=cksdh4934dkhf:0:2091
+KEY2=cksdh4934dkhf:0:2092
 ```
+### 4. Scrap comments data from New York Times to get the vocabulary and Document Count
+In order to run the API code we need to create vocabulary which are Uni-grams that occurred 10 or more time across all comments in the database. This Vocabulary is used to define a feature vector to describe each comment and article. It is advisable to get good amount of data like 3-6 months to get more accurate results.
+####
+Python script to perform this operation : NytApiCall_ComputeVocab.py
+####Steps to Run NytApiCall_ComputeVocab.py :
 
-### 3. <a name="3"></a>Add Comment
-#### 
-For new comments - Comment Text and Article ID needs to be send via HTTP POST method. All the scores will be calculated and send via Response. An auto-generated commentID will also be send in response.                                                  
+* Change the COMMUNITY_API_KEY_LIST in the code according to the number of keys you have. 
+* Make sure the Key-Value pair in the code and keys_config.ini file are in sync.
+* Each NYT API keys have a limit of 5000 calls per day.So please make sure the key limit does not exceed more than 5000.
 
-<b>Note: </b> This Comment ID needs to be kept note of in order to update or delete the Comment in future.
+The Code perform 3 operations :
+
+1) <b>CollectComments()</b> :                    
+* Upon running NytApiCall_ComputeVocab.py it will ask the user to enter start and end date. 
+* This function will scrap all the comments data from New york times as per the mentioned dates. 
+* The comments data will be stored in vocab_comments table. 
+* The offset value is 25 which means each call will fetch 25 comments. 
+* The user can also decrease the key_limit value if desired to run a small cycle.
+
+2) <b>ComputeVocabulary() </b> : Get the frequency distribution of each word across all comments in the vocab_comments table and store in a JSON (vocab_freq.json).
+
+3) <b> getDocumentCount() </b> : Count the number of comments in the vocab_comments table and store in a text file which will be later used to calculate feature vector.
 
 
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addComment |
-| HTTP method |  POST |
-| Response format |  JSON (.json) |    
+###5.Run the CommentIQ API code
+The python-flask code : CommentIQ_API.py uses the subroutine - calculate_score.py and its functions to perform the calculations of all the 4 criteria. Look for in-line comments in order to understand the complete code.
 
-###  Parameters
+run the code
+```sh 
+>>> python CommentIQ_API.py 
+```
+This will start the flask server and you can start using the CommentIQ API.
 
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentBody | Should be sent as key name In JSON format |
-| articleID | Should be sent as key name In JSON format |
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| ArticleRelevance | Comment Article Relevance Score |
-| ConversationalRelevance | Comment Conversational Relevance Score |
-| PersonalXP | Comment Personal Experience Score |
-| Readability | Comment Readability Score |
-| CommentID | AutoGenerated Comment ID |
-| status | Success/Failure |
-
+<b>Note: </b>For the local machine the base url will change according to your host name. For example most of the local machine will have local server running on 127.0.0.1:5000.  In this case the base url will be : http://127.0.0.1:5000/commentIQ/v1
+#####
 ###  Example
 ##### Python Code
 ```sh
 your_comment_text = "Your Comment Text"
 articleID = 78
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addComment"
+url = "http://127.0.0.1:5000/commentIQ/v1/addComment"
 params = {'commentBody' : your_comment_text, 'articleID' : articleID }
 param_json = json.dumps(params)
 response = requests.post(url, param_json)
@@ -185,312 +126,7 @@ status = response.json()['status']
 }        
 ```
 
+In order to understand how the CommentIQ API works refer <a href="https://github.com/comp-journalism/commentIQ" target="_blank">this</a> link
 
-### 4. <a name="4"></a>Update Comment
-#### 
-To update comment - Comment Text and Comment ID needs to be send via HTTP POST method. All the scores will be calculated and send via Response.           
-<b>Note: </b> It is important to update the API database with updated comment text in order to update correct Scores for a comment.
 
 
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateComment |
-| HTTP method |  POST |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentBody | Should be sent as key name In JSON format |
-| commentID | Should be sent as key name In JSON format |
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| ArticleRelevance | Comment Article Relevance Score |
-| ConversationalRelevance | Comment Conversational Relevance Score |
-| PersonalXP | Comment Personal Experience Score |
-| Readability | Comment Readability Score |
-| status | Success/Failure |
-
-###  Example
-##### Python Code
-```sh
-updated_comment_text = "Your Update Comment Text"
-commentID = 172
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateComment"
-params = {'commentBody' : update_comment_text, 'commentID' : commentID }
-param_json = json.dumps(params)
-response = requests.post(url, param_json)
-AR = response.json()['ArticleRelevance']
-CR = response.json()['ConversationalRelevance']
-personal_exp = response.json()['PersonalXP']
-readability = response.json()['Readability']
-status = response.json()['status']
-```
-##### RESPONSE JSON
-```sh
-{
-    "ArticleRelevance": "0.06496080742983745"
-    "ConversationalRelevance": "0.4046152704799379"
-    "Readability": "0.0727272727273"
-    "PersonalXP": "17.2"
-    "Status": "Update Successful"
-}        
-```
-
-### 5. <a name="5"></a>Delete Comment
-#### 
-To delete a comment - Comment ID needs to be send via HTTP GET method.           
-<b>Note: </b> Since Conversational Relevance depends upon all the previous comments, database needs to be updated with any deleted comment.
-
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/deleteComment/<b>commentID</b> |
-| HTTP method |  GET |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentID | Should be sent as part of URL |
-
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| status | Success/Failure |
-
-
-###  Example
-##### Python Code
-```sh
-commentID = 172
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/deleteComment/'"+ str(commentID) +"'"
-response = requests.get(url)
-print response.json()
-```
-##### RESPONSE JSON
-```sh
-{
-    "status": "success"
-}        
-```
-
-### 6. <a name="6"></a>Get Article Relevance Score
-#### 
-To get Article Relevance Score of a comment - Comment ID needs to be send via HTTP GET method. The Article Relevance score will be fetched and send via Response.
-
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getArticleRelevance/<b>commentID</b> |
-| HTTP method |  GET |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentID | Should be sent as part of URL |
-
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| ArticleRelevance | Comment Article Relevance Score |
-| status | Success/Failure |
-
-###  Example
-##### Python Code
-```sh
-commentID = 172
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getArticleRelevance/'"+ str(commentID) +"'"
-response = requests.get(url)
-print response.json()
-```
-##### RESPONSE JSON
-```sh
-{
-    "ArticleRelevance": "0.06496080742983745"
-    "status": "success"
-}        
-```
-### 7. <a name="7"></a>Get Conversational Relevance Score
-#### 
-To get Conversational Relevance Score of a comment - Comment ID needs to be send via HTTP GET method. The Conversational Relevance score will be fetched and send via Response.
-
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getConversationalRelevance/<b>commentID</b> |
-| HTTP method |  GET |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentID | Should be sent as part of URL |
-
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| ConversationalRelevance | Comment Conversational Relevance Score |
-| status | Success/Failure |
-
-###  Example
-##### Python Code
-```sh
-commentID = 172
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getConversationalRelevance/'"+ str(commentID) +"'"
-response = requests.get(url)
-print response.json()
-```
-##### RESPONSE JSON
-```sh
-{
-    "ConversationalRelevance": "0.40461527048"
-    "status": "success"
-}        
-```
-
-### 8. <a name="8"></a>Get Personal Experience Score
-#### 
-To get Personal Experience Score of a comment - Comment ID needs to be send via HTTP GET method. The Personal Experience score will be fetched and send via Response.
-
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getPersonalXP/<b>commentID</b> |
-| HTTP method |  GET |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentID | Should be sent as part of URL |
-
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| PersonalXP | Comment Personal Experience Score |
-| status | Success/Failure |
-
-###  Example
-##### Python Code
-```sh
-commentID = 172
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getPersonalXP/'"+ str(commentID) +"'"
-response = requests.get(url)
-print response.json()
-```
-##### RESPONSE JSON
-```sh
-{
-    "PersonalXP": "0.0727272727273"
-    "status": "success"
-}        
-```
-
-
-### 9. <a name="9"></a>Get Readability Score
-#### 
-To get Readability Score of a comment - Comment ID needs to be send via HTTP GET method. The Readability score will be fetched and send via Response.
-
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getReadability/<b>commentID</b> |
-| HTTP method |  GET |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentID | Should be sent as part of URL |
-
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| Readability | Comment Readability Score |
-| status | Success/Failure |
-
-###  Example
-##### Python Code
-```sh
-commentID = 172
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getReadability/'"+ str(commentID) +"'"
-response = requests.get(url)
-print response.json()
-```
-##### RESPONSE JSON
-```sh
-{
-    "Readability": "17.2"
-    "status": "success"
-}        
-```
-
-### 10. <a name="10"></a>Get All Scores
-#### 
-To get All Scores of a comment - Comment ID needs to be send via HTTP GET method. All the scores will be fetched and send via Response.
-
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| URL |  http://ec2-54-173-77-171.compute-1.amazonaws.com//commentIQ/v1/getScores/<b>commentID</b> |
-| HTTP method |  GET |
-| Response format |  JSON (.json) |    
-
-###  Parameters
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| commentID | Should be sent as part of URL |
-
-
-### Response
-
-| Name   | Values and Notes           |
-|:----------|:-------------|
-| ArticleRelevance | Comment Article Relevance Score |
-| ConversationalRelevance | Comment Conversational Relevance Score |
-| PersonalXP | Comment Personal Experience Score |
-| Readability | Comment Readability Score |
-| status | Success/Failure |
-
-###  Example
-##### Python Code
-```sh
-commentID = 172
-url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getScores/'"+ str(commentID) +"'"
-response = requests.get(url)
-print response.json()
-```
-##### RESPONSE JSON
-```sh
-{
-    "ArticleRelevance": "0.06496080742983745"
-    "ConversationalRelevance": "0.4046152704799379"
-    "Readability": "0.0727272727273"
-    "PersonalXP": "17.2"
-    "Status": "success"
-}        
-```
-
-(Get API code and get it running on your machine. Follow the instructions <a href="https://github.com/comp-journalism/commentIQ/tree/master/CommentAPIcode" target="_blank">here</a> )
