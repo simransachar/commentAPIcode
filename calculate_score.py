@@ -28,14 +28,16 @@ vocab_freq = {}
 nDocuments = 0
 
 # JSON containing Frequency of each word
-json_data = open("apidata/vocab_freq.json")
+vocab_json_data = open("apidata/vocab_freq.json")
 
-vocab_freq = json.load(json_data)
+vocab_freq = json.load(vocab_json_data)
 
-count_read = open("apidata/count.txt", "r")
+document_count_json = open("apidata/document_count.json")
+
+count_read = json.load(document_count_json)
 
 # Total Number of comments collected
-nDocuments = int(count_read.read())
+nDocuments = int(count_read["document_count"])
 
 # List of Personal Words from LIWC dictionary
 with open("apidata/personal.txt") as f:
