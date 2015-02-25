@@ -2,11 +2,11 @@ CommentIQ API Code
 ========
 Get the code up and running on your machine in 5 steps :-                                             
 
-1. Install all the required packages
-2. Get the database and table structures
-3. Change the config files
-4. Collect comments data from New York Times to get a dataset that is used as the commenting vocabulary
-5. Run the CommentIQ API code to calculate scores
+1. Installing the required packages
+2. Get the database and table structure
+3. Edit the config files
+4. Collect comments data from New York Times to get the vocabulary that is used for text analysis calculations
+5. Run the CommentIQ API code
 
 
 ### 1. Installing the required packages
