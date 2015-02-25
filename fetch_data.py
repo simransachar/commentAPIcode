@@ -7,13 +7,13 @@ import time
 import json
 import timeit
 from ConfigParser import SafeConfigParser
-
+import re
 parser = SafeConfigParser()
-parser.read('data/database.ini')
+parser.read('apidata/database.ini')
 
-parser2 = SafeConfigParser()
-parser2.read('data/keys_config.ini')
-a = parser2.get('API-KEYS', 'KEY_LIST')
+# parser2 = SafeConfigParser()
+# parser2.read('data/keys_config.ini')
+# a = parser2.get('API-KEYS', 'KEY_LIST')
 user = parser.get('credentials', 'user')
 password = parser.get('credentials', 'password')
 host = parser.get('credentials', 'host')
@@ -42,7 +42,7 @@ cursor = cnx.cursor()
 #cursor.execute("DESCRIBE demo_comments")
 #cursor.execute("DESCRIBE comments")
 # data = []
-# cursor.execute("select * from comments limit 100")
+#cursor.execute("select articleURL from vocab_comments order by commentID desc limit 10")
 # for i in cursor:
 #     data.append(i)
 #data = cursor.fetchall()
@@ -82,7 +82,7 @@ cursor = cnx.cursor()
 # cursor = cnx.cursor()
 
 # cursor.execute("DESCRIBE articles")
-cursor.execute("DESCRIBE comments")
+#cursor.execute("DESCRIBE comments")
 # for i in cursor:
 #     print i
 # for row in data:
@@ -124,11 +124,16 @@ commentID = 158
 #update comments set ar_score = NULL,cr_score = NULL where articleURL = 'http://www.nytimes.com/2014/01/15/booming/negotiating-conflicts-part-4-parents-at-a-wedding.html'
 
 #select ar_score from comments where articleURL = 'http://www.nytimes.com/2014/01/15/booming/carson-set-up-the-universal-remote.html'
+# s = "api.nytimes.com/svc/community/v2/comments/user/id/26531652.xml"
+# z1 = re.findall('([0-9]+).xml',s)
+#
+# print z1[0]
 
-# cursor.execute("select commentID from demo_comments where articleID = 77")
+cursor.execute("select commentBody from comments where articleID = 123 limit 20")
 #cursor.execute("select * from vocab_comments")
 for i in cursor:
     print i
+
 # text_file = open("count.txt", "w")
 # text_file.write(str(i[0]))
 # text_file.close()

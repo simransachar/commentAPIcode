@@ -1,4 +1,9 @@
 # -*- coding: utf-8 -*-
+
+# This code scrap the data from NYT API via the API keys and  stored in vocab_comments table
+# Frequency of each word is calculated from stored data and output in a JSON
+# Count the number of comments and store in a text file
+
 __author__ = 'simranjitsingh'
 import urllib
 import time
@@ -98,6 +103,7 @@ class NYTCommunityAPI (object):
         self.nCalls += 1
         return response
 
+# This code scrap the data from NYT API via the API keys and  stored in vocab_comments table
 def CollectComments():
     try:
         pagesize = 25
@@ -168,7 +174,7 @@ def CollectComments():
         print error_name(g_day,g_offset)
         sys.exit(1)
 
-# Computes the vocabulary to be used for vector operations
+# Frequency of each word is calculated from stored data and output in a JSON
 def ComputeVocabulary():
     try:
         cursor.execute("select commentBody from vocab_comments")
@@ -189,7 +195,7 @@ def ComputeVocabulary():
         # find cutoff
         unigram_cutoff = 0
         json_data = {}
-        out_file = open("apidata/vocab_freq2.json","w")
+        out_file = open("apidata/vocab_freq.json","w")
         for (i, (word, word_freq)) in enumerate(sorted_list):
             if word_freq < 10:
                 unigram_cutoff = i - 1
@@ -218,9 +224,10 @@ def date_validate():
         sys.exit(1)
     return (start_dateOBJ,end_dateOBJ)
 
+# Count the number of comments and store in a text file
 def getDocumentCount():
     try:
-        text_file = open("apidata/count2.txt", "w")
+        text_file = open("apidata/count.txt", "w")
         cursor.execute("select count(*) from vocab_comments")
         for i in cursor:
             text_file.write(str(i[0]))

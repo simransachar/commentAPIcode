@@ -1,0 +1,11 @@
+{
+  "earth": {
+    "europe": [
+      {"name": "Paris", "type": "city", "info": { ... }},
+      {"name": "Thames", "type": "river", "info": "567"}
+    ],
+    "america": [
+      {"name": "Texas", "type": "state", "info": "123"}
+    ]
+  }
+}
