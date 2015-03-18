@@ -129,7 +129,7 @@ commentID = 158
 #
 # print z1[0]
 
-cursor.execute("select commentBody from comments where articleID = 123 limit 20")
+cursor.execute("select * from articles")
 #cursor.execute("select * from vocab_comments")
 for i in cursor:
     print i

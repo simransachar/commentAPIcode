@@ -44,6 +44,7 @@ def addArticle():
             cursor.execute(insert_query)
             articleID = cursor.lastrowid
             rowsaffected = cursor.rowcount
+            cnx.commit()
             if rowsaffected == 1:
                 status = "Add Successful"
             else:
@@ -84,7 +85,7 @@ def updateArticle():
 @app.route('/commentIQ/v1/addComment', methods=['GET', 'POST', 'DELETE'])
 def AddComment():
     if request.method == 'POST':
-        try:
+        # try:
             data = request.data
             dataDict = json.loads(data)
             articleID = dataDict['articleID']
@@ -106,21 +107,21 @@ def AddComment():
                                ,str(PersonalXP),str(Readability),str(Brevity))
                 cursor.execute(insert_query)
                 CommentID = cursor.lastrowid
-#                cnx.commit()
+                cnx.commit()
                 rowsaffected = cursor.rowcount
                 if rowsaffected == 1:
                     status = "Add Successful"
                 else:
                     status = "Add failed"
                 cnx.close
-        except:
-            ArticleRelevance = 0.0
-            ConversationalRelevance = 0.0
-            PersonalXP = 0.0
-            Readability = 0.0
-            Brevity = 0.0
-            status = error_name()
-            CommentID = None
+        # except:
+        #     ArticleRelevance = 0.0
+        #     ConversationalRelevance = 0.0
+        #     PersonalXP = 0.0
+        #     Readability = 0.0
+        #     Brevity = 0.0
+        #     status = error_name()
+        #     CommentID = None
     else:
         ArticleRelevance = 0.0
         ConversationalRelevance = 0.0

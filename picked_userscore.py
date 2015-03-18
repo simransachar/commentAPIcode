@@ -11,13 +11,13 @@ cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
                               database='comment_iq')
 cursor = cnx.cursor()
 
-csvFile = open("article5_picked_users.csv", 'Ur')
+csvFile = open("article4_Data.csv", 'rb')
 csvReader = csv.reader(csvFile, delimiter=',', quotechar='"')
 
 userIDlist = []
 for row in csvReader:
     userIDlist.append(row[0])
-fileWriter = csv.writer(open("picked_userscores_article5.csv", "wb"),delimiter=",")
+fileWriter = csv.writer(open("userscores_article3.csv", "wb"),delimiter=",")
 header = ["userID","AVGPersonalXP","AVGReadability","AVGBrevity","AVGRecommendationScore","AVGPicks","AVGcommentspermonth"]
 fileWriter.writerow(header)
 
@@ -51,16 +51,11 @@ for u_id in userIDlist:
 
     dd =  approvedate_list[-1] - approvedate_list[0]
     daycount = dd.days
-    print daycount
-    months =  float(daycount) / float(30)
-
-    # months =  int(daycount) / 30
+    months =  int(daycount) / 30
     if months < 1:
-        # comment_month = 0
-        comment_month = len(readability_list)
+        comment_month = 0
     else:
         comment_month = float(len(readability_list))/ float(months)
-    print comment_month
     a = float(sum1)/float(len(brevity_list))
     b = float(sum2)/float(len(personalXP_list))
     c = float(sum3)/float(len(personalXP_list))

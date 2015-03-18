@@ -9,13 +9,13 @@ import csv
 
 url = 'http://205.188.201.176/geocoding/v1/address?key=Fmjtd%7Cluur2968ng%2Cr0%3Do5-90rs54&'
 
-csvFile = open("articleData_withScores_geocode_2", 'Ur')
+csvFile = open("article5_Data_withScores.csv", 'rb')
 csvReader = csv.reader(csvFile, delimiter=',', quotechar='"')
-fileWriter = csv.writer(open("articleData_withScores_geocode_2", "wb"),delimiter=",")
+fileWriter = csv.writer(open("article5_Data_withScores_geocode.csv", "wb"),delimiter=",")
 
 for row in csvReader:
     if csvReader.line_num > 1:
-        if row[17] == "NA":
+    #     if row[17] == "NA":
             loc = row[5]
             purl = url + urllib.urlencode({"location": loc})
             print purl
@@ -33,5 +33,8 @@ for row in csvReader:
                 row[17] = lat
                 row[18] = lng
                 print lat_lon
-                fileWriter.writerow(row)
+            else:
+                row[17] = "NA"
+                row[18] = "NA"
+            fileWriter.writerow(row)
             sleep(random.randrange(100,101) / 1000)

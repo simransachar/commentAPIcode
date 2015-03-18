@@ -2,18 +2,19 @@ __author__ = 'simranjitsingh'
 
 import csv
 
-
 ID_list = []
-# with open('article4_Data.csv', 'rb') as f:
-#     reader = csv.reader(f)
-#     ID_list = list(reader)
 
-csvFile = open("article4_Data.csv", 'rb')
+csvFile = open("article5_Data.csv", 'rb')
 csvReader = csv.reader(csvFile, delimiter=',', quotechar='"')
+
+fileWriter = csv.writer(open("article5_picked_users.csv", "wb"),delimiter=",")
+
+
 
 for row in csvReader:
     if csvReader.line_num > 1:
-        ID_list.append(row[0])
+        if row[10] == '1':
+            ID_list.append(row[0])
 
 print len(ID_list)
 
@@ -25,8 +26,10 @@ mynewlist = list(myset)
 
 print len(mynewlist)
 
-fileWriter = csv.writer(open("unique_userIDs_article4.csv", "wb"),delimiter=",")
+fileWriter = csv.writer(open("article5_picked_users.csv", "wb"),delimiter=",")
 
 for ID in mynewlist:
    fileWriter.writerow([ID])
+
+
 

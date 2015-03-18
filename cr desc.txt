@@ -1,1 +1,0 @@
-﻿It becomes meaningful when there are 10 or more comments on an article, in order to ensure that there is enough of a discussion to produce robust feature vectors.

@@ -40,9 +40,10 @@ parserkeys.read('apidata/keys_config.ini')
 COMMUNITY_API_KEY = parserkeys.get('API-KEYS', 'KEY1')
 COMMUNITY_API_KEY2 = parserkeys.get('API-KEYS', 'KEY2')
 COMMUNITY_API_KEY3 = parserkeys.get('API-KEYS', 'KEY3')
+COMMUNITY_API_KEY4 = parserkeys.get('API-KEYS', 'KEY4')
 
 
-COMMUNITY_API_KEY_LIST = [COMMUNITY_API_KEY2,COMMUNITY_API_KEY3]
+COMMUNITY_API_KEY_LIST = [COMMUNITY_API_KEY,COMMUNITY_API_KEY2,COMMUNITY_API_KEY3,COMMUNITY_API_KEY4]
 key_limit = 4500
 
 doc_frequency = {}
@@ -112,13 +113,13 @@ def CollectComments():
         global g_offset
         global g_ID
         count = 0
-        with open('unique_userIDs2.csv', 'rb') as f:
+        with open('new_article5_picked_users_work.csv', 'rb') as f:
             reader = csv.reader(f)
             ID_list = list(reader)
-        fileWriter = csv.writer(open("user_comments.csv", "ab"),delimiter=",")
-        # header = ["userID","status","commentBody","approveDate","recommendationCount", \
-        #                     "location","display_name","userComments","times_people", \
-        #                     "commentSequence","editorsSelection"]
+        fileWriter = csv.writer(open("picked_user_comments_article5.csv", "ab"),delimiter=",")
+        header = ["userID","status","commentBody","approveDate","recommendationCount", \
+                            "location","display_name","userComments","times_people", \
+                            "commentSequence","editorsSelection"]
         # fileWriter.writerow(header)
         g_offset = 0
         g_ID = ID_list[0][0]
@@ -152,7 +153,8 @@ def CollectComments():
                 if "comments" in r["results"]:
                     for comment in r["results"]["comments"]:
                         commentBody = escape_string(str(comment["commentBody"].encode("utf8")))
-                        approveDate = int(comment["approveDate"])
+                        # approveDate = int(comment["approveDate"])
+                        approveDate = comment["approveDate"]
                         recommendationCount = int(comment["recommendations"])
                         times_people = int(comment["times_people"])
                         display_name = escape_string(str(comment["display_name"].encode("utf8")))
@@ -164,6 +166,11 @@ def CollectComments():
                             commentSequence = int(commentSequence)
                         else:
                             commentSequence = 0
+
+                        if approveDate is None:
+                            approveDate = 0
+                        else:
+                            approveDate = int(approveDate)
 
                         status = escape_string(str(comment["status"].encode("utf8")))
                         editorsSelection = int(comment["editorsSelection"])

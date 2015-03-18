@@ -34,7 +34,7 @@ def escape_string(string):
 
 class NYTCommunityAPI (object):
     # URL = "http://api.nytimes.com/svc/community/v2/comments/url/"
-    URL = "http://api.nytimes.com/svc/community/v2/comments/url/"
+    URL = "http://api.nytimes.com/svc/community/v3/user-content/"
 
     def __init__(self, key):
         self.nQueries = 0
@@ -59,7 +59,7 @@ class NYTCommunityAPI (object):
         params["sort"] = "oldest"
 
 
-        url = self.URL + "exact-match" + ".json?" + urllib.urlencode (params)
+        url = self.URL + "url" + ".json?" + urllib.urlencode (params)
 
         print url
         response = json.load(urllib.urlopen(url))
@@ -72,12 +72,12 @@ def CollectComments():
     pagesize = 25
     nytapi = NYTCommunityAPI(COMMUNITY_API_KEY2)
     offset = 0
-    url2 = "http://www.nytimes.com/2015/03/17/world/middleeast/benjamin-netanyahu-campaign-settlement.html"
+    url2 = "http://www.nytimes.com/2015/03/09/technology/popular-yik-yak-app-confers-anonymity-and-delivers-abuse.html"
     # Get the total # of comments for today
     r = nytapi.apiCall(url2, offset)
     totalCommentsFound = r["results"]["totalCommentsFound"]
     print "Total comments found: " + str(totalCommentsFound)
-    fileWriter = csv.writer(open("article7_Data.csv", "wb"),delimiter=",")
+    fileWriter = csv.writer(open("articleData_3.csv", "wb"),delimiter=",")
     header = ["userID","status","commentBody","approveDate","recommendationCount", \
                             "location","display_name","userComments","times_people", \
                             "commentSequence","editorsSelection"]
@@ -90,25 +90,29 @@ def CollectComments():
         if "comments" in r["results"]:
             for comment in r["results"]["comments"]:
 
-                userComments = escape_string(str(comment["userComments"].encode("utf8")))
-                userID = re.findall('([0-9]+).xml',userComments)
-                userID = userID[0]
+                # userComments = escape_string(str(comment["userComments"].encode("utf8")))
+                # userID = re.findall('([0-9]+).xml',userComments)
+                userID = int(comment["userID"])
                 commentBody = escape_string(str(comment["commentBody"].encode("utf8")))
                 approveDate = int(comment["approveDate"])
                 recommendationCount = int(comment["recommendations"])
-                display_name = escape_string(str(comment["display_name"].encode("utf8")))
-                userComments = escape_string(str(comment["userComments"].encode("utf8")))
-                times_people = comment["times_people"]
-
+                display_name = escape_string(str(comment["userDisplayName"].encode("utf8")))
+                # userComments = escape_string(str(comment["userComments"].encode("utf8")))
+                times_people = comment["timespeople"]
+                print comment["replies"]
                 # location = ""
                 # if "location" in r:
-                location = escape_string(str(comment["location"].encode("utf8")))
+                location = comment["userLocation"]
+                if isinstance(location,int):
+                    location = str(location)
+                else:
+                    location = escape_string(str(comment["userLocation"].encode("utf8")))
                 commentSequence = int(comment["commentSequence"])
                 status = escape_string(str(comment["status"].encode("utf8")))
                 editorsSelection = int(comment["editorsSelection"])
 
                 data = [userID,status,commentBody,approveDate,recommendationCount, \
-                            location,display_name,userComments,times_people, \
+                            location,display_name,"NA",times_people, \
                             commentSequence,editorsSelection]
 
                 fileWriter.writerow(data)
