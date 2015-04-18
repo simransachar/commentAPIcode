@@ -43,7 +43,7 @@ COMMUNITY_API_KEY3 = parserkeys.get('API-KEYS', 'KEY3')
 COMMUNITY_API_KEY4 = parserkeys.get('API-KEYS', 'KEY4')
 
 
-COMMUNITY_API_KEY_LIST = [COMMUNITY_API_KEY,COMMUNITY_API_KEY2,COMMUNITY_API_KEY3,COMMUNITY_API_KEY4]
+COMMUNITY_API_KEY_LIST = [COMMUNITY_API_KEY3,COMMUNITY_API_KEY4,COMMUNITY_API_KEY,COMMUNITY_API_KEY2]
 key_limit = 4500
 
 doc_frequency = {}
@@ -113,10 +113,10 @@ def CollectComments():
         global g_offset
         global g_ID
         count = 0
-        with open('new_article5_picked_users_work.csv', 'rb') as f:
+        with open('new_unique_userIDs_picked_comments_work.csv', 'rb') as f:
             reader = csv.reader(f)
             ID_list = list(reader)
-        fileWriter = csv.writer(open("picked_user_comments_article5.csv", "ab"),delimiter=",")
+        fileWriter = csv.writer(open("picked_user_comments_1034.csv", "ab"),delimiter=",")
         header = ["userID","status","commentBody","approveDate","recommendationCount", \
                             "location","display_name","userComments","times_people", \
                             "commentSequence","editorsSelection"]

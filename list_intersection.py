@@ -12,7 +12,7 @@ ID_list = list(zip(*ID_list)[0])
 total_myset = set(ID_list)
 
 
-with open('article5_picked_users.csv', 'rb') as f:
+with open('unique_userIDs_picked_comments.csv', 'rb') as f:
     reader = csv.reader(f)
     ID_list2 = list(reader)
 
@@ -37,7 +37,7 @@ total_unique_id_list = total_unique_id_list + net_user_ids
 print len(total_unique_id_list)
 
 
-fileWriter = csv.writer(open("new_article5_picked_users.csv", "wb"),delimiter=",")
+fileWriter = csv.writer(open("new_unique_userIDs_picked_comments.csv", "wb"),delimiter=",")
 
 for ID in net_user_ids:
    fileWriter.writerow([ID])

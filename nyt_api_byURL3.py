@@ -70,17 +70,18 @@ class NYTCommunityAPI (object):
 
 def CollectComments():
     pagesize = 25
+    rep_count = 0
     nytapi = NYTCommunityAPI(COMMUNITY_API_KEY2)
     offset = 0
-    url2 = "http://www.nytimes.com/2015/03/09/technology/popular-yik-yak-app-confers-anonymity-and-delivers-abuse.html"
+    url2 = "http://www.nytimes.com/2015/03/05/upshot/what-is-the-next-next-silicon-valley.html"
     # Get the total # of comments for today
     r = nytapi.apiCall(url2, offset)
     totalCommentsFound = r["results"]["totalCommentsFound"]
     print "Total comments found: " + str(totalCommentsFound)
-    fileWriter = csv.writer(open("articleData_3.csv", "wb"),delimiter=",")
+    fileWriter = csv.writer(open("article3Data.csv", "wb"),delimiter=",")
     header = ["userID","status","commentBody","approveDate","recommendationCount", \
                             "location","display_name","userComments","times_people", \
-                            "commentSequence","editorsSelection"]
+                            "commentSequence","editorsSelection","createDate"]
     fileWriter.writerow(header)
     # Loop through pages to get all comments
     while offset < totalCommentsFound:
@@ -95,11 +96,12 @@ def CollectComments():
                 userID = int(comment["userID"])
                 commentBody = escape_string(str(comment["commentBody"].encode("utf8")))
                 approveDate = int(comment["approveDate"])
+                createDate = int(comment["createDate"])
                 recommendationCount = int(comment["recommendations"])
                 display_name = escape_string(str(comment["userDisplayName"].encode("utf8")))
                 # userComments = escape_string(str(comment["userComments"].encode("utf8")))
                 times_people = comment["timespeople"]
-                print comment["replies"]
+
                 # location = ""
                 # if "location" in r:
                 location = comment["userLocation"]
@@ -113,10 +115,43 @@ def CollectComments():
 
                 data = [userID,status,commentBody,approveDate,recommendationCount, \
                             location,display_name,"NA",times_people, \
-                            commentSequence,editorsSelection]
+                            commentSequence,editorsSelection,createDate]
 
                 fileWriter.writerow(data)
+                a = int(comment["replyCount"])
+                print a
+                print comment["replies"]
+                if a > 3:
+                    a = 3
+
+                rep_count = rep_count + a
+                if len(comment["replies"]) > 0:
+                    for reply in comment["replies"]:
+
+                        rep_userID = int(reply["userID"])
+                        rep_commentBody = escape_string(str(reply["commentBody"].encode("utf8")))
+                        rep_approveDate = int(reply["approveDate"])
+                        rep_createDate = int(reply["createDate"])
+                        rep_recommendationCount = int(reply["recommendations"])
+                        rep_display_name = escape_string(str(reply["userDisplayName"].encode("utf8")))
+                        # userComments = escape_string(str(comment["userComments"].encode("utf8")))
+                        rep_times_people = reply["timespeople"]
+
+                        # location = ""
+                        # if "location" in r:
+                        rep_location = reply["userLocation"]
+                        if isinstance(rep_location,int):
+                            rep_location = str(rep_location)
+                        else:
+                            rep_location = escape_string(str(reply["userLocation"].encode("utf8")))
+                        rep_commentSequence = int(reply["commentSequence"])
+                        rep_status = escape_string(str(reply["status"].encode("utf8")))
+                        rep_editorsSelection = int(comment["editorsSelection"])
+                        rep_data = [rep_userID,rep_status,rep_commentBody,rep_approveDate,rep_recommendationCount, \
+                            rep_location,rep_display_name,"NA",rep_times_people, \
+                            rep_commentSequence,rep_editorsSelection,rep_createDate]
+                        fileWriter.writerow(rep_data)
         offset = offset + pagesize
         print "#Calls: " + str(nytapi.nCalls)
-
+    print rep_count
 CollectComments()

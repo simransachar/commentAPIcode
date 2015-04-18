@@ -4,22 +4,22 @@ import csv
 import mysql.connector
 import time
 import datetime
-from calculate_score import calBrevity, calcReadability, calcPersonalXPScores
+from calculate_score import calBrevity, calcReadability, calcPersonalXPScores, escape_string
 
 cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
                               host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
                               database='comment_iq')
 cursor = cnx.cursor()
 
-csvFile = open("article5_picked_users.csv", 'Ur')
+csvFile = open("new_unique_userIDs_picked_comments_work.csv", 'Ur')
 csvReader = csv.reader(csvFile, delimiter=',', quotechar='"')
 
 userIDlist = []
 for row in csvReader:
     userIDlist.append(row[0])
-fileWriter = csv.writer(open("picked_userscores_article5.csv", "wb"),delimiter=",")
+fileWriter = csv.writer(open("picked_userscores_deok.csv", "ab"),delimiter=",")
 header = ["userID","AVGPersonalXP","AVGReadability","AVGBrevity","AVGRecommendationScore","AVGPicks","AVGcommentspermonth"]
-fileWriter.writerow(header)
+# fileWriter.writerow(header)
 
 for u_id in userIDlist:
 

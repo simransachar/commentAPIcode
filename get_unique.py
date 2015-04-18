@@ -8,7 +8,7 @@ ID_list = []
 #     reader = csv.reader(f)
 #     ID_list = list(reader)
 
-csvFile = open("article4_Data.csv", 'rb')
+csvFile = open("picked_comments2.csv", 'rb')
 csvReader = csv.reader(csvFile, delimiter=',', quotechar='"')
 
 for row in csvReader:
@@ -25,7 +25,7 @@ mynewlist = list(myset)
 
 print len(mynewlist)
 
-fileWriter = csv.writer(open("unique_userIDs_article4.csv", "wb"),delimiter=",")
+fileWriter = csv.writer(open("unique_userIDs_picked_comments.csv", "wb"),delimiter=",")
 
 for ID in mynewlist:
    fileWriter.writerow([ID])

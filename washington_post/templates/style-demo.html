@@ -8,7 +8,7 @@ Licence URI: http://www.os-templates.com/template-terms
 -->
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Washington Post</title>
+<title>Times of Maryland</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <link rel="stylesheet" href="static/layout/styles/layout.css" type="text/css" />
 <script type="text/javascript" src="static/layout/scripts/jquery.min.js"></script>
@@ -38,7 +38,7 @@ Licence URI: http://www.os-templates.com/template-terms
 <div class="wrapper">
   <div id="header">
     <div class="fl_left">
-      <h1><a href="index.html"><strong>W</strong>ashington <strong>P</strong>ost</a></h1>
+      <h1><a href="index.html"><strong>T</strong>imes of <strong>M</strong>aryland</a></h1>
       <p>January 16, 2015</p>
     </div>
 
@@ -99,32 +99,32 @@ Licence URI: http://www.os-templates.com/template-terms
             <div class="submitdate"><a href="#"> {{ comment[1] }} </a></div>
             <p>{{ comment[0] }}</p>
             <div class="submitdate">
-                {% if comment[3] == None and comment[4] == None %}
-                    <a href="/get_AllScores?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">Get All Scores</a>
-                   <br> ------------------ <br>
-            ArticleRelevance:  <a href="/get_AR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
-                    <br>
-            Conversational Relevance:  <a href="/get_CR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
-                {% elif comment[3] == None  %}
-
             <a href="/get_AllScores?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">Get All Scores</a>
                    <br> ------------------ <br>
-            ArticleRelevance:  <a href="/get_AR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
-                    <br>
-            Conversational Relevance:  {{ comment[4] }}
-                {% elif comment[4] == None %}
+            {% if comment[3] == None %}
+             ArticleRelevance:  <a href="/get_AR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             ArticleRelevance:  {{ comment[3] }}
+            {% endif %}
 
-            <a href="/get_AllScores?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">Get All Scores</a>
-                   <br> ------------------ <br>
-            ArticleRelevance:  {{ comment[3] }}
                     <br>
-            Conversational Relevance:  <a href="/get_CR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
-                 {% else %}
-            ArticleRelevance:  {{ comment[3] }}
+            {% if comment[4] == None %}
+             Conversational Relevance:  <a href="/get_CR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Conversational Relevance:  {{ comment[4] }}
+            {% endif %}
                     <br>
-            Conversational Relevance:  {{ comment[4] }}
-
-                {% endif %}
+            {% if comment[6] == None %}
+             Personal Experience:  <a href="/get_PX?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Personal Experience:  {{ comment[6] }}
+            {% endif %}
+                    <br>
+            {% if comment[7] == None %}
+             Readability:  <a href="/get_RD?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Readability:  {{ comment[7] }}
+            {% endif %}
 
             </div>
                 </br>

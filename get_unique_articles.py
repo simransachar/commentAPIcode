@@ -1,13 +1,25 @@
 # -*- coding: utf-8 -*-
 __author__ = 'simranjitsingh'
 
+import csv
 import urllib
 import time
 import datetime
 import json
 import mysql.connector
 import re
-import csv
+
+csvFile = open("picked_comments.csv", 'rb')
+csvReader = csv.reader(csvFile, delimiter=',', quotechar='"')
+a = []
+
+for row in csvReader:
+    a.append(row[10])
+
+b = set(a)
+
+c = list(b)
+
 
 cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
                               host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
@@ -71,48 +83,53 @@ class NYTCommunityAPI (object):
 def CollectComments():
     pagesize = 25
     nytapi = NYTCommunityAPI(COMMUNITY_API_KEY2)
-    offset = 0
-    url2 = "http://www.nytimes.com/2015/03/17/world/middleeast/benjamin-netanyahu-campaign-settlement.html"
-    # Get the total # of comments for today
-    r = nytapi.apiCall(url2, offset)
-    totalCommentsFound = r["results"]["totalCommentsFound"]
-    print "Total comments found: " + str(totalCommentsFound)
-    fileWriter = csv.writer(open("article7_Data_exp.csv", "wb"),delimiter=",")
+
+    fileWriter = csv.writer(open("article_data_picked_urls.csv", "wb"),delimiter=",")
     header = ["userID","status","commentBody","approveDate","recommendationCount", \
                             "location","display_name","userComments","times_people", \
                             "commentSequence","editorsSelection"]
     fileWriter.writerow(header)
-    # Loop through pages to get all comments
-    while offset < totalCommentsFound:
+    for i in c:
+
+        offset = 0
+#        url2 = "http://www.nytimes.com/2015/03/17/world/middleeast/benjamin-netanyahu-campaign-settlement.html"
+        url2 = i
+        # Get the total # of comments for today
         r = nytapi.apiCall(url2, offset)
+        totalCommentsFound = r["results"]["totalCommentsFound"]
+        print "Total comments found: " + str(totalCommentsFound)
 
-        # DB insertion call here.
-        if "comments" in r["results"]:
-            for comment in r["results"]["comments"]:
+        # Loop through pages to get all comments
+        while offset < totalCommentsFound:
+            r = nytapi.apiCall(url2, offset)
 
-                userComments = escape_string(str(comment["userComments"].encode("utf8")))
-                userID = re.findall('([0-9]+).xml',userComments)
-                userID = userID[0]
-                commentBody = escape_string(str(comment["commentBody"].encode("utf8")))
-                approveDate = int(comment["approveDate"])
-                recommendationCount = int(comment["recommendations"])
-                display_name = escape_string(str(comment["display_name"].encode("utf8")))
-                userComments = escape_string(str(comment["userComments"].encode("utf8")))
-                times_people = comment["times_people"]
+            # DB insertion call here.
+            if "comments" in r["results"]:
+                for comment in r["results"]["comments"]:
 
-                # location = ""
-                # if "location" in r:
-                location = escape_string(str(comment["location"].encode("utf8")))
-                commentSequence = int(comment["commentSequence"])
-                status = escape_string(str(comment["status"].encode("utf8")))
-                editorsSelection = int(comment["editorsSelection"])
+                    userComments = escape_string(str(comment["userComments"].encode("utf8")))
+                    userID = re.findall('([0-9]+).xml',userComments)
+                    userID = userID[0]
+                    commentBody = escape_string(str(comment["commentBody"].encode("utf8")))
+                    approveDate = int(comment["approveDate"])
+                    recommendationCount = int(comment["recommendations"])
+                    display_name = escape_string(str(comment["display_name"].encode("utf8")))
+                    userComments = escape_string(str(comment["userComments"].encode("utf8")))
+                    times_people = comment["times_people"]
 
-                data = [userID,status,commentBody,approveDate,recommendationCount, \
-                            location,display_name,userComments,times_people, \
-                            commentSequence,editorsSelection]
+                    # location = ""
+                    # if "location" in r:
+                    location = escape_string(str(comment["location"].encode("utf8")))
+                    commentSequence = int(comment["commentSequence"])
+                    status = escape_string(str(comment["status"].encode("utf8")))
+                    editorsSelection = int(comment["editorsSelection"])
 
-                fileWriter.writerow(data)
-        offset = offset + pagesize
-        print "#Calls: " + str(nytapi.nCalls)
+                    data = [userID,status,commentBody,approveDate,recommendationCount, \
+                                location,display_name,userComments,times_people, \
+                                commentSequence,editorsSelection]
+
+                    fileWriter.writerow(data)
+            offset = offset + pagesize
+            print "#Calls: " + str(nytapi.nCalls)
 
 CollectComments()
