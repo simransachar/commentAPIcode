@@ -173,7 +173,7 @@ def CollectComments():
 
                         cursor.execute(insert_query)
 
-                # cnx.commit()
+                cnx.commit()
                 offset = offset + pagesize
 
                 update_date_json(d.strftime("%Y-%m-%d"),d_end.strftime("%Y-%m-%d"),offset)
@@ -191,7 +191,7 @@ def CollectComments():
                 cursor.execute("select DATE_SUB(max(approveDate), INTERVAL 90 DAY) from vocab_comments ")
                 max_date = cursor.fetchall()[0][0].strftime("%Y-%m-%d")
                 cursor.execute("delete from vocab_comments where approveDate < '"+ max_date +"'")
-                # cnx.commit()
+                cnx.commit()
     except:
         print error_name(g_day,g_offset)
         sys.exit(1)
@@ -217,7 +217,7 @@ def ComputeVocabulary():
         # find cutoff
         unigram_cutoff = 0
         json_data = {}
-        out_file = open("apidata/vocab_freq2.json","w")
+        out_file = open("apidata/vocab_freq.json","w")
         for (i, (word, word_freq)) in enumerate(sorted_list):
             if word_freq < 10:
                 unigram_cutoff = i - 1
@@ -288,7 +288,7 @@ def update_date_json(start_date,end_date,offset_value):
 def getDocumentCount():
     try:
         json_data = {}
-        output_json = open("apidata/document_count2.json", "w")
+        output_json = open("apidata/document_count.json", "w")
         cursor.execute("select count(*) from vocab_comments")
         for count in cursor:
             json_data['document_count'] = str(count[0])
