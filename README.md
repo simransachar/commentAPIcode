@@ -64,13 +64,12 @@ Python script to perform this operation : NytApiCall_ComputeVocab.py
 
 * Change the COMMUNITY_API_KEY_LIST in the code according to the number of keys you have. 
 * Make sure the Key-Value pair in the code and keys_config.ini file are in sync.
-* Each NYT API keys have a limit of 5000 calls per day. So please make sure the key limit does not exceed more than 5000.
+* Each NYT API keys have a limit of 5000 calls per day. So please make sure the key limit does not exceed more than 5000. Exceeding the key limit will lead to "Developer over rate" and you will not be able to fetch comments via the same API key. click <a href="http://developer.nytimes.com/docs/faq#9a" target="_blank">here</a> for more information. 
 
 The Code perform 4 operations:
 
-1. User Input: The user specifies a starting date, ending date, offset value of their choice, which specifis the range of data to collect
+1. User Input: The user specifies a starting date, ending date, offset value of their choice, which specifis the range of data to collect.
 2. Collect Comments:                    
-    * Upon running NytApiCall_ComputeVocab.py it will ask the user to enter start and end date. 
     * This function will collect all the comments data from the New York Times as per the mentioned dates. 
     * The comments data will be stored in the vocab_comments table. 
     * The offset value is 25 which means each call will fetch 25 comments. 
@@ -90,8 +89,28 @@ This will start the flask server and you can start using the CommentIQ API.
 
 <b>Note: </b>For the local machine the base url will change according to your host name. For example most local machines will have local server running on 127.0.0.1:5000.  In this case the base url will be : http://127.0.0.1:5000/commentIQ/v1
 #####
-###  Example
-##### Python Code
+###  Examples
+##### Add Article (Python Code)
+```sh
+imoport requests
+import json
+
+your_article_text = "Your Article Text"
+url = "http://127.0.0.1:5000/commentIQ/v1/addArticle"
+params = {'article_text' : your_article_text }
+param_json = json.dumps(params)
+response = requests.post(url, param_json)
+response_articleID = response.json()['articleID']
+status = response.json()['status']
+```
+##### RESPONSE JSON
+```sh
+{
+    "ArticleID": "78"
+    "status": "Add Successful"
+}        
+```
+##### Add Comment (Python Code)
 ```sh
 import requests
 import json
@@ -106,7 +125,7 @@ AR = response.json()['ArticleRelevance']
 CR = response.json()['ConversationalRelevance']
 personal_exp = response.json()['PersonalXP']
 readability = response.json()['Readability']
-brevity = response.json()['Brevity']
+Length = response.json()['Length']
 commentID = response.json()['CommentID']
 status = response.json()['status']
 ```
@@ -117,7 +136,7 @@ status = response.json()['status']
     "ConversationalRelevance": "0.4046152704799379"
     "Readability": "0.0727272727273"
     "PersonalXP": "17.2"
-    "Brevity": "55"
+    "Length": "55"
     "status": "Insert Successful"
     "CommentID": "1714"
 }        
