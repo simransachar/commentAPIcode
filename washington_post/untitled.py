@@ -4,17 +4,31 @@ from bs4 import BeautifulSoup
 import mysql.connector
 import json
 import requests
+from ConfigParser import SafeConfigParser
 
 app = Flask(__name__)
 app.debug = True
 
-cnx = mysql.connector.connect(user='root', password='simran',
-                              host='127.0.0.1',
-                              database='comment_iq')
-# cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
-#                              host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
-#                              database='comment_iq')
-cursor = cnx.cursor()
+# Get the config file for database
+parser = SafeConfigParser()
+# Edit the config file to fill in your credentials
+parser.read('database.ini')
+
+# Fetch the credentials from config file
+user = parser.get('credentials', 'user')
+password = parser.get('credentials', 'password')
+host = parser.get('credentials', 'host')
+database = parser.get('credentials', 'database')
+
+# cnx = mysql.connector.connect(user='root', password='simran',
+#                               host='127.0.0.1',
+#                               database='comment_iq')
+# # cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
+# #                              host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
+# #                              database='comment_iq')
+# cursor = cnx.cursor()
+
+base_url = "http://api.comment-iq.com/commentIQ/v1"
 
 def escape_string(string):
     res = string
@@ -28,6 +42,8 @@ def escape_string(string):
 
 @app.route('/')
 def show_index():
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
     cursor.execute("select * from client_articles")
     article_text_list = []
     article_title = []
@@ -51,6 +67,7 @@ def show_index():
         for tag in soup.findAll(True):
             tag.replaceWithChildren()
             row[2] = soup.get_text()
+    cnx.close
     return render_template('index.html',article_text_list=article_text_list,article_title=article_title,article_url=article_url,disp_list=disp_list)
 
 @app.route('/articles')
@@ -62,6 +79,10 @@ def articles():
     sort = request.args.get('sort')
     print "---------"
     print article_url
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select headline,full_text,articleURL from client_articles where articleURL = '"+ article_url +"'")
     for row in cursor:
         article_title = row[0]
@@ -110,18 +131,22 @@ def articles():
         article_text_list.append(article_text)
         article_title.append(row[2])
         article_url.append(row[7])
+    cnx.close
     return render_template('style-demo.html',comment_data=comment_data,article_data=article_data,new_comment=new_comment \
                            ,article_text_list=article_text_list,article_title=article_title,article_url=article_url,updated=updated)
 
 @app.route('/new_article', methods=['GET', 'POST'])
 def new_article():
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     if request.method == 'POST':
         article_title = request.form['title']
         article_text = request.form['article_text']
         article_url = request.form['url']
         material_type = request.form['type']
         current_time = time.strftime("%Y-%m-%d %I:%M:%S")
-        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addArticle"
+        url = base_url + "/addArticle"
         params = {'article_text' : article_text }
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
@@ -129,6 +154,7 @@ def new_article():
         commentiq_article_id = response.json()['articleID']
         article_text = article_text.strip()
         article_text = escape_string(article_text)
+
         insert_query = "INSERT INTO client_articles (pubDate, headline, articleURL , full_text, materialType, commentiq_articleID)" \
                                     " VALUES('%s', '%s', '%s', '%s','%s', '%s')" % \
                                     (current_time, article_title, article_url , article_text,material_type,str(commentiq_article_id))
@@ -148,13 +174,17 @@ def new_article():
         article_text_list.append(article_text)
         article_title.append(row[2])
         article_url.append(row[7])
-
+    cnx.close
     return render_template('new_article.html',article_text_list=article_text_list,article_title=article_title,article_url=article_url)
 
 @app.route('/add_comment', methods=['GET', 'POST'])
 def add_comment():
     if request.method == 'POST':
         article_url=request.args.get('article_url')
+
+        cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+        cursor = cnx.cursor()
+
         cursor.execute("select commentiq_articleID from client_articles where articleURL = '"+ article_url +"'")
         for data in cursor:
             a_id = data[0]
@@ -163,7 +193,7 @@ def add_comment():
         if not name:
             name = "Anonymous"
         current_time = time.strftime("%Y-%m-%d %H:%M:%S")
-        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addComment"
+        url = base_url + "/addComment"
         params = {'articleID' : a_id, 'commentBody' : comment_text}
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
@@ -183,6 +213,7 @@ def add_comment():
                         str(Readability), str(commentiq_comment_id))
         cursor.execute(insert_query)
         new_comment="yes"
+        cnx.close
     return redirect(url_for('articles',article_url=article_url,new_comment=new_comment))
 
 @app.route('/edit_comment')
@@ -193,6 +224,10 @@ def edit_comment():
     article_url = request.args.get('article_url')
     new_comment=request.args.get('new_comment')
     sort = request.args.get('sort')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select headline,full_text,articleURL from client_articles where articleURL = '"+ article_url +"'")
     for row in cursor:
         article_title = row[0]
@@ -238,19 +273,23 @@ def edit_comment():
         article_text_list.append(article_text)
         article_title.append(row[2])
         article_url.append(row[7])
+    cnx.close
     return render_template('edit_comment.html',comment_data=comment_data,article_data=article_data,new_comment=new_comment \
                            ,article_text_list=article_text_list,article_title=article_title,article_url=article_url,commentID=commentID)
 
 @app.route('/update_comment', methods=['GET', 'POST'])
 def update_comment():
     if request.method == 'POST':
+        cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+        cursor = cnx.cursor()
+
         commentID = request.args.get('commentID')
         article_url = request.args.get('article_url')
         comment_text = request.form['comment_text']
         comment_text = comment_text.strip()
         cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
         commentiq_commentID = cursor.fetchall()[0][0]
-        url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateComment"
+        url = base_url + "/updateComment"
         params = {'commentBody' : comment_text, 'commentID' : commentiq_commentID }
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
@@ -266,15 +305,20 @@ def update_comment():
                  ",PersonalXP = '"+ str(PersonalXP) +"',Readability = '"+ str(Readability) +"'" \
                  "where commentID = '"+ str(commentID) +"'"
         cursor.execute(update)
+        cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
 @app.route('/delete_comment', methods=['GET', 'POST'])
 def delete_comment():
     commentID = request.args.get('commentID')
     article_url = request.args.get('article_url')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/deleteComment/'"+ str(commentiq_commentID) +"'"
+    url = base_url + "/deleteComment/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     print response.json()
     delete = "delete from client_comments where commentID = '"+ str(commentID) +"'"
@@ -282,33 +326,47 @@ def delete_comment():
     cursor.execute("select commentID from client_comments where articleURL = '"+ article_url +"' and " \
                    "commentID > '"+ commentID +"' Limit 1 ")
     next_id = cursor.fetchall()
+    cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=next_id[0][0]))
 
 @app.route('/get_AR', methods=['GET', 'POST'])
 def get_AR():
     commentID = request.args.get('commentID')
     article_url = request.args.get('article_url')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getArticleRelevance/'"+ str(commentiq_commentID) +"'"
+    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getArticleRelevance/'"+ str(commentiq_commentID) +"'"
+    url = base_url + "/getArticleRelevance/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     ar_score = response.json()['ArticleRelevance']
     update = "UPDATE client_comments SET ArticleRelevance = '" + str(ar_score) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
 @app.route('/get_CR', methods=['GET', 'POST'])
 def get_CR():
     commentID = request.args.get('commentID')
     article_url = request.args.get('article_url')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getConversationalRelevance/'"+ str(commentiq_commentID) +"'"
+    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getConversationalRelevance/'"+ str(commentiq_commentID) +"'"
+    url = base_url + "/getConversationalRelevance/" + str(commentiq_commentID) +"'"
+
     response = requests.get(url)
     cr_score = response.json()['ConversationalRelevance']
     print response.json()
     update = "UPDATE client_comments SET ConversationalRelevance = '" + str(cr_score) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 @app.route('/get_CR', methods=['GET', 'POST'])
 
@@ -316,28 +374,40 @@ def get_CR():
 def get_PX():
     commentID = request.args.get('commentID')
     article_url = request.args.get('article_url')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getPersonalXP/'"+ str(commentiq_commentID) +"'"
+    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getPersonalXP/'"+ str(commentiq_commentID) +"'"
+    url = base_url + "/getPersonalXP/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     PersonalXP = response.json()['PersonalXP']
     print response.json()
     update = "UPDATE client_comments SET PersonalXP = '" + str(PersonalXP) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
 @app.route('/get_RD', methods=['GET', 'POST'])
 def get_RD():
     commentID = request.args.get('commentID')
     article_url = request.args.get('article_url')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getReadability/'"+ str(commentiq_commentID) +"'"
+    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getReadability/'"+ str(commentiq_commentID) +"'"
+    url = base_url + "/getReadability/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     Readability = response.json()['Readability']
     print response.json()
     update = "UPDATE client_comments SET Readability = '" + str(Readability) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
 
@@ -345,9 +415,14 @@ def get_RD():
 def get_scores():
     commentID = request.args.get('commentID')
     article_url = request.args.get('article_url')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getScores/'"+ str(commentiq_commentID) +"'"
+    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getScores/'"+ str(commentiq_commentID) +"'"
+    url = base_url + "/getScores/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     ar_score = response.json()['ArticleRelevance']
     cr_score = response.json()['ConversationalRelevance']
@@ -357,6 +432,7 @@ def get_scores():
     update = "UPDATE client_comments SET ArticleRelevance = '" + str(ar_score) + "', ConversationalRelevance = '" + str(cr_score) + "' " \
               ", PersonalXP = '" + str(PersonalXP) + "', Readability = '" + str(Readability) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
 

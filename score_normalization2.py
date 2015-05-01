@@ -146,5 +146,5 @@ for i in list1:
     # net_score = (100/float(d)) * d2
     # loc1 = list1.index(i)
     # list1[loc1][24] = net_score
-
+    print i
     fileWriter.writerow(i)

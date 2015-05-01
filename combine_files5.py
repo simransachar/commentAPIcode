@@ -3,10 +3,10 @@ __author__ = 'simranjitsingh'
 import csv
 
 
-csvFile1 = open("AR_CR_others.csv", 'rb')
+csvFile1 = open("AR_CR_others_normalized.csv", 'rb')
 csvReader1 = csv.reader(csvFile1, delimiter=',', quotechar='"')
 
-csvFile2 = open("picked_comments_user_scores.csv", 'rb')
+csvFile2 = open("picked_comments_user_scores_normalized.csv", 'rb')
 csvReader2 = csv.reader(csvFile2, delimiter=',', quotechar='"')
 
 header = ["CommentID","CommentTitle","commentBody","ApproveDate","RecommendationCount", \
@@ -16,7 +16,7 @@ header = ["CommentID","CommentTitle","commentBody","ApproveDate","Recommendation
                             "AVGReadability","AVGBrevity","AVGRecommendationScore","AVGPicks","AVGcommentspermonth"]
 
 
-fileWriter = csv.writer(open("1034_picked_comments_final.csv", "wb"),delimiter=",")
+fileWriter = csv.writer(open("1034_picked_comments_final_normalized.csv", "wb"),delimiter=",")
 fileWriter.writerow(header)
 list1 =[]
 list2=[]
