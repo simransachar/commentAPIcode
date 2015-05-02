@@ -202,7 +202,7 @@ def add_comment():
         PersonalXP = response.json()['PersonalXP']
         Readability = response.json()['Readability']
 
-        commentiq_comment_id = response.json()['CommentID']
+        commentiq_comment_id = response.json()['commentID']
         print response.json()
         comment_text = comment_text.strip()
         comment_text = escape_string(comment_text)

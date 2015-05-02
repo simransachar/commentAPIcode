@@ -60,7 +60,7 @@ comment_text = "Oh how true - you nailed it again! In my case, viewing the entir
 # params = {'commentBody' : comment_text, 'articleID' : articleID }
 # params = {'commentBody' : comment_text, 'articleID' : articleID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
 # 'username': username,'location': location}
-params = {'commentBody' : comment_text, 'commentID' : commentID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
+params = {'commentBody' : comment_text, 'CommentID' : commentID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
 'username': username,'location': location}
 #params = {'commentBody' : comment_text, 'articleID' : articleID, 'RecommendationCount' : RecommendationCount }
 #params = {'article_text' : comment_text, 'articleID' : articleID }

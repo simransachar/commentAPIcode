@@ -111,7 +111,7 @@ def AddComment():
                 except:
                     err_msg =  "Incorrect date format, Correct format should be YYYY-MM-DD H:M:S"
                     return jsonify(ArticleRelevance = 0.0, ConversationalRelevance = 0.0 , PersonalXP = 0.0 , \
-                               Readability = 0.0, Length = 0.0,CommentID = None ,status = err_msg)
+                               Readability = 0.0, Length = 0.0,commentID = None ,status = err_msg)
             else:
                 commentDate = ""
 
@@ -137,7 +137,7 @@ def AddComment():
             count = cursor.fetchall()[0][0]
             if count < 1 :
                 return jsonify(ArticleRelevance = 0.0, ConversationalRelevance = 0.0 , PersonalXP = 0.0 , \
-                               Readability = 0.0, Length = 0.0,CommentID = None ,status = "Operation failed")
+                               Readability = 0.0, Length = 0.0,commentID = None ,status = "Operation failed")
             else:
                 # Call addComment() function of subroutine - calculate_score to calculate all the scores
                 ArticleRelevance, ConversationalRelevance, PersonalXP, Readability, Length = \
@@ -177,7 +177,7 @@ def AddComment():
 
     return jsonify(ArticleRelevance = ArticleRelevance, ConversationalRelevance = ConversationalRelevance, \
                    PersonalXP = PersonalXP, Readability = Readability, Length = Length,  \
-                   CommentID = CommentID,status=status)
+                   commentID = CommentID,status=status)
 
 #Update the comment Text and return the updated scores
 @app.route('/commentIQ/v1/updateComment', methods=['GET', 'POST', 'DELETE'])
@@ -208,7 +208,7 @@ def UpdateComments():
                 except:
                     err_msg =  "Incorrect date format, Correct format should be YYYY-MM-DD H:M:S"
                     return jsonify(ArticleRelevance = 0.0, ConversationalRelevance = 0.0 , PersonalXP = 0.0 , \
-                               Readability = 0.0, Length = 0.0,CommentID = None ,status = err_msg)
+                               Readability = 0.0, Length = 0.0 ,status = err_msg)
 
             if 'recommendationCount' in dataDict:
                 recommendationCount = dataDict['recommendationCount']
