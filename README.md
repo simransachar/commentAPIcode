@@ -163,8 +163,8 @@ best results for conversational relevance make sure to add the comments of an ar
 #### Optional Parameters
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| commentDate | Should be sent as key name In JSON format |
-| recommendationCount | Recommendation Count(or likes for comment) Should be sent as key name In JSON format |
+| commentDate | Should be sent as key name In JSON format and its value should be in YYYY-MM-DD H:M:S format|
+| recommendationCount | Recommendation Count(or likes for comment) should be sent as key name In JSON format |
 | username | Should be sent as key name In JSON format |
 | location | Location of user should be sent as key name In JSON format |
 
@@ -237,10 +237,10 @@ To update comment - Comment Text and Comment ID nees to be sent via an HTTP POST
 #### Optional Parameters
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| commentDate | Should be sent as key name In JSON format |
-| recommendationCount | Should be sent as key name In JSON format |
+| commentDate | Should be sent as key name In JSON format and its value should be in YYYY-MM-DD H:M:S format|
+| recommendationCount | Recommendation Count(or likes for comment) should be sent as key name In JSON format |
 | username | Should be sent as key name In JSON format |
-| location | Should be sent as key name In JSON format |
+| location | Location of user should be sent as key name In JSON format |
 
 
 ### Response
@@ -260,7 +260,7 @@ To update comment - Comment Text and Comment ID nees to be sent via an HTTP POST
 import requests
 import json
 
-updated_comment_text = "Your Update Comment Text"
+updated_comment_text = "Your Updated Comment Text"
 commentID = 172
 url = "http://api.comment-iq.com/commentIQ/v1/updateComment"
 params = {'commentBody' : update_comment_text, 'commentID' : commentID }
