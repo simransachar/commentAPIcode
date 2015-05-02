@@ -44,7 +44,7 @@ For convenience, and to get started with the API quickly, a vocabulary file is p
 
 NYT API access is necessary to download comment data that is processed to produce a vocabulary. To request NYT API keys see <a href="http://developer.nytimes.com/docs/reference/keys" target="_blank">here</a>
 
-To create the vocabulary using the NYT API, you need to edit a config file with your credentials to access that API:
+To create the vocabulary using the NYT API, you need to edit a config file in the 'apidata' folder with your credentials to access that API:
 keys_config.ini
 ```sh
 [API-KEYS]
@@ -62,9 +62,8 @@ KEY2=cksdh4934dkhf:0:2092
 Python script to perform this operation : NytApiCall_ComputeVocab.py
 ####Steps to Run NytApiCall_ComputeVocab.py :
 
-* Change the COMMUNITY_API_KEY_LIST in the code according to the number of keys you have. 
-* Make sure the Key-Value pair in the code and keys_config.ini file are in sync.
-* Each NYT API keys have a limit of 5000 calls per day. So please make sure the key limit does not exceed more than 5000. Exceeding the key limit will lead to "Developer over rate" and you will not be able to fetch comments via the same API key. click <a href="http://developer.nytimes.com/docs/faq#9a" target="_blank">here</a> for more information. 
+
+Each NYT API keys have a limit of 5000 calls per day. So please make sure the key limit does not exceed more than 5000. Exceeding the key limit will lead to "Developer over rate" and you will not be able to fetch more comments via the same API key. Click <a href="http://developer.nytimes.com/docs/faq#9a" target="_blank">here</a> for more information. 
 
 The Code perform 4 operations:
 
@@ -137,7 +136,7 @@ status = response.json()['status']
     "Readability": "0.0727272727273"
     "PersonalXP": "17.2"
     "Length": "55"
-    "status": "Insert Successful"
+    "status": "Add Successful"
     "CommentID": "1714"
 }        
 ```
