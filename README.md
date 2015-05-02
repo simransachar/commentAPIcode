@@ -293,7 +293,7 @@ To delete a comment - Comment ID needs to be sent via an HTTP DELETE method.
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://api.comment-iq.com/commentIQ//commentIQ/v1/deleteComment/<b>commentID</b> |
+| URL |  http://api.comment-iq.com/commentIQ/v1/deleteComment/<b>commentID</b> |
 | HTTP method |  DELETE |
 | Response format |  JSON (.json) |    
 
@@ -336,7 +336,7 @@ To get the Article Relevance Score of a comment - the Comment ID needs to be sen
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://api.comment-iq.com/commentIQ//commentIQ/v1/getArticleRelevance/<b>commentID</b> |
+| URL |  http://api.comment-iq.com/commentIQ/v1/getArticleRelevance/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -379,7 +379,7 @@ To get the Conversational Relevance Score of a comment - the Comment ID needs to
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://api.comment-iq.com/commentIQ//commentIQ/v1/getConversationalRelevance/<b>commentID</b> |
+| URL |  http://api.comment-iq.com/commentIQ/v1/getConversationalRelevance/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -423,7 +423,7 @@ To get the Personal Experience Score of a comment - the Comment ID needs to be s
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://api.comment-iq.com/commentIQ//commentIQ/v1/getPersonalXP/<b>commentID</b> |
+| URL |  http://api.comment-iq.com/commentIQ/v1/getPersonalXP/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -468,7 +468,7 @@ To get the Readability Score of a comment - Comment ID needs to be sent via an H
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://api.comment-iq.com/commentIQ//commentIQ/v1/getReadability/<b>commentID</b> |
+| URL |  http://api.comment-iq.com/commentIQ/v1/getReadability/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -513,7 +513,7 @@ To get the Length Score of a comment - Comment ID needs to be sent via an HTTP G
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://api.comment-iq.com/commentIQ//commentIQ/v1/getLength/<b>commentID</b> |
+| URL |  http://api.comment-iq.com/commentIQ/v1/getLength/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
@@ -557,7 +557,7 @@ To get All Scores of a comment - the Comment ID needs to be sent via HTTP GET me
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| URL |  http://api.comment-iq.com/commentIQ//commentIQ/v1/getScores/<b>commentID</b> |
+| URL |  http://api.comment-iq.com/commentIQ/v1/getScores/<b>commentID</b> |
 | HTTP method |  GET |
 | Response format |  JSON (.json) |    
 
