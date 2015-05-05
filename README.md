@@ -95,8 +95,8 @@ status = response.json()['status']
 
 ### 2. <a name="2"></a>Update Article
 #### 
-To update articles - updated article text and ArticleID needs to be send via HTTP POST method.                
-<b>Note: </b> It is important to update the API database with updated article text if it changes in order to calculate correct Article Relevance Score for a comment.
+To update articles - updated article text and ArticleID needs to be sent via an HTTP POST method.                
+<b>Note: </b> It is important to update the API database with updated article text if it changes in order to calculate the correct Article Relevance Score for a comment.
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
@@ -216,7 +216,7 @@ status = response.json()['status']
 
 ### 4. <a name="4"></a>Update Comment
 #### 
-To update comment - Comment Text and Comment ID nees to be sent via an HTTP POST method. All the scores will be calculated and sent via Response.           
+To update comment - Comment Text and Comment ID needs to be sent via an HTTP POST method. All the scores will be calculated and sent via the Response.           
 <b>Note: </b> It is important to update the API with comment text that has changed in order to calculate the correct scores for a comment.
 
 
@@ -263,7 +263,7 @@ import json
 updated_comment_text = "Your Updated Comment Text"
 commentID = 172
 url = "http://api.comment-iq.com/commentIQ/v1/updateComment"
-params = {'commentBody' : update_comment_text, 'commentID' : commentID }
+params = {'commentBody' : updated_comment_text, 'commentID' : commentID }
 param_json = json.dumps(params)
 response = requests.post(url, param_json)
 AR = response.json()['ArticleRelevance']
@@ -318,7 +318,7 @@ import requests
 import json
 
 commentID = 172
-url = "http://api.comment-iq.com/commentIQ/v1/deleteComment/'"+ str(commentID) +"'"
+url = "http://api.comment-iq.com/commentIQ/v1/deleteComment/" + str(commentID)
 response = requests.delete(url)
 print response.json()
 ```
@@ -361,7 +361,7 @@ import requests
 import json
 
 commentID = 172
-url = "http://api.comment-iq.com/commentIQ/v1/getArticleRelevance/'"+ str(commentID) +"'"
+url = "http://api.comment-iq.com/commentIQ/v1/getArticleRelevance/" + str(commentID)
 response = requests.get(url)
 print response.json()
 ```
@@ -404,7 +404,7 @@ import requests
 import json
 
 commentID = 172
-url = "http://api.comment-iq.com/commentIQ/v1/getConversationalRelevance/'"+ str(commentID) +"'"
+url = "http://api.comment-iq.com/commentIQ/v1/getConversationalRelevance/" + str(commentID)
 response = requests.get(url)
 print response.json()
 ```
@@ -448,7 +448,7 @@ import requests
 import json
 
 commentID = 172
-url = "http://api.comment-iq.com/commentIQ/v1/getPersonalXP/'"+ str(commentID) +"'"
+url = "http://api.comment-iq.com/commentIQ/v1/getPersonalXP/" + str(commentID)
 response = requests.get(url)
 print response.json()
 ```
@@ -493,7 +493,7 @@ import requests
 import json
 
 commentID = 172
-url = "http://api.comment-iq.com/commentIQ/v1/getReadability/'"+ str(commentID) +"'"
+url = "http://api.comment-iq.com/commentIQ/v1/getReadability/"+ str(commentID) 
 response = requests.get(url)
 print response.json()
 ```
@@ -538,7 +538,7 @@ import requests
 import json
 
 commentID = 172
-url = "http://api.comment-iq.com/commentIQ/v1/getLength/'"+ str(commentID) +"'"
+url = "http://api.comment-iq.com/commentIQ/v1/getLength/"+ str(commentID)
 response = requests.get(url)
 print response.json()
 ```
@@ -586,7 +586,7 @@ imoport requests
 import json
 
 commentID = 172
-url = "http://api.comment-iq.com/commentIQ/v1/getScores/'"+ str(commentID) +"'"
+url = "http://api.comment-iq.com/commentIQ/v1/getScores/"+ str(commentID)
 response = requests.get(url)
 print response.json()
 ```

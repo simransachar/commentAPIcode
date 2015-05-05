@@ -1,0 +1,65 @@
+<html>
+<head>
+<script src="http://code.jquery.com/jquery-1.8.2.js" type="text/javascript"></script>
+<title>jQuery Add More/Less link to Text</title>
+<script type="text/javascript">
+$(function() {
+var showChar = 120, showtxt = "more", hidetxt = "less";
+$('.more').each(function() {
+var content = $(this).text();
+if (content.length > showChar) {
+var con = content.substr(0, showChar);
+var hcon = content.substr(showChar, content.length - showChar);
+var txt= con +  '<span class="dots">...</span><span class="morecontent"><span>' + hcon + '</span>&nbsp;&nbsp;<a href="" class="moretxt">' + showtxt + '</a></span>';
+$(this).html(txt);
+}
+});
+$(".moretxt").click(function() {
+if ($(this).hasClass("sample")) {
+$(this).removeClass("sample");
+$(this).text(showtxt);
+} else {
+$(this).addClass("sample");
+$(this).text(hidetxt);
+}
+$(this).parent().prev().toggle();
+$(this).prev().toggle();
+return false;
+});
+});
+</script>
+<style type="text/css">
+body{
+font-family: Calibri, Arial;
+margin: 0px;
+padding: 0px;
+}
+.more {
+width: 400px;
+background-color: #f0f0f0;
+margin: 10px;
+}
+.morecontent span {
+display: none;
+}
+</style>
+</head>
+<body>
+<div class="more">
+Welcome to Aspdotnet-suresh. It's Technical blog related to Microsoft Technologies.
+It's Technical blog related to Microsoft Technologies. It's Technical blog related
+to Microsoft Technologies
+</div>
+<div class="more">
+Aspdotnet-Suresh.com offers many Microsoft related articles. Welcome to Aspdotnet-suresh.
+It's Technical blog related to Microsoft Technologies.
+It's Technical blog related to Microsoft Technologies. It's Technical blog related
+to Microsoft Technologies
+</div>
+<div class="more">
+It's Technical blog related to Microsoft Technologies.
+It's Technical blog related to Microsoft Technologies. It's Technical blog related
+to Microsoft Technologies
+</div>
+</body>
+</html>

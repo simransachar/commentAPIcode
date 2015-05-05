@@ -87,23 +87,44 @@ def articles():
     for row in cursor:
         article_title = row[0]
         article_text = row[1]
+        article_text1 = row[1]
+
         soup = BeautifulSoup(row[1])
         for tag in soup.findAll(True):
             tag.replaceWithChildren()
             article_text = soup.get_text()
 
-    article_data.extend((article_title,article_text,article_url))
+    article_data.extend((article_title,article_text1,article_url))
     comment_data =[]
     if sort == 'ar':
         cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance," \
-                       "commentID,PersonalXP,Readability from client_comments where articleURL = '" + article_url + "' "
+                       "commentID,PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
                         "order by ArticleRelevance desc")
         new_comment="yes"
     elif sort == 'cr' :
         cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
-                       ",PersonalXP,Readability from client_comments where articleURL = '" + article_url + "' "
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
                         "order by ConversationalRelevance desc")
         new_comment="yes"
+
+    elif sort == 'px' :
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by PersonalXP desc")
+        new_comment="yes"
+
+    elif sort == 'rd' :
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by Readability desc")
+        new_comment="yes"
+
+    elif sort == 'len' :
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by CommentLength desc")
+        new_comment="yes"
+
     else:
         cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
                        ",PersonalXP,Readability from client_comments where articleURL = '" + article_url + "' "
@@ -201,16 +222,17 @@ def add_comment():
         cr_score = response.json()['ConversationalRelevance']
         PersonalXP = response.json()['PersonalXP']
         Readability = response.json()['Readability']
+        Length = response.json()['Length']
 
         commentiq_comment_id = response.json()['commentID']
         print response.json()
         comment_text = comment_text.strip()
         comment_text = escape_string(comment_text)
         insert_query = "INSERT INTO client_comments (commentBody, approveDate, articleURL, display_name, " \
-                       "ArticleRelevance,ConversationalRelevance,PersonalXP,Readability, commentiq_commentID) " \
-                       "VALUES ('%s','%s','%s','%s','%s','%s','%s','%s','%s')" % \
+                       "ArticleRelevance,ConversationalRelevance,PersonalXP,Readability,CommentLength, commentiq_commentID) " \
+                       "VALUES ('%s','%s','%s','%s','%s','%s','%s','%s','%s','%s')" % \
                        (comment_text,current_time,article_url,name,str(ar_score),str(cr_score),str(PersonalXP), \
-                        str(Readability), str(commentiq_comment_id))
+                        str(Readability), str(Length),str(commentiq_comment_id))
         cursor.execute(insert_query)
         new_comment="yes"
         cnx.close
@@ -240,16 +262,37 @@ def edit_comment():
     article_data.extend((article_title,article_text,article_url))
     comment_data =[]
     if sort == 'ar':
-        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,"
-                       "commentID from client_comments where articleURL = '" + article_url + "' order by ArticleRelevance desc")
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance," \
+                       "commentID,PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by ArticleRelevance desc")
         new_comment="yes"
     elif sort == 'cr' :
-        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,"
-                       "commentID from client_comments where articleURL = '" + article_url + "' order by ConversationalRelevance desc")
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by ConversationalRelevance desc")
         new_comment="yes"
+    elif sort == 'px' :
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by PersonalXP desc")
+        new_comment="yes"
+
+    elif sort == 'rd' :
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by Readability desc")
+        new_comment="yes"
+
+    elif sort == 'len' :
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by CommentLength desc")
+        new_comment="yes"
+
     else:
-        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID"
-                       " from client_comments where articleURL = '" + article_url + "' order by approveDate ")
+        cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
+                        "order by approveDate ")
     for row in cursor:
         row = list(row)
         row[1] = row[1].strftime('%B %d, %Y at %I:%M %p ')
@@ -297,13 +340,15 @@ def update_comment():
         cr_score = response.json()['ConversationalRelevance']
         PersonalXP = response.json()['PersonalXP']
         Readability = response.json()['Readability']
+        Length = response.json()['Length']
+
         print response.json()
         comment_text = escape_string(comment_text)
         comment_text = comment_text.encode('utf-8')
         update = "UPDATE client_comments SET commentBody = '"+ str(comment_text) +"'," \
                  "ArticleRelevance = '"+ str(ar_score) +"',ConversationalRelevance = '"+ str(cr_score) +"' " \
                  ",PersonalXP = '"+ str(PersonalXP) +"',Readability = '"+ str(Readability) +"'" \
-                 "where commentID = '"+ str(commentID) +"'"
+                 ",CommentLength = '"+ str(Length) +"' where commentID = '"+ str(commentID) +"'"
         cursor.execute(update)
         cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
@@ -339,7 +384,7 @@ def get_AR():
 
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getArticleRelevance/'"+ str(commentiq_commentID) +"'"
+
     url = base_url + "/getArticleRelevance/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     ar_score = response.json()['ArticleRelevance']
@@ -358,7 +403,7 @@ def get_CR():
 
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getConversationalRelevance/'"+ str(commentiq_commentID) +"'"
+
     url = base_url + "/getConversationalRelevance/" + str(commentiq_commentID) +"'"
 
     response = requests.get(url)
@@ -380,7 +425,7 @@ def get_PX():
 
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getPersonalXP/'"+ str(commentiq_commentID) +"'"
+
     url = base_url + "/getPersonalXP/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     PersonalXP = response.json()['PersonalXP']
@@ -400,7 +445,7 @@ def get_RD():
 
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getReadability/'"+ str(commentiq_commentID) +"'"
+
     url = base_url + "/getReadability/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     Readability = response.json()['Readability']
@@ -408,6 +453,28 @@ def get_RD():
     update = "UPDATE client_comments SET Readability = '" + str(Readability) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
     cnx.close
+    return redirect(url_for('articles',article_url=article_url,updated=commentID))
+
+@app.route('/get_Len', methods=['GET', 'POST'])
+def get_Len():
+    commentID = request.args.get('commentID')
+    article_url = request.args.get('article_url')
+
+    cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
+    cursor = cnx.cursor()
+
+
+    cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
+    commentiq_commentID = cursor.fetchall()[0][0]
+
+    url = base_url + "/getLength/" + str(commentiq_commentID) +"'"
+    response = requests.get(url)
+    Length = response.json()['Length']
+    print response.json()
+    update = "UPDATE client_comments SET CommentLength = '" + str(Length) + "' where commentID = '"+ str(commentID) +"'"
+    cursor.execute(update)
+    cnx.close
+
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
 
@@ -421,16 +488,19 @@ def get_scores():
 
     cursor.execute("select commentiq_commentID from client_comments where commentID = '"+ str(commentID) +"'")
     commentiq_commentID = cursor.fetchall()[0][0]
-    # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/getScores/'"+ str(commentiq_commentID) +"'"
+
     url = base_url + "/getScores/" + str(commentiq_commentID) +"'"
     response = requests.get(url)
     ar_score = response.json()['ArticleRelevance']
     cr_score = response.json()['ConversationalRelevance']
     PersonalXP = response.json()['PersonalXP']
     Readability = response.json()['Readability']
+    Length = response.json()['Length']
+
     print response.json()
     update = "UPDATE client_comments SET ArticleRelevance = '" + str(ar_score) + "', ConversationalRelevance = '" + str(cr_score) + "' " \
-              ", PersonalXP = '" + str(PersonalXP) + "', Readability = '" + str(Readability) + "' where commentID = '"+ str(commentID) +"'"
+              ", PersonalXP = '" + str(PersonalXP) + "', Readability = '" + str(Readability) + "' " \
+              ", CommentLength = '" + str(Length) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
     cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))

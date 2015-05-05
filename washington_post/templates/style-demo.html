@@ -81,12 +81,15 @@ Licence URI: http://www.os-templates.com/template-terms
   <div class="container">
     <div class="content">
       <h1>{{ article_data[0] }}</h1>
-        <p>{{ article_data[1] }}</p>
 
+        <div>{{ article_data[1]|safe }}</div>
       <div id="comments">
         <h2>Comments</h2>
-      <a href="/articles?article_url={{ article_data[2] }}&&sort=ar">Sort by AR</a> &nbsp;&nbsp;
-      <a href="/articles?article_url={{ article_data[2] }}&&sort=cr">Sort by CR</a>
+      Sort by: <a href="/articles?article_url={{ article_data[2] }}&&sort=ar">Article Relevance</a>|
+      <a href="/articles?article_url={{ article_data[2] }}&&sort=cr">Coversational Relevance</a>|
+       <a href="/articles?article_url={{ article_data[2] }}&&sort=px">Personal XP</a>|
+        <a href="/articles?article_url={{ article_data[2] }}&&sort=rd">Readability</a>|
+        <a href="/articles?article_url={{ article_data[2] }}&&sort=len">Length</a>
       &nbsp;&nbsp;&nbsp;&nbsp; <a href="/articles?article_url={{ article_data[2] }}&&new_comment=yes">(clear)</a>
       </br>
       </br>
