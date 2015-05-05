@@ -285,6 +285,12 @@ def deleteComment(commentID):
             cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
             cursor = cnx.cursor()
 
+            cursor.execute("select count(*) from comments where commentID = '"+ str(commentID) +"' ")
+            count = cursor.fetchall()[0][0]
+            if count < 1 :
+                return jsonify(status = "commentID does not exist")
+
+
             delete = "delete from comments where commentID = '"+ commentID +"'"
             cursor.execute(delete)
             rowsaffected = cursor.rowcount
@@ -314,6 +320,12 @@ def getArticleRelevance(commentID):
 
             cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
             cursor = cnx.cursor()
+
+            cursor.execute("select count(*) from comments where commentID = '"+ str(commentID) +"' ")
+            count = cursor.fetchall()[0][0]
+            if count < 1 :
+                return jsonify(ArticleRelevance = 0.0, status = "commentID does not exist")
+
 
             cursor.execute("select ArticleRelevance from comments where commentID = '" + commentID + "' ")
             scores = cursor.fetchall()
@@ -348,6 +360,12 @@ def getConversationalRelevance(commentID):
             cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
             cursor = cnx.cursor()
 
+            cursor.execute("select count(*) from comments where commentID = '"+ str(commentID) +"' ")
+            count = cursor.fetchall()[0][0]
+            if count < 1 :
+                return jsonify(ConversationalRelevance = 0.0 , status = "commentID does not exist")
+
+
             cursor.execute("select ConversationalRelevance from comments where commentID = '" + commentID + "' ")
             scores = cursor.fetchall()
             rowsaffected = cursor.rowcount
@@ -380,6 +398,12 @@ def getPersonalXP(commentID):
 
             cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
             cursor = cnx.cursor()
+
+            cursor.execute("select count(*) from comments where commentID = '"+ str(commentID) +"' ")
+            count = cursor.fetchall()[0][0]
+            if count < 1 :
+                return jsonify(PersonalXP = 0.0 ,status = "commentID does not exist")
+
 
             cursor.execute("select PersonalXP from comments where commentID = '" + commentID + "' ")
             scores = cursor.fetchall()
@@ -414,6 +438,12 @@ def getReadability(commentID):
             cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
             cursor = cnx.cursor()
 
+            cursor.execute("select count(*) from comments where commentID = '"+ str(commentID) +"' ")
+            count = cursor.fetchall()[0][0]
+            if count < 1 :
+                return jsonify(Readability = 0.0, status = "commentID does not exist")
+
+
             cursor.execute("select Readability from comments where commentID = '" + commentID + "' ")
             scores = cursor.fetchall()
             rowsaffected = cursor.rowcount
@@ -446,6 +476,12 @@ def getLength(commentID):
 
             cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
             cursor = cnx.cursor()
+
+            cursor.execute("select count(*) from comments where commentID = '"+ str(commentID) +"' ")
+            count = cursor.fetchall()[0][0]
+            if count < 1 :
+                return jsonify(Length = 0.0,status = "commentID does not exist")
+
 
             cursor.execute("select CommentLength from comments where commentID = '" + commentID + "' ")
             scores = cursor.fetchall()
@@ -480,6 +516,13 @@ def getScores(commentID):
 
             cnx = mysql.connector.connect(user=user, password=password, host=host, database=database)
             cursor = cnx.cursor()
+
+            cursor.execute("select count(*) from comments where commentID = '"+ str(commentID) +"' ")
+            count = cursor.fetchall()[0][0]
+            if count < 1 :
+                return jsonify(ArticleRelevance = 0.0, ConversationalRelevance = 0.0 , PersonalXP = 0.0 , \
+                               Readability = 0.0, Length = 0.0,status = "commentID does not exist")
+
 
             cursor.execute("select ArticleRelevance,ConversationalRelevance,PersonalXP,Readability, CommentLength " \
                            "from comments where commentID = '" + commentID + "' ")

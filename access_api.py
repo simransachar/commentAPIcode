@@ -49,7 +49,7 @@ url = "http://api.comment-iq.com/commentIQ/v1/addComment"
 
 articleID = 78
 # commentID = 172
-commentID = 5069
+commentID = '--'
 RecommendationCount = 9
 username = 'simransachar'
 location = 'chicago'
@@ -85,8 +85,8 @@ print response.json()
 #url = "http://127.0.0.1:5000/commentIQ/v1/deleteComment/'"+ str(commentID) +"'"
 #url = "http://127.0.0.1:5000/commentIQ/v1/getReadability/'"+ str(commentID) +"'"
 #url = "http://127.0.0.1:5000/commentIQ/v1/getBrevity/'"+ str(commentID) +"'"
-url = "http://api.comment-iq.com/commentIQ/v1/getLength/'"+ str(commentID) +"'"
-# url = "http://127.0.0.1:5000/commentIQ/v1/getLength/"+ str(commentID)
+# url = "http://api.comment-iq.com/commentIQ/v1/getLength/'"+ str(commentID) +"'"
+url = "http://127.0.0.1:5000/commentIQ/v1/getLength/"+ str(commentID)
 response = requests.get(url)
 # #response = requests.delete(url)
 print response.json()
