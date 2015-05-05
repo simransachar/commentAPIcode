@@ -60,8 +60,7 @@ For new articles, article text needs to be sent via an HTTP POST method and an a
 
 | Name   | Values and Notes           |
 |:----------|:-------------|
-| article_text | Data Type: String 
-		 Should be sent as key name In JSON format |
+| article_text | Data Type: String | Should be sent as key name In JSON format |
 
 ### Response
 
