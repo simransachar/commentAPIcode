@@ -73,7 +73,7 @@ def escape_string(string):
     return res
 
 class NYTCommunityAPI (object):
-    URL = "http://api.nytimes.com/svc/community/v3/user-content/by-date"
+    URL = "http://api.nytimes.com/svc/community/v2/comments/by-date/"
     def __init__(self,key):
         self.nQueries = 0
         self.api_key = key
@@ -90,12 +90,11 @@ class NYTCommunityAPI (object):
                 self.nQueries = 0
 
         params = {}
-        params["date"] = date
         params["api-key"] = self.api_key
         params["offset"] = str(offset)
         params["sort"] = "oldest"
 
-        url = self.URL +  ".json?" + urllib.urlencode (params)
+        url = self.URL + date + ".json?" + urllib.urlencode (params)
         print url
         response = json.load(urllib.urlopen(url))
         self._LAST_CALL = time.time()
@@ -116,6 +115,8 @@ def CollectComments():
         d_start = datetime.datetime.strptime(start_end_date['start_date'], '%Y-%m-%d')
         d_end = datetime.datetime.strptime(start_end_date['end_date'], '%Y-%m-%d')
         offset_json = start_end_date['offset']
+
+
 
         d = d_start
         global g_offset
@@ -152,28 +153,27 @@ def CollectComments():
                 if "comments" in r["results"]:
                     for comment in r["results"]["comments"]:
                         commentBody = escape_string(str(comment["commentBody"].encode("utf8")))
-                        createDate = int(comment["createDate"])
+                        approveDate = int(comment["approveDate"])
                         recommendationCount = int(comment["recommendationCount"])
-                        display_name = escape_string(str(comment["userDisplayName"].encode("utf8")))
-                        userID = int(comment["userID"])
+                        display_name = escape_string(str(comment["display_name"].encode("utf8")))
                         location = ""
-                        if "userLocation" in r:
-                            location = escape_string(str(comment["userLocation"].encode("utf8")))
+                        if "location" in r:
+                            location = escape_string(str(comment["location"].encode("utf8")))
                         commentSequence = int(comment["commentSequence"])
                         status = escape_string(str(comment["status"].encode("utf8")))
-                        articleURL = escape_string(str(comment["assetURL"].encode('utf8')))
+                        articleURL = escape_string(str(comment["articleURL"].encode('utf8')))
                         editorsSelection = int(comment["editorsSelection"])
                         insert_query = "INSERT INTO vocab_comments (status, commentSequence, commentBody," \
-                                       " createDate, recommendationCount, editorsSelection, display_name," \
-                                       " userID,location, articleURL)" \
-                                       " VALUES('%s', %d, '%s', FROM_UNIXTIME(%d), %d, %d, '%s', %d, '%s', '%s')" % \
-                                       (status.decode("utf8"), commentSequence, commentBody.decode("utf8"), createDate,
-                                        recommendationCount, editorsSelection, display_name.decode("utf8"), userID,
+                                       " approveDate, recommendationCount, editorsSelection, display_name," \
+                                       " location, articleURL)" \
+                                       " VALUES('%s', %d, '%s', FROM_UNIXTIME(%d), %d, %d, '%s', '%s', '%s')" % \
+                                       (status.decode("utf8"), commentSequence, commentBody.decode("utf8"), approveDate,
+                                        recommendationCount, editorsSelection, display_name.decode("utf8"),
                                         location.decode("utf8"), articleURL.decode("utf8"))
 
                         cursor.execute(insert_query)
 
-                cnx.commit()
+#                cnx.commit()
                 offset = offset + pagesize
 
                 update_date_json(d.strftime("%Y-%m-%d"),d_end.strftime("%Y-%m-%d"),offset)
