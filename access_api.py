@@ -37,33 +37,37 @@ At the meeting in Santa Clara County last month, the county supervisors voted 4 
 A few days later, the county asked Harris for a demonstration open to county supervisors. The company refused, Mr. Simitian said, noting that “only people with badges” would be permitted. Further, he said, the company declined to provide a copy of the nondisclosure agreement — at least until after the demonstration.
 “Not only is there a nondisclosure agreement, for the time being, at least, we can’t even see the nondisclosure agreement,” Mr. Simitian said. “We may be able to see it later, I don’t know.”
 """
+
 #url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/update_demo_comment"
 # url = "http://127.0.0.1:5000/commentIQ/v1/updateComment"
-#url = "http://127.0.0.1:5000/commentIQ/v1/updateArticle"
+# url = "http://127.0.0.1:5000/commentIQ/v1/updateArticle"
 # url = "http://127.0.0.1:5000/commentIQ/v1/addArticle"
 # url = "http://127.0.0.1:5000/commentIQ/v1/addComment"
 # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/addComment"
 # url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/commentIQ/v1/updateComment"
-url = "http://api.comment-iq.com/commentIQ/v1/addComment"
-# url = "http://api.comment-iq.com/commentIQ/v1/updateComment"
+# url = "http://api.comment-iq.com/commentIQ/v1/addComment"
+url = "http://api.comment-iq.com/commentIQ/v1/updateComment"
 
 articleID = 78
-# commentID = 172
-commentID = '--'
+commentID = 172
+# commentID = '5096'
 RecommendationCount = 9
 username = 'simransachar'
-location = 'chicago'
+# location = 'chicago'
+# location = 99
 todaysdate = "2015-01-13 14:11:32"
 comment_text = "Oh how true - you nailed it again! In my case, viewing the entire season of Downton Abbey - accompanied by a healthy swoon - was the best anti-dote possible to having accidentally exposed myself to the first (and for me the last) season of Breaking Bad. And I admit to an ongoing crush on Mr. Bates"
+# comment_text = 989
+# comment_text = 'a'
 # params = {'article_text' : article_text }
 # params = {'commentBody' : comment_text, 'commentID' : commentID }
-params = {'commentBody' : comment_text, 'articleID' : articleID }
+# params = {'commentBody' : comment_text, 'articleID' : articleID }
 # params = {'commentBody' : comment_text, 'articleID' : articleID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
 # 'username': username,'location': location}
-# params = {'commentBody' : comment_text, 'commentID' : commentID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
-# 'username': username,'location': location}
+params = {'commentBody' : comment_text, 'commentID' : commentID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
+'username': username}
 #params = {'commentBody' : comment_text, 'articleID' : articleID, 'RecommendationCount' : RecommendationCount }
-#params = {'article_text' : comment_text, 'articleID' : articleID }
+# params = {'article_text' : article_text, 'articleID' : articleID }
 param_json = json.dumps(params)
 response = requests.post(url, param_json)
 # demo_article_id = response.json()['demo_article_id']
@@ -77,7 +81,7 @@ print response.json()
 #url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/get_scores/'"+ str(commentID) +"'"
 #url = "http://ec2-54-173-77-171.compute-1.amazonaws.com/get_ArticleRelevance/'"+ str(commentID) +"'"
 #url = 'http://127.0.0.1:5000/delete_demo_comment/"' + `commentID` + '"'
-# url = "http://127.0.0.1:5000/commentIQ/v1/getScores/'"+ str(commentID) +"'"
+url = "http://127.0.0.1:5000/commentIQ/v1/getScores/'"+ str(commentID) +"'"
 # url = "http://api.comment-iq.com/commentIQ/v1/getScores/'"+ str(commentID) +"'"
 #url = "http://127.0.0.1:5000/commentIQ/v1/getConversationalRelevance/'"+ str(commentID) +"'"
 #url = "http://127.0.0.1:5000/commentIQ/v1/getArticleRelevance/'"+ str(commentID) +"'"
@@ -86,7 +90,7 @@ print response.json()
 #url = "http://127.0.0.1:5000/commentIQ/v1/getReadability/'"+ str(commentID) +"'"
 #url = "http://127.0.0.1:5000/commentIQ/v1/getBrevity/'"+ str(commentID) +"'"
 # url = "http://api.comment-iq.com/commentIQ/v1/getLength/'"+ str(commentID) +"'"
-url = "http://127.0.0.1:5000/commentIQ/v1/getLength/"+ str(commentID)
+# url = "http://127.0.0.1:5000/commentIQ/v1/getLength/"+ str(commentID)
 response = requests.get(url)
 # #response = requests.delete(url)
 print response.json()
