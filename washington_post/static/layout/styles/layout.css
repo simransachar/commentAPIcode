@@ -85,7 +85,7 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 
 #comments{margin-bottom:40px;}
 #comments .commentlist{margin:0; padding:0;}
-#comments .commentlist ul{margin:0; padding:0; list-style:none;}
+#comments .commentlist ul{margin:0; padding:0; list-style:none; }
 #comments .commentlist li.comment_odd, #comments .commentlist li.comment_even{margin:0 0 10px 0; padding:15px; list-style:none;}
 #comments .commentlist li.comment_odd{color:#666666; background-color:#F7F7F7;}
 #comments .commentlist li.comment_odd a{color:#059BD8; background-color:#F7F7F7;}

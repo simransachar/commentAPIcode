@@ -129,10 +129,10 @@ commentID = 158
 #
 # print z1[0]
 
-cursor.execute("select * from articles")
+# cursor.execute("select * from articles")
 #cursor.execute("select * from vocab_comments")
-for i in cursor:
-    print i
+# for i in cursor:
+#     print i
 
 # text_file = open("count.txt", "w")
 # text_file.write(str(i[0]))
@@ -144,6 +144,7 @@ for i in cursor:
 #
 # data = json.load(json_data)
 
+cursor.execute("delete from client_comments where commentID = '38942'")
 
 cnx.close()
 # #list1=[]

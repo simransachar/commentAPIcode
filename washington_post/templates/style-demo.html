@@ -39,7 +39,7 @@ Licence URI: http://www.os-templates.com/template-terms
   <div id="header">
     <div class="fl_left">
       <h1><a href="index.html"><strong>T</strong>imes of <strong>M</strong>aryland</a></h1>
-      <p>January 16, 2015</p>
+      <p>{{ current_time }}</p>
     </div>
 
     <br class="clear" />
@@ -97,13 +97,17 @@ Licence URI: http://www.os-templates.com/template-terms
         <ul class="commentlist">
              {% for comment in comment_data %}
 
-            <li class="comment_odd">
+            <li class="comment_odd" style="width: 600px">
             <div class="author"><img class="avatar" src="static/images/demo/avatar.gif" width="32" height="32" alt="" /><span class="name"><a href="#">{{ comment[2] }}</a></span> <span class="wrote">wrote:</span></div>
             <div class="submitdate"><a href="#"> {{ comment[1] }} </a></div>
             <p>{{ comment[0] }}</p>
             <div class="submitdate">
-            <a href="/get_AllScores?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">Get All Scores</a>
-                   <br> ------------------ <br>
+           <a href="/get_AllScores?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">Get All Scores</a>
+
+            <!--<a href="/get_AllScores?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">-->
+                <!--<button>Get All Scores</button>-->
+            <!--</a>-->
+                   <br> --------------- <br>
             {% if comment[3] == None %}
              ArticleRelevance:  <a href="/get_AR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
             {% else %}
@@ -128,21 +132,33 @@ Licence URI: http://www.os-templates.com/template-terms
             {% else %}
              Readability:  {{ comment[7] }}
             {% endif %}
+                    <br>
+            {% if comment[8] == None %}
+             Length:  <a href="/get_Len?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Length:  {{ comment[8] }}
+            {% endif %}
 
             </div>
                 </br>
+           <form action="{{ url_for('update_comment',commentID = comment[5],article_url=article_data[2]) }}" method=post>
+                <textarea name="comment_text"cols="0%" rows="0%" style="display:none;">{{ comment[0] }}</textarea>
+                <input name="submit" type="submit" id="submit" value="Update Scores" />
+
+            </form>
+            </br>
              <div class="submitdate">
                  <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> |
                  <a href="/delete_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">delete</a>
              </div>
             {% if comment[5]|int == updated|int %}
                      <div id="new"><input type="text" name="comment" id="yes" value="" size="0" /> </div>
-                 {% endif %}
+            {% endif %}
 
           </li>
 
            {% endfor %}
-{% if new_comment %}
+            {% if new_comment %}
                 <li><div id="new"><input type="text" name="comment" id="yes" value="" size="0" /> </div></li>
             {% endif %}
         </ul>

@@ -1,0 +1,336 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--
+Template Name: News Magazine
+Author: <a href="http://www.os-templates.com/">OS Templates</a>
+Author URI: http://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: http://www.os-templates.com/template-terms
+-->
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>Times of Maryland</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" href="static/layout/styles/layout.css" type="text/css" />
+<script type="text/javascript" src="static/layout/scripts/jquery.min.js"></script>
+<!-- Homepage Specific -->
+<script type="text/javascript" src="static/layout/scripts/galleryviewthemes/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="static/layout/scripts/galleryviewthemes/jquery.timers.1.2.js"></script>
+<script type="text/javascript" src="static/layout/scripts/galleryviewthemes/jquery.galleryview.2.1.1.min.js"></script>
+<script type="text/javascript" src="static/layout/scripts/galleryviewthemes/jquery.galleryview.setup.js"></script>
+<!-- / Homepage Specific -->
+</head>
+<body id="top">
+
+<div class="wrapper col0">
+  <div id="topline">
+    <p>Tel: xxxxx xxxxxxxxxx | Mail: info@domain.com</p>
+    <ul>
+      <li><a href="#">Real estate</a></li>
+      <li><a href="#">Today's Paper</a></li>
+      <li><a href="#">Rentals</a></li>
+      <li class="last"><a href="#">Cars</a></li>
+    </ul>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="header">
+    <div class="fl_left">
+      <h1><a href="index.html"><strong>T</strong>imes of <strong>M</strong>aryland</a></h1>
+      <p>January 16, 2015</p>
+    </div>
+
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col2">
+  <div id="topbar">
+    <div id="topnav">
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/new_article">Add Article</a></li>
+
+      </ul>
+    </div>
+    <div id="search">
+      <form action="#" method="post">
+        <fieldset>
+          <legend>Site Search</legend>
+          <input type="text" value="Search Our Website&hellip;"  onfocus="this.value=(this.value=='Search Our Website&hellip;')? '' : this.value ;" />
+          <input type="submit" name="go" id="go" value="Search" />
+        </fieldset>
+      </form>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<style>
+#CamListDiv {
+    height: 340px;
+    float: left;
+    overflow: auto;
+    overflow-x:hidden;
+}
+</style>
+
+<div class="wrapper">
+  <div class="container">
+    <div class="content">
+      <h1>{{ article_data[0] }}</h1>
+        <p>{{ article_data[1] }}</p>
+
+      <div id="comments">
+        <h2>Comments</h2>
+      <a href="/articles?article_url={{ article_data[2] }}&&sort=ar">Sort by AR</a> &nbsp;&nbsp;
+      <a href="/articles?article_url={{ article_data[2] }}&&sort=cr">Sort by CR</a>
+      &nbsp;&nbsp;&nbsp;&nbsp; <a href="/articles?article_url={{ article_data[2] }}&&new_comment=yes">(clear)</a>
+      </br>
+      </br>
+          <div id='CamListDiv'>
+        <ul class="commentlist">
+             {% for comment in comment_data %}
+                {% if comment[5]|int == commentID|int %}
+                    <form action="{{ url_for('update_comment',commentID = commentID,article_url=article_data[2]) }}" method=post>
+                    <li class="comment_odd">
+                    <div class="author"><img class="avatar" src="static/images/demo/avatar.gif" width="32" height="32" alt="" /><span class="name"><a href="#">{{ comment[2] }}</a></span> <span class="wrote">wrote:</span></div>
+                 <p>
+                <textarea name="comment_text" id="yes" cols="98%" rows="5">{{ comment[0] }}</textarea>
+                <label for="comment" style="display:none;"><small>Comment (required)</small></label>
+                </p>
+                    <p>
+            <input name="submit" type="submit" id="submit" value="Update" />
+
+          </p>
+
+                </li>
+                    </form>
+             {% else %}
+            <li class="comment_odd">
+            <div class="author"><img class="avatar" src="static/images/demo/avatar.gif" width="32" height="32" alt="" /><span class="name"><a href="#">{{ comment[2] }}</a></span> <span class="wrote">wrote:</span></div>
+            <div class="submitdate"><a href="#"> {{ comment[1] }} </a></div>
+            <p>{{ comment[0] }}</p>
+            <div class="submitdate"><a href="#"> AR: {{ comment[3] }},CR: {{ comment[4] }} </a> </div>
+                </br>
+             <div class="submitdate">    <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> | <a href="">delete</a> </div>
+
+          </li>
+            {% endif %}
+           {% endfor %}
+         <li>
+
+
+
+         </li>
+        </ul>
+
+      </div>
+
+          </div>
+        </br>
+    </br>
+      <h2>Write A Comment</h2>
+      <div id="respond">
+        <form action="{{ url_for('add_comment',article_url=article_data[2]) }}" method=post>
+
+          <p>
+            <input type="text" name="name" id="name" value="" size="22" />
+            <label for="name"><small>Name (required)</small></label>
+          </p>
+
+          <p>
+            <textarea name="comment_text" id="" cols="100%" rows="10"></textarea>
+            <label for="comment" style="display:none;"><small>Comment (required)</small></label>
+          </p>
+          <p>
+            <input name="submit" type="submit" id="submit" value="Submit Form" />
+
+          </p>
+        </form>
+
+    </div>
+    </div>
+    <div class="column">
+{#      <div class="subnav">#}
+{#        <h2>Secondary Navigation</h2>#}
+{#        <ul>#}
+{#          <li><a href="#">Navigation - Level 1</a></li>#}
+{#          <li><a href="#">Navigation - Level 1</a>#}
+{#            <ul>#}
+{#              <li><a href="#">Navigation - Level 2</a></li>#}
+{#              <li><a href="#">Navigation - Level 2</a></li>#}
+{#            </ul>#}
+{#          </li>#}
+{#          <li><a href="#">Navigation - Level 1</a>#}
+{#            <ul>#}
+{#              <li><a href="#">Navigation - Level 2</a></li>#}
+{#              <li><a href="#">Navigation - Level 2</a>#}
+{#                <ul>#}
+{#                  <li><a href="#">Navigation - Level 3</a></li>#}
+{#                  <li><a href="#">Navigation - Level 3</a></li>#}
+{#                </ul>#}
+{#              </li>#}
+{#            </ul>#}
+{#          </li>#}
+{#          <li><a href="#">Navigation - Level 1</a></li>#}
+{#        </ul>#}
+{#      </div>#}
+         <div id="featured">
+        <ul>
+          <li>
+            <h2>{{ article_title[0] }}</h2>
+            <p class="imgholder"><img src="static/images/demo/23.jpg" width="240" height="90" alt="" /></p>
+            <p>{{ article_text_list[0]| truncate(80) }}</p>
+            <p class="readmore"><a href="/articles?article_url={{ article_url[0] }}">Continue Reading &raquo;</a></p>
+          </li>
+        </ul>
+      </div>
+        <div class="holder">
+        <h2 class="title"><img src="static/images/demo/20.jpg" alt="" width="60" height="60" />{{ article_title[1] }}</h2>
+        <p>{{ article_text_list[1]| truncate(80) }}.</p>
+        <p class="readmore"><a href="/articles?article_url={{ article_url[1] }}">Continue Reading &raquo;</a></p>
+      </div>
+
+       <div id="featured">
+        <ul>
+          <li>
+            <h2>{{ article_title[2] }}</h2>
+            <p class="imgholder"><img src="static/images/demo/22.jpg" width="240" height="90" alt="" /></p>
+            <p>{{ article_text_list[2]| truncate(80) }}</p>
+            <p class="readmore"><a href="/articles?article_url={{ article_url[2] }}">Continue Reading &raquo;</a></p>
+          </li>
+        </ul>
+      </div>
+{#      <div class="holder">#}
+{#        <h2>Lorem ipsum dolor</h2>#}
+{#        <p>Nuncsed sed conseque a at quismodo tris mauristibus sed habiturpiscinia sed.</p>#}
+{#        <ul>#}
+{#          <li><a href="#">Lorem ipsum dolor sit</a></li>#}
+{#          <li>Etiam vel sapien et</li>#}
+{#          <li><a href="#">Etiam vel sapien et</a></li>#}
+{#        </ul>#}
+{#        <p>Nuncsed sed conseque a at quismodo tris mauristibus sed habiturpiscinia sed. Condimentumsantincidunt dui mattis magna intesque purus orci augue lor nibh.</p>#}
+{#        <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>#}
+{#      </div>#}
+         <div class="holder">
+        <h2 class="title"><img src="static/images/demo/21.jpg" alt="" width="60" height="60" />{{ article_title[3] }}</h2>
+        <p>{{ article_text_list[3]| truncate(80) }}.</p>
+        <p class="readmore"><a href="/articles?article_url={{ article_url[3] }}">Continue Reading &raquo;</a></p>
+      </div>
+    <div id="featured">
+        <ul>
+          <li>
+            <h2>{{ article_title[4] }}</h2>
+            <p class="imgholder"><img src="static/images/demo/25.jpg" width="240" height="90" alt="" /></p>
+            <p>{{ article_text_list[4]| truncate(80) }}</p>
+            <p class="readmore"><a href="/articles?article_url={{ article_url[4] }}">Continue Reading &raquo;</a></p>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="footer">
+    <div class="footbox">
+      <h2>More ways to get us</h2>
+      <ul>
+        <li><a href="#">Home delivery</a></li>
+        <li><a href="#">Digital Subscription</a></li>
+        <li><a href="#">Mobile & Apps</a></li>
+        <li><a href="#">Newsletter & Alerts</a></li>
+        <li class="last"><a href="#">Gift Subscriptions</a></li>
+      </ul>
+    </div>
+    <div class="footbox">
+      <h2>Contact Us</h2>
+      <ul>
+        <li><a href="#">Help & Contact Info</a></li>
+        <li><a href="#">Reader Representative</a></li>
+        <li><a href="#">Digital Advertising</a></li>
+        <li><a href="#">Newspaper Advertising</a></li>
+        <li class="last"><a href="#">News Service & Syndicate</a></li>
+      </ul>
+    </div>
+
+
+    <div class="footbox">
+      <h2>About Us</h2>
+      <ul>
+        <li><a href="#">In the community</a></li>
+        <li><a href="#">Careers</a></li>
+        <li><a href="#">PostPoints</a></li>
+        <li><a href="#">Newspaper in Education</a></li>
+        <li class="last"><a href="#">Digital Publishing Guidelines</a></li>
+      </ul>
+    </div>
+
+    <div class="footbox">
+      <h2>SUBSCRIBE</h2>
+      <ul>
+        <li><a href="#">Times Premier</a></li>
+        <li><a href="#">Home Delivery</a></li>
+        <li><a href="#">Digital Subscriptions</a></li>
+        <li><a href="#">Opinion</a></li>
+        <li class="last"><a href="#">Crossword</a></li>
+      </ul>
+    </div>
+    <div class="footbox last">
+      <h2>Partners</h2>
+      <ul>
+        <li><a href="#">WP BrandConnect</a></li>
+        <li><a href="#">Capital Business</a></li>
+        <li><a href="#">Capitol Deal</a></li>
+        <li><a href="#">Express</a></li>
+
+        <li class="last"><a href="#">Fashion Washington</a></li>
+      </ul>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper">
+  <div id="socialise">
+    <ul>
+      <li><a href="#"><img src="static/layout/images/facebook.gif" alt="" /><span>Facebook</span></a></li>
+      <li><a href="#"><img src="static/layout/images/rss.gif" alt="" /><span>FeedBurner</span></a></li>
+      <li class="last"><a href="#"><img src="layout/images/twitter.gif" alt="" /><span>Twitter</span></a></li>
+    </ul>
+    <div id="newsletter">
+      <h2>NewsLetter Sign Up !</h2>
+      <p>Please enter your Email and Name to join.</p>
+      <form action="#" method="post">
+        <fieldset>
+          <legend>Digital Newsletter</legend>
+          <div class="fl_left">
+            <input type="text" value="Enter name here&hellip;"  onfocus="this.value=(this.value=='Enter name here&hellip;')? '' : this.value ;" />
+            <input type="text" value="Enter email address&hellip;"  onfocus="this.value=(this.value=='Enter email address&hellip;')? '' : this.value ;" />
+          </div>
+          <div class="fl_right">
+            <input type="submit" name="newsletter_go" id="newsletter_go" value="&raquo;" />
+          </div>
+        </fieldset>
+      </form>
+      <p>To unsubsribe please <a href="#">click here &raquo;</a>.</p>
+    </div>
+    <br class="clear" />
+  </div>
+</div>
+<!-- ####################################################################################################### -->
+<div class="wrapper col8">
+  <div id="copyright">
+    <p class="fl_left">Copyright &copy; 2014 - All Rights Reserved - <a href="#">University of  Maryland</a></p>
+    <p class="fl_right">Template by <a target="_blank" href="http://www.os-templates.com/" title="Free Website Templates">Journalism School</a></p>
+    <br class="clear" />
+  </div>
+</div>
+</body>
+<script>
+    document.getElementById('yes').focus()
+</script>
+</html>

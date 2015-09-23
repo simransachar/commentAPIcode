@@ -1,0 +1,2963 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed - Comedy",
+
+      "link": [
+
+         "http://www.buzzfeed.com/comedy",
+
+         {
+
+            "@href": "http://www.buzzfeed.com/comedy.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Wed, 10 Jun 2015 22:59:25 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://www.buzzfeed.com/comedy"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "Why Women Should Remember To Smile",
+
+            "link": "http://www.buzzfeed.com/joannaborns/men-telling-women-to-smile?utm_term=4ldqpia",
+
+            "description": "<p>When men tell you to smile, they&#8217;ve got some good reasons.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/16/enhanced/webdr01/enhanced-7081-1433881593-22.jpg\" width=\"625\" height=\"900\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>If you get confused, just follow this handy chart.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/11/enhanced/webdr14/enhanced-12863-1433948868-5.jpg\" width=\"625\" height=\"300\" alt=\"If you get confused, just follow this handy chart.\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeed / Thinkstock<\/small><\/p>",
+
+            "author": "Joanna Borns",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/joannaborns/men-telling-women-to-smile"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 11:13:30 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>When men tell you to smile, they've got some good reasons.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "joannaborns"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/11/campaign_images/webdr12/men-telling-women-to-smile-2-5123-1433949481-15.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "If You Don't Have A Perfect White Shirt You Might As Well Be Dead",
+
+            "link": "http://www.buzzfeed.com/joannaborns/perfect-white-shirt?utm_term=4ldqpia",
+
+            "description": "<p>The ultimate wardrobe staple. You must find it.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/5/18/enhanced/webdr04/enhanced-18778-1433542026-1.png\" width=\"625\" height=\"3215\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Andrea Hickey / Thinkstock<\/small><\/p>",
+
+            "author": "Joanna Borns",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/joannaborns/perfect-white-shirt"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 10:07:48 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>The ultimate wardrobe staple.<\/b> You must find it.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "joannaborns"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/10/campaign_images/webdr14/perfect-white-shirt-2-11966-1433772839-22.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "You Won't Believe The Outrageous Thing This Hospital Is Doing",
+
+            "link": "http://www.buzzfeed.com/samweiner/you-wont-believe-the-outrageous-thing-this-hospital-is-doing?utm_term=4ldqpia",
+
+            "description": "<p>Knocking down the hospital’s walls is only the beginning.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/16/enhanced/webdr05/enhanced-19546-1433451341-1.jpg\" width=\"625\" height=\"2612\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>All images courtesy Thinkstock / Maritsa Patrinos / BuzzFeed<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Sam Weiner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/samweiner/you-wont-believe-the-outrageous-thing-this-hospital-is-doing"
+
+            },
+
+            "pubDate": "Fri, 05 Jun 2015 10:11:46 -0400",
+
+            "group": {
+
+               "description": "<b>Knocking down the hospital’s walls is only the beginning.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "samweiner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/10/campaign_images/webdr11/you-wont-believe-the-outrageous-thing-this-hospit-2-21772-1433513699-11.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "2612",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/16/enhanced/webdr05/enhanced-19546-1433451341-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "All images courtesy Thinkstock / Maritsa Patrinos / BuzzFeed",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "I Bought A Haunted Doll From eBay And Now She's My Friend",
+
+            "link": "http://www.buzzfeed.com/joannaborns/this-is-what-happened-when-i-bought-a-haunted-doll-off-ebay?utm_term=4ldqpia",
+
+            "description": "<p>Her name is Mary. She wants to be your friend.<\/p>\n\n\n\n\n\n\n\n\n\n\n <p>A few months ago, a \"very haunted\" <a href=\"http://abcnews.go.com/US/haunted-macbook-auction-ebay/story?id=28893568\">laptop<\/a> went up for auction on eBay. Obviously, my co-workers and I wanted to buy it immediately, but it was too pricey. Shockingly, we were not granted permission to expense a $3,000 haunted laptop.<\/p>\n\n<p>That was how I started a search that led me to Mary. <\/p>\n\n<p>You can buy a lot of haunted things off the internet. Or, if you&#39;re a skeptic, you can buy a lot of \"haunted\" things off the internet. I try to be a skeptic, but if I&#39;m being totally honest, I&#39;m very afraid of ghosts. I can&#39;t sing the <i>Ghostbusters<\/i> <a href=\"https://www.youtube.com/watch?v=Fe93CLbHjxQ\">theme song<\/a> without lying. I realize that makes a lot of people think I&#39;m a huge idiot, but I&#39;m not the only idiot. According to a BuzzFeed <a href=\"http://www.buzzfeed.com/katieheaney/how-many-of-these-things-do-you-actually-believe-in#.etp9AnMxj\">poll<\/a>, 55% of respondents said they believe in ghosts. (Just kidding, guys, I know we&#39;re not idiots.) And if you don&#39;t believe in ghosts, congratulations. You don&#39;t have to deal with the stress of walking past a mirror at night and worrying you might see a horrific face. MUST BE NICE.<\/p>\n\n<p>When the laptop didn&#39;t work out, I went looking for a more affordable ghost. One of the easiest to find comes in the form of the classically terrifying haunted doll: eBay has dozens of creepy haunted dolls for sale &mdash; many at reasonable price points&#33; You can even get a haunted Beanie Baby. See below for a haunted Beanie Baby frog.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/7/23/enhanced/webdr03/enhanced-4203-1433734885-6.png\" width=\"625\" height=\"470\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.ebay.com/itm/Haunted-Ty-Beanie-Baby-Legs-the-Frog-Plush-Bean-Bag-1993-Animal-Hang-Tag-Green-/301570499349?pt=LH_DefaultDomain_2&hash=item463700a315\">ebay.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>I decided to buy a haunted doll, but I had to choose the right one. While browsing eBay&#39;s vast selection, I learned a lot about the doll-collecting world. Apparently, a problem that arises for people with large collections of dolls is that at least one will be haunted. But it can be impossible to tell which one, leading many doll enthusiasts to sell off their entire collections to try to eliminate the ghosts in their homes.<\/p>\n\n<p>\"I am having way too much paranormal activity in my home as I have collected over 400 dolls,\" said one <a href=\"http://www.ebay.com/itm/Haunted-17-inch-tall-Doll-Vessel-Supernatural-Paranormal-powers-Very-active-/151619804306?pt=LH_DefaultDomain_0&amp;hash=item234d3e9c92\">eBay listing<\/a>.<\/p>\n\n<p>Another doll <a href=\"http://www.ebay.com/itm/Haunted-Doll-12-/261814007557?pt=LH_DefaultDomain_0&amp;hash=item3cf554b705\">listing<\/a> stated, \"I started buying dolls online and in antique stores and shortly after started experiencing things like my doors opening and closing on their own, my bedroom door knob jiggling when I&#39;m home alone, and hearing whispers.\"<\/p>\n\n<p>One <a href=\"http://www.ebay.com/itm/Haunted-Doll-/191542906509?\">seller<\/a> even said her daughter threatened to move out of the house unless she got rid of the dolls.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/joannaborns/this-is-what-happened-when-i-bought-a-haunted-doll-off-ebay\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Joanna Borns",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/joannaborns/this-is-what-happened-when-i-bought-a-haunted-doll-off-ebay"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 13:00:21 -0400",
+
+            "group": {
+
+               "description": "<b>Her name is Mary.<\/b> She wants to be your friend.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "joannaborns"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/13/campaign_images/webdr11/this-is-what-happened-when-i-bought-a-haunted-dol-2-30282-1433782962-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "A few months ago, a \"very haunted\" <a href=\"http://abcnews.go.com/US/haunted-macbook-auction-ebay/story?id=28893568\">laptop<\/a> went up for auction on eBay. Obviously, my co-workers and I wanted to buy it immediately, but it was too pricey. Shockingly, we were not granted permission to expense a $3,000 haunted laptop.\n\nThat was how I started a search that led me to Mary. \n\nYou can buy a lot of haunted things off the internet. Or, if you're a skeptic, you can buy a lot of \"haunted\" things off the internet. I try to be a skeptic, but if I'm being totally honest, I'm very afraid of ghosts. I can't sing the <i>Ghostbusters<\/i> <a href=\"https://www.youtube.com/watch?v=Fe93CLbHjxQ\">theme song<\/a> without lying. I realize that makes a lot of people think I'm a huge idiot, but I'm not the only idiot. According to a BuzzFeed <a href=\"http://www.buzzfeed.com/katieheaney/how-many-of-these-things-do-you-actually-believe-in#.etp9AnMxj\">poll<\/a>, 55% of respondents said they believe in ghosts. (Just kidding, guys, I know we're not idiots.) And if you don't believe in ghosts, congratulations. You don't have to deal with the stress of walking past a mirror at night and worrying you might see a horrific face. MUST BE NICE.\n\nWhen the laptop didn't work out, I went looking for a more affordable ghost. One of the easiest to find comes in the form of the classically terrifying haunted doll: eBay has dozens of creepy haunted dolls for sale — many at reasonable price points! You can even get a haunted Beanie Baby. See below for a haunted Beanie Baby frog.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "470",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/23/enhanced/webdr03/enhanced-4203-1433734885-6.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "I decided to buy a haunted doll, but I had to choose the right one. While browsing eBay's vast selection, I learned a lot about the doll-collecting world. Apparently, a problem that arises for people with large collections of dolls is that at least one will be haunted. But it can be impossible to tell which one, leading many doll enthusiasts to sell off their entire collections to try to eliminate the ghosts in their homes.\n\n\"I&nbsp;am&nbsp;having way too much paranormal activity in my home as I have collected over 400 dolls,\" said one <a href=\"http://www.ebay.com/itm/Haunted-17-inch-tall-Doll-Vessel-Supernatural-Paranormal-powers-Very-active-/151619804306?pt=LH_DefaultDomain_0&amp;hash=item234d3e9c92\">eBay listing<\/a>.\n\nAnother doll <a href=\"http://www.ebay.com/itm/Haunted-Doll-12-/261814007557?pt=LH_DefaultDomain_0&amp;hash=item3cf554b705\">listing<\/a> stated, \"I started buying dolls online and in antique stores and shortly after started experiencing things like my doors opening and closing on their own, my bedroom door knob jiggling when I'm home alone, and hearing whispers.\"\n\nOne <a href=\"http://www.ebay.com/itm/Haunted-Doll-/191542906509?\">seller<\/a> even said her daughter threatened to move out of the house unless she got rid of the dolls.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr06/grid-cell-14775-1433736262-14.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr06/grid-cell-14775-1433736264-17.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr06/grid-cell-14775-1433736265-20.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "This doll below also came with some guidelines.\n\n\"This is Buddy. Buddy is a 4 year old little boy that is anchored to this nice clown doll… If you are afraid of the paranormal, please do not bid on him. Fearful people tend to not make good homes for spirit children.\"\n\nHold up, \"NICE clown doll\"? Come on.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "463",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/10/enhanced/webdr08/enhanced-21870-1433774939-1.png",
+
+                     "@width": "624",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "I knew I wanted to find a doll that seemed haunted but not TOO haunted and definitely not too scary-looking.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "482",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr10/enhanced-23181-1433737311-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "449",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr14/enhanced-15948-1433737440-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "500",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr09/enhanced-3576-1433737796-1.jpg",
+
+                     "@width": "283",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "That's when I came across Mary. \n\nShe didn't look horrifying. The eBay listing insisted she was a \"positive spirit,\" which seemed nice. There was also an incredibly detailed backstory about how the ghost anchored to the doll was a teenager in the 1950s who lived in Ohio and liked to paint. How did the seller know this? Well, naturally, the ghost of Mary came to the doll's owner in a dream and revealed this information. The listing stated that if you bought the doll, she would come to you in your dreams too. Compared to doors slamming on their own, a dream haunting actually seems quite pleasant. I was sold. (For $33.99.) \n\nDo I really think all the \"haunted\" dolls for sale on eBay are actually haunted? Ehhh, probably not. But would I keep one in my home? Hell no. Instead, I had Mary shipped to my office. \n\nOn the day she arrived, my co-workers looked on with skepticism as I unboxed my new haunted doll. I immediately felt like I had to treat her with respect or risk the wrath of a ghost. \"I feel bad that she's wrapped in bubble wrap,\" I said as I freed her. \"It's a doll!\" replied a co-worker, who would likely regret taking that tone with Mary the <i>haunted<\/i> doll. The doll smelled musty, wore a tasteful plaid dress, and had some weird yellow gunk on her eyes.\n\nMy co-workers were largely not thrilled to have a haunted doll in the office. The negative reaction was stronger than I anticipated. The phrase \"el diablo\" got thrown around a lot. People wanted to burn sage. Our workplace harassment training did not cover paranormal activity, so I wasn't sure if I was creating a hostile work environment or not. Mary was supposed to be a positive spirit! How could anyone be afraid of something wearing such a jaunty velvet hat?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "463",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr13/grid-cell-6349-1433738049-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "463",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr13/grid-cell-6349-1433738053-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "I <a href=\"http://www.buzzfeed.com/joannaborns/do-you-think-this-doll-looks-haunted#.qbjBayo1K\">polled<\/a> BuzzFeed readers to see if they thought the doll was scary. Readers ended up being braver than BuzzFeed employees —&nbsp;only 35% of respondents thought Mary looked haunted. But to be fair, they did not have to spend time with her.\n\nI sent an email reminding everyone not to touch my haunted doll. My warning was promptly disregarded. I'm not sure what part of \"don't touch my haunted doll\" is so difficult to understand, but people couldn't quite grasp it. Needless to say, people moved the doll. And took selfies with it.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "382",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/27/13/enhanced/webdr12/enhanced-10827-1432747212-14.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "463",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/1/enhanced/webdr08/grid-cell-24806-1433739634-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "463",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/1/enhanced/webdr08/grid-cell-24806-1433739635-5.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Some people obviously didn't fear the potential consequences of mocking a ghost. (By the way, Mary does NOT need a boyfriend. Her ghost is only 16 years old and would rather focus on her painting, I assume.)\n\nSo I put up a sign to make sure everyone knew that this was a haunted doll and not just some regular, non-haunted doll.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr03/enhanced-17580-1433738323-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Eventually, <i>Goosebumps<\/i> author R.L. Stine got his hands on Mary. His professional opinion was that she is in fact haunted.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://vine.co/v/eBFHBKZUWje"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "In spite of R.L. Stine's assessment, nothing ghostly seemed to be happening around the office, though it's possible all of the haunting occurs at night when no one is around (thank god). \n\nThings got more interesting when I started using a ghost-tracking smartphone app called <a href=\"https://itunes.apple.com/us/app/ghost-radar-classic/id368470785?mt=8\">Ghost Radar<\/a>. The app claims to make it possible for paranormal energies to manipulate your phone. As a result, the app tells you when a ghost is allegedly nearby, and also translates words that a ghost is trying to communicate with you.\n\nAny time I used the app around Mary, it said it detected a ghost. One of the first words the app detected around Mary was the word \"loving.\" (So maybe she IS a positive spirit.) I took Ghost Radar for multiple strolls around the office to see if it detected ghosts in other places, but it rarely detected anything. There was almost no activity on the app unless my phone was around Mary —&nbsp;except for one other corner of the office containing a water cooler and a life-size cardboard cutout of Ryan Gosling, which also seemed particularly haunted according to the app.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "967",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr01/enhanced-26660-1433738706-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The words the app picks up from the spirit world seem very random, though sometimes disturbing. The first time I felt scared of Mary was when the ghost app detected the word \"incubus\" in her presence. I was also not a fan of the word \"nightmare.\" Another disturbing sequence of words was \"cave,\" \"earthen,\" and \"bones.\" Had Mary been murdered and buried in a cave? It seemed likely.\n\nThe most relevant thing the ghost app picked up from Mary was the word \"Ohio.\" Mary's seller on eBay said the ghost had lived in Ohio when she was alive. Another ghostly coincidence occurred when I skipped a kickboxing class to go to happy hour. I pulled out my ghost app at the bar, and the spirit world said \"exercise\" and \"tonight.\" Apparently ghosts will not miss an opportunity to shame you for your life choices. \n\nPlus an added benefit of having a ghost app on your phone is you can pull it out during awkward silences at a bar when you've run out of things to talk about and just start hunting ghosts until people decide to stop talking to you completely because you're being too weird.\n\nThe eeriest thing the app picked up from Mary were the words \"fear,\" \"astral,\" and \"release.\" Was her spirit trapped inside the doll? Did we need Jennifer Love Hewitt from the canceled CBS show <i>Ghost Whisperer<\/i> to help her spirit cross over and finally be at peace? This was getting intense, and I was starting to grow fond of Mary. Maybe too fond. Some of my co-workers theorized that Mary had possessed me. I found myself saying things like \"I am her keeper and I'll do as I please,\" which was a little disturbing, but not necessarily paranormal.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr11/grid-cell-27578-1433739183-9.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/0/enhanced/webdr11/grid-cell-27578-1433739185-14.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The only notably weird physical thing that happened was the time I was talking about Mary and a piece of plaster fell off the ceiling. People nearby blamed Mary. But my office building is pretty old, and that just didn't seem like her style. \n\nIn the time that has passed since Mary's first day in the offices, attitudes toward her have shifted. One co-worker who threatened to quit when Mary first came out of the box recently hugged her (even though she still smells musty as hell) and said, \"We love and respect Mary.\" Either this doll is not haunted at all, or she's managed to possess us all.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/1/enhanced/webdr04/grid-cell-28152-1433739755-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/1/enhanced/webdr04/grid-cell-28152-1433739757-5.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/1/enhanced/webdr04/grid-cell-28152-1433739758-8.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "The Hardest Game Of \"F&^%, Marry, Kill\" If You Were Trapped At This Work Event",
+
+            "link": "http://www.buzzfeed.com/juliapugachevsky/the-hardest-game-of-f-marry-kill-if-you-were-trapped-at-this?utm_term=4ldqpia",
+
+            "description": "<p>If you&#8217;re going to be THIS bored, might as well make it a game.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/5/11/enhanced/webdr12/grid-cell-20145-1433517627-4.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Atic12 / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/5/11/enhanced/webdr12/grid-cell-20145-1433517628-9.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/5/11/enhanced/webdr12/grid-cell-20145-1433517630-14.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Thinkstock<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/juliapugachevsky/the-hardest-game-of-f-marry-kill-if-you-were-trapped-at-this\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Julia Pugachevsky",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/juliapugachevsky/the-hardest-game-of-f-marry-kill-if-you-were-trapped-at-this"
+
+            },
+
+            "pubDate": "Fri, 05 Jun 2015 15:09:57 -0400",
+
+            "group": {
+
+               "description": "<b>If you're going to be THIS bored, might as well make it a game.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "juliapugachevsky"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/15/campaign_images/webdr04/the-hardest-game-of-f-marry-kill-if-you-were-trap-2-25679-1433531511-17.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/11/enhanced/webdr12/grid-cell-20145-1433517627-4.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/11/enhanced/webdr12/grid-cell-20145-1433517628-9.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/11/enhanced/webdr12/grid-cell-20145-1433517630-14.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/12/enhanced/webdr07/grid-cell-30252-1433522453-6.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/12/enhanced/webdr07/grid-cell-30252-1433522453-9.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/12/enhanced/webdr07/grid-cell-30252-1433522454-12.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/14/enhanced/webdr10/grid-cell-4746-1433528647-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/14/enhanced/webdr10/grid-cell-4746-1433528648-5.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/14/enhanced/webdr10/grid-cell-4746-1433528650-8.jpg",
+
+                     "@width": "203",
+
+                     "description": "Thinkstock",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Poll: What's Your Favorite Dog Breed?",
+
+            "link": "http://www.buzzfeed.com/joannaborns/favorite-kind-of-dog?utm_term=4ldqpia",
+
+            "description": "<p>Do you have strong dog opinions?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Joanna Borns",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/joannaborns/favorite-kind-of-dog"
+
+            },
+
+            "pubDate": "Fri, 05 Jun 2015 11:45:47 -0400",
+
+            "group": {
+
+               "description": "<b>Do you have strong dog opinions?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "joannaborns"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/11/campaign_images/webdr10/favorite-kind-of-dog-2-13724-1433519214-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "So You're Trapped Inside A Chuck E. Cheese's Play Tube",
+
+            "link": "http://www.buzzfeed.com/agh/so-youre-trapped-inside-a-chuck-e-cheeses-play-tube?utm_term=4ldqpia",
+
+            "description": "<p>Follow these steps to get out.<\/p>\n\n\n\n\n\n\n\n\n\n\n <p>Being trapped inside a Chuck E. Cheese&#39;s play tube as an adult can be very distressing. No matter what your reasoning was for entering the play area, you shouldn&#39;t blame yourself for getting stuck. It&#39;s important to realize that you <b>will<\/b> get out of the tube. Just stay calm, and follow these steps.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Understand the situation you're in.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/15/enhanced/webdr14/enhanced-13144-1433359362-20.png\" width=\"625\" height=\"473\" alt=\"Understand the situation you're in.\" /><\/p>\n \n\t<p>Before you do anything, understand your situation. <b>You&#39;re inside a Chuck E. Cheese&#39;s play tube.<\/b><\/p>\n\n<p>Don&#39;t be embarassed. Each year, tens of adults get stuck inside Chuck E. Cheese&#39;s play tubes.<\/p>\n\n\n <p><small>Andrea Hickey / BuzzFeed / Thinkstock<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Stay calm.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/15/enhanced/webdr03/enhanced-8107-1433273150-2.png\" width=\"625\" height=\"473\" alt=\"Stay calm.\" /><\/p>\n \n\t<p>It&#39;s important to remember not to scream or shake the tube. This will only agitate the children around you who now cannot access the passages you are currently blocking.<\/p>\n\n<p><b>Don&#39;t be worried<\/b>. The animatronic band is not mad at you.<\/p>\n\n\n <p><small>Andrea Hickey / BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Start wiggling.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/17/enhanced/webdr10/enhanced-15261-1433280098-31.png\" width=\"625\" height=\"473\" alt=\"Start wiggling.\" /><\/p>\n \n\t<p>Remember, though, <b>don&#39;t shake the tube<\/b>, so as not to rile up the young ones. Just start wiggling your body very, very slightly. You are trying to raise your body temperature. Do this for several minutes.<\/p>\n\n<p>If you hear children call you names like \"Idiot Wiggler\" or \"Large Tube Horror,\" just sing a song in your head to tune it out.<\/p>\n\n\n <p><small>Andrea Hickey / BuzzFeed<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/agh/so-youre-trapped-inside-a-chuck-e-cheeses-play-tube\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Andrea Hickey",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/agh/so-youre-trapped-inside-a-chuck-e-cheeses-play-tube"
+
+            },
+
+            "pubDate": "Thu, 04 Jun 2015 10:07:06 -0400",
+
+            "group": {
+
+               "description": "<b>Follow these steps to get out.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "agh"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/13/campaign_images/webdr06/so-youre-trapped-inside-a-chuck-e-cheeses-play-tu-2-11913-1433437248-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "Being trapped inside a Chuck E. Cheese's play tube as an adult can be very distressing. No matter what your reasoning was for entering the play area, you shouldn't blame yourself for getting stuck. It's important to realize that you <b>will<\/b> get out of the tube. Just stay calm, and follow these steps.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/15/enhanced/webdr14/enhanced-13144-1433359362-20.png",
+
+                     "@width": "625",
+
+                     "description": "Before you do anything, understand your situation. <b>You're inside a Chuck E. Cheese's play tube.<\/b>\n\nDon't be embarassed. Each year, tens of adults get stuck inside Chuck E. Cheese's play tubes.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/15/enhanced/webdr03/enhanced-8107-1433273150-2.png",
+
+                     "@width": "625",
+
+                     "description": "It's important to remember not to scream or shake the tube. This will only agitate the children around you who now cannot access the passages you are currently blocking.\n\n<b>Don't be worried<\/b>. The animatronic band is not mad at you.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/17/enhanced/webdr10/enhanced-15261-1433280098-31.png",
+
+                     "@width": "625",
+
+                     "description": "Remember, though, <b>don't shake the tube<\/b>, so as not to rile up the young ones. Just start wiggling your body very, very slightly. You are trying to raise your body temperature. Do this for several minutes.\n\nIf you hear children call you names like \"Idiot Wiggler\" or \"Large Tube Horror,\" just sing a song in your head to tune it out.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/18/enhanced/webdr11/enhanced-28912-1433283334-7.png",
+
+                     "@width": "625",
+
+                     "description": "Now that you've raised your body temperature from all the wiggling, you should be sweating quite a bit. The sweat will lubricate your body and you will be able to squirm through the tube. It won't be an easy journey, but you'll get out. \n\n<b>Make sure not to choose an exit strategy that puts you in the path of ongoing children,<\/b> which could agitate them.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/13/enhanced/webdr10/enhanced-2797-1433353134-9.png",
+
+                     "@width": "625",
+
+                     "description": "Presumably you're reading this on your phone. If no one has figured out for this long that you have created an obstruction in the play tube with your own body, <b>you must send a text to someone on the outside<\/b>.\n\nRemember to keep your phone on vibrate so that you don't scare the young ones.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/16/enhanced/webdr08/enhanced-22975-1433362754-19.png",
+
+                     "@width": "625",
+
+                     "description": "This is a situation now. The tube will be evacuated of all children, and a strong Chuck E. Cheese's employee or fire marshall will have to take apart pieces of the tube and pull you out.\n\nAt this point, you should not be wiggling anymore. In fact, <b>do not move at all.<\/b> It is best to remain perfectly still while you are being pulled out of the tube, like a newborn baby. \n\nIt is normal to be afraid or embarassed, but remember to stay calm and relax! You are being taken out of the tube. You will be able to see your friends again.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/17/enhanced/webdr01/enhanced-31219-1433365676-13.png",
+
+                     "@width": "625",
+
+                     "description": "You have been removed from the play tube. You can now eat pizza, watch the band perform, play games, redeem your tickets (if applicable), or exit Chuck E. Cheese's.\n\nIt is a good idea to <b>wash your hands<\/b> after being in the play tube. Children are dirty.\n\nDon't feel ashamed as you walk to the parking lot with your friends. Remember, it was an accident!",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "473",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/16/enhanced/webdr09/enhanced-29222-1433362602-7.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Country Singers Wear Hats For A Reason",
+
+            "link": "http://www.buzzfeed.com/danmeth/country-singers-without-hats?utm_term=4ldqpia",
+
+            "description": "<p>They wear them for a reason.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>No male country music singer has ever been seen without a cowboy hat.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/17/enhanced/webdr08/enhanced-25275-1433452537-5.png\" width=\"625\" height=\"416\" alt=\"No male country music singer has ever been seen without a cowboy hat.\" /><\/p>\n \n\t<p><b>For each singer, there is a unique reason.<\/b> In this BuzzFeed exclusive, we show you what lies beneath the Stetsons.<\/p>\n\n\n <p><small>Getty<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Kenny Chesney<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/17/enhanced/webdr08/anigif_enhanced-24399-1433453636-8.gif\" width=\"625\" height=\"714\" alt=\"Kenny Chesney\" /><\/p>\n \n\t<p>He&#39;s bald as a cueball.<\/p>\n\n\n <p><small>Jason Kempin / Via Getty<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Alan Jackson<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/11/enhanced/webdr13/anigif_enhanced-25169-1433430436-8.gif\" width=\"625\" height=\"625\" alt=\"Alan Jackson\" /><\/p>\n \n\t<p>Alan Jackson&#39;s forehead has the terms of his secret contract with the Ford Motor Company tattooed on it. In return for Jackson recording, a cover of the product-placement-filled \"<a href=\"https://www.youtube.com/watch?v=3T3MgIRUwj0\">Mercury Blues<\/a>,\" Ford&#39;s engineers would see to it that the singer&#39;s hair grew more golden and luscious with each passing year.<\/p>\n\n\n <p><small>Jason Merritt / Via Getty<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Hank Williams<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/17/enhanced/webdr05/anigif_enhanced-27242-1433367687-9.gif\" width=\"625\" height=\"742\" alt=\"Hank Williams\" /><\/p>\n \n\t<p>Hank kept all the money he ever earned in his career under his hat.<\/p>\n\n\n <p><small>MGM / Via Wikipedia<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/danmeth/country-singers-without-hats\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Dan Meth",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/danmeth/country-singers-without-hats"
+
+            },
+
+            "pubDate": "Fri, 05 Jun 2015 10:38:17 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>They wear them for a reason.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "danmeth"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/10/campaign_images/webdr08/country-singers-without-hats-2-8327-1433515284-1.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Get Rid Of Raccoons In 4 Easy Steps",
+
+            "link": "http://www.buzzfeed.com/samweiner/get-rid-of-raccoons-in-4-easy-steps?utm_term=4ldqpia",
+
+            "description": "<p>Adios, pesky critters!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Step 1: Lock Up Your Garbage<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/14/enhanced/webdr07/enhanced-14052-1433269582-13.jpg\" width=\"625\" height=\"417\" alt=\"Step 1: Lock Up Your Garbage\" /><\/p>\n \n\t<p>Raccoons love to eat trash, so keep yours in a container with a securable lid to keep them out. Be sure to wash the garbage can out every week so the smell doesn&#39;t attract them&#33;<\/p>\n\n\n <p><small>Andy_q / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Step 2: Spray Raccoon Access Points With A Mix Of Pepper And Chilis<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/14/enhanced/webdr15/enhanced-18473-1433269539-1.jpg\" width=\"625\" height=\"938\" alt=\"Step 2: Spray Raccoon Access Points With A Mix Of Pepper And Chilis\" /><\/p>\n \n\t<p>Boil a cup of cayenne pepper in water and throw in a handful of chopped habaneros. When it cools, spray the spicy concoction under porches and around attic windows. Take that, raccoons&#33;<\/p>\n\n\n <p><small>Richard Schmidt-zuper / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Step 3: Deter Raccoons With Ammonia-Soaked Tennis Balls<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/14/enhanced/webdr14/enhanced-1130-1433269562-3.jpg\" width=\"625\" height=\"467\" alt=\"Step 3: Deter Raccoons With Ammonia-Soaked Tennis Balls\" /><\/p>\n \n\t<p>Raccoons hate the smell, and they won&#39;t enter your property if you leave a few of these DIY vermin-busters around&#33;<\/p>\n\n\n <p><small>Randimal / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Step 4: Try Ultrasonic Noisemakers, Electric Fences, And Grass Spikes<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/14/enhanced/webdr04/enhanced-30630-1433269523-6.jpg\" width=\"600\" height=\"450\" alt=\"Step 4: Try Ultrasonic Noisemakers, Electric Fences, And Grass Spikes\" /><\/p>\n \n\t<p>If all else fails, line your property with a variety of raccoon-deterring traps. They may hurt the raccoons a little&ndash;but the little buggers will wise up and leave you alone&#33;<\/p>\n\n\n <p><small>NA / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://en.wikipedia.org/wiki/File:Entrance_of_Joint_Security_Area,_Korean_Demilitarized_Zone,_DPRK_side.jpg\">en.wikipedia.org<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/samweiner/get-rid-of-raccoons-in-4-easy-steps\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Sam Weiner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/samweiner/get-rid-of-raccoons-in-4-easy-steps"
+
+            },
+
+            "pubDate": "Thu, 04 Jun 2015 11:58:28 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Adios, pesky critters!<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "samweiner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/12/campaign_images/webdr05/get-rid-of-raccoons-in-4-easy-steps-2-16410-1433433624-10.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Wanna See Something Weird?",
+
+            "link": "http://www.buzzfeed.com/jeanlucbouchard/wanna-see-something-weird?utm_term=4ldqpia",
+
+            "description": "<p>Sure ya do.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Hey, you.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/1/12/enhanced/webdr11/enhanced-3365-1433175198-2.jpg\" width=\"592\" height=\"592\" alt=\"Hey, you.\" /><\/p>\n \n\t\n\n\n <p><small>Vagengeym_elena / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Yeah, you.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/1/12/enhanced/webdr03/edit-28512-1433175526-32.jpg\" width=\"265\" height=\"163\" alt=\"Yeah, you.\" /><\/p>\n \n\t\n\n\n <p><small>Vagengeym_elena / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Jean-Luc Bouchard",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/jeanlucbouchard/wanna-see-something-weird"
+
+            },
+
+            "pubDate": "Tue, 02 Jun 2015 11:58:29 -0400",
+
+            "group": {
+
+               "description": "<b>Sure ya do.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "jeanlucbouchard"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/12/campaign_images/webdr09/wanna-see-something-weird-2-7505-1433261140-22.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "592",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/12/enhanced/webdr11/enhanced-3365-1433175198-2.jpg",
+
+                     "@width": "592",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "163",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/12/enhanced/webdr03/edit-28512-1433175526-32.jpg",
+
+                     "@width": "265",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "23 Things Only Goddamn Nancy Would Understand",
+
+            "link": "http://www.buzzfeed.com/alexisnedd/stay-away-from-jerry-this-is-your-last-warning-nancy?utm_term=4ldqpia",
+
+            "description": "<p>Everybody knows a Nancy. Everybody.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Butting in on people's conversations like they were even talking to you.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/15/enhanced/webdr04/enhanced-14104-1433360489-20.jpg\" width=\"625\" height=\"416\" alt=\"Butting in on people's conversations like they were even talking to you.\" /><\/p>\n \n\t\n\n\n <p><small>Monkeybusinessimages / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Giving out diet advice to people who explicitly have not asked you for it.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/15/enhanced/webdr04/enhanced-13538-1433360568-42.jpg\" width=\"625\" height=\"416\" alt=\"Giving out diet advice to people who explicitly have not asked you for it.\" /><\/p>\n \n\t\n\n\n <p><small>Kzenon / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Hitting reply-all in email threads that have been dead for more than 30 minutes.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/15/enhanced/webdr06/enhanced-24662-1433360656-5.jpg\" width=\"625\" height=\"416\" alt=\"Hitting reply-all in email threads that have been dead for more than 30 minutes.\" /><\/p>\n \n\t\n\n\n <p><small>Andreypopov / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Buying drinks for other people's boyfriends and saying you're \"just being friendly.\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/16/enhanced/webdr15/enhanced-31211-1433362812-41.jpg\" width=\"625\" height=\"522\" alt=\"Buying drinks for other people's boyfriends and saying you're &quot;just being friendly.&quot;\" /><\/p>\n \n\t\n\n\n <p><small>Andreypopov / Getty Images<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/alexisnedd/stay-away-from-jerry-this-is-your-last-warning-nancy\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Alexis Nedd",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alexisnedd/stay-away-from-jerry-this-is-your-last-warning-nancy"
+
+            },
+
+            "pubDate": "Wed, 03 Jun 2015 17:27:56 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Everybody knows a Nancy<\/b>. Everybody.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alexisnedd"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/17/campaign_images/webdr05/23-things-only-goddamn-nancy-would-understand-2-27324-1433366874-8.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Almost The 50 States",
+
+            "link": "http://www.buzzfeed.com/samweiner/50-slightly-incorrect-names-for-states?utm_term=4ldqpia",
+
+            "description": "<p>It&#8217;s important to know your georgorphy.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/16/enhanced/webdr04/enhanced-23170-1433277962-2.jpg\" width=\"625\" height=\"421\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Tinnakorn / Getty Images / MP BF<\/small><\/p>",
+
+            "author": "Sam Weiner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/samweiner/50-slightly-incorrect-names-for-states"
+
+            },
+
+            "pubDate": "Tue, 02 Jun 2015 16:53:56 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>It's important to know your georgorphy.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "samweiner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/15/campaign_images/webdr04/almost-the-50-states-2-15492-1433792330-2.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "How Many Dumb Things That No One Cares About Do You Know?",
+
+            "link": "http://www.buzzfeed.com/joannaborns/common-mistakes?utm_term=4ldqpia",
+
+            "description": "<p>Actually&#8230;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Joanna Borns",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/joannaborns/common-mistakes"
+
+            },
+
+            "pubDate": "Mon, 01 Jun 2015 10:26:28 -0400",
+
+            "group": {
+
+               "description": "<b>Actually...<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "joannaborns"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/16/campaign_images/webdr11/how-many-dumb-things-that-no-one-cares-about-do-y-2-6646-1433275781-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "POLL: What's The Best Nonfiction Animated Film Of All Time?",
+
+            "link": "http://www.buzzfeed.com/samweiner/poll-whats-the-best-nonfiction-animated-film-of-all-time?utm_term=4ldqpia",
+
+            "description": "<p>Make your voice heard!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Sam Weiner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/samweiner/poll-whats-the-best-nonfiction-animated-film-of-all-time"
+
+            },
+
+            "pubDate": "Tue, 02 Jun 2015 11:38:09 -0400",
+
+            "group": {
+
+               "description": "<b>Make your voice heard!<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "samweiner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/11/campaign_images/webdr13/poll-whats-the-best-nonfiction-animated-film-of-a-2-8943-1433259487-27.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "POLL: What's The Scarier Way To Die?",
+
+            "link": "http://www.buzzfeed.com/samweiner/poll-whats-the-scarier-way-to-die?utm_term=4ldqpia",
+
+            "description": "<p>Make your voice heard!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Sam Weiner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/samweiner/poll-whats-the-scarier-way-to-die"
+
+            },
+
+            "pubDate": "Mon, 01 Jun 2015 11:25:39 -0400",
+
+            "group": {
+
+               "description": "<b>Make your voice heard!<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "samweiner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/11/campaign_images/webdr11/poll-whats-the-scarier-way-to-die-2-1731-1433172337-11.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Help Me Name My Son's Little League Team?",
+
+            "link": "http://www.buzzfeed.com/agh/can-you-help-me-name-my-sons-little-league-team?utm_term=4ldqpia",
+
+            "description": "<p>Please help!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/29/13/enhanced/webdr09/enhanced-19467-1432920194-11.jpg\" width=\"625\" height=\"449\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Thinkstock<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Thank you!!!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/29/13/enhanced/webdr02/enhanced-6101-1432920214-13.jpg\" width=\"625\" height=\"416\" alt=\"Thank you!!!\" /><\/p>\n \n\t\n\n\n <p><small>Thinkstock<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/agh/can-you-help-me-name-my-sons-little-league-team\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Andrea Hickey",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/agh/can-you-help-me-name-my-sons-little-league-team"
+
+            },
+
+            "pubDate": "Fri, 29 May 2015 13:51:39 -0400",
+
+            "group": {
+
+               "description": "<b>Please help!<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "agh"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/13/campaign_images/webdr08/can-you-help-me-name-my-sons-little-league-team-2-12028-1432922245-18.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "449",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/13/enhanced/webdr09/enhanced-19467-1432920194-11.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/13/enhanced/webdr02/enhanced-6101-1432920214-13.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Well Do You Know The American Flag?",
+
+            "link": "http://www.buzzfeed.com/samweiner/how-well-do-you-know-the-american-flag?utm_term=4ldqpia",
+
+            "description": "<p>Learn the facts about Old Glory.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Each element of the stars 'n stripes represents something important about the USA.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/28/10/enhanced/webdr11/enhanced-5248-1432824374-4.jpg\" width=\"625\" height=\"416\" alt=\"Each element of the stars 'n stripes represents something important about the USA.\" /><\/p>\n \n\t<p>Do you know what they all mean?<\/p>\n\n\n <p><small>Digital Vision. / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>The 13 stripes represent America’s 13 colonies minus the doomed 14th colony, New Atlantis.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/28/10/enhanced/webdr12/enhanced-13944-1432824762-2.jpg\" width=\"625\" height=\"463\" alt=\"The 13 stripes represent America’s 13 colonies minus the doomed 14th colony, New Atlantis.\" /><\/p>\n \n\t<p>Sadly, the experimental colony sank off the coast of Rhode Island under the weight of its steam-powered Democracy Generator.<\/p>\n\n\n <p><small>NA / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.freelargeimages.com/wp-content/uploads/2014/11/13_colonies_map-3.jpg\">freelargeimages.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>&bull; Man shall not kill man.<br />\n&bull; Offerings of wheat must be accepted under all circumstances.<br />\n&bull; Disputes are to be settled by feats of competitive tunnel digging.<br />\n&bull; Sundays are for football and that&#39;s it.<br />\n&bull; Never, ever go into the Mystery Shack&#33; What&#39;s in the Mystery Shack, you ask? Don&#39;t even think about finding out&#33;<br />\n&bull; Everything else is legal.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>The seven red stripes represent America’s Official Beer Sponsor™, Red Stripe. Red Stripe–Hooray Beer!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/28/10/enhanced/webdr01/enhanced-24308-1432825001-7.jpg\" width=\"410\" height=\"410\" alt=\"The seven red stripes represent America’s Official Beer Sponsor™, Red Stripe. Red Stripe–Hooray Beer!\" /><\/p>\n \n\t\n\n\n <p><small>Red Stripe / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.cherokeedistributing.com/wp-content/uploads/2012/02/Guiness-Red-Stripe-2.jpg\">cherokeedistributing.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/samweiner/how-well-do-you-know-the-american-flag\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Sam Weiner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/samweiner/how-well-do-you-know-the-american-flag"
+
+            },
+
+            "pubDate": "Thu, 28 May 2015 17:22:33 -0400",
+
+            "group": {
+
+               "description": "<b>Learn the facts about Old Glory.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "samweiner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/17/campaign_images/webdr12/how-well-do-you-know-the-american-flag-2-8707-1432848267-25.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/10/enhanced/webdr11/enhanced-5248-1432824374-4.jpg",
+
+                     "@width": "625",
+
+                     "description": "Do you know what they all mean?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "463",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/10/enhanced/webdr12/enhanced-13944-1432824762-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "Sadly, the experimental colony sank off the coast of Rhode Island under the weight of its steam-powered Democracy Generator.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "• Man shall not kill man.\n• Offerings of wheat must be accepted under all circumstances.\n• Disputes are to be settled by feats of competitive tunnel digging.\n• Sundays are for football and that's it.\n• Never, ever go into the Mystery Shack! What's in the Mystery Shack, you ask? Don't even think about finding out!\n• Everything else is legal.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "410",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/10/enhanced/webdr01/enhanced-24308-1432825001-7.jpg",
+
+                     "@width": "410",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "414",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/11/enhanced/webdr11/enhanced-3633-1432825421-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/10/enhanced/webdr10/enhanced-32579-1432825089-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "525",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/10/enhanced/webdr06/enhanced-18903-1432825127-6.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Are You An Expert On Dog Fashion?",
+
+            "link": "http://www.buzzfeed.com/joannaborns/dog-hats?utm_term=4ldqpia",
+
+            "description": "<p>You will be these dogs&#8217; harshest fashion critic.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Joanna Borns",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/joannaborns/dog-hats"
+
+            },
+
+            "pubDate": "Thu, 28 May 2015 16:42:10 -0400",
+
+            "group": {
+
+               "description": "<b>You will be these dogs' harshest fashion critic.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "joannaborns"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/16/campaign_images/webdr01/dog-hats-2-20192-1432845898-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Guess What This Snack This Was Before I Crushed It?",
+
+            "link": "http://www.buzzfeed.com/danmeth/snack-crushed?utm_term=4ldqpia",
+
+            "description": "<p>That&#8217;s the way the ____ crumbles.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Dan Meth",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/danmeth/snack-crushed"
+
+            },
+
+            "pubDate": "Thu, 28 May 2015 14:26:20 -0400",
+
+            "group": {
+
+               "description": "<b>That's the way the ____ crumbles.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "danmeth"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/20/campaign_images/webdr10/can-you-guess-what-this-snack-this-was-before-i-c-2-32249-1432859079-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This Day In History, May 28, 2015",
+
+            "link": "http://www.buzzfeed.com/jeanlucbouchard/this-day-in-history-may-28-2015?utm_term=4ldqpia",
+
+            "description": "<p>A cinematic milestone debuts.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>On this day in 1929, the first all-talking, all-color feature length movie, <i>On with the Show!<\/i>, was released in American theaters.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/28/10/enhanced/webdr08/enhanced-8665-1432823968-2.jpg\" width=\"625\" height=\"843\" alt=\"On this day in 1929, the first all-talking, all-color feature length movie, On with the Show!, was released in American theaters.\" /><\/p>\n \n\t<p>The second all-talking, all-color feature length movie, <i>Watch This Rainbow Scream&#33;<\/i>, debuted the very next day to astounding critical and commercial failure.<\/p>\n\n\n <p><small>Fair Use / Warner Bros.<\/small><\/p>",
+
+            "author": "Jean-Luc Bouchard",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/jeanlucbouchard/this-day-in-history-may-28-2015"
+
+            },
+
+            "pubDate": "Thu, 28 May 2015 10:54:28 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>A cinematic milestone debuts.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "jeanlucbouchard"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/10/campaign_images/webdr03/this-day-in-history-may-28-2015-2-28914-1432824866-5.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

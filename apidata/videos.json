@@ -1,0 +1,2861 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed Videos - Latest",
+
+      "link": [
+
+         "http://www.buzzfeed.com",
+
+         {
+
+            "@href": "http://www.buzzfeed.com/index.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Sat, 13 Jun 2015 20:24:51 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://www.buzzfeed.com"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "HPV Explained In 2 Minutes",
+
+            "link": "http://www.buzzfeed.com/hillarylevine/hpv-explained-in-2-minutes?utm_term=4ldqpia",
+
+            "description": "<p>Because you probably have it, statistically speaking.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/0UprCgqFbsY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Yellow / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=0UprCgqFbsY\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Hillary Lauren Levine",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/hillarylevine/hpv-explained-in-2-minutes"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 17:11:41 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Because you probably have it, statistically speaking.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "hillarylevine"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr04/hpv-explained-in-2-minutes-2-4479-1434233060-7.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Street Food Around The World",
+
+            "link": "http://www.buzzfeed.com/brentbennett/street-food-around-the-world?utm_term=4ldqpia",
+
+            "description": "<p>Ready to travel?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/2015SQYu4DM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Video / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=2015SQYu4DM\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Brent Bennett",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/brentbennett/street-food-around-the-world"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 17:02:46 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Ready to travel?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "brentbennett"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/17/campaign_images/webdr02/street-food-around-the-world-2-8423-1434232439-7.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "These Guys Tried Fake Eyelashes And Didn't Completely Hate It",
+
+            "link": "http://www.buzzfeed.com/caitlincowie/guys-try-fake-eyelashes?utm_term=4ldqpia",
+
+            "description": "<p>“My eyes are really glued shut right now.”<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/vF2tBHJHVXY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Video / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=vF2tBHJHVXY\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Caitlin Cowie",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/caitlincowie/guys-try-fake-eyelashes"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 15:23:51 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>“My eyes are really glued shut right now.”<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "caitlincowie"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/20/campaign_images/webdr06/guys-try-fake-eyelashes-2-6031-1434154390-11.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "What Is A Slut?",
+
+            "link": "http://www.buzzfeed.com/colinweatherby/is-gaby-a-slut?utm_term=4ldqpia",
+
+            "description": "<p>Gaby Dunn investigates whether she is a slut or not.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/XLxbYIpjbL8\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Yellow / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=XLxbYIpjbL8\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Colin Weatherby",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/colinweatherby/is-gaby-a-slut"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 15:11:10 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Gaby Dunn investigates whether she is a slut or not.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "colinweatherby"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr11/what-is-a-slut-2-20963-1434235207-2.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "These Two Best Friends Rode The \"Jurassic Park\" Ride For 12 Hours Straight",
+
+            "link": "http://www.buzzfeed.com/candacelowry/these-two-best-friends-rode-the-jurassic-park-ride-for-12-ho?utm_term=4ldqpia",
+
+            "description": "<p>A &#8217;90s kid&#8217;s dream come true.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1><a href=\"http://Twitter.com/jkitaeff\">Jake and<\/a> <a href=\"http://www.twitter.com/jkitaeff\">Dave<\/a> just went on the most excellent adventure to fulfill their childhood dreams. They rode the <i>Jurassic Park<\/i> ride at Universal Studios Hollywood for 12 hours straight to celebrate the release of <i>Jurassic World<\/i>.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/42rZR0wkayU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t<p>Jake and David told BuzzFeed News: \"We both have had such an infatuation with the Universal Studios theme park and the film franchise itself that we thought, &#39;What could we do in honor of the new film?&#33;&#39; We wanted to do something unique in celebration, but also something that hasn&#39;t been done before.\"<\/p>\n\n<p>After a little bit of brainstorming, \"it kind of just came to us and we thought, &#39;Wait, how many times could we ride \"The <i>Jurassic Park<\/i> River Adventure\" ride in one day?&#39;\" the guys said. \"It was then that we knew what we could do in honor of the new film: ride Jurassic Park all day and set a record&#33;\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=42rZR0wkayU\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>After talking to the Guinness World Record crew, and the ride operators, the guys set out to break the \"Jurassic Record\" bright and early at 9:15 a.m. local time.<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/3oje-CFZXQ/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>But, how could they stay on the ride without having to get back in line? <\/p>\n\n<p>The guys told BuzzFeed News: \"Not only did the Jurassic Crew get back to us immediately, but they made our whole experience so pleasant and smooth. We were given a secret password before we showed up to the park and this allowed us to skip the line all day.\" <\/p>\n\n<p>Nicely done.<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/3oje-CFZXQ/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>After doing the math, Jake and Dave knew they needed to get through the ride 50 times. The guys were able to get through 10 rides in under two hours, but that was only the beginning.<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/3ozS6NlZcG/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/3ozS6NlZcG/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Even though the guys knew the ride backwards and forwards, they began to notice little unique facts about the ride.<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/3pHtLTFZdb/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>Jack and Dave explained, \"The spark coming from the fence where the raptors are encaged is now turned off. We were told this was a fire hazard and unfortunately had to be removed within the last few years.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/3pHtLTFZdb/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/candacelowry/these-two-best-friends-rode-the-jurassic-park-ride-for-12-ho\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Candace Lowry",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/candacelowry/these-two-best-friends-rode-the-jurassic-park-ride-for-12-ho"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 15:02:22 -0400",
+
+            "group": {
+
+               "description": "A '90s kid's dream come true.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "candacelowry"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/15/campaign_images/webdr12/these-two-best-friends-rode-the-jurassic-park-rid-2-20983-1434223338-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "description": "Jake and David told BuzzFeed News: \"We both have had such an infatuation with the Universal Studios theme park and the film franchise itself that we thought, 'What could we do in honor of the new film?!' We wanted to do something unique in celebration, but also something that hasn't been done before.\"\n\nAfter a little bit of brainstorming, \"it kind of just came to us and we thought, 'Wait, how many times could we ride \"The <i>Jurassic Park<\/i> River Adventure\" ride in one day?'\" the guys said. \"It was then that we knew what we could do in honor of the new film: ride Jurassic Park all day and set a record!\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=42rZR0wkayU"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "But, how could they stay on the ride without having to get back in line? \n\nThe guys told BuzzFeed News: \"Not only did the Jurassic Crew get back to us immediately, but they made our whole experience so pleasant and smooth. We were given a secret password before we showed up to the park and this allowed us to skip the line all day.\" \n\nNicely done.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3oje-CFZXQ/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3ozS6NlZcG/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Jack and Dave explained, \"The spark coming from the fence where the raptors are encaged is now turned off. We were told this was a fire hazard and unfortunately had to be removed within the last few years.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3pHtLTFZdb/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "\"We figured the first two Ultrasaurus Dinosaurs you see were named Jerry (like Jurassic) and Maude,\" Jake and Dave said. \"They were a friendly Jewish couple that welcomed all to the park.\"\n\n\"The raptor in the boat is of course named Walt, after he ate a child wearing a Disney hat. The two spitters right before you begin to crawl up we figured were twins. So there names were naturally Jim &amp; Tim. \n\n\"Last but not least, we had to throw in our personal touch, so Jake &amp; Dave are the Velociraptors as you climb up before the drop.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3o_-FoFZaV/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "They were able to get ten more rides in, giving them a grand total of 60 rides in 12 hours.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3uGxqflZai/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "BUT HOW did they pack that many rides in without having to get food and go to the bathroom? The guys said, \"This was all thanks to our snack arsenal that we brought on board and minimal hydration tactics so we wouldn't have to go to the bathroom.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3uHXIhFZb1/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "291",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/14/enhanced/webdr15/anigif_enhanced-26142-1434220192-2.gif",
+
+                     "@width": "556",
+
+                     "description": "The guys told BuzzFeed News that the crew's \"enthusiasm and cheering us on really amped us up throughout the process, and we couldn't have asked for a better group of people to help us reach our record-setting goal.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This \"Jurassic Park\" Cover Will Make You All Emotional",
+
+            "link": "http://www.buzzfeed.com/ninamohan/this-emotional-cover-of-the-jurassic-park-theme-will-give-yo?utm_term=4ldqpia",
+
+            "description": "<p>This video will turn you into a Tearannosaurus.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>YouTube musical sensation <a href=\"https://www.youtube.com/channel/UCmKurapML4BF9Bjtj4RbvXw\">The Piano Guys<\/a> have just released another cover and it will bring your prehistoric heart to life.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/7pvci1hwAx8\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=7pvci1hwAx8\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Jon Schmidt plays the piano and Steven Sharp Nelson plays the cello in this moving rendition of the <i>Jurassic Park<\/i> theme.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr07/anigif_enhanced-26674-1434133582-7.gif\" width=\"625\" height=\"244\" alt=\"Jon Schmidt plays the piano and Steven Sharp Nelson plays the cello in this moving rendition of the Jurassic Park theme.\" /><\/p>\n \n\t\n\n\n <p><small>ThePianoGuys / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=7pvci1hwAx8\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>And if you can choke back your tears for a second, you'll notice they shot the music video in a totally <i>Jurassic Park<\/i>-worthy location.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr09/anigif_enhanced-29537-1434134355-2.gif\" width=\"625\" height=\"246\" alt=\"And if you can choke back your tears for a second, you'll notice they shot the music video in a totally Jurassic Park-worthy location.\" /><\/p>\n \n\t\n\n\n <p><small>ThePianoGuys / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=7pvci1hwAx8\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Thankfully Crawdad Canyon in Utah isn't known to have dinosaurs, so there's no chance they'll be snapped up by Indominus Rex.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr06/anigif_enhanced-22155-1434134529-2.gif\" width=\"625\" height=\"250\" alt=\"Thankfully Crawdad Canyon in Utah isn't known to have dinosaurs, so there's no chance they'll be snapped up by Indominus Rex.\" /><\/p>\n \n\t\n\n\n <p><small>ThePianoGuys / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.youtube.com/watch?v=7pvci1hwAx8\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/ninamohan/this-emotional-cover-of-the-jurassic-park-theme-will-give-yo\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Nina Mohan",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/ninamohan/this-emotional-cover-of-the-jurassic-park-theme-will-give-yo"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 15:01:42 -0400",
+
+            "group": {
+
+               "description": "This video will turn you into a <i>Tear<\/i>annosaurus.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "ninamohan"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/campaign_images/webdr03/this-emotional-cover-of-the-jurassic-park-theme-w-2-23407-1434137967-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=7pvci1hwAx8"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "244",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr07/anigif_enhanced-26674-1434133582-7.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "246",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr09/anigif_enhanced-29537-1434134355-2.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "250",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr06/anigif_enhanced-22155-1434134529-2.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "247",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/enhanced/webdr08/anigif_enhanced-18578-1434136982-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "7 Famous Brands That Originally Had Weird Names",
+
+            "link": "http://www.buzzfeed.com/amandaholland/7-famous-brands-that-originally-had-weird-names?utm_term=4ldqpia",
+
+            "description": "<p>Pepsi was originally called Brad’s Drink!?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/aLISAvRkAA4\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Blue / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=aLISAvRkAA4\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Amanda Holland",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/amandaholland/7-famous-brands-that-originally-had-weird-names"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 14:51:55 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Pepsi was originally called Brad’s Drink!?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "amandaholland"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/15/campaign_images/webdr15/7-famous-brands-that-originally-had-weird-names-2-24532-1434222863-1.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Are You More Logical Than Us?",
+
+            "link": "http://www.buzzfeed.com/kater11/are-you-more-logical-than-us?utm_term=4ldqpia",
+
+            "description": "<p>We tested the BuzzFeed gang, can you do better than us?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/6SAeWqzUjyY\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Blue / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=6SAeWqzUjyY\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Kate Reynolds",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kater11/are-you-more-logical-than-us"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 14:45:32 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>We tested the BuzzFeed gang, can you do better than us?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kater11"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr09/are-you-more-logical-than-us-2-22810-1434235375-4.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "13 Unforgettable Lies People Have Told During Sex",
+
+            "link": "http://www.buzzfeed.com/dayshavedewi/13-lies-people-tell-during-sex?utm_term=4ldqpia",
+
+            "description": "<p>Is honesty actually always the best policy?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/I_FL961vGMA\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Yellow / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=I_FL961vGMA\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Daysha Edewi",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/dayshavedewi/13-lies-people-tell-during-sex"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 14:31:40 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Is honesty actually always the best policy?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "dayshavedewi"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/23/campaign_images/webdr13/13-lies-people-tell-during-sex-2-21988-1434166079-1.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "The Origins Of The SAT",
+
+            "link": "http://www.buzzfeed.com/chrislam/the-origins-of-the-sat?utm_term=4ldqpia",
+
+            "description": "<p>No, it&#8217;s not from the underworld.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/_W6mrXLcd6o\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Yellow / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/_W6mrXLcd6o\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Yellow / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=_W6mrXLcd6o\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Chris Lam",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/chrislam/the-origins-of-the-sat"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 14:19:03 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>No, it's not from the underworld.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "chrislam"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/15/campaign_images/webdr10/the-origins-of-the-sat-2-26078-1434222710-0.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Which Pizza Chain Has The Best Pizza?",
+
+            "link": "http://www.buzzfeed.com/kelseypjones/which-pizza-chain-has-the-best-pizza?utm_term=4ldqpia",
+
+            "description": "<p>The results are surprising.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/P0UFubNUlqM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Video / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=P0UFubNUlqM\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Kelsey Jones",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kelseypjones/which-pizza-chain-has-the-best-pizza"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 14:04:09 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>The results are surprising.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kelseypjones"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/19/campaign_images/webdr06/which-pizza-chain-has-the-best-pizza-2-1858-1434151663-3.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "This Is What It's Like To Be A Girl Who Codes",
+
+            "link": "http://www.buzzfeed.com/chantelhouston/this-is-what-its-like-to-be-a-girl-who-codes?utm_term=4ldqpia",
+
+            "description": "<p>You&#8217;ll never imagine where it can take you.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/MyGh89qizME\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>BuzzFeed Video / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=MyGh89qizME\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>This video tells the story of 5 young app developers on their journey to Apple's Worldwide Developers Conference in San Francisco.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/13/13/enhanced/webdr02/anigif_enhanced-30771-1434216303-10.gif\" width=\"600\" height=\"338\" alt=\"This video tells the story of 5 young app developers on their journey to Apple's Worldwide Developers Conference in San Francisco.\" /><\/p>\n \n\t<p>Say hello to Kiera, Isabella, Sofia, Beatriz, and Lea&#33;<\/p>\n\n\n <p><small>BuzzFeedVideo<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>And you could feel the excitement.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/13/13/enhanced/webdr09/anigif_enhanced-27727-1434216510-10.gif\" width=\"600\" height=\"338\" alt=\"And you could feel the excitement.\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeedVideo<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>They shared times where they doubted themselves.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/13/13/enhanced/webdr02/anigif_enhanced-29028-1434216390-4.gif\" width=\"600\" height=\"338\" alt=\"They shared times where they doubted themselves.\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeedVideo<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/chantelhouston/this-is-what-its-like-to-be-a-girl-who-codes\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Chantel Houston",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/chantelhouston/this-is-what-its-like-to-be-a-girl-who-codes"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 13:01:42 -0400",
+
+            "group": {
+
+               "description": "<b>You'll never imagine where it can take you.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "chantelhouston"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/14/campaign_images/webdr11/this-is-what-its-like-to-be-a-girl-who-codes-2-19008-1434221259-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=MyGh89qizME"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr02/anigif_enhanced-30771-1434216303-10.gif",
+
+                     "@width": "600",
+
+                     "description": "Say hello to Kiera, Isabella, Sofia, Beatriz, and Lea!",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr09/anigif_enhanced-27727-1434216510-10.gif",
+
+                     "@width": "600",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr02/anigif_enhanced-29028-1434216390-4.gif",
+
+                     "@width": "600",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr13/anigif_enhanced-31341-1434216864-2.gif",
+
+                     "@width": "600",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr09/anigif_enhanced-6589-1434216924-2.gif",
+
+                     "@width": "600",
+
+                     "description": "*Priorities*",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr02/anigif_enhanced-28370-1434216969-2.gif",
+
+                     "@width": "600",
+
+                     "description": "Same.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr02/anigif_enhanced-30893-1434217105-2.gif",
+
+                     "@width": "600",
+
+                     "description": "*dies*",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr03/anigif_enhanced-23327-1434217331-2.gif",
+
+                     "@width": "600",
+
+                     "description": "*softly weeps*",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr09/anigif_enhanced-5837-1434217455-2.gif",
+
+                     "@width": "600",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/13/enhanced/webdr05/anigif_enhanced-5984-1434217545-5.gif",
+
+                     "@width": "600",
+
+                     "description": "SLAY.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Here's What Happened When Couples Pranked Each Other With A Fake Secret",
+
+            "link": "http://www.buzzfeed.com/jordanimbrey/couples-prank-each-other-with-a-fake-secret?utm_term=4ldqpia",
+
+            "description": "<p>What would you do if your girlfriend kept a mason jar full of toenail clippings?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>We asked three couples to reveal secrets to each other, but then we privately told one member of each pair to prank their partner with a lie. Here's what happened:<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/21upSxdJ5cc\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=21upSxdJ5cc\">youtube.com<\/a> / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/channel/UCpko_-a4wgz2u_DgDgd9fqA\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>First, the setups to these fake \"secrets\" were laid on pretty thick.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/15/enhanced/webdr13/anigif_enhanced-11656-1434137327-2.gif\" width=\"500\" height=\"282\" alt=\"First, the setups to these fake &quot;secrets&quot; were laid on pretty thick.\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeedVideo / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/channel/UCpko_-a4wgz2u_DgDgd9fqA\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Making your girlfriend think you have a secret past she doesn't know about? Shady!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/15/enhanced/webdr13/anigif_enhanced-11181-1434137382-8.gif\" width=\"500\" height=\"282\" alt=\"Making your girlfriend think you have a secret past she doesn't know about? Shady!\" /><\/p>\n \n\t<p>She looks nervous&#33;<\/p>\n\n\n <p><small>BuzzFeedVideo / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/channel/UCpko_-a4wgz2u_DgDgd9fqA\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Sounds like a confession is coming...<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/15/enhanced/webdr03/anigif_enhanced-22478-1434137432-7.gif\" width=\"500\" height=\"282\" alt=\"Sounds like a confession is coming...\" /><\/p>\n \n\t<p>And he&#39;s already jumping to the worst conclusion.<\/p>\n\n\n <p><small>BuzzFeedVideo / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/channel/UCpko_-a4wgz2u_DgDgd9fqA\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/jordanimbrey/couples-prank-each-other-with-a-fake-secret\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Jordan Imbrey",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/jordanimbrey/couples-prank-each-other-with-a-fake-secret"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 20:51:03 -0400",
+
+            "group": {
+
+               "description": "What would you do if your girlfriend kept a mason jar full of toenail clippings?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "jordanimbrey"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/19/campaign_images/webdr13/heres-what-happened-when-couples-pranked-each-oth-2-11768-1434151101-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=21upSxdJ5cc"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/enhanced/webdr13/anigif_enhanced-11656-1434137327-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/enhanced/webdr13/anigif_enhanced-11181-1434137382-8.gif",
+
+                     "@width": "500",
+
+                     "description": "She looks nervous!",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/enhanced/webdr03/anigif_enhanced-22478-1434137432-7.gif",
+
+                     "@width": "500",
+
+                     "description": "And he's already jumping to the worst conclusion.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr14/anigif_enhanced-30107-1434142775-4.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr14/anigif_enhanced-28850-1434142999-20.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr06/anigif_enhanced-10902-1434143124-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr01/anigif_enhanced-30125-1434143252-12.gif",
+
+                     "@width": "500",
+
+                     "description": "Zack's face, tho.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr06/anigif_enhanced-10581-1434143303-2.gif",
+
+                     "@width": "500",
+
+                     "description": "WUT.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr12/anigif_enhanced-1846-1434143348-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr11/anigif_enhanced-18351-1434143376-2.gif",
+
+                     "@width": "500",
+
+                     "description": "Mallory's probably wondering what \"communicate\" means, exactly.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr15/anigif_enhanced-18014-1434143425-3.gif",
+
+                     "@width": "500",
+
+                     "description": "That's just wrong (but hilarious).",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr11/anigif_enhanced-15633-1434143465-19.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr08/anigif_enhanced-3121-1434143504-8.gif",
+
+                     "@width": "500",
+
+                     "description": "(But, still actually FAKE.)",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr11/anigif_enhanced-16363-1434143552-25.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr08/anigif_enhanced-3173-1434143602-2.gif",
+
+                     "@width": "500",
+
+                     "description": "Well played, Kevin.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr15/anigif_enhanced-18303-1434143666-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr12/anigif_enhanced-2033-1434143701-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr15/anigif_enhanced-18261-1434143739-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr12/anigif_enhanced-1760-1434143816-4.gif",
+
+                     "@width": "500",
+
+                     "description": "Is her disappointment worse than his fake secret?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr04/anigif_enhanced-20029-1434143854-4.gif",
+
+                     "@width": "500",
+
+                     "description": "Could these two be any cuter?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This Talented Orchestra Playing Kendrick Lamar, Jay-Z And Beyonce Is Everything",
+
+            "link": "http://www.buzzfeed.com/abagg/these-musical-geniuses-used-an-orchestra-to-perform-a-medley?utm_term=4ldqpia",
+
+            "description": "<p>Can you name all the songs?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1><a href=\"https://www.youtube.com/channel/UCp4Nq9yUgudKy07gTCMOLwQ\">JIMEK<\/a> (Radzimir Dębski) orchestrated and conducted this amazing concert at the Polish National Radio Symphony Orchestra Concert Hall in Katowice, Poland using all hip hop songs. Enjoy!<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/p0aLMsh4mvU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=p0aLMsh4mvU\">youtube.com<\/a> / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=p0aLMsh4mvU\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/20/enhanced/webdr01/anigif_enhanced-26927-1434154350-2.gif\" width=\"400\" height=\"300\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://giphy.com/gifs/yes-kanye-west-applause-u7hjTwuewz3Gw\">giphy.com<\/a><\/small><\/p>",
+
+            "author": "Allison Bagg",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/abagg/these-musical-geniuses-used-an-orchestra-to-perform-a-medley"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 20:16:26 -0400",
+
+            "group": {
+
+               "description": "Can you name all the songs?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "abagg"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/20/campaign_images/webdr15/these-musical-geniuses-used-an-orchestra-to-perfo-2-14055-1434154675-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=p0aLMsh4mvU"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "300",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/20/enhanced/webdr01/anigif_enhanced-26927-1434154350-2.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "These Guys Wore Purses For A Week And It Was Hilarious",
+
+            "link": "http://www.buzzfeed.com/kennymoffitt/guys-wear-purses-for-a-week?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;What a great place to put receipts!&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/p-4Fl5V9MhA\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small>Buzzfeed Video / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=p-4Fl5V9MhA\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Kenny Moffitt",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kennymoffitt/guys-wear-purses-for-a-week"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 19:47:35 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "\"What a great place to put receipts!\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kennymoffitt"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/19/campaign_images/webdr12/guys-wear-purses-for-a-week-2-28522-1434153034-4.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Watch This Two-Year-Old Totally Lose His Mind While Playing Guitar Hero",
+
+            "link": "http://www.buzzfeed.com/abagg/this-little-kid-hears-rage-against-the-machine-for-the-first?utm_term=4ldqpia",
+
+            "description": "<p>No evens to can.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Reddit user <a href=\"http://www.reddit.com/user/gabew101\">gabew101<\/a> posted this video with the caption, \"my two-year-old son hearing Rage Against the Machine for the first time while 'playing' Guitar Hero. The music takes over...\"<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/bidW4aa-Z6M\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=bidW4aa-Z6M\">youtube.com<\/a> / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=bidW4aa-Z6M\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>I think he likes it?!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/18/enhanced/webdr12/anigif_enhanced-17636-1434149079-2.gif\" width=\"500\" height=\"375\" alt=\"I think he likes it?!\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=bidW4aa-Z6M\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/18/enhanced/webdr15/grid-cell-30102-1434149217-7.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/abagg/this-little-kid-hears-rage-against-the-machine-for-the-first\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Allison Bagg",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/abagg/this-little-kid-hears-rage-against-the-machine-for-the-first"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 18:51:32 -0400",
+
+            "group": {
+
+               "description": "No evens to can.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "abagg"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/campaign_images/webdr03/this-little-kid-hears-rage-against-the-machine-fo-2-24958-1434149618-4.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=bidW4aa-Z6M"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "375",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/enhanced/webdr12/anigif_enhanced-17636-1434149079-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/enhanced/webdr15/grid-cell-30102-1434149217-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/enhanced/webdr15/grid-cell-30102-1434149220-12.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This Video Is For Everyone Who Is Terrible At Keeping Secrets",
+
+            "link": "http://www.buzzfeed.com/sararubin/this-video-is-for-everyone-who-is-terrible-at-keeping-secret?utm_term=4ldqpia",
+
+            "description": "<p>I won&#8217;t tell anyone, I SWEAR.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/NG0DMSxmeYI\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=NG0DMSxmeYI\">youtube.com<\/a> / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=NG0DMSxmeYI\">youtube.com<\/a><\/small><\/p>",
+
+            "author": "Sara Rubin",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/sararubin/this-video-is-for-everyone-who-is-terrible-at-keeping-secret"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 18:30:31 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "I won't tell anyone, I SWEAR.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "sararubin"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/campaign_images/webdr08/this-video-is-for-everyone-who-is-terrible-at-kee-2-8809-1434144776-1.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Is This Prison Food Cruel And Unusual?",
+
+            "link": "http://www.buzzfeed.com/claudiarestrepo/adults-try-prison-food?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;My mouth is afraid of this food.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/1bei7vlf56w\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=1bei7vlf56w\">youtube.com<\/a> / Via BuzzFeed Video<\/small><\/p>",
+
+            "author": "Claudia Restrepo",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/claudiarestrepo/adults-try-prison-food"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 18:19:29 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "\"My mouth is afraid of this food.\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "claudiarestrepo"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/campaign_images/webdr14/adults-try-prison-food-2-12253-1434147766-5.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "People Are Freaking Out Over This Video Of A Spider Coming Out Of A Banana",
+
+            "link": "http://www.buzzfeed.com/nickguillory/spider-comes-out-of-banana-special-effects-kaleb-lekowski?utm_term=4ldqpia",
+
+            "description": "<p>Da fuq?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Someone recently posted this <a href=\"http://youtube.com/watch?v=d54PyNN1EdU\">video<\/a> on <a href=\"http://www.reddit.com/r/videos/comments/39lxxa/\">Reddit<\/a> of a spider coming out of a banana. \"I just wanted a banana,\" the caption said. Then, the unthinkable happened but...STAND BY, there's a twist!<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/d54PyNN1EdU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=d54PyNN1EdU\">youtube.com<\/a> / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=d54PyNN1EdU\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/17/enhanced/webdr10/enhanced-849-1434143288-1.png\" width=\"625\" height=\"51\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/17/enhanced/webdr14/enhanced-31846-1434143334-9.png\" width=\"287\" height=\"75\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/nickguillory/spider-comes-out-of-banana-special-effects-kaleb-lekowski\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Nick Guillory",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/nickguillory/spider-comes-out-of-banana-special-effects-kaleb-lekowski"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 17:48:35 -0400",
+
+            "group": {
+
+               "description": "Da fuq?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "nickguillory"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/campaign_images/webdr06/spider-comes-out-of-banana-special-effects-kaleb--2-24536-1434146993-4.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=d54PyNN1EdU"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "51",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr10/enhanced-849-1434143288-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "75",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr14/enhanced-31846-1434143334-9.png",
+
+                     "@width": "287",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "50",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr10/enhanced-1079-1434143431-1.png",
+
+                     "@width": "325",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "BuzzFeed reached out to the original owner of the vid and guess what? Thankfully, it's a fake! \n\nBerlin resident Kaleb Lechowski created the vid using special effects. Nice try, guy! \n\n\"The banana is real,\" he told BuzzFeed. \"I created the video over the last three days.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr15/anigif_enhanced-13298-1434141858-20.gif",
+
+                     "@width": "500",
+
+                     "description": "\"I used a chopstick to pierce the banana from behind,\" he explained. \"Then I removed the stick from the image and inserted a spider that I created, using Blender, the 3D software.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr12/anigif_enhanced-31662-1434142080-2.gif",
+
+                     "@width": "500",
+
+                     "description": "NOPE.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr11/anigif_enhanced-15742-1434142158-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr04/anigif_enhanced-14736-1434142247-11.gif",
+
+                     "@width": "500",
+
+                     "description": "But hey, it's good to know that Lechowski is just a total CGI badass and made this happen on a computer, not IRL, right?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "275",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/enhanced/webdr03/anigif_enhanced-9671-1434144177-17.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Lie Detector Test Vs. Couples — Who Will Survive?",
+
+            "link": "http://www.buzzfeed.com/mikecarrier/these-couples-just-got-real-with-each-other-while-taking-a-l?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;Have you ever wanted to break up?&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>A few brave couples agreed to strap themselves to a lie detector to answer some questions ranging from hilarious to cringeworthy.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/Q3i6f_G5C2I\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=Q3i6f_G5C2I\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Welp, things got off to a, shall we say...honest start?<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr06/anigif_enhanced-19668-1434133846-7.gif\" width=\"559\" height=\"315\" alt=\"Welp, things got off to a, shall we say...honest start?\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeed Video<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Then things began to get a little more awkward after Allison asked her boyfriend about her comedic talent.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr04/anigif_enhanced-28953-1434134505-2.gif\" width=\"559\" height=\"315\" alt=\"Then things began to get a little more awkward after Allison asked her boyfriend about her comedic talent.\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeed Video<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Then shit got real. Did he ever think about breaking up?!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr13/anigif_enhanced-4740-1434134959-12.gif\" width=\"559\" height=\"315\" alt=\"Then shit got real. Did he ever think about breaking up?!\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeed Video<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/mikecarrier/these-couples-just-got-real-with-each-other-while-taking-a-l\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "MikeCarrier",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/mikecarrier/these-couples-just-got-real-with-each-other-while-taking-a-l"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 16:45:06 -0400",
+
+            "group": {
+
+               "description": "\"Have you ever wanted to break up?\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "mikecarrier"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/13/campaign_images/webdr03/couples-take-a-lie-detector-test-2-4068-1434130575-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=Q3i6f_G5C2I"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr06/anigif_enhanced-19668-1434133846-7.gif",
+
+                     "@width": "559",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr04/anigif_enhanced-28953-1434134505-2.gif",
+
+                     "@width": "559",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr13/anigif_enhanced-4740-1434134959-12.gif",
+
+                     "@width": "559",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr10/enhanced-7031-1434135070-2.png",
+
+                     "@width": "544",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/enhanced/webdr05/anigif_enhanced-20967-1434135316-2.gif",
+
+                     "@width": "559",
+
+                     "description": "He wasn't...",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr14/anigif_enhanced-27066-1434141135-2.gif",
+
+                     "@width": "559",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr07/anigif_enhanced-18079-1434141378-3.gif",
+
+                     "@width": "559",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

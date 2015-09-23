@@ -1,0 +1,4131 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed  - Science",
+
+      "link": [
+
+         "http://www.buzzfeed.com",
+
+         {
+
+            "@href": "http://www.buzzfeed.com/index.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Wed, 10 Jun 2015 23:04:39 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://www.buzzfeed.com"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "This Is A Snake-Mimicking Butterfly And It’s Terrifying",
+
+            "link": "http://www.buzzfeed.com/kasiagalazka/butterfly-snake?utm_term=4ldqpia",
+
+            "description": "<p>Try to get through this post without shuddering.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Behold one of the most clever disguises in nature: a caterpillar that disguises itself as a snake head.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/20/19/enhanced/webdr03/enhanced-3242-1432164727-1.jpg\" width=\"625\" height=\"624\" alt=\"Behold one of the most clever disguises in nature: a caterpillar that disguises itself as a snake head.\" /><\/p>\n \n\t<p>The caterpillar creates its chrysalis to protect itself when it&#39;s forming into a butterfly. It&#39;s exceptionally convincing mimicry<a href=\"http://nerdist.com/this-is-not-a-snake-its-some-of-the-best-mimicry-weve-ever-seen/\">, as <i>Nerdist<\/i> reports<\/a>.<\/p>\n\n\n <p><small>Andreas Kay / Creative Commons / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/andreaskay/17197819129\">Flickr: andreaskay<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Found in Trinidad, this species looks a bit like a viper to ward off potential predators while it's busy liquefying itself.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/20/19/enhanced/webdr15/enhanced-758-1432164851-1.jpg\" width=\"625\" height=\"527\" alt=\"Found in Trinidad, this species looks a bit like a viper to ward off potential predators while it's busy liquefying itself.\" /><\/p>\n \n\t<p>Here&#39;s another view of the <i>Dynastor darius darius<\/i> chrysalis.<\/p>\n\n\n <p><small>Andreas Kay / Creative Commons / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/andreaskay/17197821929\">Flickr: andreaskay<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>The pupa isn't completely helpless, though.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/20/20/enhanced/webdr07/edit-28760-1432167265-10.jpg\" width=\"625\" height=\"690\" alt=\"The pupa isn't completely helpless, though.\" /><\/p>\n \n\t<p>It can sense external stimuli, so if it was interrupted during its 13-day transformation period, it could sway back and forth to make itself <i>really<\/i> resemble a snake, as <i>Nerdist<\/i> points out.<\/p>\n\n<p>The butterfly, when it emerges, is dark brown to black with a series of big white spots across its wings. (You can see some images of it in <a href=\"http://troplep.org/TLR/2-2/pdf014.pdf\">this study<\/a>.)<\/p>\n\n\n <p><small>Andreas Kay / Creative Commons / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/andreaskay/17358092736\">Flickr: andreaskay<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Not today, predators.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/21/12/enhanced/webdr09/enhanced-9027-1432226967-11.jpg\" width=\"625\" height=\"1000\" alt=\"Not today, predators.\" /><\/p>\n \n\t\n\n\n <p><small>Andreas Kay / Creative Commons / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/andreaskay/17197819129\">Flickr: andreaskay<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kasiagalazka/butterfly-snake\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kasiagalazka/butterfly-snake"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 15:21:04 -0400",
+
+            "group": {
+
+               "description": "<b>Try to get through this post without shuddering.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kasiagalazka"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/12/campaign_images/webdr15/butterfly-snake-2-426-1432227328-11.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "624",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/19/enhanced/webdr03/enhanced-3242-1432164727-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "The caterpillar creates its chrysalis to protect itself when it's forming into a butterfly. It's exceptionally convincing mimicry<a href=\"http://nerdist.com/this-is-not-a-snake-its-some-of-the-best-mimicry-weve-ever-seen/\">, as <i>Nerdist<\/i> reports<\/a>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "527",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/19/enhanced/webdr15/enhanced-758-1432164851-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Here's another view of the <i>Dynastor darius darius<\/i> chrysalis.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "690",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/20/enhanced/webdr07/edit-28760-1432167265-10.jpg",
+
+                     "@width": "625",
+
+                     "description": "It can sense external stimuli, so if it was interrupted during its 13-day transformation period, it could sway back and forth to make itself <i>really<\/i> resemble a snake, as <i>Nerdist<\/i> points out.\n\nThe butterfly, when it emerges, is dark brown to black with a series of big white spots across its wings. (You can see some images of it in <a href=\"http://troplep.org/TLR/2-2/pdf014.pdf\">this study<\/a>.)",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "1000",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/12/enhanced/webdr09/enhanced-9027-1432226967-11.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "27 Times Tumblr Perfectly Explained Life Using Science",
+
+            "link": "http://www.buzzfeed.com/kasiagalazka/tumblr-science?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;I manage to turn everything into crap.&#8221; &#8220;Yes that’s called digestion.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/when-they-calmly-answered-our-most-pressing-questi-npa7c8-m0pu?uri=when-they-calmly-answered-our-most-pressing-questi-npa7c8-m0pu&cb=1433991879\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>When they calmly answered our most pressing questions.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/when-they-showed-you-that-the-answer-had-been-in-f-npag3a-m0pu?uri=when-they-showed-you-that-the-answer-had-been-in-f-npag3a-m0pu&cb=1433991879\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>When they showed you that the answer had been in front of you all along.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/when-they-used-physics-to-explain-why-you-have-ins-npa6xv-m0pu?uri=when-they-used-physics-to-explain-why-you-have-ins-npa6xv-m0pu&cb=1433991879\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>When they used physics to explain why you have insomnia.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/when-they-got-penalized-for-dropping-knowledge-npac99-m0pu?uri=when-they-got-penalized-for-dropping-knowledge-npac99-m0pu&cb=1433991879\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>When they got penalized for dropping knowledge.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kasiagalazka/tumblr-science\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kasiagalazka/tumblr-science"
+
+            },
+
+            "pubDate": "Fri, 05 Jun 2015 16:15:06 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>\"I manage to turn everything into crap.\"<\/b> \"Yes that’s called digestion.\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kasiagalazka"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/19/campaign_images/webdr15/tumblr-science-2-24824-1433201953-4.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "These Insane Videos Show People Playing Music While Having Brain Surgery",
+
+            "link": "http://www.buzzfeed.com/alexkasprak/these-insane-videos-show-people-playing-music-whil?utm_term=4ldqpia",
+
+            "description": "<p>Not only is it possible, sometimes it is imperative.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Videos of Brazilian man Anthony Kulkamp Dias playing the Beatles' song \"Yesterday\" as his brain was undergoing surgery have been making the rounds online.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/zgs6viZaMOM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t<p>\"I played six songs at certain times,\" he said to <i><a href=\"http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/11649234/Man-plays-Beatles-song-on-guitar-while-undergoing-brain-surgery.html\">The Telegraph<\/a><\/i>. \"My right hand was a bit weaker because that was the side that they were operating on. So I stopped and rested. I was interspersing songs and talking with them.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=zgs6viZaMOM\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Being active and conscious during brain surgery helps doctors monitor for injuries to the patient's brain in real time. (Warning: Brains.)<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/20/enhanced/webdr04/enhanced-27077-1433463436-9.jpg\" width=\"625\" height=\"447\" alt=\"Being active and conscious during brain surgery helps doctors monitor for injuries to the patient's brain in real time. (Warning: Brains.)\" /><\/p>\n \n\t\n\n\n <p><small>Vilevi / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>This is possible because, unlike the rest of the human body, the brain <a href=\"https://www.academia.edu/562630/Pain_Physiological_mechanisms\">does not actually have any pain sensors<\/a>.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/20/enhanced/webdr05/enhanced-18236-1433463762-9.jpg\" width=\"625\" height=\"355\" alt=\"This is possible because, unlike the rest of the human body, the brain does not actually have any pain sensors.\" /><\/p>\n \n\t\n\n\n <p><small>Dawidkasza / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/alexkasprak/these-insane-videos-show-people-playing-music-whil\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alexkasprak/these-insane-videos-show-people-playing-music-whil"
+
+            },
+
+            "pubDate": "Fri, 05 Jun 2015 15:38:08 -0400",
+
+            "group": {
+
+               "description": "<b>Not only is it possible, sometimes it is imperative.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alexkasprak"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/5/14/campaign_images/webdr07/these-insane-videos-show-people-playing-music-whil-2-12995-1433527285-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "description": "\"I played six songs at certain times,\" he said to <i><a href=\"http://www.telegraph.co.uk/news/worldnews/southamerica/brazil/11649234/Man-plays-Beatles-song-on-guitar-while-undergoing-brain-surgery.html\">The Telegraph<\/a><\/i>. \"My right hand was a bit weaker because that was the side that they were operating on. So I stopped and rested. I was interspersing songs and talking with them.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=zgs6viZaMOM"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "447",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/20/enhanced/webdr04/enhanced-27077-1433463436-9.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "355",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/20/enhanced/webdr05/enhanced-18236-1433463762-9.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=TAOcTeRf5vQ"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=G_SkHTT2vQI"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=tWHA7q4IQmg"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=PjX6ErmKY14"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=JRONxAEYlx8"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/21/enhanced/webdr11/anigif_enhanced-13920-1433466026-11.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Tumblr Asks The Most Important Question About Nostrils Ever",
+
+            "link": "http://www.buzzfeed.com/natashaumer/why-the-heck-do-we-even-have-two-nostrils?utm_term=4ldqpia",
+
+            "description": "<p>We went crazy trying to solve this Tumblr mystery.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/tumblr-user-a-hrefhttpstolenfruitsnacktumbl-npfu8a-1orrg?uri=tumblr-user-a-hrefhttpstolenfruitsnacktumbl-npfu8a-1orrg&cb=1433991879\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>Tumblr user <a href=\"http://stolenfruitsnack.tumblr.com/?ref_url=http://www.buzzfeed.com/buzzfeed/_draft/3797612\">Stolenfruitsnack<\/a> asked us this very important question that BLEW OUR MINDS:<\/h1>\n\n \n\t<p>OMG&#33; Do we actually have a dominant nostril?<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Yes — it's true! A lot of people have a dominant nostril that does most of the breathing.<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/qeKUnkRjhg/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>This is because of the nasal cycle, said <a href=\"https://www.aut.ac.nz/profiles/engineering/senior-lecturers/david-white3\">David White, Ph.D.<\/a>, the senior lecturer and director at Auckland University of Technology&#39;s Design for Respiratory Health Lab and author of a <a href=\"http://www.biomedical-engineering-online.com/content/14/1/38\">2015 paper about the nasal cycle<\/a>. During the nasal cycle, one nostril is blocked (you&#39;re still able to breathe out of it, but you&#39;re only able to breathe around one-third to two-thirds of the normal airflow). The dominant nostril switches every 90 minutes or so, but the duration is different for every person.<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/qeKUnkRjhg/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Not everyone experiences a nasal cycle.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/15/enhanced/webdr12/anigif_enhanced-12343-1433445008-2.gif\" width=\"499\" height=\"320\" alt=\"Not everyone experiences a nasal cycle.\" /><\/p>\n \n\t<p>White says that it&#39;s around 20% to 80% of the population, which isn&#39;t really a specific number. \"The number varies in publications, mainly because the way people measure it is not accurate,\" he said. What&#39;s even more mind-blowing, however, is that people with some disorders like autism or schizophrenia don&#39;t demonstrate a nasal cycle at all.<\/p>\n\n\n <p><small>giphbay / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://giphy.com/search/nose/3\">giphy.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>We won't really notice the nasal cycle.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/4/15/enhanced/webdr07/anigif_enhanced-27066-1433445814-5.gif\" width=\"625\" height=\"358\" alt=\"We won't really notice the nasal cycle.\" /><\/p>\n \n\t<p>Although you might be able to notice a dominant nostril if you&#39;re lying on your side, said White. If you do notice a sustained dominant nostril 24/7, then you might have a deviated septum, he said.<\/p>\n\n\n <p><small>SBnation / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://giphy.com/gifs/sbnation-nose-ilqOZI8kVJq0GOaDjW\">giphy.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/natashaumer/why-the-heck-do-we-even-have-two-nostrils\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/natashaumer/why-the-heck-do-we-even-have-two-nostrils"
+
+            },
+
+            "pubDate": "Fri, 05 Jun 2015 00:01:11 -0400",
+
+            "group": {
+
+               "description": "<b>We went crazy trying to solve this Tumblr mystery.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "natashaumer"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/18/campaign_images/webdr04/why-the-heck-do-we-even-have-two-nostrils-2-9910-1433455215-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "OMG! Do we actually have a dominant nostril?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "This is because of the nasal cycle, said <a href=\"https://www.aut.ac.nz/profiles/engineering/senior-lecturers/david-white3\">David White, Ph.D.<\/a>, the senior lecturer and director at Auckland University of Technology's Design for Respiratory Health Lab and author of a <a href=\"http://www.biomedical-engineering-online.com/content/14/1/38\">2015 paper about the nasal cycle<\/a>. During the nasal cycle, one nostril is blocked (you're still able to breathe out of it, but you're only able to breathe around one-third to two-thirds of the normal airflow). The dominant nostril switches every 90 minutes or so, but the duration is different for every person.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/qeKUnkRjhg/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "320",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr12/anigif_enhanced-12343-1433445008-2.gif",
+
+                     "@width": "499",
+
+                     "description": "White says that it's around 20% to 80% of the population, which isn't really a specific number. \"The number varies in publications, mainly because the way people measure it is not accurate,\" he said. What's even more mind-blowing, however, is that people with some disorders like autism or schizophrenia don't demonstrate a nasal cycle at all.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "358",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr07/anigif_enhanced-27066-1433445814-5.gif",
+
+                     "@width": "625",
+
+                     "description": "Although you might be able to notice a dominant nostril if you're lying on your side, said White. If you do notice a sustained dominant nostril 24/7, then you might have a deviated septum, he said.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "262",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr02/anigif_enhanced-13633-1433445169-2.gif",
+
+                     "@width": "481",
+
+                     "description": "All you have to do is block each nostril and see if there's any difference in airflow resistance, said White.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "275",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr06/anigif_enhanced-13417-1433445324-2.gif",
+
+                     "@width": "500",
+
+                     "description": "No, this doesn't have anything to do with a penis. LOL. So get that out of your mind. It's called erectile tissue because it fills with blood (just like an erection). When the tissue swells, it provides greater resistance to airflow, said White.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "255",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr15/anigif_enhanced-buzz-16416-1433446023-5.gif",
+
+                     "@width": "500",
+
+                     "description": "\"This question has been bothering me for quite a while,\" said White. The truth is, there are a lot of different answers and studies that attempt to answer this question.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr12/anigif_enhanced-12212-1433446518-5.gif",
+
+                     "@width": "500",
+
+                     "description": "Ironically, in the study, the congested nostril was able to smell certain things better than the dominant nostril and vice versa. White says <a href=\"http://news.stanford.edu/news/1999/november10/smell-1110.html\">the study<\/a> is quite right, but we weren't able to find any other studies confirming or denying the claims.\n\nAnother hypothesis suggests that our nasal cycle gives our noses a chance to rest. White believes this is also true.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "255",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr09/anigif_enhanced-buzz-28311-1433446738-16.gif",
+
+                     "@width": "499",
+
+                     "description": "<a href=\"http://www.biomedical-engineering-online.com/content/14/1/38\">In White's study<\/a>, he claimed that the dominant nostril performs the heating and humidifying duties, while the congested nostril does all of the \"housekeeping duties\" like transporting viruses and dust away.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr04/anigif_enhanced-buzz-16527-1433446888-12.gif",
+
+                     "@width": "500",
+
+                     "description": "If the nasal cycle didn't occur, then both airways would dry out and the nose wouldn't be able to perform its housecleaning duties.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "230",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/4/15/enhanced/webdr15/anigif_enhanced-buzz-16340-1433446910-12.gif",
+
+                     "@width": "500",
+
+                     "description": "\"This is still a poorly understood physiological phenomena,\" said White.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Here’s Why Anthrax Just Won’t Die",
+
+            "link": "http://www.buzzfeed.com/danvergano/why-anthrax-wont-die?utm_term=4ldqpia",
+
+            "description": "<p>Defense Department procedures for killing anthrax are under scrutiny after living spores were accidentally shipped to numerous labs. A tough outer shell makes anthrax one of the most resilient bugs on Earth.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/9/enhanced/webdr04/enhanced-14954-1433252772-11.jpg\" width=\"625\" height=\"489\" alt=\"\" /><\/p>\n \n\t<p>A blood cell (red) infected with anthrax (yellow).<\/p>\n\n\n <p><small>Arthur Friedlander / CDC / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.cdc.gov/anthrax/images/4a.jpg\">cdc.gov<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Anthrax is ridiculously hard to kill. If trapped in a dark vat of sea water, the deadly bacteria can still live 20 months. If deprived of water and exposed to nothing but dim daylight, it can germinate for 22 years. If buried deep underground, it can live for <a href=\"http://aem.asm.org/content/74/3/555/T7.expansion.html\">more than 70 years<\/a>. <\/p>\n\n<p>And, as was <a href=\"http://www.buzzfeed.com/claudiakoerner/pentagon-accidentally-ships-live-anthrax-up-to-26-people-pos#.jklx1MkAZ\">revealed<\/a> last week, some of these hearty bugs can even survive 90 minutes of powerful radiation. Because of this radiation resilience, for years the U.S. Army&#39;s Dugway Proving Grounds in Utah has inadvertently shipped live anthrax spores to more than two dozen labs in the U.S., Australia, and South Korea. <\/p>\n\n<p>Federal investigators are now reviewing Defense Department lab procedures to figure out a more reliable way to kill this nearly unkillable bug, microbiologists told BuzzFeed News. <\/p>\n\n<p>\"That&#39;s why it&#39;s such a terrible weapon. It tends to hang around,\" Kenneth Berns, a biochemist at the University of Florida and head of the American Society for Microbiology&#39;s biodefense committee, told BuzzFeed News. \"Fundamentally, anthrax is a very difficult bacteria to inactivate.\" <\/p>\n\n<p>On Sunday, Defense Secretary Ashton Carter promised to hold personnel at Dugway \"accountable\" for the shipments of viable anthrax. So far, no one has been infected, and two dozen people who worked at the labs that received the samples are taking antibiotics as a precaution.<\/p>\n\n<p>Though these recent incidents don&#39;t present a risk to the public, authorities are on high alert. Inhaling dried anthrax spores can lead to a deadly lung infection in about a week if not treated quickly. In 2001, five people died after receiving letters filled with dried anthrax in the mail. The bioterror attack briefly paralyzed the U.S. Postal Service and shut down the U.S. House and Senate offices.<\/p>\n\n<p>\"It&#39;s very serious to ship living anthrax under conditions where you have stated it&#39;s inactive,\" Berns said. \"What&#39;s distressing is that government labs should be models for handling anthrax.\"<\/p>\n\n<p>The Dugway spores were treated with gamma radiation, the most penetrating kind of radioactivity, to inactivate the anthrax spores, according to Army Chief of Staff Ray Odierno. Last Friday, Odierno blamed a mechanical failure, rather than human error, for the anthrax still being alive when shipped.<\/p>\n\n<p>Berns says that&#39;s not good enough: \"Clearly somebody did not check that the anthrax was inactive.\"<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/8/enhanced/webdr14/enhanced-30481-1433248759-4.jpg\" width=\"625\" height=\"548\" alt=\"\" /><\/p>\n \n\t<p>Microbiologist Ruth Bryan works in the Life Sciences Test Facility at Dugway Proving Ground, Utah.<\/p>\n\n\n <p><small>Douglas C. Pizac / Associated Press<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>\"If you want a perfect package for protecting DNA, that&#39;s it,\" Thomas Coohill, a health physicist at Siena College in Londonville, New York, told BuzzFeed News. <\/p>\n\n<p>In particular, he added, the crystalline coating of anthrax spores has evolved to be resistant to the damaging effects of the sun&#39;s UV rays, which partly explains the bug&#39;s tenacity in the face of radiation. \"In its spore state, it is about 50 times more robust than normal bacteria,\" Coohill said.<\/p>\n\n<p>In nature, anthrax survives in the soil in spore form, typically waiting for a cow or goat to graze on contaminated vegetation, triggering an infection that kills the animal. When the animal dies, more spores end up in the ground, waiting for the day when another animal consumes them. The spores have to survive digestion, burial, exposure to sunlight, and years of dormancy to complete their life cycle.<\/p>\n\n<p>The labs in the ongoing investigation received their anthrax samples by mail, <a href=\"http://about.van.fedex.com/newsroom/global-english/fedex-statement-on-dod-anthrax-shipment/\">shipped by FedEx<\/a> from Dugway, as part of biodefense efforts to test rapid detection methods. Radiation is an attractive way to kill spores while leaving them intact enough to test detection assays, a hot area of research in biodefense circles. Ideally, the anthrax samples should have received about 90 minutes of gamma radiation, according to a 2009 Centers for Disease Control and Prevention <a href=\"http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2493171/\">study<\/a>, to kill them. <\/p>\n\n<p>\"The trouble is that the process of inactivation is not perfect and biology has made anthrax very resistant,\" John Clements, a vaccine researcher at Tulane University in New Orleans, told BuzzFeed News. \"Life finds a way. Someone turns the stove off one minute too early, and some spores aren&#39;t completely inactivated.\"<\/p>\n\n<p>When it comes to radiation, anthrax samples stuffed with too many spores or containing too much water might survive inactivation attempts, the 2009 study warned, making mismeasurement a possible culprit in the case. <\/p>\n\n<p>The spores are so resistant to radiation that scientists have actually suggested that bacteria closely related to anthrax might survive for <a href=\"http://www.rrjournal.org/doi/abs/10.1667/0033-7587%282003%29159%5B0722%3ARLFTVO%5D2.0.CO%3B2\">600,000 years<\/a> under the soil of Mars. That&#39;s one reason why NASA engineers carefully sterilize spacecraft before they head to the Red Planet.<\/p>\n\n<p>That&#39;s also why labs are supposed to check even \"inactive\" anthrax samples for viability by trying to grow them in petri dishes as soon as they have been opened, Clements said. One of the receiving labs in Maryland alerted both the Army and the CDC to the problem after doing just that, in fact, triggering the current investigation. <\/p>\n\n<p>\"In a sense the system worked,\" said Clements. \"The only epidemic is an epidemic of fear when something like this happens.\"<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/danvergano/why-anthrax-wont-die\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/danvergano/why-anthrax-wont-die"
+
+            },
+
+            "pubDate": "Tue, 02 Jun 2015 11:38:06 -0400",
+
+            "group": {
+
+               "description": "<b>Defense Department procedures for killing anthrax are under scrutiny after living spores were accidentally shipped to numerous labs.<\/b> A tough outer shell makes anthrax one of the most resilient bugs on Earth.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "danvergano"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/11/campaign_images/webdr06/heres-why-anthrax-just-wont-die-2-20146-1433258125-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "489",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/9/enhanced/webdr04/enhanced-14954-1433252772-11.jpg",
+
+                     "@width": "625",
+
+                     "description": "A blood cell (red) infected with anthrax (yellow).",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Anthrax is ridiculously hard to kill. If trapped in a dark vat of sea water, the deadly bacteria can still live 20 months. If deprived of water and exposed to nothing but dim daylight, it can germinate for 22 years. If buried deep underground, it can live for <a href=\"http://aem.asm.org/content/74/3/555/T7.expansion.html\">more than 70 years<\/a>. \n\nAnd, as was <a href=\"http://www.buzzfeed.com/claudiakoerner/pentagon-accidentally-ships-live-anthrax-up-to-26-people-pos#.jklx1MkAZ\">revealed<\/a> last week, some of these hearty bugs can even survive 90 minutes of powerful radiation. Because of this radiation resilience, for years the U.S. Army's Dugway Proving Grounds in Utah has inadvertently shipped live anthrax spores to more than two dozen labs in the U.S., Australia, and South Korea. \n\nFederal investigators are now reviewing Defense Department lab procedures to figure out a more reliable way to kill this nearly unkillable bug, microbiologists told BuzzFeed News. \n\n\"That's why it's such a terrible weapon. It tends to hang around,\" Kenneth Berns, a biochemist at the University of Florida and head of the American Society for Microbiology's biodefense committee, told BuzzFeed News. \"Fundamentally, anthrax is a very difficult bacteria to inactivate.\" \n\nOn Sunday, Defense Secretary Ashton Carter promised to hold personnel at Dugway \"accountable\" for the shipments of viable anthrax. So far, no one has been infected, and two dozen people who worked at the labs that received the samples are taking antibiotics as a precaution.\n\nThough these recent incidents don't present a risk to the public, authorities are on high alert. Inhaling dried anthrax spores can lead to a deadly lung infection in about a week if not treated quickly. In 2001, five people died after receiving letters filled with dried anthrax in the mail. The bioterror attack briefly paralyzed the U.S. Postal Service and shut down the U.S. House and Senate offices.\n\n\"It's very serious to ship living anthrax under conditions where you have stated it's inactive,\" Berns said. \"What's distressing is that government labs should be models for handling anthrax.\"\n\nThe Dugway spores were treated with gamma radiation, the most penetrating kind of radioactivity, to inactivate the anthrax spores, according to Army Chief of Staff Ray Odierno. Last Friday, Odierno blamed a mechanical failure, rather than human error, for the anthrax still being alive when shipped.\n\nBerns says that's not good enough: \"Clearly somebody did not check that the anthrax was inactive.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "548",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/8/enhanced/webdr14/enhanced-30481-1433248759-4.jpg",
+
+                     "@width": "625",
+
+                     "description": "Microbiologist Ruth Bryan works in the Life Sciences Test Facility at Dugway Proving Ground, Utah.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "\"If you want a perfect package for protecting DNA, that's it,\" Thomas Coohill, a health physicist at Siena College in Londonville, New York, told BuzzFeed News. \n\nIn particular, he added, the crystalline coating of anthrax spores has evolved to be resistant to the damaging effects of the sun's UV rays, which partly explains the bug's tenacity in the face of radiation. \"In its spore state, it is about 50 times more robust than normal bacteria,\" Coohill said.\n\nIn nature, anthrax survives in the soil in spore form, typically waiting for a cow or goat to graze on contaminated vegetation, triggering an infection that kills the animal. When the animal dies, more spores end up in the ground, waiting for the day when another animal consumes them. The spores have to survive digestion, burial, exposure to sunlight, and years of dormancy to complete their life cycle.\n\nThe labs in the ongoing investigation received their anthrax samples by mail, <a href=\"http://about.van.fedex.com/newsroom/global-english/fedex-statement-on-dod-anthrax-shipment/\">shipped by FedEx<\/a> from Dugway, as part of biodefense efforts to test rapid detection methods. Radiation is an attractive way to kill spores while leaving them intact enough to test detection assays, a hot area of research in biodefense circles. Ideally, the anthrax samples should have received about 90 minutes of gamma radiation, according to a 2009 Centers for Disease Control and Prevention <a href=\"http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2493171/\">study<\/a>, to kill them. \n\n\"The trouble is that the process of inactivation is not perfect and biology has made anthrax very resistant,\" John Clements, a vaccine researcher at Tulane University in New Orleans, told BuzzFeed News. \"Life finds a way. Someone turns the stove off one minute too early, and some spores aren't completely inactivated.\"\n\nWhen it comes to radiation, anthrax samples stuffed with too many spores or containing too much water might survive inactivation attempts, the 2009 study warned, making mismeasurement a possible culprit in the case. \n\nThe spores are so resistant to radiation that scientists have actually suggested that bacteria closely related to anthrax might survive for <a href=\"http://www.rrjournal.org/doi/abs/10.1667/0033-7587%282003%29159%5B0722%3ARLFTVO%5D2.0.CO%3B2\">600,000 years<\/a> under the soil of Mars. That's one reason why NASA engineers carefully sterilize spacecraft before they head to the Red Planet.\n\nThat's also why labs are supposed to check even \"inactive\" anthrax samples for viability by trying to grow them in petri dishes as soon as they have been opened, Clements said. One of the receiving labs in Maryland alerted both the Army and the CDC to the problem after doing just that, in fact, triggering the current investigation. \n\n\"In a sense the system worked,\" said Clements. \"The only epidemic is an epidemic of fear when something like this happens.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "15 \"San Andreas\" Events In Order Of Increasing Scientific Inaccuracy",
+
+            "link": "http://www.buzzfeed.com/alexkasprak/its-been-a-while-since-i-got-you-to-second-base?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;The magnetic pulse rate is spiking!&#8221; SPOILERS, obviously.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1><i>San Andreas<\/i> came out this weekend, and it is for sure the next awesomely terrible disaster flick. But there is that pesky problem of scientific accuracy...<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/1/15/enhanced/webdr01/anigif_enhanced-21711-1433185511-2.gif\" width=\"625\" height=\"259\" alt=\"San Andreas came out this weekend, and it is for sure the next awesomely terrible disaster flick. But there is that pesky problem of scientific accuracy...\" /><\/p>\n \n\t<p>The movie stars Dwayne \"The Rock\" Johnson as a search-and-rescue helicopter pilot who tries to save his family during a massive earthquake along the San Andreas Fault.<\/p>\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>So I decided to watch the movie with a cadre of accomplished geophysicists.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/1/15/enhanced/webdr15/anigif_enhanced-1027-1433185539-5.gif\" width=\"625\" height=\"258\" alt=\"So I decided to watch the movie with a cadre of accomplished geophysicists.\" /><\/p>\n \n\t<p>The group included two geology professors from UCLA, a handful of graduate students, and a professional geologist working in Southern California.<\/p>\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>After our discussion, I ranked each event on a scale of skydiving Dwayne \"The Rock\" Johnson. Six skydiving Rocks is the largest level of absurdity possible on this scale.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/1/13/enhanced/webdr08/enhanced-28501-1433181236-8.png\" width=\"625\" height=\"150\" alt=\"After our discussion, I ranked each event on a scale of skydiving Dwayne &quot;The Rock&quot; Johnson. Six skydiving Rocks is the largest level of absurdity possible on this scale.\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/alexkasprak/its-been-a-while-since-i-got-you-to-second-base\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alexkasprak/its-been-a-while-since-i-got-you-to-second-base"
+
+            },
+
+            "pubDate": "Mon, 01 Jun 2015 18:30:15 -0400",
+
+            "group": {
+
+               "description": "<b>\"The magnetic pulse rate is spiking!\"<\/b> SPOILERS, obviously.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alexkasprak"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/17/campaign_images/webdr02/its-been-a-while-since-i-got-you-to-second-base-2-3848-1433193631-11.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "259",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/15/enhanced/webdr01/anigif_enhanced-21711-1433185511-2.gif",
+
+                     "@width": "625",
+
+                     "description": "The movie stars Dwayne \"The Rock\" Johnson as a search-and-rescue helicopter pilot who tries to save his family during a massive earthquake along the San Andreas Fault.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "258",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/15/enhanced/webdr15/anigif_enhanced-1027-1433185539-5.gif",
+
+                     "@width": "625",
+
+                     "description": "The group included two geology professors from UCLA, a handful of graduate students, and a professional geologist working in Southern California.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/13/enhanced/webdr08/enhanced-28501-1433181236-8.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "261",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr10/enhanced-23226-1432937036-3.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Throughout the movie, larger quakes are followed by smaller ones.\n\n<b>What the scientists thought:<\/b> Aftershocks (smaller earthquakes that follow a larger one) are a common event in the aftermath of a large seismic event. They can occur right after a quake, or even decades after a big one, according to William Newman, Ph.D., a UCLA professor of seismology. The movie also seemed to suggest that an aftershock is more likely to occur if you are having a heartfelt conversation with a loved one. The scientists were less confident of this phenomenon.\n\n<b>Consensus:<\/b> Accurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/13/enhanced/webdr15/enhanced-31774-1433181588-16.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/15/enhanced/webdr15/anigif_enhanced-841-1433185605-24.gif",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Before a massive tsunami overtakes San Francsico, the water in the bay withdraws.\n\n<b>What the scientists thought:<\/b> Though the tsunami itself is unrealistic, the fact that the water withdrew before it hit was spot-on, the geologists agreed. Debbie Weiser, a geophysics graduate student at UCLA and a USGS scientist, cautioned that, while this may happen, it is not guaranteed to happen. It can vary based on what portion of the wave is hitting a certain area. Still, the group felt that Hollywood should get some props for that one.\n\n<b>Consensus:<\/b> Accurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr15/enhanced-31662-1433181642-16.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "258",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr11/enhanced-29963-1432937222-13.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Perhaps the only thing more prevalent than new modes of transportation for The Rock's character were the fires that engulfed Los Angeles and San Francisco after their earthquakes. \n\n<b>What the scientists thought:<\/b> During an earthquake, even one much smaller than the ones dramatized in the film, it is common for gas lines to break and cause fires, according to Jennifer Scully, a UCLA geophysicist. She adds that it is important to know how to turn off your gasline if you live in an earthquake-prone region. Still an open question, however, is why the only thing in the movie that did NOT blow up was an actual gas station.\n\n<b>Consensus:<\/b> Accurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr14/enhanced-18259-1433181697-3.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/15/enhanced/webdr12/anigif_enhanced-17092-1433185637-3.gif",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Amid the chaos during the first big earthquake of the movie, there is a brief camera cut to a rooftop pool, which has developed a massive and unified swaying wave.\n\n<b>What the scientists thought:<\/b> According to Weiser, the rooftop pool created a kind of wave that is known in science-y circles as a seiche. This would totally happen, she said. In fact, it <a href=\"https://www.youtube.com/watch?v=uKJPuDxx3Cw\">happens frequently<\/a>. \n\n<b>Consensus:<\/b> Accurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr07/enhanced-14203-1433181743-4.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr11/enhanced-29988-1432936946-14.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> During the initial quake in Los Angeles, the shaking (and damage) is significantly more severe in Downtown L.A. compared with the Caltech campus, which is not far away.\n\n<b>What the scientists thought:<\/b> Scully said that this is a reasonable scenario, as Pasadena is on top of less unconsolidated sediment than Downtown L.A. is, and it's closer to bedrock. Still, the group stressed, it is important to note that most of the larger and newer buildings in Downtown L.A. are built, even with the underlying geology, to withstand large earthquakes. Less accurate, I would say, is the extent to which Caltech remained unscathed throughout the film — they are scientists, not magicians.\n\n<b>Consensus:<\/b> Accurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr04/enhanced-7584-1433181768-22.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr08/enhanced-29712-1432937287-17.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> In perhaps one of the best lines delivered in the movie, Paul Giamatti's character warns the world that the next big earthquake will be so large that it will be felt all the way on the East Coast. Later on, news reports show this to be true.\n\n<b>What the scientists thought:<\/b> Some in the group actually felt this was plausible. The possibility of there being some \"very minor shaking\" (seismometers can feel things on the other side of the planet, after all) felt in New York is not impossible, Newman said.\n\n<b>Consensus:<\/b> Not impossible.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr04/enhanced-8328-1433181825-8.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "262",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr11/anigif_enhanced-29963-1432937590-21.gif",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> As The Rock flies over L.A., he sees a seismic wave roll through the city. Sidenote: This special effect was awesome.\n\n<b>What the scientists thought:<\/b> Seismic waves could potentially be seen on the surface, according to Weiser. But the vertical exaggeration was absurd, she stressed. But it was also awesome, I will stress. \n\n<b>Consensus:<\/b> Highly exaggerated.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr14/enhanced-18287-1433181862-20.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/15/enhanced/webdr01/anigif_enhanced-10960-1433185897-15.gif",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Not only do the buildings in both L.A. and San Francisco sway dramatically, they do so quite rapidly.\n\n<b>What the scientists thought:<\/b> Tall skyscrapers are actually designed to sway back and forth during a quake to prevent serious structural damage. According to Newman, though, the shaking portrayed in the film was far too rapid to be realistic.\n\n<b>Consensus:<\/b> Highly exaggerated.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr09/enhanced-8552-1433181911-18.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr05/enhanced-29594-1432937758-18.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> After The Rock steals a pickup truck from an armed looter and leaves Bakersfield, the ground opens THE FUCK up. \n\n<b>What the scientists thought:<\/b> There are two glaring problems here, according to the whole group of geologists. First, while you may have some minor openings form, a fault like the San Andreas would never move apart — it's just not how that kind of fault works. Second, they had the fault move in the wrong direction. To that I say, \"How DARE you, Hollywood?\"\n\n<b>Consensus:<\/b> Inaccurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr01/enhanced-8312-1433181942-3.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr03/enhanced-20619-1432938634-17.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Paul Giamatti's character, the hero geologist, looks at a map, grabs a Sharpie, and connects a newly discovered fault in Nevada to the San Andreas fault. By this process and this process alone, he figures out how screwed everyone really is.\n\n<b>What the scientists thought:<\/b> When I asked the team what was going on here, Weiser replied, \"I'd like to know, too.\" The group speculated that perhaps they did this to make the San Andreas Fault bigger so that it could generate a much larger earthquake. The problem with that scenario, according to Newman, is that it makes this new fault take a massive, near-90-degree turn. This would actually reduce the fault's ability to move, he said, not increase it. \n\n<b>Consensus:<\/b> Perplexingly inaccurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr02/enhanced-29544-1433182018-15.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "259",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr03/enhanced-20616-1432938665-25.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Two geologists travel to the Hoover Dam to monitor small earthquakes so that they can test their fancy new earthquake-prediction model. This model is based, for some reason, on \"magnetic pulses.\"\n\n<b>What the scientists thought:<\/b> Ignoring the fact that none of the scientists had any idea what the movie was talking about when they repeatedly referred to magnetic pulses, Rob Curren, a professional geologist in California, had a very good point: Why would you study them in a power plant that is generating a remarkably large amount of electricity? This electricity would surely get in the way of the signal. Other questions we, as a group, would like answered: How did you get a permit to do that so quickly, and why the FUCK do you need to be INSIDE the Hoover Dam in the first place?\n\n<b>Consensus:<\/b> Perplexingly inaccurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr15/enhanced-31774-1433182043-20.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr02/enhanced-7348-1432938706-17.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> During the numerous large earthquakes depicted in this film, one common theme was people running around in a panic. Being an extra in this movie must have been a workout.\n\n<b>What the scientists thought:<\/b> This is not going to happen, even in a much smaller quake, said Ivy Curren, a sixth-year UCLA graduate student. If you look at videos of people during an earthquake, she said, you see that \"they can't move, they lie on the ground, they hold on to a table or a bar, and they just move with the earth as it moves.\" \n\n<b>Consensus:<\/b> Remarkably inaccurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr03/enhanced-17880-1433182074-16.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "261",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr13/enhanced-27693-1432938740-8.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> Throughout the movie, a central plot element is Paul Giamatti's ability to predict earthquakes by monitoring \"magnetic pulses.\" \n\n<b>What the scientists thought:<\/b> You cannot predict earthquakes. People have tried for a long, long time, and it's probably never going to happen. According to Newman, \"the only prudent thing to do … is be prepared.\" He did add, however, that while \"it is unlikely we will ever be able to predict earthquakes in a real sense, we may be able to identify geographic regions over a period of time that are at heightened risk.\"\n\n<b>Consensus:<\/b> Likely impossible.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr12/enhanced-9046-1433182101-20.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "<b>Important sidenote:<\/b> Lingsen Meng, Ph.D., a professor of seismology at UCLA, stresses that the movie's focus on prediction misses an important advance in earthquake research: early warning systems. AFTER an earthquake hits one region, it is possible, with a network of GPS sensors or seismographs, to send word to another area that one is on the way with up to 30 seconds' lead time. That's enough time to stop trains, turn off gas lines, stop surgeries, duck for cover, etc.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr03/enhanced-20663-1432938842-24.png",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> The central focus of this movie, besides Alexandra Daddario's intoxicating eyes, is a magnitude-9.6 earthquake generated by the San Andreas Fault.\n\n<b>What the scientists thought:<\/b> This is simply not possible in California, the team stressed. \"We just don't have a big enough fault,\" said Meng. Also, the team added, the San Andreas Fault is a transform fault, which means that two different plates move in a side-to-side manner. This kind of fault is unlikely to produce such a large seismic event. According to the USGS, the largest possible quake the San Andreas Fault could likely generate is an 8.3. \n\n<b>Consensus:<\/b> Demonstrably impossible.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr15/enhanced-32720-1433182137-6.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "259",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/15/enhanced/webdr09/anigif_enhanced-28216-1433185940-5.gif",
+
+                     "@width": "625",
+
+                     "description": "<b>The scene(s):<\/b> After the earthquake strikes San Francisco, a massive wave higher than the Golden Gate Bridge charges in and inundates the city.\n\n<b>What the scientists thought:<\/b> This was \"the most egregious\" element of the movie, according to Newman. First of all, the group said, an earthquake on land (where the quake theoretically occurred) could never directly trigger a tsunami. It would need to have happened underwater, which would've displaced the water and pushed it onto land. Second, as the group pointed out, a tsunami is not a single event, nor is it a single massive cresting wave; it's a more gradual process akin to the tide rising dangerously fast. Finally, as Weiser said, the heroes in this film are on the 10th floor of a skyscraper when they are hit by the wave, making it a roughly 100-foot wave. That's pretty unrealistic, she said.\n\n<b>Consensus:<\/b> Egregiously impossible.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr02/enhanced-30860-1433182169-2.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/20/enhanced/webdr09/enhanced-25313-1432944930-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "That's absolutely what you should be doing if you experience a quake.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "150",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/1/14/enhanced/webdr08/enhanced-27203-1433182189-11.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Vaping Weed: A Guide For The Health-Conscious Pothead",
+
+            "link": "http://www.buzzfeed.com/catferguson/vaping-weed?utm_term=4ldqpia",
+
+            "description": "<p>With the stigma of pot on the decline, people are increasingly turning to vaping to get high. Here’s what you should know before you inhale.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/27/11/enhanced/webdr01/enhanced-32597-1432740035-14.jpg\" width=\"625\" height=\"351\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Photo / Macey Foronda, Graphic / Chris Ritter for BuzzFeed.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Over the past decade, as cigarette smokers have switched by the thousands to vaporizers, potheads, too, have discovered vaping as a healthier and less smelly way of getting high.<\/p>\n\n<p>Whoopi Goldberg, for example, has a vape named Sippy, which she uses to treat her glaucoma. \"The vape pen has changed my life,\" Goldberg <a href=\"http://www.thecannabist.co/2014/04/17/whoopi-vape-pen-love-story-column/9571/\">wrote<\/a> at <i>The Cannabist<\/i>. \"With each sip comes relief &mdash; from pressure, pain, stress, discomfort.\"<\/p>\n\n<p>Vaporizers range from cheap bodega models with glass, metal, or plastic cartridges full of hash oil to futuristic pods with smartphone apps that retail for hundreds of dollars. <a href=\"https://www.indiegogo.com/projects/evoke-first-smart-vaporizer-powered-by-induction#/story\">Crowdfunding<\/a> <a href=\"https://www.indiegogo.com/projects/grasshopper-vaporizer#/story\">campaigns<\/a> for newer, better vapes pop up every few months. (BuzzFeed&#39;s drugs reporter Amanda Chicago Lewis <a href=\"http://www.buzzfeed.com/buzzfeed/_draft/3791921\">reviewed<\/a> 15 vapes in 15 hours, if you&#39;re looking for recommendations.)<\/p>\n\n<p>\"Getting a new vape is almost as good as getting a new smartphone,\" Isaiah, a 24-year-old from Brooklyn, told BuzzFeed News. Vaping is \"cleaner, cooler, more modern, healthier, more economical, tastes better, easier to handle, and I never need matches or a lighter.\"<\/p>\n\n<p>Many people vape weed because of the assumed health benefits. Take Larry, a 26-year-old start-up founder in Atlanta. He isn&#39;t a regular pot smoker, but when he does he prefers vaping. \"If I&#39;m going to partake I might as well do so in a manner that doesn&#39;t increase cancer,\" he told BuzzFeed News. <\/p>\n\n<p>But how safe is it, really? Here&#39;s what medical experts say.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/26/18/enhanced/webdr02/anigif_enhanced-27137-1432679384-2.gif\" width=\"500\" height=\"333\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://allforeverybody.tumblr.com/post/33804690989\">allforeverybody.tumblr.com<\/a> / Via Tumblr<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>This is a big deal, since the <a href=\"http://www.sciencedirect.com/science/article/pii/S0741832905001126\">biggest risk<\/a> of smoking weed is the smoke itself, which contains the same kind of cancer-causing chemicals as cigarette smoke. <\/p>\n\n<p>Smoking is associated with bronchitis and emphysema, as well as the inhalation of carcinogens, according to Marilyn Huestis, chief of chemistry and drug metabolism at the National Institute on Drug Abuse, who has studied the physiological effects of vaping marijuana. \"People who vaporize report decreased respiratory symptoms\" compared to those who smoke weed, she told BuzzFeed News in an email. <\/p>\n\n<p>Studies have shown that cannabis users regularly report <a href=\"http://www.biomedcentral.com/content/pdf/1477-7517-4-11.pdf\">breathing easier<\/a> after switching to vapes. And the vapor itself is a lot <a href=\"http://www.tandfonline.com/doi/abs/10.1300/J175v04n01_02\">cleaner<\/a> than smoke from a joint.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/catferguson/vaping-weed\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/catferguson/vaping-weed"
+
+            },
+
+            "pubDate": "Thu, 28 May 2015 15:06:07 -0400",
+
+            "group": {
+
+               "description": "<b>With the stigma of pot on the decline, people are increasingly turning to vaping to get high<\/b>. Here’s what you should know before you inhale.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "catferguson"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/20/campaign_images/webdr03/vaping-weed-a-guide-for-the-health-conscious-poth-2-29289-1432860661-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/27/11/enhanced/webdr01/enhanced-32597-1432740035-14.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Over the past decade, as cigarette smokers have switched by the thousands to vaporizers, potheads, too, have discovered vaping as a healthier and less smelly way of getting high.\n\nWhoopi Goldberg, for example, has a vape named Sippy, which she uses to treat her glaucoma. \"The vape pen has changed my life,\" Goldberg <a href=\"http://www.thecannabist.co/2014/04/17/whoopi-vape-pen-love-story-column/9571/\">wrote<\/a> at <i>The Cannabist<\/i>. \"With each sip comes relief — from pressure, pain, stress, discomfort.\"\n\nVaporizers range from cheap bodega models with glass, metal, or plastic cartridges full of hash oil to futuristic pods with smartphone apps that retail for hundreds of dollars. <a href=\"https://www.indiegogo.com/projects/evoke-first-smart-vaporizer-powered-by-induction#/story\">Crowdfunding<\/a> <a href=\"https://www.indiegogo.com/projects/grasshopper-vaporizer#/story\">campaigns<\/a> for newer, better vapes pop up every few months. (BuzzFeed's drugs reporter Amanda Chicago Lewis <a href=\"http://www.buzzfeed.com/buzzfeed/_draft/3791921\">reviewed<\/a> 15 vapes in 15 hours, if you're looking for recommendations.)\n\n\"Getting a new vape is almost as good as getting a new smartphone,\" Isaiah, a 24-year-old from Brooklyn, told BuzzFeed News. Vaping is \"cleaner, cooler, more modern, healthier, more economical, tastes better, easier to handle, and I never need matches or a lighter.\"\n\nMany people vape weed because of the assumed health benefits. Take Larry, a 26-year-old start-up founder in Atlanta. He isn't a regular pot smoker, but when he does he prefers vaping. \"If I'm going to partake I might as well do so in a manner that doesn't increase cancer,\" he told BuzzFeed News. \n\nBut how safe is it, really? Here's what medical experts say.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "333",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/18/enhanced/webdr02/anigif_enhanced-27137-1432679384-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "This is a big deal, since the <a href=\"http://www.sciencedirect.com/science/article/pii/S0741832905001126\">biggest risk<\/a> of smoking weed is the smoke itself, which contains the same kind of cancer-causing chemicals as cigarette smoke. \n\nSmoking is associated with bronchitis and emphysema, as well as the inhalation of carcinogens, according to Marilyn Huestis, chief of chemistry and drug metabolism at the National Institute on Drug Abuse, who has studied the physiological effects of vaping marijuana. \"People who vaporize report decreased respiratory symptoms\" compared to those who smoke weed, she told BuzzFeed News in an email. \n\nStudies have shown that cannabis users regularly report <a href=\"http://www.biomedcentral.com/content/pdf/1477-7517-4-11.pdf\">breathing easier<\/a> after switching to vapes. And the vapor itself is a lot <a href=\"http://www.tandfonline.com/doi/abs/10.1300/J175v04n01_02\">cleaner<\/a> than smoke from a joint.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/2mCH6IxqFU/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "There are a few ways to vape. Many devices use regular bud, heated to a temperature to release the active ingredients of the pot — mostly THC (tetrahydrocannabinol) and CBD (cannabidiol) — as an aerosol while preventing actual combustion. Others use concentrates such as hash oil, which can contain sketchy ingredients like lighter fluid and pesticides.\n\n\"Vaporizing the bud you know is slightly more safe than vaporizing the oil you don't,\" Adam Winstock, a drug use researcher at King's College London, told BuzzFeed News. \"But it's all safer than smoking spliff [British slang for weed], and it's certainly better than smoking spliff with tobacco.\"\n\nIn 2011, in partnership with <i>The Guardian<\/i> and Australian media company Fairfax, Winstock and other scientists from around the world founded the Global Drug Survey, which asked 37,000 drug users to talk about how and why they get high. The group publishes the <a href=\"http://www.globaldrugsurvey.com/brand/the-highway-code/\">High-Way Code<\/a>, a series of guidelines for having the best and safest time possible when doing drugs. On its list of 10 suggestions for safe cannabis use, vaping is at the top.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "For people who haven't smoked much before, the high concentrations of THC you get when vaping hash oil is something to be careful about, Mallory Loflin, who researches harm reduction in cannabis use at the University at Albany, SUNY, told BuzzFeed News. \n\nThis is especially important when vaping butane hash oil (BHO), which tends to be much stronger than regular weed. Typical BHO is at least 60% THC, whereas most weed is 15 to 20%, according to data from several cannabis testing labs.\n\n\"The first time someone smokes pot, if they take three hits of BHO, they're probably going to get a much higher concentration than they're going to know what to do with,\" Loflin said. But for more experienced users, this is less of a concern. \"Because you get the effects very swiftly, people are pretty good at taking a hit and seeing where they're at.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "BHO is made by stripping the THC out of marijuana using lighter fluid or other solvents. (Read this BuzzFeed News <a href=\"http://www.buzzfeed.com/amandachicagolewis/is-hash-oil-safe#.wjaDmn7aq\">article<\/a> for more on what we don't know about BHO.) \n\n\"When you buy a gram of coke or MDMA, there's no quality control. That's going to be the same, for the moment, with BHO — there will be a risk of inhaling solvents,\" Winstock said.\n\nSolvents aren't the only issue. The lack of regulation means chemicals like propylene glycol and artificial flavors can be added to concentrates without consistent labeling, despite a lack of research into what happens when you inhale the chemicals in high doses. \n\n\"There are some companies that sell themselves as being additive-free, but none of these things are regulated, so it's really hard to know what you're getting,\" said Ziva Cooper, who studies the physical effects of marijuana at Columbia University.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "386",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/18/enhanced/webdr03/enhanced-16557-1432679511-19.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Another serious danger is in people trying to make BHO themselves. Outside of Colorado and Washington, all BHO is DIY — which means amateurs are working with dangerous chemicals. \n\n\"Some people don't take the necessary precautions of working with flammable solvents and blow themselves and/or their houses up,\" Ryan Vandrey, who studies marijuana use at the Johns Hopkins School of Medicine, told BuzzFeed News by email. \n\nThe Bureau of Alcohol, Tobacco, and Firearms recently issued a <a href=\"http://www.wtsp.com/story/news/2015/05/23/hash-oil-explosions/27838871/\">warning<\/a> about the risk of explosions — last year, there were 32 in the state of Colorado alone. So unless you're a chemist, don't try this at home.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "135",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/27/11/enhanced/webdr01/enhanced-976-1432740427-15.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "21 Reasons Why Anxious People Were Born To Be Scientists",
+
+            "link": "http://www.buzzfeed.com/alexkasprak/21-reasons-anxious-people-make-the-best-scientists?utm_term=4ldqpia",
+
+            "description": "<p>Anxiety makes science happen.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Over-analyzing things is pretty much what scientists do for a living.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/21/14/enhanced/webdr05/anigif_enhanced-28600-1432234529-17.gif\" width=\"425\" height=\"212\" alt=\"Over-analyzing things is pretty much what scientists do for a living.\" /><\/p>\n \n\t\n\n\n <p><small>FX / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://twiztedrasberry.tumblr.com/post/15239092983\">twiztedrasberry.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>They will check over and over to make sure a burner isn’t left on.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/21/15/enhanced/webdr01/anigif_enhanced-3315-1432235342-20.gif\" width=\"625\" height=\"346\" alt=\"They will check over and over to make sure a burner isn’t left on.\" /><\/p>\n \n\t\n\n\n <p><small>Teaching & Learning Centre / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=N7ssCM3qM3U\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/21/14/enhanced/webdr04/grid-cell-22370-1432233616-2.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/alexkasprak/21-reasons-anxious-people-make-the-best-scientists\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alexkasprak/21-reasons-anxious-people-make-the-best-scientists"
+
+            },
+
+            "pubDate": "Fri, 22 May 2015 00:16:06 -0400",
+
+            "group": {
+
+               "description": "<b>Anxiety makes science happen.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alexkasprak"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/17/campaign_images/webdr11/21-reasons-anxious-people-make-the-best-scientists-2-3643-1432242776-9.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "212",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/14/enhanced/webdr05/anigif_enhanced-28600-1432234529-17.gif",
+
+                     "@width": "425",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "346",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr01/anigif_enhanced-3315-1432235342-20.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/14/enhanced/webdr04/grid-cell-22370-1432233616-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/14/enhanced/webdr04/grid-cell-22370-1432233617-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "335",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr02/anigif_enhanced-5355-1432236493-3.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "353",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/18/enhanced/webdr08/anigif_enhanced-1463-1432161228-17.gif",
+
+                     "@width": "576",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "466",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/18/enhanced/webdr02/enhanced-5865-1432161347-13.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "247",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/18/enhanced/webdr03/anigif_enhanced-11244-1432161602-4.gif",
+
+                     "@width": "441",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "339",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/18/enhanced/webdr05/anigif_enhanced-11854-1432161795-45.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "367",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/18/enhanced/webdr01/anigif_enhanced-24481-1432161923-26.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr09/anigif_enhanced-13732-1432236522-3.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "470",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr06/anigif_enhanced-6690-1432236552-2.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "355",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr07/anigif_enhanced-25917-1432236641-3.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/14/enhanced/webdr06/anigif_enhanced-20095-1432234628-34.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "291",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr10/anigif_enhanced-971-1432234835-13.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "253",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr04/anigif_enhanced-22323-1432234916-3.gif",
+
+                     "@width": "450",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "500",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr10/anigif_enhanced-962-1432234996-18.gif",
+
+                     "@width": "500",
+
+                     "description": "Unless they are studying germs, in which case you can be damn sure those germs are safely contained.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "234",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr10/anigif_enhanced-20171-1432235708-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "258",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/20/21/enhanced/webdr02/anigif_enhanced-29900-1432170083-4.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr07/anigif_enhanced-26222-1432236738-2.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "279",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr13/anigif_enhanced-32544-1432235804-10.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "435",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/15/enhanced/webdr01/anigif_enhanced-22285-1432236712-2.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "What Question Do You Want BuzzFeed Science To Answer?",
+
+            "link": "http://www.buzzfeed.com/kellyoakes/ask-buzzfeed-science?utm_term=4ldqpia",
+
+            "description": "<p>Tell us and we’ll do our best to make that dream come true.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/21/5/enhanced/webdr15/enhanced-16397-1432201567-2.jpg\" width=\"625\" height=\"517\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Maritsa Patrinos / BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Tell us&#33; We&#39;ve answered a ton of your questions in the past, from ones about <a href=\"http://ww.buzzfeed.com/kellyoakes/your-embarrassing-body-questions-answered-with-science\">embarrassing bodies<\/a> and <a href=\"http://www.buzzfeed.com/kellyoakes/your-embarrassing-sex-questions-answered-with-science\">sex<\/a>, to the weird and wonderful world of <a href=\"http://www.buzzfeed.com/kellyoakes/your-weirdest-questions-answered-with-science\">bird anatomy and dinosaur noises<\/a>. But we want more. <\/p>\n\n<p>We&#39;ll leave this form open for submissions, so drop by any time you run across a science question Google can&#39;t help you with and we&#39;ll do our best to tackle it.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/item-nonlq4-jslo?uri=item-nonlq4-jslo&cb=1433991880\" width=\"625\" height=\"500\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p><i>Don&#39;t worry, we won&#39;t tell anyone it was you that asked &ndash; and this form won&#39;t record any of your personal information.<\/i><\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kellyoakes/ask-buzzfeed-science\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kellyoakes/ask-buzzfeed-science"
+
+            },
+
+            "pubDate": "Thu, 21 May 2015 10:31:07 -0400",
+
+            "group": {
+
+               "description": "<b>Tell us and we’ll do our best to make that dream come true.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kellyoakes"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/8/campaign_images/webdr12/what-question-do-you-want-buzzfeed-science-to-ans-2-28051-1432210412-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "517",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/21/5/enhanced/webdr15/enhanced-16397-1432201567-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Tell us! We've answered a ton of your questions in the past, from ones about <a href=\"http://ww.buzzfeed.com/kellyoakes/your-embarrassing-body-questions-answered-with-science\">embarrassing bodies<\/a> and <a href=\"http://www.buzzfeed.com/kellyoakes/your-embarrassing-sex-questions-answered-with-science\">sex<\/a>, to the weird and wonderful world of <a href=\"http://www.buzzfeed.com/kellyoakes/your-weirdest-questions-answered-with-science\">bird anatomy and dinosaur noises<\/a>. But we want more. \n\nWe'll leave this form open for submissions, so drop by any time you run across a science question Google can't help you with and we'll do our best to tackle it.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "<i>Don't worry, we won't tell anyone it was you that asked – and this form won't record any of your personal information.<\/i>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Are Your Beauty Products Secretly Polluting Water?",
+
+            "link": "http://www.buzzfeed.com/kasiagalazka/plastic-microbeads?utm_term=4ldqpia",
+
+            "description": "<p>Microbeads are making their way into our water — and transporting harmful chemicals into our food.<\/p>\n\n\n\n\n\n\n\n\n\n\n <p>Some beauty products contain plastic microbeads that are trickling into our water systems in multitudes, spurring several states to push for bans. Beads &mdash; most commonly <b>polyethylene<\/b> &mdash; can be smaller than a millimeter in diameter, making them too petite to be strained at wastewater treatment plants.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/8/12/enhanced/webdr04/enhanced-29179-1431101409-9.png\" width=\"625\" height=\"288\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Andrew Peña / BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Just how many are in the dollop you use to wash your face? An ounce can have more than 150,000 plastic particles, a research team led by chemist Sherri Mason found. The highest count the lab extrapolated from a full bottle was 1.4 million particles.<\/p>\n\n<p>If you only have a bar of soap in your beauty arsenal, you still might not be exempt from their omnipresence: They can lurk in your toothpaste, too. <\/p>\n\n<p>Mason led the first survey of plastic pollution in the Great Lakes in conjunction with the <a href=\"http://5gyres.org/\">5 Gyres Institute<\/a>, a nonprofit that studies plastic pollution in waterways. The results have since spurred a handful of projects examining the slithering reach of microplastics.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Plastic doesn&#39;t want to be in water, said Kirk Havens, a Virginia Institute of Marine Science (VIMS) researcher &mdash; and neither do water-fearing chemicals, like pollutants.<\/p>\n\n<p>These pollutants are an acronym party: They can include polyaromatic hydrocarbons (or <a href=\"http://www.epa.gov/osw/hazard/wastemin/minimize/factshts/pahs.pdf\">PAHs<\/a>), which come from power plants and cars, or <a href=\"http://www2.epa.gov/international-cooperation/persistent-organic-pollutants-global-issue-global-response#pops\">POPs<\/a> (persistent organic pollutants) like <a href=\"http://www2.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status\">DDT<\/a>, a pesticide and endocrine disruptor.<\/p>\n\n<p>So they do what any marooned compound would do: Cling to their ilk to escape their environment. \"Once in the water, they don&#39;t want to be there, and then they see this plastic bead that is also hydrophobic, and it&#39;s basically like coming home,\" said Mason.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kasiagalazka/plastic-microbeads\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kasiagalazka/plastic-microbeads"
+
+            },
+
+            "pubDate": "Tue, 19 May 2015 18:51:07 -0400",
+
+            "group": {
+
+               "description": "<b>Microbeads are making their way into our water — and transporting harmful chemicals into our food.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kasiagalazka"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/15/campaign_images/webdr07/plastic-microbeads-2-14537-1432064692-16.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "Some beauty products contain plastic microbeads that are trickling into our water systems in multitudes, spurring several states to push for bans. Beads — most commonly <b>polyethylene<\/b> — can be smaller than a millimeter in diameter, making them too petite to be strained at wastewater treatment plants.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "288",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/8/12/enhanced/webdr04/enhanced-29179-1431101409-9.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Just how many are in the dollop you use to wash your face? An ounce can have more than 150,000 plastic particles, a research team led by chemist Sherri Mason found. The highest count the lab extrapolated from a full bottle was 1.4 million particles.\n\nIf you only have a bar of soap in your beauty arsenal, you still might not be exempt from their omnipresence: They can lurk in your toothpaste, too. \n\nMason led the first survey of plastic pollution in the Great Lakes in conjunction with the <a href=\"http://5gyres.org/\">5 Gyres Institute<\/a>, a nonprofit that studies plastic pollution in waterways. The results have since spurred a handful of projects examining the slithering reach of microplastics.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Plastic doesn't want to be in water, said Kirk Havens, a Virginia Institute of Marine Science (VIMS) researcher — and neither do water-fearing chemicals, like pollutants.\n\nThese pollutants are an acronym party: They can include polyaromatic hydrocarbons (or <a href=\"http://www.epa.gov/osw/hazard/wastemin/minimize/factshts/pahs.pdf\">PAHs<\/a>), which come from power plants and cars, or <a href=\"http://www2.epa.gov/international-cooperation/persistent-organic-pollutants-global-issue-global-response#pops\">POPs<\/a> (persistent organic pollutants) like <a href=\"http://www2.epa.gov/ingredients-used-pesticide-products/ddt-brief-history-and-status\">DDT<\/a>, a pesticide and endocrine disruptor.\n\nSo they do what any marooned compound would do: Cling to their ilk to escape their environment. \"Once in the water, they don't want to be there, and then they see this plastic bead that is also hydrophobic, and it's basically like coming home,\" said Mason.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/8/12/enhanced/webdr12/enhanced-929-1431101519-39.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "If an organism ingests the plastic, toxins can desorb into its body and become part of it. And if we eat that animal — say, a <a href=\"http://www.cleanwateraction.org/files/publications/Fish%20ingestion%20of%20plastic.pdf\">fish<\/a> — we could consume those harmful chemicals. Microbeads have already been observed in <a href=\"https://facultystaff.richmond.edu/~sabrash/110/Chem%20110%20Spring%202014%20Articles/Contributing%20to%20Marine%20Pollution%20By%20Washing%20Your%20Face.pdf\">mussels<\/a>, <a href=\"http://pubs.acs.org/doi/abs/10.1021/es501090e\">crabs<\/a>, and <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/22964427\">whales<\/a>. \n\nSome chemicals have <a href=\"http://www.researchgate.net/profile/Tamara_Galloway2/publication/51719107_Microplastics_as_contaminants_in_the_marine_environment_A_review/links/00b7d534100478d252000000.pdf\">adverse effects<\/a> on us: They can be cancer-linked carcinogens or mutate our DNA, or they can <a href=\"http://www.niehs.nih.gov/health/topics/agents/endocrine/\">mess with our hormones<\/a>, leading to an earlier onset of puberty in girls or lower sperm count in males, said Mason.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Plastic waste costs the U.S. $13 billion a year in damage to marine ecosystems, according to a <a href=\"http://www.unep.org/newscentre/Default.aspx?DocumentID=2791&amp;ArticleID=10903&amp;l=en\">U.N. Environment Programme report<\/a>. \n\nAnd while <a href=\"http://www.ilga.gov/legislation/BillStatus.asp?DocTypeID=SB&amp;DocNum=2727&amp;GAID=12&amp;SessionID=85&amp;LegID=78471\">Illinois<\/a> and <a href=\"http://assembly.state.ny.us/leg/?default_fld=&amp;bn=A08744&amp;term=2013&amp;Summary=Y&amp;Text=Y\">New York<\/a> have passed microbead bans, the proposed timelines feel sluggish considering the tens of thousands of particles coming out of wastewater treatment plants every hour. Illinois' deadline to halt manufacturing, for example, isn't until 2019, and even then sales of products containing beads are allowed until 2020. Other states continue to push for legislation, including <a href=\"http://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160AB888\">California<\/a>, <a href=\"http://www.legislature.mi.gov/documents/2015-2016/billintroduced/Senate/pdf/2015-SIB-0158.pdf\">Michigan<\/a>, and <a href=\"https://olis.leg.state.or.us/liz/2015R1/Downloads/MeasureDocument/HB3478/Introduced\">Oregon<\/a>.\n\nBut the promises feel small as microbead product production continues to be in full bloom.\n\n\"It's pretty crazy, and to postpone the deadline for that — that's just allowing millions and millions of more particles to end up in our waterways,\" said Mason. \"What I'm more concerned about is not the plastic itself, but the ability of plastics to move chemicals from the environment into us.\"\n\nPart of the struggle is defining \"<a href=\"http://conbio.org/images/content_policy/03.24.15_Microbead_Brief_Statement.pdf\">biodegradable<\/a>\" in a marine environment where conditions vary from those in a controlled, reproducible environment, said Rob Hale, a VIMS professor and expert on marine toxic chemicals.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "288",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/8/12/enhanced/webdr04/enhanced-29225-1431101502-4.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Mason pointed to a patent in the 1970s, but microbeads weren't a common ingredient until the '90s when \"exfoliate\" became more of a buzzword, said <a href=\"http://www.paulaschoice.com/expert-advice/\">Bryan Barron<\/a>, co-author of <i>The Original Beauty Bible<\/i> and research director for Paula's Choice Skincare.\n\nGround walnut shells and apricot pits were common in scrubbing products. But for some users, the natural ingredients created little scratches in the skin called microfissures. To soften the abrasion, plastic was introduced.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "But it's not the colorful spheres that you see suspended in beauty products that usually do the work. \"They're mostly in there just because they look cool,\" said Mason. The primary exfoliators are the fragmented white and clear beads that are less visible.\n\nSo far only a handful of personal-care companies have phased scrub beads out, like <a href=\"http://www.unilever.com/sustainable-living/what-matters-to-you/micro-plastics.html\">Unilever<\/a>, or publicly pledged to do so, like <a href=\"http://www.safetyandcarecommitment.com/ingredient-info/other/microbeads\">Johnson &amp; Johnson<\/a>. A lip scrub is the only Paula's Choice product that uses polyethylene beads, and it's currently being reformulated, said Barron.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "288",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/8/12/enhanced/webdr08/enhanced-17557-1431101538-31.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "First, look for <b>polyethylene<\/b>, <b>polypropylene<\/b>, or <b>acrylates copolymer<\/b> (which are bursting beads) on the label.\n\nIf plastic is listed, the best thing to do is throw it out, said Mason. But if the prospect of it lingering in a landfill bothers your conscience, you can also <a href=\"http://www.fredonia.edu/chemistry/Faculty/Mason.asp\">donate it to her research lab<\/a> so it can be used for science. Currently the team is investigating how fish feed on the beads.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "During a project to eliminate lost crab traps in Virginia's Chesapeake Bay, Havens and other researchers experimented with <a href=\"http://ccrm.vims.edu/marine_debris_removal/degradable_cull_panels/index.html\">panels<\/a> made of a bacteria-produced biopolymer called PHA, or polyhydroxyalkanoate. When left in the water, it biodegrades as bacteria consume the material, making it a viable substitute for plastic microbeads with little risk of attracting derelict visitors.\n\nCompanies like <a href=\"http://www.metabolix.com/\">Metabolix<\/a> already make PHA plastics, and San Francisco startup <a href=\"http://mangomaterials.com/\">Mango Materials<\/a> uses waste to coax bacteria to produce PHA granules. \"It's like closing the whole waste loop,\" said Havens. \"They're using methane from landfills to produce a biodegradable biopolymer.\"\n\nProducts that contain natural ingredients, like ground walnuts or fruit pits, are still very much around. \"But you have to think about that, too, because those things don't naturally occur in the marine environment,\" said Havens, citing the trace amounts of cyanide that can be found in apricot seeds. \n\nBarron suggests AHA/BHA exfoliants: \"Either one, when well formulated, can go far beyond what a scrub does,\" he said. AHA ingredients, like glycol or lactic acids, can help moisturize dry or sun-damaged skin. He recommends BHA, a salicylic acid, for oily or breakout-prone skin.\n\nVolcanic ash is super gentle on the skin, according to New York–based celebrity facialist <a href=\"http://joannavargas.com/\">Joanna Vargas<\/a>, founder of Joanna Vargas Salon and Skincare Collection. She also suggests rice powder as an alternative.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Despite the red tape barbs, Mason remains optimistic of the bans' momentum. If more states propel them, it would lead to nationwide action. \"We're the problem, but that also means that we're the solution,\" she said.\n\n\"Something as simple as changing what face wash you use can have a huge impact on the world.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "<a href=\"http://www.safetyandcarecommitment.com/ingredient-info/other/microbeads\">In a statement posted online<\/a>, Johnson &amp; Johnson said it has stopped developing new products containing polyethylene microbeads and has pledged to phase them out of its personal care products by 2017. A representative confirmed that the statement is still accurate.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/12/enhanced/webdr07/grid-cell-7608-1432053915-19.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/12/enhanced/webdr07/grid-cell-7608-1432053916-22.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Clean &amp; Clear is a part of Johnson &amp; Johnson.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/12/14/enhanced/webdr02/grid-cell-32252-1431455576-8.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/12/14/enhanced/webdr02/grid-cell-32252-1431455577-13.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Neutrogena is a part of Johnson &amp; Johnson.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/12/14/enhanced/webdr13/grid-cell-4771-1431456261-14.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/12/14/enhanced/webdr13/grid-cell-4771-1431456261-17.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Garnier is a part of L'Oréal, which has pledged to remove polyethylene microbeads from its products by 2017, <a href=\"http://www.loreal.com/news/loreal-commits-to-phase-out-all-polyethylene-microbeads-from-its-scrubs-by-2017.aspx\">according to an online statement<\/a>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/12/enhanced/webdr13/grid-cell-12385-1432054165-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/12/enhanced/webdr13/grid-cell-12385-1432054167-5.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "A representative from Procter &amp; Gamble provided BuzzFeed with this statement:\n\n\"P&amp;G has made the decision to discontinue our limited use of plastic microbeads as scrub materials in personal care products and is actively working to replace them with alternatives. In the meantime we already have plenty of product options available without microbeads for those who would prefer them. Our goal is to complete removal of microbeads from all of our products by 2017.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/12/15/enhanced/webdr07/grid-cell-19392-1431459792-6.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/12/15/enhanced/webdr07/grid-cell-19392-1431459792-9.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Kao confirmed their products do not use microbeads.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/18/13/enhanced/webdr11/grid-cell-13336-1431971174-22.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/18/13/enhanced/webdr11/grid-cell-13336-1431971175-25.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Burt's Bees have never used synthetic materials in their products, according to an <a href=\"http://www.burtsbees.com/Ingredients-We%27d-Never-Use/glossary-neveruse,default,pg.html\">online glossary<\/a>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/14/enhanced/webdr03/grid-cell-29273-1432059119-4.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/14/enhanced/webdr03/grid-cell-29273-1432059119-7.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "BuzzFeed has reached out to Boots for comment and will update this post pending a response.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/12/enhanced/webdr14/grid-cell-798-1432053948-12.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/12/enhanced/webdr14/grid-cell-798-1432053949-15.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Unilever has globally phased out plastic scrub beads as of January 1, 2015, <a href=\"http://www.unilever.com/sustainable-living/what-matters-to-you/micro-plastics.html\">according to a statement posted online<\/a>. The company provided this statement:\n\n\"The incorporation of plastic scrub beads has been phased out of all of Unilever’s personal care products. This was completed in the US in 2014.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/18/enhanced/webdr14/grid-cell-28653-1432073266-15.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/19/18/enhanced/webdr14/grid-cell-28653-1432073268-18.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "St. Ives is also part of Unilever.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/13/11/enhanced/webdr13/grid-cell-24716-1431531434-8.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/13/11/enhanced/webdr13/grid-cell-24716-1431531434-11.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Why People Take Antipsychotics For Depression",
+
+            "link": "http://www.buzzfeed.com/catferguson/the-antipsychotic-boom?utm_term=4ldqpia",
+
+            "description": "<p>A decade ago, drug companies started heavily marketing the antipsychotics Abilify, Seroquel, and Zyprexa as treatments for depression — despite concerns over serious side effects. That marketing is subsiding now as generics hit the market, but it may have created a dangerous clinical standard.<\/p>\n\n\n\n\n\n\n\n\n\n\n <p>In a television commercial from a few years ago for Abilify &mdash; one of the world&#39;s top selling drugs &mdash; a sad cartoon woman looks down at the ground and sees an expanding black hole with bulging eyes. \"Here&#39;s my depression,\" she says. <\/p>\n\n<p>Regular antidepressants weren&#39;t working to keep her depression in check, she explains. But then her doctor told her about Abilify. She began taking the drug along with her antidepressant and felt well enough to have a picnic with her family. \"Depression used to define me,\" she concludes. \"Now I feel better.\"<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/tGymr78FtbU\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=tGymr78FtbU\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Abilify, or aripiprazole, is an \"atypical antipsychotic,\" a class of drugs that debuted in the 1990s as a safer, more humane means of curbing psychosis in people with schizophrenia. But over the past decade, these drugs&#39; manufacturers have successfully pushed for their use in far more common mental illnesses, such as dementia, childhood conduct disorders, and especially depression. <\/p>\n\n<p>Sales of aripiprazole and its competitors, quetiapine (Seroquel) and olanzapine (Zyprexa), have skyrocketed. At more than $450 a bottle, Abilify was prescribed to nearly 9 million Americans in 2014 and grossed $7.8 billion &mdash; making it the second best-selling drug in the U.S., just behind the new (and very expensive) hepatitis C drug Sovaldi, according to healthcare analytics company IMS Health. <\/p>\n\n<p>Many psychiatrists and scientists worry about this antipsychotic boom. They point out that there&#39;s limited evidence of the drugs&#39; usefulness in treating depression over the long term, and that they have serious side effects, such as sedation, dramatic weight gain, and an increased risk of diabetes. In about one-quarter of cases, these drugs also cause akathisia, a pronounced feeling of restlessness described as making you want to jump out of your skin.<\/p>\n\n<p>\"What&#39;s happened recently is remarkably heavy marketing of antipsychotics,\" Allen Frances, former chairman of the psychiatry department at Duke University School of Medicine, told BuzzFeed News. Doctors, he added, are prescribing antipsychotics for depression \"too quickly, without clear indication, and under pressure from pharmaceutical companies.\"<\/p>\n\n<p>For some people with depression, Frances noted, these drugs work wonders. But that&#39;s probably not the case for the majority of people trying them. A <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/19687129\">2009 paper<\/a> found that, statistically, for every nine people with depression who take these drugs, just one is effectively treated. \"These drugs should have a narrow indication, and instead they&#39;ve become the highest revenue-producing drugs in America,\" Frances said.<\/p>\n\n<p>Frances, who led the group that developed the fourth edition of the <i>Diagnostic and Statistical Manual of Mental Disorders<\/i>, is an outspoken critic of the pharmaceutical industry. But he&#39;s by <a href=\"http://www.nytimes.com/2012/09/25/health/a-call-for-caution-in-the-use-of-antipsychotic-drugs.html?_r=0\">no means the only expert<\/a> who says <a href=\"http://www.usatoday.com/story/news/nation/2013/09/21/antipsychotic-dementia-children/2844419/\">antipsychotics are probably overused<\/a>. <\/p>\n\n<p>\"Antipsychotic medication should be used judiciously &mdash; and for the most part, sparingly &mdash; in treating nonpsychotic disorders, including depression,\" Jeffrey Lieberman, chairman of psychiatry at the Columbia University College of Physicians and Surgeons, told BuzzFeed News. <\/p>\n\n<p>Doctors don&#39;t stop at schizophrenia and depression when it comes to antipsychotic prescriptions. The drugs are now <a href=\"http://www.aarp.org/health/drugs-supplements/info-2014/antipsychotics-overprescribed.html\">commonly prescribed<\/a> to calm patients with dementia, despite the fact that the drugs double the risk of death (and that the drugs&#39; labels now warn against their use in dementia). Doctors also prescribe them for <a href=\"http://www.scientificamerican.com/article/should-children-take-antipsychotic-drugs/\">behavioral issues in young children<\/a>, who are particularly vulnerable to side effects like weight gain and type 2 diabetes. The effect of antipsychotics on the developing brain is also not well-understood. <\/p>\n\n<p>\"I think there&#39;s the possibility that antipsychotics are overprescribed, not just for depression, but in other areas,\" Lieberman said.<\/p>\n\n<p>Last month, Abilify&#39;s patent expired, making way for <a href=\"http://www.businesswire.com/news/home/20150428006888/en/Teva-Launches-Generic-Abilify%C2%AE-Tablets-United-States#.VVYw3dNVikq\">cheaper generics<\/a>. All of its competitors had already gone generic, and consequently the manufacturers have all stopped marketing these drugs. <\/p>\n\n<p>So now the question is, how will this drop in advertising affect sales? Will taking the pressure off doctors and consumers spur a drop in prescriptions &mdash; or is this surge in antipsychotics the new normal?<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/15/11/enhanced/webdr09/enhanced-32334-1431702512-14.jpg\" width=\"625\" height=\"304\" alt=\"\" /><\/p>\n \n\t<p>Aripiprazole<\/p>\n\n\n <p><small>Ollaweila / Getty Images<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/catferguson/the-antipsychotic-boom\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/catferguson/the-antipsychotic-boom"
+
+            },
+
+            "pubDate": "Fri, 15 May 2015 17:41:04 -0400",
+
+            "group": {
+
+               "description": "<b>A decade ago, drug companies started heavily marketing the antipsychotics Abilify, Seroquel, and Zyprexa as treatments for depression — despite concerns over serious side effects.<\/b> That marketing is subsiding now as generics hit the market, but it may have created a dangerous clinical standard.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "catferguson"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/15/15/campaign_images/webdr02/the-antipsychotic-boom-2-5163-1431717937-67.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "In a television commercial from a few years ago for Abilify — one of the world's top selling drugs — a sad cartoon woman looks down at the ground and sees an expanding black hole with bulging eyes. \"Here's my depression,\" she says. \n\nRegular antidepressants weren't working to keep her depression in check, she explains. But then her doctor told her about Abilify. She began taking the drug along with her antidepressant and felt well enough to have a picnic with her family. \"Depression used to define me,\" she concludes. \"Now I feel better.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=tGymr78FtbU"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Abilify, or aripiprazole, is an \"atypical antipsychotic,\" a class of drugs that debuted in the 1990s as a safer, more humane means of curbing psychosis in people with schizophrenia. But over the past decade, these drugs' manufacturers have successfully pushed for their use in far more common mental illnesses, such as dementia, childhood conduct disorders, and especially depression. \n\nSales of aripiprazole and its competitors, quetiapine (Seroquel) and olanzapine (Zyprexa), have skyrocketed. At more than $450 a bottle, Abilify was prescribed to nearly 9 million Americans in 2014 and grossed $7.8 billion — making it the second best-selling drug in the U.S., just behind the new (and very expensive) hepatitis C drug Sovaldi, according to healthcare analytics company IMS Health. \n\nMany psychiatrists and scientists worry about this antipsychotic boom. They point out that there's limited evidence of the drugs' usefulness in treating depression over the long term, and that they have serious side effects, such as sedation, dramatic weight gain, and an increased risk of diabetes. In about one-quarter of cases, these drugs also cause akathisia, a pronounced feeling of restlessness described as making you want to jump out of your skin.\n\n\"What's happened recently is remarkably heavy marketing of antipsychotics,\" Allen Frances, former chairman of the psychiatry department at Duke University School of Medicine, told BuzzFeed News. Doctors, he added, are prescribing antipsychotics for depression \"too quickly, without clear indication, and under pressure from pharmaceutical companies.\"\n\nFor some people with depression, Frances noted, these drugs work wonders. But that's probably not the case for the majority of people trying them. A <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/19687129\">2009 paper<\/a> found that, statistically, for every nine people with depression who take these drugs, just one is effectively treated. \"These drugs should have a narrow indication, and instead they've become the highest revenue-producing drugs in America,\" Frances said.\n\nFrances, who led the group that developed the fourth edition of the <i>Diagnostic and Statistical Manual of Mental Disorders<\/i>, is an outspoken critic of the pharmaceutical industry. But he's by <a href=\"http://www.nytimes.com/2012/09/25/health/a-call-for-caution-in-the-use-of-antipsychotic-drugs.html?_r=0\">no means the only expert<\/a> who says <a href=\"http://www.usatoday.com/story/news/nation/2013/09/21/antipsychotic-dementia-children/2844419/\">antipsychotics are probably overused<\/a>. \n\n\"Antipsychotic medication should be used judiciously — and for the most part, sparingly — in treating nonpsychotic disorders, including depression,\" Jeffrey Lieberman, chairman of psychiatry at the Columbia University College of Physicians and Surgeons, told BuzzFeed News. \n\nDoctors don't stop at schizophrenia and depression when it comes to antipsychotic prescriptions. The drugs are now <a href=\"http://www.aarp.org/health/drugs-supplements/info-2014/antipsychotics-overprescribed.html\">commonly prescribed<\/a> to calm patients with dementia, despite the fact that the drugs double the risk of death (and that the drugs' labels now warn against their use in dementia). Doctors also prescribe them for <a href=\"http://www.scientificamerican.com/article/should-children-take-antipsychotic-drugs/\">behavioral issues in young children<\/a>, who are particularly vulnerable to side effects like weight gain and type 2 diabetes. The effect of antipsychotics on the developing brain is also not well-understood. \n\n\"I think there's the possibility that antipsychotics are overprescribed, not just for depression, but in other areas,\" Lieberman said.\n\nLast month, Abilify's patent expired, making way for <a href=\"http://www.businesswire.com/news/home/20150428006888/en/Teva-Launches-Generic-Abilify%C2%AE-Tablets-United-States#.VVYw3dNVikq\">cheaper generics<\/a>. All of its competitors had already gone generic, and consequently the manufacturers have all stopped marketing these drugs. \n\nSo now the question is, how will this drop in advertising affect sales? Will taking the pressure off doctors and consumers spur a drop in prescriptions — or is this surge in antipsychotics the new normal?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "304",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/15/11/enhanced/webdr09/enhanced-32334-1431702512-14.jpg",
+
+                     "@width": "625",
+
+                     "description": "Aripiprazole",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The first generation of antipsychotics, also called \"major tranquilizers,\" often caused involuntary and repetitive movements, like grimacing, lip smacking, and violently twitching limbs. Those effects were frequently permanent, even after people stopped taking the drugs.\n\nSo when the FDA approved drugs like Abilify, Zyprexa, and Seroquel as treatments for schizophrenia, they were lifesavers for many patients, reducing psychotic symptoms enough to allow them to hold jobs and lead lives that would otherwise be impossible while limiting the worst side effects. \n\nShortly after Abilify's approval in 2002, doctors began experimenting with prescribing it off-label for depression. In a <a href=\"http://informahealthcare.com/doi/abs/10.3109/10401230490521954\">2004 study<\/a> of 30 patients who hadn't responded to an antidepressant, adding Abilify to their drug regimen initially helped 14, but six relapsed into depression — a long-term improvement rate of only 27%. Another <a href=\"http://journals.lww.com/intclinpsychopharm/Abstract/2005/01000/Aripiprazole_as_an_augmentor_of_selective.2.aspx\">paper in 2005<\/a> showed that 59% of depressed people treated with Abilify and an antidepressant improved after 12 weeks, but they weren't followed beyond that, so it's impossible to know who relapsed. \n\nAbilify was approved as an add-on treatment for depression in 2007, based on <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/17592907\">two<\/a> additional <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/18344725\">six-week trials<\/a> that compared the therapy to a placebo combined with an antidepressant. Zyprexa and Seroquel were approved for depression two years later. \n\nIn one of the Abilify studies used for FDA approval, 26% of volunteers who took Abilify and an antidepressant no longer had symptoms of depression after six weeks. That may sound impressive, but remission also happened in 16% of participants who were taking a placebo with an antidepressant. What's more, those taking Abilify gained about two pounds, on average, and 25% of them developed akathisia. \n\nOtsuka, the Japan-based pharmaceutical company that developed Abilify, declined to discuss these studies with BuzzFeed News, sending only a bullet-pointed breakdown of the trials' findings. Astra-Zeneca, the developer of Seroquel, did not return repeated requests for comment. \n\nA spokesperson for Eli Lilly, Scott MacGregor, pointed out that companies aren't responsible for how drugs are used in the clinic.\n\n\"Physicians make prescribing decisions, not pharmaceutical companies,\" MacGregor told BuzzFeed News. \"While certainly we inform doctors of the benefits and risks of our medicine, it's really up to physicians to prescribe the right medicine.\" \n\nAnd some doctors see antipsychotics as a depression treatment of last resort. \"You go to war with the army you have,\" Jerrold Rosenbaum, chief of psychiatry at Massachusetts General Hospital, told BuzzFeed News.\n\nDepression takes a huge toll on society. More than 6% of Americans have at least one depressive episode every year, according to the National Survey on Drug Use and Health.\n\n\"The important thing is that you not just give people a drug blindly,\" Rosenbaum added. \"You have to be aware of the risks and know how to monitor them.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "468",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/15/11/enhanced/webdr11/enhanced-3676-1431703968-17.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "A study done over six or eight weeks might not measure dramatic weight gain, for example, or gradual changes in metabolism, Dan Iosifescu, director of the Mood and Anxiety Disorders Program at Icahn School of Medicine at Mount Sinai, told BuzzFeed News. \"It's not as if someone is trying to fool people, it's just a fallacy to take short-term data and extrapolate it for long term.\"\n\nMost long-term studies of atypical antipsychotics have been done in people with schizophrenia who were not taking them in conjunction with antidepressants. <a href=\"http://care.diabetesjournals.org/content/26/5/1597/T4.expansion.html#ref-58\">In those trials<\/a>, Zyprexa caused the most weight gain — between 11 and 26 pounds over the course of two to six years. \n\nThe other big issue with the studies of antipsychotics for depression comes from the way they measure improvement. Antipsychotics may alleviate certain symptoms of depression, such as feelings of sadness or sleep trouble, but <a href=\"http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001403\">not actually improve how well someone functions<\/a> in personal relationships or at work.\n\n\"Depression rating scales ask about symptoms of depression, specifically — <i>Are you feeling less sad? Are you feeling less guilty? Do you feel like you're sleeping better?<\/i>\" said Glen Spielmans, a clinical psychiatry researcher at Metropolitan State University who has studied the use of Abilify for depression. \"If you're feeling somewhat less sad that's great, but they don't hit the much more important issue of, overall, how are you doing?\"\n\nIt's also tough to tell which doctors are engaging in best practices, especially because writing a prescription for a pill is so much cheaper and easier than therapy. According to the <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/22868273\">National Hospital Ambulatory Medical Care Survey<\/a>, a government analysis of outpatient care, between 2005 and 2009, only 23% of doctor visits that ended in an antipsychotic prescription included any kind of therapy. The rest were just a doctor writing a prescription. \n\nThe bottom line, Iosifescu says, is that atypical antipsychotics tend to be helpful in the short term, but have major consequences in the long term that many doctors and patients don't appreciate. \n\n\"Once someone is doing better, it's much more convenient to keep doing the same thing,\" Iosifescu said. \"It's difficult to rock the boat and change something that seems to be working.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "386",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/15/10/enhanced/webdr10/enhanced-27264-1431701939-5.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "An old ad for Seroquel XR, for example, devoted twice as much time to warning about side effects — including permanent muscle spasms and \"increased risk of death\" for elderly people with dementia — as it did to describing benefits:",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=vUBjO7J_UpM"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "In the first quarter of 2012, Bristol-Myers Squibb, which partnered with developer Otsuka to market Abilify, spent $35.9 million on marketing for the drug, according to <a href=\"http://www.fiercepharma.com/special-reports/abilify\"><i>FiercePharma<\/i><\/a>, a publication that tracks the drug industry. It seems to have been a good investment: Abilify's revenues that quarter reached $1.34 billion.\n\nSales of Abilify continued to jump, to $6.6 billion in the U.S. in 2013 — more than any other drug that year — and nearly $8 billion in 2014. \n\nAnd that rise in demand didn't come from people with schizophrenia, experts say.\n\n\"Abilify generated the most revenue of any drug [in 2013]. You don't get that from antipsychotics until you start reaching out to markets like depression,\" said Spielmans of Metropolitan State. \"I think [direct to consumer marketing] does what it's intended to do — it gets people to ask their doctor about Seroquel or Abilify.\"\n\nIn a stunning statistic, every pharmaceutical company that markets an atypical antipsychotic has been <a href=\"http://www.nytimes.com/2010/10/03/business/03psych.html?pagewanted=all\">investigated for misleading marketing under the False Claims Act<\/a>. \n\nBristol-Myers Squibb agreed to pay <a href=\"http://www.justice.gov/archive/opa/pr/2007/September/07_civ_782.html\">$515 million<\/a> to the U.S. government, in part for inappropriately marketing Abilify to children and the elderly. Otsuka paid <a href=\"http://www.justice.gov/archive/opa/pr/2008/March/08_civ_244.html\">$4 million<\/a> for the same thing. \n\nEli Lilly paid <a href=\"http://www.justice.gov/archive/opa/pr/2009/January/09-civ-038.html\">$1.4 billion<\/a>, at the time the largest criminal fine levied against a corporation in U.S. history, to settle a case that included marketing Zyprexa for depression before it was approved, as well as producing \"<a href=\"http://www.nytimes.com/2010/10/03/business/03psych.html?pagewanted=all\">The Myth of Diabetes<\/a>,\" a training film teaching sales reps how to downplay the fact that weight gain from Zyprexa can <a href=\"http://www.nytimes.com/2007/10/06/business/06zyprexa.html\">cause the disease<\/a>. \n\nAstraZeneca paid <a href=\"http://www.justice.gov/opa/pr/pharmaceutical-giant-astrazeneca-pay-520-million-label-drug-marketing\">$520 million<\/a> to settle a suit that accused them of, among other things, hiding a study that found Seroquel users gained 11 pounds a year while advertising that people lost weight on the drug, and marketing the drug as a treatment for depression without FDA approval.\n\nNow that antipsychotic generics are available, the cash flow to the companies that developed them is slowing down. It remains to be seen how this will change marketing strategies — and, in turn, how that might affect prescription patterns. \n\nFor now, demand is higher than ever. Over the past year, according to data collected by Bloomberg, the number of U.S. prescriptions for Abilify, Seroquel, Zyprexa, and their generic equivalents reached 26.5 million.\n\n\"I'd like to think when the marketing pressures are gone,\" Spielmans said, \"and there's more independant research that casts more doubts on how well these medicines work, maybe there will be a slowdown, and a pause to reflect on whether this was such a good idea.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

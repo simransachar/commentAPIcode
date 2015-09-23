@@ -53,10 +53,11 @@ commentID = 172
 # commentID = '5096'
 RecommendationCount = 9
 username = 'simransachar'
-# location = 'chicago'
+location = 'chicago'
 # location = 99
 todaysdate = "2015-01-13 14:11:32"
 comment_text = "Oh how true - you nailed it again! In my case, viewing the entire season of Downton Abbey - accompanied by a healthy swoon - was the best anti-dote possible to having accidentally exposed myself to the first (and for me the last) season of Breaking Bad. And I admit to an ongoing crush on Mr. Bates"
+comment_text = ""
 # comment_text = 989
 # comment_text = 'a'
 # params = {'article_text' : article_text }
@@ -65,7 +66,7 @@ comment_text = "Oh how true - you nailed it again! In my case, viewing the entir
 # params = {'commentBody' : comment_text, 'articleID' : articleID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
 # 'username': username,'location': location}
 params = {'commentBody' : comment_text, 'commentID' : commentID, 'commentDate': todaysdate,'recommendationCount': RecommendationCount, \
-'username': username}
+'username': username,'location': location}
 #params = {'commentBody' : comment_text, 'articleID' : articleID, 'RecommendationCount' : RecommendationCount }
 # params = {'article_text' : article_text, 'articleID' : articleID }
 param_json = json.dumps(params)

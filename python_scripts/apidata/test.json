@@ -1,0 +1,2605 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed - Politics",
+
+      "link": [
+
+         "http://www.buzzfeed.com/politics",
+
+         {
+
+            "@href": "http://www.buzzfeed.com/politics.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Wed, 10 Jun 2015 14:55:57 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://www.buzzfeed.com/politics"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "McConnell Says GOP Has Plan B For Obamacare Subsidies But He Can't Share It: \"We'll Let You Know\"",
+
+            "link": "http://www.buzzfeed.com/andrewkaczynski/mcconnell-says-gop-has-plan-b-for-obamacare-subsidies-but-he?utm_term=4ldqpia",
+
+            "description": "<p>Senate Majority Leader Mitch McConnell McConnell says that Republicans will unveil their plan if and when the Supreme Court decides that subsides are not permitted for people using the federal exchange.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/13/enhanced/webdr09/enhanced-buzz-8673-1433958355-15.jpg\" width=\"625\" height=\"417\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Win McNamee / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Senate Majority Leader Mitch McConnell says Republicans have a plan should a Supreme Court decision end subsidies for people in states that rely on federal health insurance exchanges. <\/p>\n\n<p>\"Yea, we&#39;ll have a plan that we think makes sense for the American people,\" McConnell told Kentucky radio host Joe Elliot on Monday during a discussion of the <i>King v. Burwell<\/i> case.<\/p>\n\n<p>When asked if he would share details of the Republican plan, McConnell replied, \"Uh, no. We&#39;ll let you know.\"<\/p>\n\n<p>The Supreme Court is expected to issue a decision in the case in the coming weeks on whether the Affordable Care Act prohibits subsidies for people using the federal exchange. The government is arguing the law does allow for subsidies under the federal exchange. <\/p>\n\n<p>McConnell said a Republican plan depended \"on the outcome of the decision,\" adding it would not affect Kentucky, which has a state-run exchange. <\/p>\n\n<p>\"It would effect a number of other states which chose not to create exchanges because they didn&#39;t like the new health care law and so it will require, if the plaintiff is successful, require some addressing of the issue and if that were to happen we will be ready to announce our proposal,\" he said.<\/p>\n\n<p>McConnell added he thought Obamacare is a \"terrible law\" and is \"the single worst piece of legislation passed in our country in the last half century and the dumbing down of the American health care has been a disaster.\"<\/p>\n\n<p>Here&#39;s the audio:<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209699406&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\" height=\"166\" width=\"100%\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209699406&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\">w.soundcloud.com<\/a><\/small><\/p>",
+
+            "author": "Andrew Kaczynski",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/andrewkaczynski/mcconnell-says-gop-has-plan-b-for-obamacare-subsidies-but-he"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 13:52:47 -0400",
+
+            "group": {
+
+               "description": "<b>Senate Majority Leader Mitch McConnell McConnell says that Republicans will unveil their plan if and when the Supreme Court decides that subsides are not permitted for people using the federal exchange.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "andrewkaczynski"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/campaign_images/webdr13/mcconnell-says-gop-has-plan-b-for-obamacare-subsi-2-12760-1433958761-9.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr09/enhanced-buzz-8673-1433958355-15.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Senate Majority Leader Mitch McConnell says Republicans have a plan should a Supreme Court decision end subsidies for people in states that rely on federal health insurance exchanges. \n\n\"Yea, we'll have a plan that we think makes sense for the American people,\" McConnell told Kentucky radio host Joe Elliot on Monday during a discussion of the <i>King v. Burwell<\/i> case.\n\nWhen asked if he would share details of the Republican plan, McConnell replied, \"Uh, no. We'll let you know.\"\n\nThe Supreme Court is expected to issue a decision in the case in the coming weeks on whether the Affordable Care Act prohibits subsidies for people using the federal exchange. The government is arguing the law does allow for subsidies under the federal exchange. \n\nMcConnell said a Republican plan depended \"on the outcome of the decision,\" adding it would not affect Kentucky, which has a state-run exchange. \n\n\"It would effect a number of other states which chose not to create exchanges because they didn't like the new health care law and so it will require, if the plaintiff is successful, require some addressing of the issue and if that were to happen we will be ready to announce our proposal,\" he said.\n\nMcConnell added he thought Obamacare is a \"terrible law\" and is \"the single worst piece of legislation passed in our country in the last half century and the dumbing down of the American health care has been a disaster.\"\n\nHere's the audio:",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209699406&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Carly Fiorina: Democrats Don't Think You Count As A Woman If You Disagree With Them",
+
+            "link": "http://www.buzzfeed.com/meganapper/carly-fiorina-democrats-dont-think-you-count-as-a-woman-if-y?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;I think the Democrats have played identity politics for so long, that they have come to a place where if you don&#8217;t believe as they believe they don&#8217;t think you count as a woman.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/8QhQ0nyHwlM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Former Hewlett-Packard CEO Carly Fiorina argued Democrats don&#39;t really count women who don&#39;t agree with them.<\/p>\n\n<p>\"I think the Democrats have played identity politics for so long, that they have come to a place where if you don&#39;t believe as they believe they don&#39;t think you count as a woman,\" Fiorina told PJTV.com during an appearance in Iowa over the weekend. <\/p>\n\n<p>Fiorina, who added she found it \"offensive as a woman\" is one of two female candidates running for president in the Democratic and Republican primaries. <\/p>\n\n<p>\"So I find that offensive as a woman,\" added Fiorina. \"I mean I think Democrats want all women to think the same way, the way they do. So Hillary Clinton, for example, said right here in Iowa actually last year, she said &#39;Well, it&#39;s not enough to be a woman you have to be a woman that believes.&#39; Then she goes through the liberal litany. And I find that really offensive, every issue is a woman&#39;s issue, we&#39;re half the nation, we&#39;re more than half of voters. We don&#39;t agree on everything and we care about every issue just as men do.\"<\/p>\n\n<p>Fiorina said she was \"not running because I&#39;m a woman.\" She said identity politics only further divides us as a nation. <\/p>\n\n<p>\"I&#39;m not running because I&#39;m a woman,\" said Fiorina. \"I&#39;ve never been a token in my life. I just happen to be a woman. And I think the point of this nation is that everyone, regardless of what they look like, or who they are, or where they come from, every American should have the opportunity to use their God-given gifts and fulfill their potential.\"<\/p>\n\n<p>\"That&#39;s what we need to strive for in this nation and I actually think that Americans want to be united again. They know we are divided which is what identity politics does and they don&#39;t like it.\"<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Megan Apper",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/meganapper/carly-fiorina-democrats-dont-think-you-count-as-a-woman-if-y"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 12:56:32 -0400",
+
+            "group": {
+
+               "description": "<b>\"I think the Democrats have played identity politics for so long, that they have come to a place where if you don't believe as they believe they don't think you count as a woman.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "meganapper"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/14/campaign_images/webdr06/carly-fiorina-democrats-dont-think-you-count-as-a-2-2932-1433962238-4.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=8QhQ0nyHwlM"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Former Hewlett-Packard CEO Carly Fiorina argued Democrats don't really count women who don't agree with them.\n\n\"I think the Democrats have played identity politics for so long, that they have come to a place where if you don't believe as they believe they don't think you count as a woman,\" Fiorina told PJTV.com during an appearance in Iowa over the weekend. \n\nFiorina, who added she found it \"offensive as a woman\" is one of two female candidates running for president in the Democratic and Republican primaries. \n\n\"So I find that offensive as a woman,\" added Fiorina. \"I mean I think Democrats want all women to think the same way, the way they do. So Hillary Clinton, for example, said right here in Iowa actually last year, she said 'Well, it's not enough to be a woman you have to be a woman that believes.' Then she goes through the liberal litany. And I find that really offensive, every issue is a woman's issue, we're half the nation, we're more than half of voters. We don't agree on everything and we care about every issue just as men do.\"\n\nFiorina said she was \"not running because I'm a woman.\" She said identity politics only further divides us as a nation. \n\n\"I'm not running because I'm a woman,\" said Fiorina. \"I've never been a token in my life. I just happen to be a woman. And I think the point of this nation is that everyone, regardless of what they look like, or who they are, or where they come from, every American should have the opportunity to use their God-given gifts and fulfill their potential.\"\n\n\"That's what we need to strive for in this nation and I actually think that Americans want to be united again. They know we are divided which is what identity politics does and they don't like it.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Mitch McConnell: No Hard Feelings With Rand Paul Over The Patriot Act",
+
+            "link": "http://www.buzzfeed.com/andrewkaczynski/mitch-mcconnell-no-hard-feelings-with-rand-paul-over-the-pat?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;I think it&#8217;s a mistake to personalize differences of opinions on issues. We have no problems personally.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/21/enhanced/webdr11/enhanced-buzz-22690-1433898242-8.jpg\" width=\"625\" height=\"417\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Aaron P. Bernstein / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Senate Majority Leader Mitch McConnell says his relationship with fellow Kentucky Sen. Rand Paul is fine despite Paul&#39;s staunch opposition to an extension of the Patriot Act.<\/p>\n\n<p>\"Oh it&#39;s good,\" McConnell said when asked about his relationship with Paul on the <i>Joe Elliot Show<\/i> Monday.<\/p>\n\n<p>Paul opposed any extension of the Patriot Act and made particular emphasis on the National Security Agency&#39;s bulk collection of data &mdash; opposition that included an awkward moment on the Senate floor, in which McConnell tried repeatedly to offer short-term extensions of the law to which Paul objected each time. The Senate agreed to a modified reauthorization of the Patriot Act that has small changes to intelligence agencies&#39; control over the bulk collection of data. McConnell supported an extension of the Patriot Act with no changes. <\/p>\n\n<p>\"Look, we just have a difference of opinion on this issue,\" McConnell said. \"This was something that him and I have diametrically opposed views on. Most things we agree on. So I think it&#39;s a mistake to personalize differences of opinions on issues. We have no problems personally.\"<\/p>\n\n<p>The majority leader added earlier in the interview \"no real harm was done\" by the Patriot Act briefly expiring.<\/p>\n\n<p>\"Look, any senator can keep us from going forward,\" the majority leader said when asked about Paul. \"We do most of what we do on unanimous consent. No harm was done. The law expired for a day and a half and the new law replaced it. So no real harm was done.\"<\/p>\n\n<p>Paul was an strong supporter of McConnell&#39;s re-election campaign last year and helped him beat back a challenge from conservative Matt Bevin during the primary campaign. McConnell has since said he&#39;s supporting Paul&#39;s presidential campaign. <\/p>\n\n<p>Here&#39;s the audio:<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209617013&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\" height=\"166\" width=\"100%\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209617013&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\">w.soundcloud.com<\/a><\/small><\/p>",
+
+            "author": "Andrew Kaczynski",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/andrewkaczynski/mitch-mcconnell-no-hard-feelings-with-rand-paul-over-the-pat"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 09:04:33 -0400",
+
+            "group": {
+
+               "description": "<b>\"I think it's a mistake to personalize differences of opinions on issues. We have no problems personally.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "andrewkaczynski"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/9/campaign_images/webdr02/mitch-mcconnell-no-hard-feelings-with-rand-paul-o-2-1520-1433941468-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr11/enhanced-buzz-22690-1433898242-8.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Senate Majority Leader Mitch McConnell says his relationship with fellow Kentucky Sen. Rand Paul is fine despite Paul's staunch opposition to an extension of the Patriot Act.\n\n\"Oh it's good,\" McConnell said when asked about his relationship with Paul on the <i>Joe Elliot Show<\/i> Monday.\n\nPaul opposed any extension of the Patriot Act and made particular emphasis on the National Security Agency's bulk collection of data — opposition that included an awkward moment on the Senate floor, in which McConnell tried repeatedly to offer short-term extensions of the law to which Paul objected each time. The Senate agreed to a modified reauthorization of the Patriot Act that has small changes to intelligence agencies' control over the bulk collection of data. McConnell supported an extension of the Patriot Act with no changes. \n\n\"Look, we just have a difference of opinion on this issue,\" McConnell said. \"This was something that him and I have diametrically opposed views on. Most things we agree on. So I think it's a mistake to personalize differences of opinions on issues. We have no problems personally.\"\n\nThe majority leader added earlier in the interview \"no real harm was done\" by the Patriot Act briefly expiring.\n\n\"Look, any senator can keep us from going forward,\" the majority leader said when asked about Paul. \"We do most of what we do on unanimous consent. No harm was done. The law expired for a day and a half and the new law replaced it. So no real harm was done.\"\n\nPaul was an strong supporter of McConnell's re-election campaign last year and helped him beat back a challenge from conservative Matt Bevin during the primary campaign. McConnell has since said he's supporting Paul's presidential campaign. \n\nHere's the audio:",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209617013&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Jeb Bush: Last-Minute Campaign Shakeup Was Response To \"Overwhelming Challenge\" Of Primaries",
+
+            "link": "http://www.buzzfeed.com/mckaycoppins/jeb-bush-last-minute-campaign-shakeup-was-response-to-overwh?utm_term=4ldqpia",
+
+            "description": "<p>The Republican presidential hopeful says his 2016 prospects are good, despite his surprise decision to swap campaign managers. He adds that his standing in the polls &#8220;doesn&#8217;t really matter&#8221; right now.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/4/enhanced/webdr09/enhanced-buzz-17492-1433926467-7.jpg\" width=\"625\" height=\"417\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Axel Schmidt / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>BERLIN &mdash; Jeb Bush sought to quiet dire speculation about the shakeup inside his political team Wednesday, telling reporters in Berlin the surprise reshuffling at the top of his campaign would enable him to confront the \"overwhelming challenge\" presented by a crowded field of Republican rivals and a tight schedule of 2016 primary contests. <\/p>\n\n<p>Earlier this week, the <i>Wall Street Journal<\/i> <a href=\"http://blogs.wsj.com/washwire/2015/06/08/danny-diaz-to-be-jeb-bushs-campaign-manager/\">reported<\/a> that the job of Bush&#39;s campaign manager would go to an aggressive, 39-year-old operative named Danny Diaz &mdash; not the more seasoned strategist, David Kochel, who had initially been tapped for the position. The abrupt change just days before Bush is expected to officially announce his presidential candidacy prompted <a href=\"http://www.politico.com/story/2015/06/jeb-bush-campaign-shake-up-sally-bradshaw-118803.html\">media<\/a> <a href=\"http://www.nytimes.com/politics/first-draft/2015/06/08/a-week-from-launch-jeb-bush-names-and-reshuffles-his-team/\">reports<\/a> of organizational infighting, and a flurry of commentary suggesting the once-presumed Republican frontrunner has stumbled. <\/p>\n\n<p>Speaking to reporters outside a hotel here before leaving for the second leg of his tour of Europe, Bush rejected the premise that his candidacy was in trouble. He said he decided to make a change after acknowledging \"the magnitude of the journey\" he faced. Kochel will now serve as the campaign&#39;s chief strategist, focused on developing a plan to compete in the crucial early primary contests. <\/p>\n\n<p>\"It&#39;s a pretty overwhelming challenge, and so I decided to kind of split up the duties,\" Bush said. \"David has got great success in these early states, particularly Iowa. He also has got a great strategic mind. And Danny&#39;s a grinder.\" <\/p>\n\n<p>National polls, as well as those in early primary states, suggest Bush has failed to break away from the pack of candidates, and he continues to face deep skepticism from his party&#39;s conservative base, many of whom regard him as a too-moderate heir to a political dynasty they would rather forget. <\/p>\n\n<p>But Bush said he isn&#39;t worried about the jockeying in the polls this early in the election cycle.<\/p>\n\n<p>\"It&#39;s hard to imagine this, but I don&#39;t even read the clips,\" Bush said, adding, \"Polls are, you know, it&#39;s fun to see them when you&#39;re winning, not so fun when you&#39;re not. It doesn&#39;t really matter, though, it&#39;s June, for crying out loud, so we&#39;ve got a long way to go.\" <\/p>\n\n<p>Bush, who has been open about his distaste for political \"process stories,\" also took the opportunity to gently scold the press for its hyperbolic horserace coverage. <\/p>\n\n<p>\"I just urge everybody to be a little more patient about this,\" he said. \"I mean, y&#39;all cover this kind of in the here and now, and who&#39;s winning and who&#39;s losing is important. And I respect that. But if you have a strategy, you think about it over the long haul.\"<\/p>\n\n<p>He added that he planned to contend seriously in every state.<\/p>\n\n<p>\"I&#39;m pretty confident that we&#39;re in a good position, for sure. And I&#39;m going to compete everywhere,\" Bush said. \"If I&#39;m a candidate, there&#39;s no fifth place, you know, kind of mentality in my mind.\"<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "McKay Coppins",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/mckaycoppins/jeb-bush-last-minute-campaign-shakeup-was-response-to-overwh"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 04:55:50 -0400",
+
+            "group": {
+
+               "description": "<b>The Republican presidential hopeful says his 2016 prospects are good, despite his surprise decision to swap campaign managers. He adds that his standing in the polls \"doesn't really matter\" right now.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "mckaycoppins"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/5/campaign_images/webdr04/jeb-bush-last-minute-campaign-shakeup-was-respons-2-28273-1433929131-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/4/enhanced/webdr09/enhanced-buzz-17492-1433926467-7.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "BERLIN — Jeb Bush sought to quiet dire speculation about the shakeup inside his political team Wednesday, telling reporters in Berlin the surprise reshuffling at the top of his campaign would enable him to confront the \"overwhelming challenge\" presented by a crowded field of Republican rivals and a tight schedule of 2016 primary contests. \n\n\nEarlier this week, the <i>Wall Street Journal<\/i> <a href=\"http://blogs.wsj.com/washwire/2015/06/08/danny-diaz-to-be-jeb-bushs-campaign-manager/\">reported<\/a> that the job of Bush's campaign manager would go to an aggressive, 39-year-old operative named Danny Diaz — not the more seasoned strategist, David Kochel, who had initially been tapped for the position. The abrupt change just days before Bush is expected to officially announce his presidential candidacy prompted <a href=\"http://www.politico.com/story/2015/06/jeb-bush-campaign-shake-up-sally-bradshaw-118803.html\">media<\/a> <a href=\"http://www.nytimes.com/politics/first-draft/2015/06/08/a-week-from-launch-jeb-bush-names-and-reshuffles-his-team/\">reports<\/a> of organizational infighting, and a flurry of commentary suggesting the once-presumed Republican frontrunner has stumbled. \n\nSpeaking to reporters outside a hotel here before leaving for the second leg of his tour of Europe, Bush rejected the premise that his candidacy was in trouble. He said he decided to make a change after acknowledging \"the magnitude of the journey\" he faced. Kochel will now serve as the campaign's chief strategist, focused on developing a plan to compete in the crucial early primary contests. \n\n\"It's a pretty overwhelming challenge, and so I decided to kind of split up the duties,\" Bush said. \"David has got great success in these early states, particularly Iowa. He also has got a great strategic mind. And Danny's a grinder.\" \n\nNational polls, as well as those in early primary states, suggest Bush has failed to break away from the pack of candidates, and he continues to face deep skepticism from his party's conservative base, many of whom regard him as a too-moderate heir to a political dynasty they would rather forget. \n\nBut Bush said he isn't worried about the jockeying in the polls this early in the election cycle.\n \n\"It's hard to imagine this, but I don't even read the clips,\" Bush said, adding, \"Polls are, you know, it's fun to see them when you're winning, not so fun when you're not. It doesn't really matter, though, it's June, for crying out loud, so we've got a long way to go.\" \n\nBush, who has been open about his distaste for political \"process stories,\" also took the opportunity to gently scold the press for its hyperbolic horserace coverage. \n\n\"I just urge everybody to be a little more patient about this,\" he said. \"I mean, y'all cover this kind of in the here and now, and who's winning and who's losing is important. And I respect that. But if you have a strategy, you think about it over the long haul.\"\n\nHe added that he planned to contend seriously in every state.\n\n\"I'm pretty confident that we're in a good position, for sure. And I'm going to compete everywhere,\" Bush said. \"If I'm a candidate, there's no fifth place, you know, kind of mentality in my mind.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Justice Department Subpoenas Reason.com To Unmask Commenters",
+
+            "link": "http://www.buzzfeed.com/cjciaramella/justice-department-subpoenaes-reasoncom-to-unmask-commenters?utm_term=4ldqpia",
+
+            "description": "<p>The Justice Department made the classic mistake of reading the comments, and now it wants to know the identity of internet commenters who talked about putting a federal judge in a wood chipper.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/17/enhanced/webdr12/enhanced-buzz-30044-1433886643-7.jpg\" width=\"625\" height=\"493\" alt=\"\" /><\/p>\n \n\t<p>The attorney and parents of Ross Ulbricht, the founder of Silk Road, last month.<\/p>\n\n\n <p><small>DON EMMERT / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>The Justice Department has issued a federal grand jury subpoena to <i>Reason<\/i>, a prominent libertarian publication, to unmask the identity of commenters who made alleged threats against a federal judge.<\/p>\n\n<p>In the June 2 <a href=\"http://popehat.com/wp-content/uploads/2015/06/Revised-Grand-Jury-Subpoena.pdf\">subpoena<\/a>, first published by the blog <a href=\"https://popehat.com/2015/06/08/department-of-justice-uses-grand-jury-subpoena-to-identify-anonymous-commenters-on-a-silk-road-post-at-reason-com/\">Popehat<\/a> on Monday, the Justice Department orders <i>Reason<\/i> to provide a federal grand jury with \"any and all identifying information\" on the identities of commenters who mused about shooting federal judges and/or feeding them through a wood chipper.<\/p>\n\n<p>A May 31 <a href=\"https://reason.com/blog/2015/05/31/silk-road-trial-read-ross-ulbrichts-haun\">article<\/a> on <i>Reason&#39;s<\/i> blog about the prosecution of Silk Road founder Ross \"Dread Pirate Roberts\" Ulbricht spurred the anonymous commenters&#39; vitriol. Ulbricht pleaded for leniency, but a federal judge sentenced Ulbricht to life in prison without parole for setting up the illicit online drug market.<\/p>\n\n<p>\"It&#39;s judges like these that should be taken out back and shot,\" one <i>Reason<\/i> commenter wrote.<\/p>\n\n<p>\"It&#39;s judges like these that will be taken out back and shot,\" another responded.<\/p>\n\n<p>\"Why waste ammunition? Wood chippers get the message across clearly,\" a third wrote. \"Especially if you feed them in feet first.\"<\/p>\n\n<p>Another comment suggested shooting such judges on courthouse steps instead.<\/p>\n\n<p>Other comments flagged by the Justice Department were less violent, such as one that wished for \"a special place in hell reserved for that horrible woman.\"<\/p>\n\n<p>In the subpoena, the Justice Department says it is seeking evidence regarding possible violations of federal laws against interstate threats. <\/p>\n\n<p>The subpoena raises several First Amendment issues, such as whether the comments rise to the level of a \"true threat\" or are protected free speech. The Supreme Court <a href=\"http://www.nytimes.com/2015/06/02/us/supreme-court-rules-in-anthony-elonis-online-threats-case.html\">recently ruled<\/a> that \"true threats\" must be made with some knowledge or intent that the threat will be taken seriously.<\/p>\n\n<p>Kimberly Chow, an attorney for the Reporters Committee for Freedom of the Press, said the comments on <i>Reason<\/i> clearly fall within the internet&#39;s regular, if outrageous and often vile, discourse.<\/p>\n\n<p>\"In terms of the comments, everybody knows the internet is a forum where exaggeration and hyperbole take place,\" Chow told BuzzFeed News. \"These comments are in that category. Nobody believes that these people are going to go and put this judge in a wood chipper.\"<\/p>\n\n<p>Free speech advocates also worry that such subpoenas burden websites with significant legal costs and could have a chilling effect on speech. The subpoena also has specific implications for anonymous speech.<\/p>\n\n<p>Kyu Youm, a professor at the University of Oregon School of Journalism and First Amendment scholar, called the Justice Department subpoena \"a misplacement of priorities\" in an interview with BuzzFeed News.<\/p>\n\n<p>\"Generally speaking, anonymity is still a part of freedom of expression, and just because the government wants to unmask the commenters does not mean it has a strong case,\" Youm said. \"At least, if there is doubt as to the validity of the subpoena, anonymity should be given the benefit of the doubt.\"<\/p>\n\n<p>\"The subpoena is not compelling,\" Youm continued.<\/p>\n\n<p>The Justice Department and <i>Reason<\/i> both declined requests for comment.<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "CJCiaramella",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/cjciaramella/justice-department-subpoenaes-reasoncom-to-unmask-commenters"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 17:55:34 -0400",
+
+            "group": {
+
+               "description": "<b>The Justice Department made the classic mistake of reading the comments, and now it wants to know the identity of internet commenters who talked about putting a federal judge in a wood chipper.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "cjciaramella"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/20/campaign_images/webdr05/justice-department-subpoenas-reasoncom-to-unmask--2-7349-1433896610-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "493",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/17/enhanced/webdr12/enhanced-buzz-30044-1433886643-7.jpg",
+
+                     "@width": "625",
+
+                     "description": "The attorney and parents of Ross Ulbricht, the founder of Silk Road, last month.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The Justice Department has issued a federal grand jury subpoena to <i>Reason<\/i>, a prominent libertarian publication, to unmask the identity of commenters who made alleged threats against a federal judge.\n\nIn the June 2 <a href=\"http://popehat.com/wp-content/uploads/2015/06/Revised-Grand-Jury-Subpoena.pdf\">subpoena<\/a>, first published by the blog <a href=\"https://popehat.com/2015/06/08/department-of-justice-uses-grand-jury-subpoena-to-identify-anonymous-commenters-on-a-silk-road-post-at-reason-com/\">Popehat<\/a> on Monday, the Justice Department orders <i>Reason<\/i> to provide a federal grand jury with \"any and all identifying information\" on the identities of commenters who mused about shooting federal judges and/or feeding them through a wood chipper.\n\nA May 31 <a href=\"https://reason.com/blog/2015/05/31/silk-road-trial-read-ross-ulbrichts-haun\">article<\/a> on <i>Reason's<\/i> blog about the prosecution of Silk Road founder Ross \"Dread Pirate Roberts\" Ulbricht spurred the anonymous commenters' vitriol. Ulbricht pleaded for leniency, but a federal judge sentenced Ulbricht to life in prison without parole for setting up the illicit online drug market.\n\n\"It's judges like these that should be taken out back and shot,\" one <i>Reason<\/i> commenter wrote.\n\n\"It's judges like these that will be taken out back and shot,\" another responded.\n\n\"Why waste ammunition? Wood chippers get the message across clearly,\" a third wrote. \"Especially if you feed them in feet first.\"\n\nAnother comment suggested shooting such judges on courthouse steps instead.\n\nOther comments flagged by the Justice Department were less violent, such as one that wished for \"a special place in hell reserved for that horrible woman.\"\n\nIn the subpoena, the Justice Department says it is seeking evidence regarding possible violations of federal laws against interstate threats. \n\nThe subpoena raises several First Amendment issues, such as whether the comments rise to the level of a \"true threat\" or are protected free speech. The Supreme Court <a href=\"http://www.nytimes.com/2015/06/02/us/supreme-court-rules-in-anthony-elonis-online-threats-case.html\">recently ruled<\/a> that \"true threats\" must be made with some knowledge or intent that the threat will be taken seriously.\n\nKimberly Chow, an attorney for the Reporters Committee for Freedom of the Press, said the comments on <i>Reason<\/i> clearly fall within the internet's regular, if outrageous and often vile, discourse.\n\n\"In terms of the comments, everybody knows the internet is a forum where exaggeration and hyperbole take place,\" Chow told BuzzFeed News. \"These comments are in that category. Nobody believes that these people are going to go and put this judge in a wood chipper.\"\n\nFree speech advocates also worry that such subpoenas burden websites with significant legal costs and could have a chilling effect on speech. The subpoena also has specific implications for anonymous speech.\n\nKyu Youm, a professor at the University of Oregon School of Journalism and First Amendment scholar, called the Justice Department subpoena \"a misplacement of priorities\" in an interview with BuzzFeed News.\n\n\"Generally speaking, anonymity is still a part of freedom of expression, and just because the government wants to unmask the commenters does not mean it has a strong case,\" Youm said. \"At least, if there is doubt as to the validity of the subpoena, anonymity should be given the benefit of the doubt.\"\n\n\"The subpoena is not compelling,\" Youm continued.\n\nThe Justice Department and <i>Reason<\/i> both declined requests for comment.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Rick Santorum No Friend Of \"Friends\" In His 2005 Book",
+
+            "link": "http://www.buzzfeed.com/meganapper/rick-santorum-no-friend-of-friends-in-his-2005-book?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;Friends painted a picture in which having a baby as a single woman is easy, something that changes nothing. Of course, as any parent can tell you, having a baby changes everything. Where was that truth on Friends?&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/17/enhanced/webdr04/enhanced-8308-1433885122-2.png\" width=\"625\" height=\"311\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>TNT/Crude Kaczynski Photoshop<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Former Pennsylvania Sen. Rick Santorum, in his 2005 book <i>It Takes a Family: Conservatism and the Common Good<\/i>, blamed the hit sitcom <i>Friends<\/i> for exposing young people to unrealistic expectations about parenting and sex.<\/p>\n\n<p>\"On the most popular show on television for years, <i>Friends<\/i>, one character, Rachel, had a baby out of wedlock,\" wrote Santorum. \"The Parents Television Council notes that &#39;Baby Emma was conceived as a ratings gimmick &hellip; the product of a one-night stand with ex-boyfriend Ross. Over the next few months we watched as Rachel battled baby blues because her pregnancy and growing belly got in the way of her social life.&#39;\"<\/p>\n\n<p>Santorum said <i>Friends<\/i> inaccurately portrayed single motherhood as easy. <\/p>\n\n<p>\"After the birth, what happened to baby Emma? Rachel was still enjoying a great social life, dating, and hanging out at the coffee shop,\" Santorum wrote. <\/p>\n\n<p>\"<i>Friends<\/i> painted a picture in which having a baby as a single woman is easy, something that changes nothing. Of course, as any parent can tell you, having a baby changes everything. Where was that truth on <i>Friends<\/i>? What happened to the baby? Where were the hours and hours of Rachel&#39;s interaction with little Emma, the minute-by-minute loving care, the absolute dependence and the absolute responsibility? That&#39;s the reality, but it is not what we see on TV.\" <\/p>\n\n<p>The passage on <i>Friends<\/i> was part of a larger condemnation of television programming. <\/p>\n\n<p>\"Rarely do characters end up pregnant or get a sexually transmitted disease,\" Santorum wrote. <\/p>\n\n<p>\"There are 15 million new sexually transmitted infections every year in this country, but television characters rarely, if ever, get one. America&#39;s teenagers and young adults don&#39;t live inside a television sitcom. That&#39;s the point, of course: young people hardly ever see the real-life results of extramarital sexual activity.\"<\/p>\n\n<p>Santorum wrote that \"bad culture lies\" and sex on TV \"needs to reflect the truth.\"<\/p>\n\n<p>\"Bad culture lies,\" Santorum added. \"I&#39;m not saying sex has no place on television&mdash;though it could certainly use less in the programming, not to mention ads. I&#39;m saying it needs to be honest. It needs to reflect the truth. Kids conclude from what they see on TV that true love is validated through sexual engagement, that sex is the natural and normal result when two people like each other. And what follows from sex is, of course, true happiness. With all this sex going on outside of marriage, you&#39;d think we should be a pretty sexually satisfied society. Of course, we are not.\"<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Megan Apper",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/meganapper/rick-santorum-no-friend-of-friends-in-his-2005-book"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 17:45:29 -0400",
+
+            "group": {
+
+               "description": "<b>\"<i>Friends<\/i> painted a picture in which having a baby as a single woman is easy, something that changes nothing. Of course, as any parent can tell you, having a baby changes everything. Where was that truth on Friends?\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "meganapper"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/17/campaign_images/webdr12/rick-santorum-no-friend-of-friends-in-his-2005-bo-2-28994-1433886324-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "311",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/17/enhanced/webdr04/enhanced-8308-1433885122-2.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Former Pennsylvania Sen. Rick Santorum, in his 2005 book <i>It Takes a Family: Conservatism and the Common Good<\/i>, blamed the hit sitcom <i>Friends<\/i> for exposing young people to unrealistic expectations about parenting and sex.\n\n\n\"On the most popular show on television for years, <i>Friends<\/i>, one character, Rachel, had a baby out of wedlock,\" wrote Santorum. \"The Parents Television Council notes that 'Baby Emma was conceived as a ratings gimmick … the product of a one-night stand with ex-boyfriend Ross. Over the next few months we watched as Rachel battled baby blues because her pregnancy and growing belly got in the way of her social life.'\"\n\nSantorum said <i>Friends<\/i> inaccurately portrayed single motherhood as easy. \n\n\"After the birth, what happened to baby Emma? Rachel was still enjoying a great social life, dating, and hanging out at the coffee shop,\" Santorum wrote. \n\n\"<i>Friends<\/i> painted a picture in which having a baby as a single woman is easy, something that changes nothing. Of course, as any parent can tell you, having a baby changes everything. Where was that truth on <i>Friends<\/i>? What happened to the baby? Where were the hours and hours of Rachel's interaction with little Emma, the minute-by-minute loving care, the absolute dependence and the absolute responsibility? That's the reality, but it is not what we see on TV.\" \n\nThe passage on <i>Friends<\/i> was part of a larger condemnation of television programming. \n\n\"Rarely do characters end up pregnant or get a sexually transmitted disease,\" Santorum wrote. \n\n\"There are 15 million new sexually transmitted infections every year in this country, but television characters rarely, if ever, get one. America's teenagers and young adults don't live inside a television sitcom. That's the point, of course: young people hardly ever see the real-life results of extramarital sexual activity.\"\n\nSantorum wrote that \"bad culture lies\" and sex on TV \"needs to reflect the truth.\"\n\n\"Bad culture lies,\" Santorum added. \"I'm not saying sex has no place on television—though it could certainly use less in the programming, not to mention ads. I'm saying it needs to be honest. It needs to reflect the truth. Kids conclude from what they see on TV that true love is validated through sexual engagement, that sex is the natural and normal result when two people like each other. And what follows from sex is, of course, true happiness. With all this sex going on outside of marriage, you'd think we should be a pretty sexually satisfied society. Of course, we are not.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Jeb Bush Links Corporal Punishment To Lack Of School Shootings In 1995 Book",
+
+            "link": "http://www.buzzfeed.com/andrewkaczynski/jeb-bush-links-corporal-punishment-to-lack-of-school-shootin?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;To date, Walton County has never experienced a shooting at any of its schools.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/14/enhanced/webdr15/enhanced-30695-1433875007-7.jpg\" width=\"625\" height=\"414\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Chris O'meara / ASSOCIATED PRESS<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Former Florida Gov. Jeb Bush linked corporal punishment in schools to a lack of school shootings in his 1995 book, <i>Profiles in Character<\/i>. <\/p>\n\n<p>Bush&#39;s anecdote comes in a chapter titled \"The Restoration of Shame.\" <\/p>\n\n<p>\"We have also lost shame in our schools, too. Specifically, there is little shame in poor academic performance or classroom misconduct,\" wrote Bush. \"We now see many students who do not care if the teacher yells at them or if their test results are less than stellar. In many of Florida&#39;s largest school districts, there is little that the teacher can do to make students feel some sense of shame.\"<\/p>\n\n<p>Bush wrote that in Walton County, Florida, corporal punishment was still in use and was \"very effective.\" He noted at the conclusion of the anecdote that the county had never experienced a shooting at any of its schools.<\/p>\n\n<p>\"In some school districts, such as Walton County, one of the oldest forms of shame, corporal punishment, is alive and well, and despite protests by some parents and Florida&#39;s PTAs, the students in Walton have actually found that this doling out of shame is very effective,\" Bush wrote. \"The students of these schools will tell you, as will anybody who experienced corporal punishment in school, that it is not the brief spanking that hurts but the accompanying shame.\"<\/p>\n\n<p>\"A senior valedictorian of one high school in Walton County told a reporter, &#39;We feel ashamed when it happens to us, but when you&#39;re in the classroom and you want to learn and somebody else won&#39;t let you learn, well, they are dealt with.&#39;<\/p>\n\n<p>\"To date, Walton County has never experienced a shooting at any of its schools.\"<\/p>\n\n<p>A Bush spokesperson didn&#39;t immediately respond to a BuzzFeed News inquiry on whether Bush still supported the use of corporal punishment.<\/p>\n\n<p>Bush wrote the book after losing his 1994 run for Florida governor. BuzzFeed News purchased a company of the book on Amazon last week.<\/p>\n\n<p>The <i>Huffington Post<\/i> earlier reported that Bush wrote about the loss of stigmatization surrounding out-of-wedlock births and the need to restore what <a href=\"http://www.huffingtonpost.com/2015/06/09/jeb-bush-1995-book_n_7542964.html\">he called \"public shame.\"<\/a><\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Here's the full page:<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/14/enhanced/webdr02/enhanced-6806-1433875030-1.jpg\" width=\"625\" height=\"833\" alt=\"Here's the full page:\" /><\/p>\n \n\t\n\n\n <p><small>Andrew Kaczynski iPhone Camera Roll<\/small><\/p>",
+
+            "author": "Andrew Kaczynski",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/andrewkaczynski/jeb-bush-links-corporal-punishment-to-lack-of-school-shootin"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 15:44:29 -0400",
+
+            "group": {
+
+               "description": "<b>\"To date, Walton County has never experienced a shooting at any of its schools.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "andrewkaczynski"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/15/campaign_images/webdr13/jeb-bush-links-corporal-punishment-to-lack-of-sch-2-16756-1433879064-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "414",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/14/enhanced/webdr15/enhanced-30695-1433875007-7.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Former Florida Gov. Jeb Bush linked corporal punishment in schools to a lack of school shootings in his 1995 book, <i>Profiles in Character<\/i>. \n\nBush's anecdote comes in a chapter titled \"The Restoration of Shame.\" \n\n\"We have also lost shame in our schools, too. Specifically, there is little shame in poor academic performance or classroom misconduct,\" wrote Bush. \"We now see many students who do not care if the teacher yells at them or if their test results are less than stellar. In many of Florida's largest school districts, there is little that the teacher can do to make students feel some sense of shame.\"\n\nBush wrote that in Walton County, Florida, corporal punishment was still in use and was \"very effective.\" He noted at the conclusion of the anecdote that the county had never experienced a shooting at any of its schools.\n\n\"In some school districts, such as Walton County, one of the oldest forms of shame, corporal punishment, is alive and well, and despite protests by some parents and Florida's PTAs, the students in Walton have actually found that this doling out of shame is very effective,\" Bush wrote. \"The students of these schools will tell you, as will anybody who experienced corporal punishment in school, that it is not the brief spanking that hurts but the accompanying shame.\"\n\n\"A senior valedictorian of one high school in Walton County told a reporter, 'We feel ashamed when it happens to us, but when you're in the classroom and you want to learn and somebody else won't let you learn, well, they are dealt with.'\n\n\"To date, Walton County has never experienced a shooting at any of its schools.\"\n\nA Bush spokesperson didn't immediately respond to a BuzzFeed News inquiry on whether Bush still supported the use of corporal punishment.\n\nBush wrote the book after losing his 1994 run for Florida governor. BuzzFeed News purchased a company of the book on Amazon last week.\n\nThe <i>Huffington Post<\/i> earlier reported that Bush wrote about the loss of stigmatization surrounding out-of-wedlock births and the need to restore what <a href=\"http://www.huffingtonpost.com/2015/06/09/jeb-bush-1995-book_n_7542964.html\">he called \"public shame.\"<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "833",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/14/enhanced/webdr02/enhanced-6806-1433875030-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Poll: Is Obama About To Smoke In This Photo?",
+
+            "link": "http://www.buzzfeed.com/katherinemiller/poll-is-obama-about-to-smoke-in-this-photo?utm_term=4ldqpia",
+
+            "description": "<p>Why not speculate?<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Earlier this week, someone posted a photo of President Obama and Italian Prime Minister Matteo Renzi standing outside on a balcony.<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/3odwJJEe6D/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/3odwJJEe6D/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Obama has said he&#39;s <a href=\"http://www.theguardian.com/world/2013/sep/24/barack-obama-michelle-scared-smoking\">struggled<\/a> to quit &mdash; but he did quit years ago.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Katherine Miller",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/katherinemiller/poll-is-obama-about-to-smoke-in-this-photo"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 13:59:43 -0400",
+
+            "group": {
+
+               "description": "<b>Why not speculate?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "katherinemiller"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/13/campaign_images/webdr14/poll-is-obama-about-to-smoke-in-this-photo-2-23232-1433872779-6.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3odwJJEe6D/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Obama has said he's <a href=\"http://www.theguardian.com/world/2013/sep/24/barack-obama-michelle-scared-smoking\">struggled<\/a> to quit — but he did quit years ago.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Pentagon Will Treat Sexual Orientation Discrimination Like Religion, Race Discrimination",
+
+            "link": "http://www.buzzfeed.com/chrisgeidner/defense-secretary-pentagon-adding-sexual-orientation-to-equa?utm_term=4ldqpia",
+
+            "description": "<p>Although there was much talk about &#8220;inclusivity,&#8221; Defense Sec. Ashton Carter made no direct mention of transgender service members.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/12/enhanced/webdr14/enhanced-11892-1433867298-1.png\" width=\"625\" height=\"350\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.defense.gov/live/\">defense.gov<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>WASHINGTON &mdash; Defense Secretary Ashton Carter announced on Tuesday that the Pentagon was adding sexual orientation to the Defense Department&#39;s equal opportunity policy &mdash; a step long sought by advocates for gay, lesbian, and bisexual service members.<\/p>\n\n<p>While detailing the \"critical\" need for the military to \"start from a position of inclusivity, not exclusivity,\" however, the defense secretary made no direct mention of the other big issue pending for attendees of the LGBT pride month event at the Pentagon: out transgender military service.<\/p>\n\n<p>\"We need to be a meritocracy,\" Carter said at the event. \"We need to focus relentlessly on our mission, which means the thing that matters most about a person is what they can contribute to national defense. This is a commitment we must continually renew.\"<\/p>\n\n<p>To that end, he said, the Defense Department has \"completed the process for updating its military equal opportunity policy to include sexual orientation, ensuring that the department, like the rest of the federal government, treats sexual orientation-based discrimination the same way it treats discrimination based on race, religion, color, sex, age, and national origin.\"<\/p>\n\n<p>In addition to announcing the equal opportunity policy change, Carter also was aggressive in his discussion of the actions taken by the Pentagon to provide benefits for and recognition to same-sex spouses of service members.<\/p>\n\n<p>\"Here at the Pentagon, we have been and remain strongly committed to making sure that all military families and spouses can fully and equally receive the benefits their loved ones have earned, from TRICARE coverage to housing allowance to side-by-side burial at Arlington,\" he said. \"Even in times of resistance, like when some states wouldn&#39;t issue DOD ID cards to same-sex spouses at National Guard facilities, we pushed back &mdash; not just because our service members and families deserved it but because everyone&#39;s rights had to be protected.\"<\/p>\n\n<p>After detailing those steps, Carter began an extended and emphatic defense of the importance of stopping discrimination within the military and the importance to the military of ensuring diversity in its ranks, saying, \"Discrimination, of any kind, has no place in [the] Armed Forces.\"<\/p>\n\n<p>He continued: <\/p>\n\n<blockquote>\n\n<p>\"Recognizing that our openness to diversity is one of the things that have allowed us to be the best in the world, we must ensure that everyone who is able and willing to serve has the full and equal opportunity to do so. We must start from a position of inclusivity, not exclusivity. Anything less is not just plain wrong, it&#39;s bad defense policy. <\/p>\n\n<p>\"Embracing diversity and inclusion is critical to recruiting and retaining the force of the future. Young Americans today are more diverse, open, and tolerant than past generations. If we&#39;re going to attract the best and brightest among them to contribute to our mission of national defense, we have to ourselves be more diverse, open, and tolerant, too. It&#39;s the only way to compete in the 21st century.\"<\/p>\n\n<\/blockquote>\n\n<p>He did not, however, say anything specific about the future for transgender people who are currently serving &mdash; such as Major Jamie Lee Henry, who <a href=\"http://www.buzzfeed.com/chrisgeidner/the-first-out-transgender-active-duty-us-army-officer-my-sto#.knOJyBLjRA\">spoke with BuzzFeed News<\/a> prior to and was planning to attend Tuesday&#39;s event &mdash; or who wish to serve.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/12/enhanced/webdr07/enhanced-1398-1433867768-3.png\" width=\"625\" height=\"350\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.defense.gov/live/\">defense.gov<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/chrisgeidner/defense-secretary-pentagon-adding-sexual-orientation-to-equa\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Chris Geidner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/chrisgeidner/defense-secretary-pentagon-adding-sexual-orientation-to-equa"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 13:08:45 -0400",
+
+            "group": {
+
+               "description": "<b>Although there was much talk about \"inclusivity,\" Defense Sec. Ashton Carter made no direct mention of transgender service members.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "chrisgeidner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/13/campaign_images/webdr05/defense-secretary-pentagon-adding-sexual-orientat-2-15540-1433869748-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "350",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/12/enhanced/webdr14/enhanced-11892-1433867298-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "WASHINGTON — Defense Secretary Ashton Carter announced on Tuesday that the Pentagon was adding sexual orientation to the Defense Department's equal opportunity policy — a step long sought by advocates for gay, lesbian, and bisexual service members.\n\nWhile detailing the \"critical\" need for the military to \"start from a position of inclusivity, not exclusivity,\" however, the defense secretary made no direct mention of the other big issue pending for attendees of the LGBT pride month event at the Pentagon: out transgender military service.\n\n\"We need to be a meritocracy,\" Carter said at the event. \"We need to focus relentlessly on our mission, which means the thing that matters most about a person is what they can contribute to national defense. This is a commitment we must continually renew.\"\n\nTo that end, he said, the Defense Department has \"completed the process for updating its military equal opportunity policy to include sexual orientation, ensuring that the department, like the rest of the federal government, treats sexual orientation-based discrimination the same way it treats discrimination based on race, religion, color, sex, age, and national origin.\"\n\nIn addition to announcing the equal opportunity policy change, Carter also was aggressive in his discussion of the actions taken by the Pentagon to provide benefits for and recognition to same-sex spouses of service members.\n\n\"Here at the Pentagon, we have been and remain strongly committed to making sure that all military families and spouses can fully and equally receive the benefits their loved ones have earned, from TRICARE coverage to housing allowance to side-by-side burial at Arlington,\" he said. \"Even in times of resistance, like when some states wouldn't issue DOD ID cards to same-sex spouses at National Guard facilities, we pushed back — not just because our service members and families deserved it but because everyone's rights had to be protected.\"\n\nAfter detailing those steps, Carter began an extended and emphatic defense of the importance of stopping discrimination within the military and the importance to the military of ensuring diversity in its ranks, saying, \"Discrimination, of any kind, has no place in [the] Armed Forces.\"\n\nHe continued: \n\n<blockquote>\"Recognizing that our openness to diversity is one of the things that have allowed us to be the best in the world, we must ensure that everyone who is able and willing to serve has the full and equal opportunity to do so. We must start from a position of inclusivity, not exclusivity. Anything less is not just plain wrong, it's bad defense policy. \n\n\"Embracing diversity and inclusion is critical to recruiting and retaining the force of the future. Young Americans today are more diverse, open, and tolerant than past generations. If we're going to attract the best and brightest among them to contribute to our mission of national defense, we have to ourselves be more diverse, open, and tolerant, too. It's the only way to compete in the 21st century.\"<\/blockquote>\n\nHe did not, however, say anything specific about the future for transgender people who are currently serving —&nbsp;such as Major Jamie Lee Henry, who <a href=\"http://www.buzzfeed.com/chrisgeidner/the-first-out-transgender-active-duty-us-army-officer-my-sto#.knOJyBLjRA\">spoke with BuzzFeed News<\/a> prior to and was planning to attend Tuesday's event —&nbsp;or who wish to serve.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Asked about the equal opportunity development, Pentagon spokesman Lt. Cdr. Nate Christensen told BuzzFeed News the following:\n\n\"After an internal assessment, we have decided that discrimination cases based on sexual orientation will now be considered along with race, color, religion, sex, or national origin, as part Military Equal Opportunity (MEO) program.\n\n\"With this policy revision, we are now ensuring that servicemembers are afforded protection against discrimination in the Department's military equal opportunity program, provided to all military members. Along with command channels and the IG, servicemembers will now be able to use the Military EO process, just like DoD civilians are able to use civilian EEO programs to resolve discrimination complaints based on sexual orientation.\n\n\"The Department's experience during the years since DADT was repealed indicates that the MEO program gives complainants greater access to a broader range of resolution options, and gives Commanders access to trained Equal Opportunity Advisors during the complaints process.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "350",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/12/enhanced/webdr07/enhanced-1398-1433867768-3.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Jeb Bush's Anti-Putin Republican Primary Tour",
+
+            "link": "http://www.buzzfeed.com/mckaycoppins/jeb-bushs-anti-putin-republican-primary-tour?utm_term=4ldqpia",
+
+            "description": "<p>To win the GOP nomination these days, strong opposition to the Russian president is practically a prerequisite. Bush will visit three countries most agitated by Russian power — and use the trip to speak out sharply against Putin.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/0/enhanced/webdr14/enhanced-buzz-24401-1433825677-12.jpg\" width=\"625\" height=\"417\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Joe Raedle / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>BERLIN &mdash; If all goes according to plan, Jeb Bush will end this week with a superlative worthy of a campaign bumper sticker: Vladimir Putin&#39;s least favorite Republican. <\/p>\n\n<p>Beginning with a saber-rattling speech here Tuesday, the presidential contender is set to kick off a carefully choreographed five-day tour of European capitals &mdash; from Berlin, to Warsaw, to Tallinn, Estonia &mdash; designed to place him in meetings and photo ops with some of the continent&#39;s leading critics of Putin&#39;s Russia. Aides say the itinerary will help Bush lay out his vision for a more aggressive American stance against Russia, and illustrate what he considers to be the failures of President Obama&#39;s weak-kneed response to Putin&#39;s recent aggression in Eastern Europe. <\/p>\n\n<p>It will also allow Bush to score political points with Republican primary voters back home. The day after he returns from Europe, Bush is expected to officially announce his bid for the presidential nomination in a party where few geopolitical figures are more reviled than Russia&#39;s president. <\/p>\n\n<p>\"Putin looms large in the American imagination in a way that no other Bond villain out there does,\" said Hugh Hewitt, an influential conservative talk radio host. He said the Republican voters he talks to \"cannot name the president of China&hellip; but everybody knows the bare-chested, horseback-riding, Olympics-giving, country-invading Putin.\"<\/p>\n\n<p>It&#39;s true that Putin has achieved a pop culture&ndash;fueled notoriety rarely bestowed upon world leaders. He shows up in best-selling spy novels, and inspires mocking memes that litter the internet. His barely fictionalized clone in the most recent season of <i>House of Cards<\/i> was notable, perhaps, for being the only character in the show who seemed less cartoonish than his real-life counterpart. <\/p>\n\n<p>But Russia&#39;s growing potency as a political issue in 2016 is also emblematic of long-held frustrations on the right with Obama&#39;s foreign policy. When Russia annexed Crimea last year, many American conservatives called for immediate action from the United States, beginning by providing arms to Ukraine. The Obama administration has resisted those calls so far, in favor of economic sanctions and diplomatic pressure.<\/p>\n\n<p>Hewitt has made it his mission to get Republican candidates on the record with regard to their Russia agenda, frequently quizzing them on air about the intricacies of NATO treaties and U.S. Naval policy. It was on Hewitt&#39;s show in March that Bush said the United States should be willing to use military force to prevent Russia from further infringing on the sovereignty of its allies in Eastern Europe &mdash; some of his more elaborative remarks on the topic. Bush also called for more NATO troops to be deployed in the region, and said the United States should start providing Ukraine with weapons. <\/p>\n\n<p>But Bush has not yet distinguished himself as a true Russia hawk when compared to a field of GOP rivals like Sens. Ted Cruz and Marco Rubio, who regularly turn up on cable news and talk radio to rail against Russian aggression. At times, Bush&#39;s rhetoric has seemed a little vague and unsteady. In a question-and-answer session following a speech earlier this year on his foreign policy agenda, Bush emphasized engaging countries like Germany and stronger support for Ukraine. He also praised Obama for his so-called \"forward lean\" in the Baltics &mdash; but seemed unsure of whether the approach had been successful. \"I don&#39;t know what the effect has been because it&#39;s really kind of hard to be on the road, and I&#39;m just a gladiator these days, so I don&#39;t follow every little detail,\" he said. <\/p>\n\n<p>Here in Berlin, Bush will use his appearance at a major economic conference to sharpen his rhetoric, calling for unified, aggressive NATO action against Putin&#39;s recent provocations.<\/p>\n\n<p>\"Russia must respect the sovereignty of all of its neighbors,\" he is expected to say. \"And who can doubt that Russia will do what it pleases if its aggression goes unanswered? Our alliance, our solidarity, and our actions are essential if we want to preserve the fundamental principles of our international order.\" <\/p>\n\n<p>From Berlin, Bush will head to Poland, an ex-communist state where anti-Russia sentiment permeates the political establishment. Last month, for example, Polish President Bronislaw Komorowski used a high-profile speech to warn that a recent parade in Moscow&#39;s city center commemorating the defeat of Nazi Germany was, in fact, a \"demonstration of force.\" He predicted, ominously, \"Once again, Red Square will turn into Tank Square, and the very same tank divisions which recently invaded Ukraine will be there. This is not about history; it&#39;s about the future.\" <\/p>\n\n<p>While in Warsaw, Bush will meet with Andrzej Duda, the president-elect who recently defeated Komorowski in part by attacking his foreign policy for being too weak. According to Michal Kolanko, co-founder of the insider news website 300Polityka &mdash; a Polish <i>Politico<\/i> clone &mdash; the country&#39;s business and government leaders will welcome the sort of Putin-bashing that plays so well back home. But they may also seek to extract some campaign promises of their own from Bush. <\/p>\n\n<p>\"The U.S. is seen as the only country which could help Poland if the situation goes from bad to worse,\" said Kolanko. \"If there&#39;s some sort of commitment from Bush in regards to U.S. military deployment in Poland, setting permanent bases in Poland, or strengthening U.S. presence in the region, that&#39;d be seen as proof that he &#39;gets it&#39; &mdash; that Putin&#39;s Russia is a Cold War&ndash;type enemy&hellip; There is hope that a GOP administration is going to be more &#39;realistic&#39; and less dithering on Putin than Obama.\"<\/p>\n\n<p>To drive his message home, Bush will conclude his trip across Europe at Russia&#39;s doorstep, touring a NATO cyberdefense facility in Estonia that was formed after the country endured a serious cyberattack that many suspected the Russian government of orchestrating. <\/p>\n\n<p>Estonia&#39;s president, Toomas Hendrik Ilves, has worked urgently to bring attention to what he describes as a dire situation in the region, warning that his country &mdash; and other Baltic states &mdash; are obvious annexation targets for Putin. Asked last year to account for the international community&#39;s lackluster response to Russia&#39;s aggression, Ilves said, \"The West has been in a state of shock.\" <\/p>\n\n<p>When Bush meets with Ilves and his political allies later this week, he will likely present himself as a clear-eyed leader prepared to pry the West from its stupor, and finally confront Putin. Chances are, he&#39;ll be making the same pitch on the campaign trail next week.<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "McKay Coppins",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/mckaycoppins/jeb-bushs-anti-putin-republican-primary-tour"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 01:07:59 -0400",
+
+            "group": {
+
+               "description": "<b>To win the GOP nomination these days, strong opposition to the Russian president is practically a prerequisite.<\/b> Bush will visit three countries most agitated by Russian power — and use the trip to speak out sharply against Putin.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "mckaycoppins"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/7/campaign_images/webdr15/jeb-bushs-anti-putin-republican-primary-tour-2-22613-1433848012-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/0/enhanced/webdr14/enhanced-buzz-24401-1433825677-12.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "BERLIN — If all goes according to plan, Jeb Bush will end this week with a superlative worthy of a campaign bumper sticker: Vladimir Putin's least favorite Republican. \n \nBeginning with a saber-rattling speech here Tuesday, the presidential contender is set to kick off a carefully choreographed five-day tour of European capitals — from Berlin, to Warsaw, to Tallinn, Estonia — designed to place him in meetings and photo ops with some of the continent's leading critics of Putin's Russia. Aides say the itinerary will help Bush lay out his vision for a more aggressive American stance against Russia, and illustrate what he considers to be the failures of President Obama's weak-kneed response to Putin's recent aggression in Eastern Europe. \n\nIt will also allow Bush to score political points with Republican primary voters back home. The day after he returns from Europe, Bush is expected to officially announce his bid for the presidential nomination in a party where few geopolitical figures are more reviled than Russia's president. \n\n\"Putin looms large in the American imagination in a way that no other Bond villain out there does,\" said Hugh Hewitt, an influential conservative talk radio host. He said the Republican voters he talks to \"cannot name the president of China… but everybody knows the bare-chested, horseback-riding, Olympics-giving, country-invading Putin.\"\n\nIt's true that Putin has achieved a pop culture–fueled notoriety rarely bestowed upon world leaders. He shows up in best-selling spy novels, and inspires mocking memes that litter the internet. His barely fictionalized clone in the most recent season of <i>House of Cards<\/i> was notable, perhaps, for being the only character in the show who seemed less cartoonish than his real-life counterpart. \n\nBut Russia's growing potency as a political issue in 2016 is also emblematic of long-held frustrations on the right with Obama's foreign policy. When Russia annexed Crimea last year, many American conservatives called for immediate action from the United States, beginning by providing arms to Ukraine. The Obama administration has resisted those calls so far, in favor of economic sanctions and diplomatic pressure.\n\nHewitt has made it his mission to get Republican candidates on the record with regard to their Russia agenda, frequently quizzing them on air about the intricacies of NATO treaties and U.S. Naval policy. It was on Hewitt's show in March that Bush said the United States should be willing to use military force to prevent Russia from further infringing on the sovereignty of its allies in Eastern Europe — some of his more elaborative remarks on the topic. Bush also called for more NATO troops to be deployed in the region, and said the United States should start providing Ukraine with weapons. \n\nBut Bush has not yet distinguished himself as a true Russia hawk when compared to a field of GOP rivals like Sens. Ted Cruz and Marco Rubio, who regularly turn up on cable news and talk radio to rail against Russian aggression. At times, Bush's rhetoric has seemed a little vague and unsteady. In a question-and-answer session following a speech earlier this year on his foreign policy agenda, Bush emphasized engaging countries like Germany and stronger support for Ukraine. He also praised Obama for his so-called \"forward lean\" in the Baltics — but seemed unsure of whether the approach had been successful. \"I don't know what the effect has been because it's really kind of hard to be on the road, and I'm just a gladiator these days, so I don't follow every little detail,\" he said. \n\nHere in Berlin, Bush will use his appearance at a major economic conference to sharpen his rhetoric, calling for unified, aggressive NATO action against Putin's recent provocations.\n\n\"Russia must respect the sovereignty of all of its neighbors,\" he is expected to say. \"And who can doubt that Russia will do what it pleases if its aggression goes unanswered? Our alliance, our solidarity, and our actions are essential if we want to preserve the fundamental principles of our international order.\" \n\nFrom Berlin, Bush will head to Poland, an ex-communist state where anti-Russia sentiment permeates the political establishment. Last month, for example, Polish President Bronislaw Komorowski used a high-profile speech to warn that a recent parade in Moscow's city center commemorating the defeat of Nazi Germany was, in fact, a \"demonstration of force.\" He predicted, ominously, \"Once again, Red Square will turn into Tank Square, and the very same tank divisions which recently invaded Ukraine will be there. This is not about history; it's about the future.\" \n\nWhile in Warsaw, Bush will meet with Andrzej Duda, the president-elect who recently defeated Komorowski in part by attacking his foreign policy for being too weak. According to Michal Kolanko, co-founder of the insider news website 300Polityka — a Polish <i>Politico<\/i> clone — the country's business and government leaders will welcome the sort of Putin-bashing that plays so well back home. But they may also seek to extract some campaign promises of their own from Bush. \n\n\"The U.S. is seen as the only country which could help Poland if the situation goes from bad to worse,\" said Kolanko. \"If there's some sort of commitment from Bush in regards to U.S. military deployment in Poland, setting permanent bases in Poland, or strengthening U.S. presence in the region, that'd be seen as proof that he 'gets it' —&nbsp;that Putin's Russia is a Cold War–type enemy… There is hope that a GOP administration is going to be more 'realistic' and less dithering on Putin than Obama.\"\n\nTo drive his message home, Bush will conclude his trip across Europe at Russia's doorstep, touring a NATO cyberdefense facility in Estonia that was formed after the country endured a serious cyberattack that many suspected the Russian government of orchestrating. \n\nEstonia's president, Toomas Hendrik Ilves, has worked urgently to bring attention to what he describes as a dire situation in the region, warning that his country — and other Baltic states — are obvious annexation targets for Putin. Asked last year to account for the international community's lackluster response to Russia's aggression, Ilves said, \"The West has been in a state of shock.\" \n\nWhen Bush meets with Ilves and his political allies later this week, he will likely present himself as a clear-eyed leader prepared to pry the West from its stupor, and finally confront Putin. Chances are, he'll be making the same pitch on the campaign trail next week.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "The First Out Transgender Active Duty U.S. Army Officer: \"My Story Is Not Unique\"",
+
+            "link": "http://www.buzzfeed.com/chrisgeidner/the-first-out-transgender-active-duty-us-army-officer-my-sto?utm_term=4ldqpia",
+
+            "description": "<p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/21/enhanced/webdr01/enhanced-mid-18832-1433815052-2.jpg\" width=\"720\" height=\"548\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Dennis Huynh/BuzzFeed (Photo courtesy of Jamie Lee Henry)<\/small><\/p>\n\n\n\n\n<p>WASHINGTON &mdash; Jamie Lee Henry is a doctor and major in the Army&rsquo;s Medical Corps. She also is a transgender woman.<\/p><p>In holding an interview with BuzzFeed News, Henry is the first known active-duty Army officer to come out as transgender. She also is, to her knowledge and to the knowledge of LGBT advocates, the first and only active duty service member who has changed her name and gender within the United States military.<\/p><p>It&rsquo;s not a secret within the military. When Henry requested that her name and gender be officially changed in mid-March, the Army &ldquo;actually used female pronouns in the document&rdquo; that granted the request for the change in the Defense Enrollment Eligibility Reporting System (DEERS), she said. After receiving that in May, she then used the Army&rsquo;s response to change her permanent military records in the interactive Personnel Electronic Records Management System (iPERMS), as well as in her medical records. The changes came, she said, &ldquo;I think to the surprise of many, that it was even possible. But it&rsquo;s been confirmed, it has been changed.&rdquo;<\/p><p>These steps may sound small and technical, but they are completely new to the military.<\/p><p>The official, long-standing Army policy remains that being transgender or being diagnosed with gender dysphoria &mdash; the medical diagnosis that corresponds with seeking treatment for being transgender &mdash; is incompatible with military service and grounds for dismissal.<\/p><p>There have been some signs that policy may change. Earlier this year, the Army <a href=\"http://www.buzzfeed.com/chrisgeidner/army-takes-small-step-toward-out-transgender-military-servic#.hyxZkM3xWz\">raised<\/a> the level of who must authorize the discharge of trans service members from a commander in the field to the assistant secretary of the Army for manpower and reserve affairs &mdash; action that echoed a step taken as the ban on gay service members was nearing its end.<\/p><p>Henry says her story &mdash; and the story of many other trans people currently serving &mdash; proves that being out and trans is compatible with military service. What&rsquo;s more, Henry says that being trans has made her a better service member and better doctor.<\/p><p>The 32-year-old Henry joined ROTC almost 15 years ago &mdash; at age 17. She has been &ldquo;treating wounded, ill, and injured&rdquo; service members for 10 years, ever since she did her first rotation in the psych ward at Walter Reed.<\/p><p>Three years ago, however, her life was in upheaval. It was a very difficult time &mdash; she even became homeless briefly &mdash; as she came out as transgender to the people in her life, and dealt with complications to her family, religious, and military life.<\/p><p>One of the key people who helped her through the period was her commanding officer. He provided Henry with housing, helped her continue her military career, and advocated for her family interests &mdash; all while knowing she was transgender. &ldquo;My company commander restored my faith in what it means to be a soldier,&rdquo; she said.<\/p><p>Although Henry began socially transitioning then &mdash; while engaged in a messy divorce and custody dispute &mdash; she did not begin any medical or physical steps until this past fall. At Whitman Walker Health, a Washington-based provider that specializes in LGBT-related health care, she began taking the additional steps. If the social transition was a risk, this posed a bigger one for a military officer. &ldquo;The frank moment came with my command in an emergency department room, because I was afraid, as I was transitioning physically and medically, that I would lose everything.&rdquo;<\/p><p>This wasn&rsquo;t the case, as it turned out &mdash; despite having a new commander who she feared might harbor less positive views of transgender people. &ldquo;My commander said, &lsquo;I don&rsquo;t care who you love, I don&rsquo;t care how you identify, I want you to be healthy and I want you to be able to do your job,&rsquo;&rdquo; Henry said. &ldquo;I was blown away &hellip; because of the stereotypes that I held, growing up in the South, growing up in a fundamentalist Christian family, that he would automatically think I was a freak, he would automatically think, &lsquo;You need to be discharged just like the regs recommend.&rsquo;&rdquo;<\/p><p>But instead, he posed the question to her, asking what she wanted. &ldquo;I said, &lsquo;If I gave that up over that issue, knowing I can do my job and do it perfectly well, I feel that I&rsquo;d be sacrificing my values and the Army&rsquo;s values.&rsquo;&rdquo;<\/p><p>Her commander agreed, and she stayed. She did, however, have to maintain male grooming standards &mdash; the Army requirements for presentation and appearance. He also gave her a warning at the time. According to Henry, the commanding officer advised her not to speak to media, because if a higher-level commander ordered him to discharge her, he would have to do so.<\/p><p>Even less than a year later, though, the landscape regarding transgender issues has changed significantly.<\/p><p>A few days before Henry spoke with BuzzFeed News, on June 4, the <i>New York Times<\/i> <a href=\"http://www.nytimes.com/2015/06/04/opinion/transgender-at-war-and-in-love.html\">published<\/a> a documentary by Fiona Dawson, &ldquo;Transgender, at War and in Love,&rdquo; featuring Senior Airman Logan Ireland, an out transgender service member currently serving in Afghanistan, and his fianc&eacute;, Laila Villanueva, also a transgender service member. Later that day, the Air Force, similar to the Army, <a href=\"http://www.buzzfeed.com/chrisgeidner/air-force-takes-a-big-step-toward-allowing-transgender-servi#.vdxqMZb7yR\">raised<\/a> the level of Air Force official responsible for separations based on gender dysphoria and also announced, &ldquo;Neither gender dysphoria nor self-identification as transgender is an automatic circumstance that generates involuntary separation.&rdquo;<\/p><p>In the midst of all this, the Pentagon is set to hold an LGBT pride event hosted by Defense Secretary Ashton Carter on Tuesday. Henry was invited and, despite nearly a month of back and forth with superiors, she said on Sunday that she plans to wear the male dress uniform on Tuesday &ldquo;unless they say otherwise.&rdquo; She noted that she would be doing so &ldquo;mainly because [her] personal timeline for this gender transition is not the same as the DOD&rsquo;s timeline, as we speak. That&rsquo;s the bottom line.&rdquo;<\/p><p>Nonetheless, she will be there, watching for signs of what that timeline is.<\/p><p>&ldquo;On Tuesday, I&rsquo;m looking forward to what the secretary of defense has to say,&rdquo; she said, noting Carter&rsquo;s <a href=\"http://www.buzzfeed.com/chrisgeidner/obama-administration-expresses-support-for-out-transgender-m#.qpW1Rbwjmq\">comments<\/a> in February that nothing &ldquo;but their suitability for service should preclude&rdquo; transgender people from serving in the military.<\/p><p>Henry is blunt &mdash; yet pleasant &mdash; about the difficulties she has faced and continues to face.<\/p><p>&ldquo;Yes, it&rsquo;s awkward. I&rsquo;ve had to embrace awkwardness with gusto these last nine months,&rdquo; she said with a laugh. &ldquo;It&rsquo;s not easy. It&rsquo;s not easy for the people that are my family, it&rsquo;s not easy for the people that are my friends prior to my transition.&rdquo;<\/p><p>Explaining the process she has undertaken, she said, &ldquo;Transitioning is very complex. It&rsquo;s not just, like, surgery: one day you&rsquo;re a boy, the next day you&rsquo;re a girl, or vice versa, because you have some operation.&rdquo;<\/p><p>She continued, giving an example: &ldquo;You could talk about returning soldiers, or sailors, or airmen from the war over the last decade that have had mutilation to their genitalia from an IED. Their gender has not changed because they have an injury to their genitalia. OK? They&rsquo;re the same gender they&rsquo;ve always been.<\/p><p>&ldquo;Just like with me: I&rsquo;m the same gender I&rsquo;ve always been in my mind, but all this other stuff, on the outside, is really just conforming to how I already feel and have felt my entire life.&rdquo;<\/p><p>She quickly noted that, along with the difficulties, the process already has changed her life for the better. &ldquo;People say, &lsquo;Is this a choice?&rsquo; The choice is being healthy or sick. I can continue living a sick life, or I can live a healthy life,&rdquo; she said simply, declaring that she has chosen health.<\/p><p>It&rsquo;s also improving her work as a doctor, she said. &ldquo;I find my trans experience has allowed me to relate to people, because all of us suffer, and I could relate to people&rsquo;s suffering. I&rsquo;m able to comfort people that feel isolated and lost and alone and broken. I can sit down with them and look them in the eyes, and say, &lsquo;I can walk with you through this. I care about you, and I mean it.&rsquo;&rdquo;<\/p><p>Talking about her work with SPARTA &mdash; an LGBT service member and veterans group &mdash; Henry said that there are hundreds of people in the group in a similar situation to hers with whom she interacts.<\/p><p>&ldquo;Once you see something, it&rsquo;s hard to look away because my story is not unique,&rdquo; she said. &ldquo;And as an officer &mdash; as a field-grade officer, a major &mdash; and as a physician, hearing things &mdash; the despair, the feelings of disrespect or humiliation or whatever in not having someone&rsquo;s medical and legal gender recognized &mdash; to hear that day in and day out [has] somewhat emboldened me to lead.&rdquo;<\/p><p>To that end, Henry submitted a statement to the American Medical Association this weekend, asking the association to take a stand in support of trans troops. The <a href=\"http://www.palmcenter.org/files/A-15%20Resoultion%20011.pdf\">resolution<\/a> that was under consideration asked the AMA to affirm that there is no medically valid reason that transgender individuals cannot serve.<\/p><p>&ldquo;Delaying adoption of this policy,&rdquo; she said in her statement, &ldquo;will only serve to further harm those of us who actively serve our country in silence every day. We simply cannot wait.&rdquo;<\/p><p>On Monday afternoon, the organization took her advice and the advice of many others, passing the resolution in question.<\/p><p>Talking with BuzzFeed News, Henry broadened &mdash; and simplified &mdash; the argument she made to the AMA.<\/p><p>&ldquo;It&rsquo;s not just a trans issue, right? It&rsquo;s a human issue. Can we recognize someone as an individual? Can we recognize the good in them? Can we recognize that they just want to do their job and do it well? Can we give them the circumstances, the environment, the tools to be able to do their job and do it well without the shame and the guilt and the fear and the pain that comes along with being different? Can we do that? Can we do that in a place like America?&rdquo; she asked. &ldquo;I believe we can.&rdquo;<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Chris Geidner",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/chrisgeidner/the-first-out-transgender-active-duty-us-army-officer-my-sto"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 22:47:14 -0400",
+
+            "group": {
+
+               "description": "<b>Last month, the Army granted the request of Jamie Lee Henry, a military doctor, to officially change her name and gender.<\/b> \"People say, 'Is this a choice?' The choice is being healthy or sick. I can continue living a sick life, or I can live a healthy life.\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "chrisgeidner"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/2/campaign_images/webdr04/the-first-out-transgender-active-duty-us-army-off-2-10340-1433829881-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "<p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/21/enhanced/webdr01/enhanced-mid-18832-1433815052-2.jpg\" width=\"720\" height=\"548\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Dennis Huynh/BuzzFeed (Photo courtesy of Jamie Lee Henry)<\/small><\/p>\n\n\n\n\n<p>WASHINGTON &mdash; Jamie Lee Henry is a doctor and major in the Army&rsquo;s Medical Corps. She also is a transgender woman.<\/p><p>In holding an interview with BuzzFeed News, Henry is the first known active-duty Army officer to come out as transgender. She also is, to her knowledge and to the knowledge of LGBT advocates, the first and only active duty service member who has changed her name and gender within the United States military.<\/p><p>It&rsquo;s not a secret within the military. When Henry requested that her name and gender be officially changed in mid-March, the Army &ldquo;actually used female pronouns in the document&rdquo; that granted the request for the change in the Defense Enrollment Eligibility Reporting System (DEERS), she said. After receiving that in May, she then used the Army&rsquo;s response to change her permanent military records in the interactive Personnel Electronic Records Management System (iPERMS), as well as in her medical records. The changes came, she said, &ldquo;I think to the surprise of many, that it was even possible. But it&rsquo;s been confirmed, it has been changed.&rdquo;<\/p><p>These steps may sound small and technical, but they are completely new to the military.<\/p><p>The official, long-standing Army policy remains that being transgender or being diagnosed with gender dysphoria &mdash; the medical diagnosis that corresponds with seeking treatment for being transgender &mdash; is incompatible with military service and grounds for dismissal.<\/p><p>There have been some signs that policy may change. Earlier this year, the Army <a href=\"http://www.buzzfeed.com/chrisgeidner/army-takes-small-step-toward-out-transgender-military-servic#.hyxZkM3xWz\">raised<\/a> the level of who must authorize the discharge of trans service members from a commander in the field to the assistant secretary of the Army for manpower and reserve affairs &mdash; action that echoed a step taken as the ban on gay service members was nearing its end.<\/p><p>Henry says her story &mdash; and the story of many other trans people currently serving &mdash; proves that being out and trans is compatible with military service. What&rsquo;s more, Henry says that being trans has made her a better service member and better doctor.<\/p><p>The 32-year-old Henry joined ROTC almost 15 years ago &mdash; at age 17. She has been &ldquo;treating wounded, ill, and injured&rdquo; service members for 10 years, ever since she did her first rotation in the psych ward at Walter Reed.<\/p><p>Three years ago, however, her life was in upheaval. It was a very difficult time &mdash; she even became homeless briefly &mdash; as she came out as transgender to the people in her life, and dealt with complications to her family, religious, and military life.<\/p><p>One of the key people who helped her through the period was her commanding officer. He provided Henry with housing, helped her continue her military career, and advocated for her family interests &mdash; all while knowing she was transgender. &ldquo;My company commander restored my faith in what it means to be a soldier,&rdquo; she said.<\/p><p>Although Henry began socially transitioning then &mdash; while engaged in a messy divorce and custody dispute &mdash; she did not begin any medical or physical steps until this past fall. At Whitman Walker Health, a Washington-based provider that specializes in LGBT-related health care, she began taking the additional steps. If the social transition was a risk, this posed a bigger one for a military officer. &ldquo;The frank moment came with my command in an emergency department room, because I was afraid, as I was transitioning physically and medically, that I would lose everything.&rdquo;<\/p><p>This wasn&rsquo;t the case, as it turned out &mdash; despite having a new commander who she feared might harbor less positive views of transgender people. &ldquo;My commander said, &lsquo;I don&rsquo;t care who you love, I don&rsquo;t care how you identify, I want you to be healthy and I want you to be able to do your job,&rsquo;&rdquo; Henry said. &ldquo;I was blown away &hellip; because of the stereotypes that I held, growing up in the South, growing up in a fundamentalist Christian family, that he would automatically think I was a freak, he would automatically think, &lsquo;You need to be discharged just like the regs recommend.&rsquo;&rdquo;<\/p><p>But instead, he posed the question to her, asking what she wanted. &ldquo;I said, &lsquo;If I gave that up over that issue, knowing I can do my job and do it perfectly well, I feel that I&rsquo;d be sacrificing my values and the Army&rsquo;s values.&rsquo;&rdquo;<\/p><p>Her commander agreed, and she stayed. She did, however, have to maintain male grooming standards &mdash; the Army requirements for presentation and appearance. He also gave her a warning at the time. According to Henry, the commanding officer advised her not to speak to media, because if a higher-level commander ordered him to discharge her, he would have to do so.<\/p><p>Even less than a year later, though, the landscape regarding transgender issues has changed significantly.<\/p><p>A few days before Henry spoke with BuzzFeed News, on June 4, the <i>New York Times<\/i> <a href=\"http://www.nytimes.com/2015/06/04/opinion/transgender-at-war-and-in-love.html\">published<\/a> a documentary by Fiona Dawson, &ldquo;Transgender, at War and in Love,&rdquo; featuring Senior Airman Logan Ireland, an out transgender service member currently serving in Afghanistan, and his fianc&eacute;, Laila Villanueva, also a transgender service member. Later that day, the Air Force, similar to the Army, <a href=\"http://www.buzzfeed.com/chrisgeidner/air-force-takes-a-big-step-toward-allowing-transgender-servi#.vdxqMZb7yR\">raised<\/a> the level of Air Force official responsible for separations based on gender dysphoria and also announced, &ldquo;Neither gender dysphoria nor self-identification as transgender is an automatic circumstance that generates involuntary separation.&rdquo;<\/p><p>In the midst of all this, the Pentagon is set to hold an LGBT pride event hosted by Defense Secretary Ashton Carter on Tuesday. Henry was invited and, despite nearly a month of back and forth with superiors, she said on Sunday that she plans to wear the male dress uniform on Tuesday &ldquo;unless they say otherwise.&rdquo; She noted that she would be doing so &ldquo;mainly because [her] personal timeline for this gender transition is not the same as the DOD&rsquo;s timeline, as we speak. That&rsquo;s the bottom line.&rdquo;<\/p><p>Nonetheless, she will be there, watching for signs of what that timeline is.<\/p><p>&ldquo;On Tuesday, I&rsquo;m looking forward to what the secretary of defense has to say,&rdquo; she said, noting Carter&rsquo;s <a href=\"http://www.buzzfeed.com/chrisgeidner/obama-administration-expresses-support-for-out-transgender-m#.qpW1Rbwjmq\">comments<\/a> in February that nothing &ldquo;but their suitability for service should preclude&rdquo; transgender people from serving in the military.<\/p><p>Henry is blunt &mdash; yet pleasant &mdash; about the difficulties she has faced and continues to face.<\/p><p>&ldquo;Yes, it&rsquo;s awkward. I&rsquo;ve had to embrace awkwardness with gusto these last nine months,&rdquo; she said with a laugh. &ldquo;It&rsquo;s not easy. It&rsquo;s not easy for the people that are my family, it&rsquo;s not easy for the people that are my friends prior to my transition.&rdquo;<\/p><p>Explaining the process she has undertaken, she said, &ldquo;Transitioning is very complex. It&rsquo;s not just, like, surgery: one day you&rsquo;re a boy, the next day you&rsquo;re a girl, or vice versa, because you have some operation.&rdquo;<\/p><p>She continued, giving an example: &ldquo;You could talk about returning soldiers, or sailors, or airmen from the war over the last decade that have had mutilation to their genitalia from an IED. Their gender has not changed because they have an injury to their genitalia. OK? They&rsquo;re the same gender they&rsquo;ve always been.<\/p><p>&ldquo;Just like with me: I&rsquo;m the same gender I&rsquo;ve always been in my mind, but all this other stuff, on the outside, is really just conforming to how I already feel and have felt my entire life.&rdquo;<\/p><p>She quickly noted that, along with the difficulties, the process already has changed her life for the better. &ldquo;People say, &lsquo;Is this a choice?&rsquo; The choice is being healthy or sick. I can continue living a sick life, or I can live a healthy life,&rdquo; she said simply, declaring that she has chosen health.<\/p><p>It&rsquo;s also improving her work as a doctor, she said. &ldquo;I find my trans experience has allowed me to relate to people, because all of us suffer, and I could relate to people&rsquo;s suffering. I&rsquo;m able to comfort people that feel isolated and lost and alone and broken. I can sit down with them and look them in the eyes, and say, &lsquo;I can walk with you through this. I care about you, and I mean it.&rsquo;&rdquo;<\/p><p>Talking about her work with SPARTA &mdash; an LGBT service member and veterans group &mdash; Henry said that there are hundreds of people in the group in a similar situation to hers with whom she interacts.<\/p><p>&ldquo;Once you see something, it&rsquo;s hard to look away because my story is not unique,&rdquo; she said. &ldquo;And as an officer &mdash; as a field-grade officer, a major &mdash; and as a physician, hearing things &mdash; the despair, the feelings of disrespect or humiliation or whatever in not having someone&rsquo;s medical and legal gender recognized &mdash; to hear that day in and day out [has] somewhat emboldened me to lead.&rdquo;<\/p><p>To that end, Henry submitted a statement to the American Medical Association this weekend, asking the association to take a stand in support of trans troops. The <a href=\"http://www.palmcenter.org/files/A-15%20Resoultion%20011.pdf\">resolution<\/a> that was under consideration asked the AMA to affirm that there is no medically valid reason that transgender individuals cannot serve.<\/p><p>&ldquo;Delaying adoption of this policy,&rdquo; she said in her statement, &ldquo;will only serve to further harm those of us who actively serve our country in silence every day. We simply cannot wait.&rdquo;<\/p><p>On Monday afternoon, the organization took her advice and the advice of many others, passing the resolution in question.<\/p><p>Talking with BuzzFeed News, Henry broadened &mdash; and simplified &mdash; the argument she made to the AMA.<\/p><p>&ldquo;It&rsquo;s not just a trans issue, right? It&rsquo;s a human issue. Can we recognize someone as an individual? Can we recognize the good in them? Can we recognize that they just want to do their job and do it well? Can we give them the circumstances, the environment, the tools to be able to do their job and do it well without the shame and the guilt and the fear and the pain that comes along with being different? Can we do that? Can we do that in a place like America?&rdquo; she asked. &ldquo;I believe we can.&rdquo;<\/p>\n\n\n <p><small><\/small><\/p>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Clinton Family Foundation Donation To New York Times Charity Came After Endorsement",
+
+            "link": "http://www.buzzfeed.com/rosiegray/clinton-family-foundation-donation-to-new-york-times-charity?utm_term=4ldqpia",
+
+            "description": "<p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/18/enhanced/webdr03/enhanced-mid-26965-1433801893-9.jpg\" width=\"720\" height=\"534\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Richard Shiro / AP<\/small><\/p>\n\n\n\n\n<p>WASHINGTON &mdash; A charity administered by the <i>New York Times<\/i> received a $100,000 check from the Clinton Family Foundation on July 24, 2008, months after the paper endorsed Hillary Clinton in the Democratic primary, according to a <i>New York Times<\/i> spokesperson.<\/p><p>However, the check was a \"replacement check\" for one that had been sent in 2007 that the <i>Times<\/i> never received, the spokesperson said.<\/p><p>\"The Neediest Cases Fund received a $100,000 check from the Clinton Family Foundation on July 24, 2008,\" <i>Times<\/i> spokesperson Eileen Murphy said in an email to BuzzFeed News on Monday. \"It was a replacement check for one dated June 22, 2007, that was apparently sent to an incorrect address and never received.\"<\/p><p>\"As you may know, The Times administers the Neediest Cases Fund, which provides direct assistance to New Yorkers in need through seven beneficiary social service agencies,\" Murphy said. \"This donation and our editorial board&#39;s endorsement of a candidate in the 2008 Democratic primary have absolutely no connection to one another.\"<br /><\/p><p>The <i>Washington Free Beacon<\/i> reported on Sunday that the Clinton Family Foundation had donated $100,000 to the Neediest Cases Fund in 2008, the same year the newspaper endorsed Clinton. The <i>Times<\/i> editorial board endorsed Clinton on January 25, 2008. Clinton dropped out of the race on June 7, 2008.<\/p><p>The <i>New York Times<\/i> had <a href=\"http://freebeacon.com/politics/new-york-times-wont-give-date-when-clintons-donated/\">declined to tell<\/a> the <i>Free Beacon<\/i> the exact date of the donation, raising questions about whether the donation had preceded the endorsement.<\/p><p>Asked if she could explain more about the 2007 check that was never received, Murphy said, \"Unfortunately, I can&#39;t - I can only tell you that our records show a note attached to the July, 2008 check that says it should serve as a replacement for a check (with check #) dated June 22, 2007 and the address to which that check had been sent.\"<\/p><p>\"We can only surmise that at some point it was noticed that the check hadn&#39;t been cashed and some contact was made and a new check was issued, but the person to whom the check was sent is no longer with the company and there is no one else with this direct knowledge,\" Murphy said.<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Rosie Gray",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/rosiegray/clinton-family-foundation-donation-to-new-york-times-charity"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 18:31:43 -0400",
+
+            "group": {
+
+               "description": "<b>The check came in July 2008, though it was a replacement for one that had been sent but never received in 2007, a <i>Times<\/i> spokesperson says.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "rosiegray"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/1/campaign_images/webdr01/clinton-family-foundation-donation-to-new-york-ti-2-22907-1433828800-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "<p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/18/enhanced/webdr03/enhanced-mid-26965-1433801893-9.jpg\" width=\"720\" height=\"534\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Richard Shiro / AP<\/small><\/p>\n\n\n\n\n<p>WASHINGTON &mdash; A charity administered by the <i>New York Times<\/i> received a $100,000 check from the Clinton Family Foundation on July 24, 2008, months after the paper endorsed Hillary Clinton in the Democratic primary, according to a <i>New York Times<\/i> spokesperson.<\/p><p>However, the check was a \"replacement check\" for one that had been sent in 2007 that the <i>Times<\/i> never received, the spokesperson said.<\/p><p>\"The Neediest Cases Fund received a $100,000 check from the Clinton Family Foundation on July 24, 2008,\" <i>Times<\/i> spokesperson Eileen Murphy said in an email to BuzzFeed News on Monday. \"It was a replacement check for one dated June 22, 2007, that was apparently sent to an incorrect address and never received.\"<\/p><p>\"As you may know, The Times administers the Neediest Cases Fund, which provides direct assistance to New Yorkers in need through seven beneficiary social service agencies,\" Murphy said. \"This donation and our editorial board&#39;s endorsement of a candidate in the 2008 Democratic primary have absolutely no connection to one another.\"<br /><\/p><p>The <i>Washington Free Beacon<\/i> reported on Sunday that the Clinton Family Foundation had donated $100,000 to the Neediest Cases Fund in 2008, the same year the newspaper endorsed Clinton. The <i>Times<\/i> editorial board endorsed Clinton on January 25, 2008. Clinton dropped out of the race on June 7, 2008.<\/p><p>The <i>New York Times<\/i> had <a href=\"http://freebeacon.com/politics/new-york-times-wont-give-date-when-clintons-donated/\">declined to tell<\/a> the <i>Free Beacon<\/i> the exact date of the donation, raising questions about whether the donation had preceded the endorsement.<\/p><p>Asked if she could explain more about the 2007 check that was never received, Murphy said, \"Unfortunately, I can&#39;t - I can only tell you that our records show a note attached to the July, 2008 check that says it should serve as a replacement for a check (with check #) dated June 22, 2007 and the address to which that check had been sent.\"<\/p><p>\"We can only surmise that at some point it was noticed that the check hadn&#39;t been cashed and some contact was made and a new check was issued, but the person to whom the check was sent is no longer with the company and there is no one else with this direct knowledge,\" Murphy said.<\/p>\n\n\n <p><small><\/small><\/p>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Rick Perry: New York Times Story On Rubio Speeding Tickets A \"Total Cheap Shot,\" \"Irresponsible\"",
+
+            "link": "http://www.buzzfeed.com/andrewkaczynski/rick-perry-new-york-times-story-on-rubio-speeding-tickets-a?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;Listen, if the New York Times wants to write about an issue that is problematic for this country they could start with the Clinton Foundation.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/18/enhanced/webdr03/enhanced-buzz-28106-1433801707-7.jpg\" width=\"625\" height=\"405\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Scott Olson / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Former Texas Gov. Rick Perry called <a href=\"http://www.nytimes.com/politics/first-draft/2015/06/05/marco-rubio-and-his-wife-cited-17-times-for-traffic-infractions-2/?_r=0\">a <i>New York Times<\/i> story<\/a> on the number of traffic infractions occurred by Florida Sen. Marco Rubio and his wife \"irresponsible\" and a \"total cheap shot.\" <\/p>\n\n<p>\"Total cheap shot,\" Perry said on the <i>Michael Medved Show<\/i> on Monday when asked about the <i>Times<\/i> story. \"Listen, if the <i>New York Times<\/i> wants to write about an issue that is problematic for this country they could start with the Clinton Foundation.\"<\/p>\n\n<p>Perry added when asked if he had ever had a speeding ticket answered, \"Yes sir, I have, I have and I&#39;m sure they&#39;ll find it somewhere.\" <\/p>\n\n<p>The <i>Times<\/i> reported that the Rubios had been cited on traffic violations a combined 17 times since 1997. Rubio had four tickets and his wife had 13. The <i>Times<\/i> noted four different occasions the couple had to go driving school following a violation. <\/p>\n\n<p>Perry said he found the story \"irresponsible,\" given the Clinton Foundations woes. The <i>Times<\/i> has, however, published some <a href=\"http://www.nytimes.com/2015/04/24/us/cash-flowed-to-clinton-foundation-as-russians-pressed-for-control-of-uranium-company.html\">critical stories<\/a> on the Clinton Foundation.<\/p>\n\n<p>\"The fact is we all live within the laws,\" said Perry. \"I get that, but to go write a story about Marco Rubio and him having four tickets in the last decade plus is absolutely irresponsible when you have Bill and Hillary Clinton taking the amount of money, not reporting it at their foundation and to somehow or another paper over that and go write a story about Marco Rubio...\" <\/p>\n\n<p>\"Pathetic is the only word,\" said Medved cutting Perry off and noting the program was out of time.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209417818&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\" height=\"166\" width=\"100%\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209417818&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\">w.soundcloud.com<\/a><\/small><\/p>",
+
+            "author": "Andrew Kaczynski",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/andrewkaczynski/rick-perry-new-york-times-story-on-rubio-speeding-tickets-a"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 18:23:38 -0400",
+
+            "group": {
+
+               "description": "<b>\"Listen, if the <i>New York Times<\/i> wants to write about an issue that is problematic for this country they could start with the Clinton Foundation.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "andrewkaczynski"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/18/campaign_images/webdr03/rick-perry-new-york-times-story-on-rubio-speeding-2-28698-1433802213-19.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "405",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/18/enhanced/webdr03/enhanced-buzz-28106-1433801707-7.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Former Texas Gov. Rick Perry called <a href=\"http://www.nytimes.com/politics/first-draft/2015/06/05/marco-rubio-and-his-wife-cited-17-times-for-traffic-infractions-2/?_r=0\">a <i>New York Times<\/i> story<\/a> on the number of traffic infractions occurred by Florida Sen. Marco Rubio and his wife \"irresponsible\" and a \"total cheap shot.\" \n\n\"Total cheap shot,\" Perry said on the <i>Michael Medved Show<\/i> on Monday when asked about the <i>Times<\/i> story. \"Listen, if the <i>New York Times<\/i> wants to write about an issue that is problematic for this country they could start with the Clinton Foundation.\"\n\nPerry added when asked if he had ever had a speeding ticket answered, \"Yes sir, I have, I have and I'm sure they'll find it somewhere.\" \n\nThe <i>Times<\/i> reported that the Rubios had been cited on traffic violations a combined 17 times since 1997. Rubio had four tickets and his wife had 13. The <i>Times<\/i> noted four different occasions the couple had to go driving school following a violation. \n\nPerry said he found the story \"irresponsible,\" given the Clinton Foundations woes. The <i>Times<\/i> has, however, published some <a href=\"http://www.nytimes.com/2015/04/24/us/cash-flowed-to-clinton-foundation-as-russians-pressed-for-control-of-uranium-company.html\">critical stories<\/a> on the Clinton Foundation.\n\n\"The fact is we all live within the laws,\" said Perry. \"I get that, but to go write a story about Marco Rubio and him having four tickets in the last decade plus is absolutely irresponsible when you have Bill and Hillary Clinton taking the amount of money, not reporting it at their foundation and to somehow or another paper over that and go write a story about Marco Rubio...\" \n\n\"Pathetic is the only word,\" said Medved cutting Perry off and noting the program was out of time.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209417818&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Nebraska Bought 300 Executions’ Worth Of Illegal Execution Drugs From A Foreign Supplier",
+
+            "link": "http://www.buzzfeed.com/chrismcdaniel/nebraska-bought-300-executions-worth-of-illegal-execution-dr?utm_term=4ldqpia",
+
+            "description": "<p>The FDA says it will seize Nebraska’s drugs when they arrive from India. But the seller says he’s sold to “a few” other states as well.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/16/enhanced/webdr15/enhanced-7930-1433794242-13.jpg\" width=\"625\" height=\"442\" alt=\"\" /><\/p>\n \n\t<p>Neb. Gov. Pete Ricketts voices his opposition to abolishing the death penalty.<\/p>\n\n\n <p><small>Nati Harnik / AP<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>The seller behind Nebraska&#39;s illegal execution drug shipment says Nebraska isn&#39;t the only state to have bought drugs from him.<\/p>\n\n<p>Nebraska announced in May that it had purchased drugs from HarrisPharma, a small distributor in India run by a man named Chris Harris, although Nebraska admitted that the drugs are not approved by the Food and Drug Administration (FDA).<\/p>\n\n<p>Harris has sold execution drugs in the past, but each time the drugs have gone unused after questions were raised over the legality of the drug deal.<\/p>\n\n<p>This time, an FDA spokesperson indicated in a statement to BuzzFeed News that the agency will seize Nebraska&#39;s shipment.<\/p>\n\n<p>But as part of his sales pitch to Nebraska, Harris tells employees several times that other states are also buying from him, according to 140 pages of emails and invoices obtained by BuzzFeed News.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/15/enhanced/webdr11/enhanced-28790-1433793076-7.png\" width=\"625\" height=\"183\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Nebraska Department of Correctional Services<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>A day later, Harris approached another Corrections employee.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/chrismcdaniel/nebraska-bought-300-executions-worth-of-illegal-execution-dr\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Chris McDaniel",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/chrismcdaniel/nebraska-bought-300-executions-worth-of-illegal-execution-dr"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 17:25:43 -0400",
+
+            "group": {
+
+               "description": "<b>The FDA says it will seize Nebraska’s drugs when they arrive from India. But the seller says he’s sold to “a few” other states as well.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "chrismcdaniel"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/17/campaign_images/webdr01/nebraska-bought-300-executions-worth-of-illegal-e-2-9145-1433798794-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "442",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/16/enhanced/webdr15/enhanced-7930-1433794242-13.jpg",
+
+                     "@width": "625",
+
+                     "description": "Neb. Gov. Pete Ricketts voices his opposition to abolishing the death penalty.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The seller behind Nebraska's illegal execution drug shipment says Nebraska isn't the only state to have bought drugs from him.\n\nNebraska announced in May that it had purchased drugs from HarrisPharma, a small distributor in India run by a man named Chris Harris, although Nebraska admitted that the drugs are not approved by the Food and Drug Administration (FDA).\n\nHarris has sold execution drugs in the past, but each time the drugs have gone unused after questions were raised over the legality of the drug deal.\n\nThis time, an FDA spokesperson indicated in a statement to BuzzFeed News that the agency will seize Nebraska's shipment.\n\nBut as part of his sales pitch to Nebraska, Harris tells employees several times that other states are also buying from him, according to 140 pages of emails and invoices obtained by BuzzFeed News.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "183",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/15/enhanced/webdr11/enhanced-28790-1433793076-7.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "A day later, Harris approached another Corrections employee.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "137",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/15/enhanced/webdr12/enhanced-26297-1433793221-11.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "From then on Nebraska was hooked. Department of Correctional Services Director Scott Frakes told Harris that the the sooner they could connect, the better. A few weeks later, the two had worked up a purchase order.\n\nTheir correspondence shows Nebraska officials made little to no effort to verify that the deal complied with the law.\n\nWhen he sent the invoice, Harris described the shipment as \"harmless medicine,\" probably not the most accurate way to describe drugs intended for an execution.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "195",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/15/enhanced/webdr08/enhanced-11533-1433793365-1.png",
+
+                     "@width": "619",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "At this point, it's unknown which other states purchased drugs illegally from Harris, or if it was a lie as part of his sales pitch.\n\nWhen asked if the FDA would also be seizing Harris' shipments to other states, the department told BuzzFeed News that they \"would stop it if it does.\" The Drug Enforcement Agency has said that they won't confirm or deny investigations until they are complete.\n\nHarris turned down a request to speak to BuzzFeed News, and he would not respond when asked which other states he sold to.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "111",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/15/enhanced/webdr06/enhanced-16238-1433793483-3.png",
+
+                     "@width": "493",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The emails also show Nebraska paid Harris much more than the drug is worth. Harris charged $25 per vial of sodium thiopental — about seven times more than what the drug typically costs. In total, the state paid Harris $54,400.\n\nNebraska also purchased more of the drug than they could ever use, even though they wanted only a \"minimum order.\"\n\nHarris' minimum order was 1,000 vials — enough for Nebraska to carry out more than 300 executions. The state only has 10 inmates on death row.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "403",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/15/enhanced/webdr08/enhanced-11338-1433793555-7.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Nebraska Governor Pete Ricketts <a href=\"http://journalstar.com/news/state-and-regional/federal-politics/ricketts-says-state-dealing-with-execution-challenges/article_3835166d-44eb-594b-b587-8ceaae9c37dc.html\">says his office<\/a> is now in communication with the FDA. Despite the state repealing the death penalty, Ricketts believes he will still be able to execute the men currently on death row.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Jeb Bush's New Campaign Manager Has Disagreed With Him About Immigration Policy In The Past",
+
+            "link": "http://www.buzzfeed.com/adriancarrasquillo/jeb-bushs-new-campaign-manager-has-disagreed-with-him-about?utm_term=4ldqpia",
+
+            "description": "<p>Danny Diaz, who was named Jeb Bush&#8217;s campaign manager Monday, called driver&#8217;s licenses for undocumented immigrants &#8220;dangerous&#8221; last year. Bush has supported driver&#8217;s licenses for undocumented immigrants since 2004.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/15/enhanced/webdr04/enhanced-15500-1433792674-3.jpg\" width=\"625\" height=\"361\" alt=\"\" /><\/p>\n \n\t<p>Jeb Bush named Danny Diaz his campaign manager Monday.<\/p>\n\n\n <p><small>J Pat Carter / AP<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Jeb Bush&#39;s new campaign manager Danny Diaz spoke out against driver&#39;s licenses for undocumented immigrants last year, a policy the former Florida governor has supported for more than a decade.<\/p>\n\n<p>Bush, who is expected to announce his campaign on June 15, has been an ardent supporter of an immigration overhaul for years and the naming of Diaz &mdash; most recently a veteran of New Mexico Gov. Susana Martinez&#39;s re-election campaign &mdash; is yet another sign he will make Hispanic outreach a priority.<\/p>\n\n<p>But the two have advocated different policies in the past. In 2014, as a Martinez campaign official, he said giving driver&#39;s licenses to undocumented immigrants was \"dangerous.\"<\/p>\n\n<p>\"This fall, voters will have a choice,\" <a href=\"http://www.santafenewmexican.com/news/legislature/martinez-campaign-pushes-immigrant-license-issue/article_dda7537d-b8b3-5fee-9856-cf2f796efe86.html\">Diaz told the <i>Santa Fe New Mexican<\/i><\/a>. \"Do they support a candidate who believes giving driver&#39;s licenses to illegal immigrants, creating a well-established public safety threat, is a good idea, or do they support the candidate who has fought against it?\"<\/p>\n\n<p>Bush has long supported the policy. In 2004, when he endorsed legislation to give licenses to undocumented immigrants, he said policies that ignore them are basically a policy of denial. <\/p>\n\n<p>\"In some cases, these people may be taking their children to school and they may be doing it without a driver&#39;s license,\" <a href=\"http://www.utsandiego.com/uniontrib/20040407/news_1n7drivers.html\">he said at the time.<\/a> \"They may be going to a doctor or a drug store or supermarket. The state . . . is basically telling these folks to drive illegally.\"<\/p>\n\n<p>Emily Benavides, a spokesperson for Bush, emphasized to BuzzFeed News that Diaz will be advocating for the candidate&#39;s positions.<\/p>\n\n<p>\"Danny will forcefully advocate for Gov. Bush&#39;s views across the board and helm a campaign focused on giving all Americans the chance to rise up and achieve their dreams,\" she said. <\/p>\n\n<p>In addition to working for Martinez and now Bush, Diaz has a long history working on presidential campaigns. He was a senior adviser to Mitt Romney in 2012, deputy communications director for John McCain in 2008, and a regional press secretary for George W. Bush in 2004.<\/p>\n\n<p>Diaz is known as a top rapid response operative and opposition researcher, something those who have worked with him say is encoded in his DNA, and will help Bush run a modern campaign.<\/p>\n\n<p>\"With Diaz it was always nonstop,\" said Wadi Gaitan, who worked with him on the Romney campaign. \"It doesn&#39;t matter if it&#39;s day or night, he&#39;s working.\"<\/p>\n\n<p>On his stances that have been criticized by fellow Republicans like Common Core education standards and on immigration, Bush has said he believes Americans appreciate when you have \"a backbone.\"<\/p>\n\n<p> \"You don&#39;t abandon your core beliefs,\" he said earlier this year.<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Adrian Carrasquillo",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/adriancarrasquillo/jeb-bushs-new-campaign-manager-has-disagreed-with-him-about"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 17:04:33 -0400",
+
+            "group": {
+
+               "description": "<b>Danny Diaz, who was named Jeb Bush's campaign manager Monday, called driver's licenses for undocumented immigrants \"dangerous\" last year.<\/b> Bush has supported driver's licenses for undocumented immigrants since 2004.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "adriancarrasquillo"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/17/campaign_images/webdr04/jeb-bushs-new-campaign-manager-has-disagreed-with-2-25792-1433797467-16.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "361",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/15/enhanced/webdr04/enhanced-15500-1433792674-3.jpg",
+
+                     "@width": "625",
+
+                     "description": "Jeb Bush named Danny Diaz his campaign manager Monday.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Jeb Bush's new campaign manager Danny Diaz spoke out against driver's licenses for undocumented immigrants last year, a policy the former Florida governor has supported for more than a decade.\n\nBush, who is expected to announce his campaign on June 15, has been an ardent supporter of an immigration overhaul for years and the naming of Diaz — most recently a veteran of New Mexico Gov. Susana Martinez's re-election campaign — is yet another sign he will make Hispanic outreach a priority.\n\nBut the two have advocated different policies in the past. In 2014, as a Martinez campaign official, he said giving driver's licenses to undocumented immigrants was \"dangerous.\"\n\n\"This fall, voters will have a choice,\" <a href=\"http://www.santafenewmexican.com/news/legislature/martinez-campaign-pushes-immigrant-license-issue/article_dda7537d-b8b3-5fee-9856-cf2f796efe86.html\">Diaz told the <i>Santa Fe New Mexican<\/i><\/a>. \"Do they support a candidate who believes giving driver's licenses to illegal immigrants, creating a well-established public safety threat, is a good idea, or do they support the candidate who has fought against it?\"\n\nBush has long supported the policy. In 2004, when he endorsed legislation to give licenses to undocumented immigrants, he said policies that ignore them are basically a policy of denial. \n\n\"In some cases, these people may be taking their children to school and they may be doing it without a driver's license,\" <a href=\"http://www.utsandiego.com/uniontrib/20040407/news_1n7drivers.html\">he said at the time.<\/a> \"They may be going to a doctor or a drug store or supermarket. The state . . . is basically telling these folks to drive illegally.\"\n\nEmily Benavides, a spokesperson for Bush, emphasized to BuzzFeed News that Diaz will be advocating for the candidate's positions.\n\n\"Danny will forcefully advocate for Gov. Bush's views across the board and helm a campaign focused on giving all Americans the chance to rise up and achieve their dreams,\" she said. \n\nIn addition to working for Martinez and now Bush, Diaz has a long history working on presidential campaigns. He was a senior adviser to Mitt Romney in 2012, deputy communications director for John McCain in 2008, and a regional press secretary for George W. Bush in 2004.\n\nDiaz is known as a top rapid response operative and opposition researcher, something those who have worked with him say is encoded in his DNA, and will help Bush run a modern campaign.\n\n\"With Diaz it was always nonstop,\" said Wadi Gaitan, who worked with him on the Romney campaign. \"It doesn't matter if it's day or night, he's working.\"\n\nOn his stances that have been criticized by fellow Republicans like Common Core education standards and on immigration, Bush has said he believes Americans appreciate when you have \"a backbone.\"\n\n \"You don't abandon your core beliefs,\" he said earlier this year.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Huckabee: \"I Take Nothing Back,\" \"I'm Kinda Glad\" Transgender Shower Joke Was Posted Online",
+
+            "link": "http://www.buzzfeed.com/andrewkaczynski/huckabee-i-take-nothing-back-im-kinda-glad-transgender-showe?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;I&#8217;m kinda glad it&#8217;s posted because people &#8212; if they watch the whole clip &#8212; what they&#8217;ll see is that I&#8217;m giving a commonsense answer to the insanity going on out there.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/12/enhanced/webdr15/enhanced-buzz-4682-1433782352-8.jpg\" width=\"625\" height=\"399\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Scott Olson / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Former Arkansas Gov. Mike Huckabee told an Iowa radio host Friday that he takes nothing back from a speech he delivered earlier this year in which he joked about pretending to be transgender in high school \"when it came time to take showers in PE.\"<\/p>\n\n<p>Huckabee, responding to a question from Iowa radio host Steve Deace, agreed that the amount of publicity his comments received was \"absolutely an example\" of misplaced priorities. <\/p>\n\n<p>\"And by the way,\" added Huckabee, \"I take nothing back from that speech. I&#39;m kinda glad it&#39;s posted because people -- if they watch the whole clip -- what they&#39;ll see is that I&#39;m giving a commonsense answer to the insanity going on out there.\"<\/p>\n\n<p>\"Everyone wants to be politically correct, everybody wants to be loved by the media and loved by the left, loved by the elitists. But I know I&#39;m not gonna be, so let me just get it over with. I&#39;d rather be a commonsense candidate for people who did take their brains to work today,\" Huckabee added Friday. <\/p>\n\n<p>Huckabee said at the 2015 National Religious Broadcasters Convention in Nashville, Tennessee when discussing transgender laws that he wished he could have pretended to be transgender in high school when it came time to shower after gym class.<\/p>\n\n<p>\"Now I wish that someone told me that when I was in high school that I could have felt like a woman when it came time to take showers in PE,\" said Huckabee. \"I&#39;m pretty sure that I would have found my feminine side and said, &#39;Coach, I think I&#39;d rather shower with the girls today.&#39; You&#39;re laughing because it sounds so ridiculous, doesn&#39;t it?\"<\/p>\n\n<p>Huckabee previously said last week about his transgender comments that, \"nobody ever asks me about it except the media, they&#39;re the only ones who seem to be stirred up about it.\"<\/p>\n\n<p>Although, BuzzFeed News independently <a href=\"http://www.rightwingwatch.org/content/huckabee-stands-commonsense-transgender-locker-room-joke\">reported on the clip<\/a> Huckabee&#39;s comments were first noted by <i>Right Wing Watch<\/i> of People for the American Way.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209373610&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\" height=\"166\" width=\"100%\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209373610&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\">w.soundcloud.com<\/a><\/small><\/p>",
+
+            "author": "Andrew Kaczynski",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/andrewkaczynski/huckabee-i-take-nothing-back-im-kinda-glad-transgender-showe"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 12:55:09 -0400",
+
+            "group": {
+
+               "description": "<b>\"I'm kinda glad it's posted because people -- if they watch the whole clip -- what they'll see is that I'm giving a commonsense answer to the insanity going on out there.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "andrewkaczynski"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/21/campaign_images/webdr12/huckabee-i-take-nothing-back-im-kinda-glad-transg-2-14453-1433812533-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "399",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/12/enhanced/webdr15/enhanced-buzz-4682-1433782352-8.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Former Arkansas Gov. Mike Huckabee told an Iowa radio host Friday that he takes nothing back from a speech he delivered earlier this year in which he joked about pretending to be transgender in high school \"when it came time to take showers in PE.\"\n\nHuckabee, responding to a question from Iowa radio host Steve Deace, agreed that the amount of publicity his comments received was \"absolutely an example\" of misplaced priorities. \n\n\"And by the way,\" added Huckabee, \"I take nothing back from that speech. I'm kinda glad it's posted because people -- if they watch the whole clip -- what they'll see is that I'm giving a commonsense answer to the insanity going on out there.\"\n\n\"Everyone wants to be politically correct, everybody wants to be loved by the media and loved by the left, loved by the elitists. But I know I'm not gonna be, so let me just get it over with. I'd rather be a commonsense candidate for people who did take their brains to work today,\" Huckabee added Friday. \n\nHuckabee said at the 2015 National Religious Broadcasters Convention in Nashville, Tennessee when discussing transgender laws that he wished he could have pretended to be transgender in high school when it came time to shower after gym class.\n\n\"Now I wish that someone told me that when I was in high school that I could have felt like a woman when it came time to take showers in PE,\" said Huckabee. \"I'm pretty sure that I would have found my feminine side and said, 'Coach, I think I'd rather shower with the girls today.' You're laughing because it sounds so ridiculous, doesn't it?\"\n\nHuckabee previously said last week about his transgender comments that, \"nobody ever asks me about it except the media, they're the only ones who seem to be stirred up about it.\"\n\nAlthough, BuzzFeed News independently <a href=\"http://www.rightwingwatch.org/content/huckabee-stands-commonsense-transgender-locker-room-joke\">reported on the clip<\/a> Huckabee's comments were first noted by <i>Right Wing Watch<\/i> of People for the American Way.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209373610&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Watch Ted Cruz Impersonate Ronald Reagan",
+
+            "link": "http://www.buzzfeed.com/meganapper/watch-ted-cruz-impersonate-ronald-reagan?utm_term=4ldqpia",
+
+            "description": "<p>This is part of a BuzzFeed News investigation into Ted Cruz&#8217;s impressions.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/8/11/enhanced/webdr09/enhanced-buzz-11406-1433778608-32.jpg\" width=\"625\" height=\"469\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Richard Ellis / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Here's Cruz in 2014 impersonating the Gipper at the Travis County Republican Party's Reagan Gala:<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/7AP_dUYA6-8\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=7AP_dUYA6-8\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Here's another video of his Reagan impression from 2012:<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/-2d9bmTElAQ\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=-2d9bmTElAQ\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/meganapper/watch-ted-cruz-impersonate-ronald-reagan\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Megan Apper",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/meganapper/watch-ted-cruz-impersonate-ronald-reagan"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 12:37:58 -0400",
+
+            "group": {
+
+               "description": "<b>This is part of a BuzzFeed News investigation into Ted Cruz's impressions.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "meganapper"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/12/campaign_images/webdr07/watch-ted-cruz-impersonate-ronald-reagan-2-21467-1433781912-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/11/enhanced/webdr09/enhanced-buzz-11406-1433778608-32.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=7AP_dUYA6-8"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=-2d9bmTElAQ"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://buzzfeed-video1.s3.amazonaws.com/video/2015/05/31/GoogleChromeScreenSnapz001-340x376.mp4"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://vine.co/v/MMVTYBhqVOd"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://vine.co/v/eOB9awPKKun"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Ted Cruz: First Thing I'll Do As President Is Send Flowers And Condolences To Reporters Checking Into Therapy",
+
+            "link": "http://www.buzzfeed.com/andrewkaczynski/ted-cruz-first-thing-ill-do-as-president-is-send-flowers-and?utm_term=4ldqpia",
+
+            "description": "<p>He said the second thing he&#8217;ll do is start planning a pig roast on the South Lawn of the White House.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/7/21/enhanced/webdr10/enhanced-buzz-29503-1433728065-7.jpg\" width=\"625\" height=\"417\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Scott Olson / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Texas Sen. Ted Cruz poked fun at reporters at a town hall event last week, saying he&#39;d send a condolence note to reporters and editors that would have to check themselves into therapy if he were elected president.<\/p>\n\n<p>\"Let me start by saying if I&#39;m elected, January 2017, I suppose the first thing I should do is send flowers and a note of condolences to all of the reporters and editors who&#39;ve check themselves into therapy,\" said Cruz to radio host Jeff Kuhner at a WRKO town hall event.<\/p>\n\n<p>Cruz also said he would start planning for a Cuban pig roast on the South Lawn of the White House on December 24, 2017.<\/p>\n\n<p>Here&#39;s the video:<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <p><a href=\"http://buzzfeed-video1.s3.amazonaws.com/video/2015/06/08/Cruzonreporters-624x348.mp4\" target=\"_blank\">View Video &rsaquo;<\/a><\/p>\n\t  \n\t\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Andrew Kaczynski",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/andrewkaczynski/ted-cruz-first-thing-ill-do-as-president-is-send-flowers-and"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 10:26:02 -0400",
+
+            "group": {
+
+               "description": "<b>He said the second thing he'll do is start planning a pig roast on the South Lawn of the White House.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "andrewkaczynski"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/10/campaign_images/webdr14/ted-cruz-first-thing-ill-do-as-president-is-send--2-18361-1433773556-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr10/enhanced-buzz-29503-1433728065-7.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Texas Sen. Ted Cruz poked fun at reporters at a town hall event last week, saying he'd send a condolence note to reporters and editors that would have to check themselves into therapy if he were elected president.\n\n\"Let me start by saying if I'm elected, January 2017, I suppose the first thing I should do is send flowers and a note of condolences to all of the reporters and editors who've check themselves into therapy,\" said Cruz to radio host Jeff Kuhner at a WRKO town hall event.\n\nCruz also said he would start planning for a Cuban pig roast on the South Lawn of the White House on December 24, 2017.\n\nHere's the video:",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://buzzfeed-video1.s3.amazonaws.com/video/2015/06/08/Cruzonreporters-624x348.mp4"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Rand Paul Uses Fake Patrick Henry Quote In South Carolina Speech",
+
+            "link": "http://www.buzzfeed.com/meganapper/rand-paul-uses-fake-patrick-henry-quote-in-south-carolina-sp?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;Patrick Henry said this&#8230;&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Speaking in Greenville, South Carolina last week, Rand Paul said, \"Patrick Henry said this, Patrick Henry said the Constitution is about restraining the government not the people.\"<\/h1>\n\n\t \t  <p><a href=\"http://buzzfeed-video1.s3.amazonaws.com/video/2015/06/07/BrandTall-624x348.mp4\" target=\"_blank\">View Video &rsaquo;<\/a><\/p>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://buzzfeed-video1.s3.amazonaws.com/video/2015/06/07/BrandTall-624x348.mp4\">buzzfeed-video1.s3.amazonaws.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <blockquote><p><big>The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government &mdash; lest it come to dominate our lives and interests.<\/big><\/p><\/blockquote>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <blockquote><p>Another widely cited \"Henry\" quotation is: \"The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government -- lest it come to dominate our lives and interests.\" This is a more complex misquotation, because it sounds like something Henry might have said -- maybe during the 1790s, after he opposed the Constitution&#39;s adoption, when he was hoping to restrict the new government&#39;s powers? The problem is that this quotation seems to have been entirely fabricated, and quite recently at that. The earliest reference I have found to this quotation is in two books published in 2003. But why create a bogus quotation when Henry actually said similar things about the need to restrain government? In any case, this is also frequently cited on social media sites and in political books. On Facebook the quotation has its own \"common interest\" page.<\/p><\/blockquote>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/meganapper/rand-paul-uses-fake-patrick-henry-quote-in-south-carolina-sp\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Megan Apper",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/meganapper/rand-paul-uses-fake-patrick-henry-quote-in-south-carolina-sp"
+
+            },
+
+            "pubDate": "Mon, 08 Jun 2015 10:10:37 -0400",
+
+            "group": {
+
+               "description": "<b>\"Patrick Henry said this...\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "meganapper"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/8/10/campaign_images/webdr10/rand-paul-uses-fake-patrick-henry-quote-in-south--2-23322-1433772633-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://buzzfeed-video1.s3.amazonaws.com/video/2015/06/07/BrandTall-624x348.mp4"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "<blockquote><big>The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government — lest it come to dominate our lives and interests.<\/big><\/blockquote>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "<blockquote>Another widely cited \"Henry\" quotation is: \"The Constitution is not an instrument for the government to restrain the people, it is an instrument for the people to restrain the government -- lest it come to dominate our lives and interests.\" This is a more complex misquotation, because it sounds like something Henry might have said -- maybe during the 1790s, after he opposed the Constitution's adoption, when he was hoping to restrict the new government's powers? The problem is that this quotation seems to have been entirely fabricated, and quite recently at that. The earliest reference I have found to this quotation is in two books published in 2003. But why create a bogus quotation when Henry actually said similar things about the need to restrain government? In any case, this is also frequently cited on social media sites and in political books. On Facebook the quotation has its own \"common interest\" page.<\/blockquote>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=88-xQcRH2nY&amp;t=103"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=XeEJMO-jT2A"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Dick Cheney: Rand Paul Wrong On NSA, Deadlier Attack Than 9/11 Could Be Coming",
+
+            "link": "http://www.buzzfeed.com/andrewkaczynski/dick-cheney-rand-paul-wrong-on-nsa-deadlier-attack-than-911?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;I&#8217;m fearful that we&#8217;ve gotten far enough away now after 14 years, far enough away from 9/11, that too many people have forgotten what has happened and what it&#8217;s like when it does happen,&#8221; the former vice president said.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/7/11/enhanced/webdr06/enhanced-30656-1433692054-8.jpg\" width=\"625\" height=\"417\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Cliff Owen / AP<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209217518&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\" height=\"166\" width=\"100%\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209217518&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true\">w.soundcloud.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Former Vice President Dick Cheney said Sunday Sen. Rand Paul was wrong to force provisions of the Patriot Act to expire last week and that another 9/11-style attack could happen and be deadlier than before. Cheney added he believed now was not the time to be \" weakening the tools intelligence people have to effectively combat terrorists.\"<\/p>\n\n<p>\"I disagree with Rand Paul on that,\" former vice president Dick Cheney said when asked on the <i>John Catsimatidis Roundtable<\/i> if Paul was acting irresponsibly by forcing some provisions of the Patriot Act to expire last week<\/p>\n\n<p>Paul opposed any extension of the Patriot Act and made particular emphasis on the National Security Agency&#39;s bulk collection of data. The Senate agreed to a modified reauthorization of the Patriot Act that has small changes to intelligence agencies&#39; control over the bulk collection of data.<\/p>\n\n<p>\"It&#39;s an important program, it&#39;s a good program,\" said Cheney, noting former NSA and CIA chief Michael Hayden said he believes that had the NSA meta data collection program been in place before 9/11 it might have prevented the attacks. <\/p>\n\n<p>\"I think a lot of what&#39;s been going on there is frankly all politics,\" Cheney added, saying he believed it was now harder to intercept terrorist calls. <\/p>\n\n<p>\"The possibility of further mass casualties attacks like that is very real,\" Cheney said of the Sept. 11, 2001 terrorist attacks. <\/p>\n\n<p>The former vice president said he believed that the \"threat is growing,\" making the possibility of another attack very much real. \"I can&#39;t say where or when,\" he added.<\/p>\n\n<p>\"It strikes me we need to be doing everything we can to stop that attack and to capture the terrorists instead of weakening the tools intelligence people have to effectively combat terrorists. It&#39;s a big deal.\"<\/p>\n\n<p>Cheney said he was \"fearful\" people have forgotten about 9/11 and a deadlier attack could happen next.<\/p>\n\n<p>\"I&#39;m fearful that we&#39;ve gotten far enough away now after 14 years, far enough away from 9/11, that too many people out there have forgotten what happened and what it&#39;s like when it does happen. This is the danger that next time they&#39;ll have something deadlier than airline tickets and box cutters when they launch an attack.\"<\/p>\n\n<p>A Paul spokesman responded to Cheney in an email to BuzzFeed News.<\/p>\n\n<p>\"Sen. Rand Paul agrees with former Vice President Cheney that we must always remain vigilant to the real threat of radical Islamic jihadism, but Sen. Paul, like most Americans, does not believe we should continue the NSA&#39;s illegal and expensive bulk collection program which has not led to a single terror conviction or foiled any plots.\"<\/p>\n\n\n <p><small><\/small><\/p>",
+
+            "author": "Andrew Kaczynski",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/andrewkaczynski/dick-cheney-rand-paul-wrong-on-nsa-deadlier-attack-than-911"
+
+            },
+
+            "pubDate": "Sun, 07 Jun 2015 11:51:05 -0400",
+
+            "group": {
+
+               "description": "<b>\"I'm fearful that we've gotten far enough away now after 14 years, far enough away from 9/11, that too many people have forgotten what has happened and what it's like when it does happen,\" the former vice president said.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "andrewkaczynski"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/15/campaign_images/webdr07/dick-cheney-rand-paul-wrong-on-nsa-deadlier-attac-2-10126-1433704983-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/11/enhanced/webdr06/enhanced-30656-1433692054-8.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F209217518&color=ff5500&auto_play=false&hide_related=false&visual=false&show_artwork=true"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Former Vice President Dick Cheney said Sunday Sen. Rand Paul was wrong to force provisions of the Patriot Act to expire last week and that another 9/11-style attack could happen and be deadlier than before. Cheney added he believed now was not the time to be \" weakening the tools intelligence people have to effectively combat terrorists.\"\n\n\"I disagree with Rand Paul on that,\" former vice president Dick Cheney said when asked on the <i>John Catsimatidis Roundtable<\/i> if Paul was acting irresponsibly by forcing some provisions of the Patriot Act to expire last week\n\nPaul opposed any extension of the Patriot Act and made particular emphasis on the National Security Agency's bulk collection of data. The Senate agreed to a modified reauthorization of the Patriot Act that has small changes to intelligence agencies' control over the bulk collection of data.\n\n\"It's an important program, it's a good program,\" said Cheney, noting former NSA and CIA chief Michael Hayden said he believes that had the NSA meta data collection program been in place before 9/11 it might have prevented the attacks. \n\n\"I think a lot of what's been going on there is frankly all politics,\" Cheney added, saying he believed it was now harder to intercept terrorist calls. \n\n\"The possibility of further mass casualties attacks like that is very real,\" Cheney said of the Sept. 11, 2001 terrorist attacks. \n\nThe former vice president said he believed that the \"threat is growing,\" making the possibility of another attack very much real. \"I can't say where or when,\" he added.\n\n\"It strikes me we need to be doing everything we can to stop that attack and to capture the terrorists instead of weakening the tools intelligence people have to effectively combat terrorists. It's a big deal.\"\n\nCheney said he was \"fearful\" people have forgotten about 9/11 and a deadlier attack could happen next.\n\n\"I'm fearful that we've gotten far enough away now after 14 years, far enough away from 9/11, that too many people out there have forgotten what happened and what it's like when it does happen. This is the danger that next time they'll have something deadlier than airline tickets and box cutters when they launch an attack.\"\n\nA Paul spokesman responded to Cheney in an email to BuzzFeed News.\n\n\"Sen. Rand Paul agrees with former Vice President Cheney that we must always remain vigilant to the real threat of radical Islamic jihadism, but Sen. Paul, like most Americans, does not believe we should continue the NSA's illegal and expensive bulk collection program which has not led to a single terror conviction or foiled any plots.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

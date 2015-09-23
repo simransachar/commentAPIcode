@@ -42,7 +42,7 @@ key_list =  parserkeys.options('API-KEYS')
 COMMUNITY_API_KEY_LIST = [parserkeys.get('API-KEYS', key) for key in key_list]
 
 
-key_limit = 4999
+key_limit = 4000
 
 doc_frequency = {}
 stopword_list = stopwords.words('english')
@@ -94,6 +94,7 @@ class NYTCommunityAPI (object):
         params["api-key"] = self.api_key
         params["offset"] = str(offset)
         params["sort"] = "oldest"
+        params["replyLimit"] = "100"
 
         url = self.URL +  ".json?" + urllib.urlencode (params)
         print url
@@ -104,7 +105,7 @@ class NYTCommunityAPI (object):
 
 # This code scrap the data from NYT API via the API keys and  stored in vocab_comments table
 def CollectComments():
-    try:
+    # try:
         pagesize = 25
         key_index = 0
         API_KEY = COMMUNITY_API_KEY_LIST[key_index]
@@ -154,7 +155,18 @@ def CollectComments():
                         commentBody = escape_string(str(comment["commentBody"].encode("utf8")))
                         createDate = int(comment["createDate"])
                         recommendationCount = int(comment["recommendationCount"])
-                        display_name = escape_string(str(comment["userDisplayName"].encode("utf8")))
+                        display_name = comment["userDisplayName"]
+
+                        if comment["replyCount"] > 3:
+                            print len(comment["replies"]["comments"])
+
+                        if isinstance(display_name,int):
+                            display_name = str(comment["userDisplayName"])
+                        elif display_name.isdigit():
+                            display_name = str(comment["userDisplayName"])
+                        else:
+                            display_name = escape_string(display_name.encode("utf8"))
+
                         userID = int(comment["userID"])
                         location = ""
                         if "userLocation" in r:
@@ -171,9 +183,9 @@ def CollectComments():
                                         recommendationCount, editorsSelection, display_name.decode("utf8"), userID,
                                         location.decode("utf8"), articleURL.decode("utf8"))
 
-                        cursor.execute(insert_query)
+                        # cursor.execute(insert_query)
 
-                cnx.commit()
+                # cnx.commit()
                 offset = offset + pagesize
 
                 update_date_json(d.strftime("%Y-%m-%d"),d_end.strftime("%Y-%m-%d"),offset)
@@ -188,13 +200,13 @@ def CollectComments():
                 update_date_json(d_start.strftime("%Y-%m-%d"),d_end.strftime("%Y-%m-%d"),offset)
 
                 # cut off the comments data that is more than 3 months
-                cursor.execute("select DATE_SUB(max(approveDate), INTERVAL 90 DAY) from vocab_comments ")
+                cursor.execute("select DATE_SUB(max(createDate), INTERVAL 90 DAY) from vocab_comments ")
                 max_date = cursor.fetchall()[0][0].strftime("%Y-%m-%d")
-                cursor.execute("delete from vocab_comments where approveDate < '"+ max_date +"'")
-                cnx.commit()
-    except:
-        print error_name(g_day,g_offset)
-        sys.exit(1)
+                cursor.execute("delete from vocab_comments where createDate < '"+ max_date +"'")
+ #               cnx.commit()
+ #    except:
+ #        print error_name(g_day,g_offset)
+ #        sys.exit(1)
 
 # Frequency of each word is calculated from stored data and output in a JSON
 def ComputeVocabulary():
@@ -217,7 +229,7 @@ def ComputeVocabulary():
         # find cutoff
         unigram_cutoff = 0
         json_data = {}
-        out_file = open("apidata/vocab_freq.json","w")
+        out_file = open("apidata/vocab_freq2.json","w")
         for (i, (word, word_freq)) in enumerate(sorted_list):
             if word_freq < 10:
                 unigram_cutoff = i - 1
@@ -288,7 +300,7 @@ def update_date_json(start_date,end_date,offset_value):
 def getDocumentCount():
     try:
         json_data = {}
-        output_json = open("apidata/document_count.json", "w")
+        output_json = open("apidata/document_count2.json", "w")
         cursor.execute("select count(*) from vocab_comments")
         for count in cursor:
             json_data['document_count'] = str(count[0])
@@ -299,5 +311,5 @@ def getDocumentCount():
 
 user_input()
 CollectComments()
-ComputeVocabulary()
-getDocumentCount()
+#ComputeVocabulary()
+#getDocumentCount()

@@ -1,0 +1,1831 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed  - quiz",
+
+      "link": [
+
+         "http://buzzfeed.com/quiz",
+
+         {
+
+            "@href": "http://buzzfeed.com/quiz.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Sat, 13 Jun 2015 20:07:38 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://buzzfeed.com/quiz"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "Can We Guess Which Decade You Belong In?",
+
+            "link": "http://www.buzzfeed.com/javiermoreno/can-we-guess-which-decade-you-were-meant-for?utm_term=4ldqpia",
+
+            "description": "<p>Time is on your side.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/javiermoreno/can-we-guess-which-decade-you-were-meant-for"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 18:14:33 -0400",
+
+            "group": {
+
+               "description": "Time is on your side.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "javiermoreno"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr12/can-we-guess-which-decade-you-were-meant-for-2-19241-1434234288-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Well Do You Remember The \"Saved By The Bell\" Theme Song?",
+
+            "link": "http://www.buzzfeed.com/emmacooke24/how-well-do-you-remember-the-saved-by-the-bell-t-1ku65?utm_term=4ldqpia",
+
+            "description": "<p>It&#8217;s time for a pop quiz!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/emmacooke24/how-well-do-you-remember-the-saved-by-the-bell-t-1ku65"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 16:30:28 -0400",
+
+            "group": {
+
+               "description": "It's time for a pop quiz!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "emmacooke24"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr07/how-well-do-you-remember-the-saved-by-the-bell-th-2-12284-1434232910-4.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can We Guess Your Favorite Male Actor?",
+
+            "link": "http://www.buzzfeed.com/stephaniebergan/can-we-guess-who-your-favorite-actor-is-1624q?utm_term=4ldqpia",
+
+            "description": "<p>We know your favorite actress, but what about your favorite actor?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/stephaniebergan/can-we-guess-who-your-favorite-actor-is-1624q"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 14:25:41 -0400",
+
+            "group": {
+
+               "description": "We know your favorite <a href=\"http://www.buzzfeed.com/stephaniebergan/can-we-guess-who-your-favorite-actress-is-1624q#.gjMmZMMZk\">actress<\/a>, but what about your favorite actor?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "stephaniebergan"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/16/campaign_images/webdr07/can-we-guess-who-your-favorite-actor-is-1624q-2-24296-1434225803-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Many Of These Seth Rogen Movies Have You Seen?",
+
+            "link": "http://www.buzzfeed.com/nathadoken/how-many-of-these-seth-rogen-movies-have-you-seen-1mozl?utm_term=4ldqpia",
+
+            "description": "<p>Going all the way back to Donnie Darko!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/nathadoken/how-many-of-these-seth-rogen-movies-have-you-seen-1mozl"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 13:59:19 -0400",
+
+            "group": {
+
+               "description": "Going all the way back to <i>Donnie Darko<\/i>!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "nathadoken"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/15/campaign_images/webdr07/how-many-of-these-seth-rogen-movies-have-you-seen-2-24977-1434223698-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Would You Pass For Black?",
+
+            "link": "http://www.buzzfeed.com/iramadison/the-rachel-dolezal-skin-challenge?utm_term=4ldqpia",
+
+            "description": "<p>The Rachel Dolezal Skin Challenge.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/16/enhanced/webdr09/enhanced-20121-1434142796-1.jpg\" width=\"625\" height=\"388\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Ira Madison III / BuzzFeed / Via Universal Studios<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/iramadison/the-rachel-dolezal-skin-challenge"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 12:48:22 -0400",
+
+            "group": {
+
+               "description": "The Rachel Dolezal Skin Challenge.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "iramadison"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr13/how-would-you-pass-for-black-2-9369-1434234567-13.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "388",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr09/enhanced-20121-1434142796-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Match The \"Breakfast Club\" Quote To The Character Who Said It?",
+
+            "link": "http://www.buzzfeed.com/eleanorbate/can-you-match-the-breakfast-club-quote-to-the-ch-1b0l9?utm_term=4ldqpia",
+
+            "description": "<p>You couldn&#8217;t ignore this quiz if you tried.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/eleanorbate/can-you-match-the-breakfast-club-quote-to-the-ch-1b0l9"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 07:05:11 -0400",
+
+            "group": {
+
+               "description": "You couldn't ignore this quiz if you tried.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "eleanorbate"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/12/campaign_images/webdr08/can-you-match-the-breakfast-club-quote-to-the-cha-2-26248-1434213640-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Will You Become Famous?",
+
+            "link": "http://www.buzzfeed.com/apentak720/how-will-you-become-a-famous-celebrity-1b817?utm_term=4ldqpia",
+
+            "description": "<p>You&#8217;ll be a household name before you know it!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/apentak720/how-will-you-become-a-famous-celebrity-1b817"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 09:08:58 -0400",
+
+            "group": {
+
+               "description": "You'll be a household name before you know it!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "apentak720"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/12/campaign_images/webdr03/how-will-you-become-famous-2-9314-1434212302-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can We Guess Who Your Favorite Actress Is?",
+
+            "link": "http://www.buzzfeed.com/stephaniebergan/can-we-guess-who-your-favorite-actress-is-1624q?utm_term=4ldqpia",
+
+            "description": "<p>There are lots of fabulous actresses out there, and we know your fave.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/stephaniebergan/can-we-guess-who-your-favorite-actress-is-1624q"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 09:43:06 -0400",
+
+            "group": {
+
+               "description": "There are lots of fabulous actresses out there, and we know your fave.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "stephaniebergan"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/11/campaign_images/webdr07/can-we-guess-who-your-favorite-actress-is-1624q-2-7850-1434208424-6.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Are You More Bridget Jones Or Samantha Jones?",
+
+            "link": "http://www.buzzfeed.com/lmaccarthy/are-you-more-bridget-jones-or-samantha-jones-a4cp?utm_term=4ldqpia",
+
+            "description": "<p>English lass vs. New York sass.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/lmaccarthy/are-you-more-bridget-jones-or-samantha-jones-a4cp"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 10:12:49 -0400",
+
+            "group": {
+
+               "description": "English lass vs. New York sass.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "lmaccarthy"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/10/campaign_images/webdr10/are-you-more-bridget-jones-or-samantha-jones-2-13791-1434205706-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Well Do You Remember The '00s In Britain?",
+
+            "link": "http://www.buzzfeed.com/floperry/how-well-do-you-remember-the-00s-in-britain?utm_term=4ldqpia",
+
+            "description": "<p>Did you even go there?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/floperry/how-well-do-you-remember-the-00s-in-britain"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 05:34:33 -0400",
+
+            "group": {
+
+               "description": "Did you even go there?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "floperry"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/5/campaign_images/webdr09/how-well-do-you-remember-the-00s-in-britain-2-5876-1434188275-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Guess The Children's Book From One Sentence?",
+
+            "link": "http://www.buzzfeed.com/alexalvarez/old-enough-for-fairy-tales-again?utm_term=4ldqpia",
+
+            "description": "<p>Once upon a time&#8230;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alexalvarez/old-enough-for-fairy-tales-again"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 18:33:44 -0400",
+
+            "group": {
+
+               "description": "Once upon a time...",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alexalvarez"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr12/can-you-guess-the-childrens-book-from-one-sentence-2-19238-1434235886-4.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can We Guess What Type Of Sex You Like By Your Food Preferences?",
+
+            "link": "http://www.buzzfeed.com/javiermoreno/can-we-guess-what-type-of-sex-you-like-by-what-kind-of-food?utm_term=4ldqpia",
+
+            "description": "<p>What do you have an appetite for?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/javiermoreno/can-we-guess-what-type-of-sex-you-like-by-what-kind-of-food"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 19:34:36 -0400",
+
+            "group": {
+
+               "description": "What do you have an appetite for?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "javiermoreno"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/19/campaign_images/webdr09/can-we-guess-what-type-of-sex-you-like-by-what-ki-2-8339-1434152741-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Cosmopolitan Are You?",
+
+            "link": "http://www.buzzfeed.com/dorsey/how-cosmopolitan-are-you?utm_term=4ldqpia",
+
+            "description": "<p>See if you can guess where these pics were taken!<\/p>\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/whats-the-name-of-this-city-npuis5-4uj6?uri=whats-the-name-of-this-city-npuis5-4uj6&cb=1434240458\" width=\"625\" height=\"625\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>What's the name of this city?<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/where-are-these-two-npumbv-4uj6?uri=where-are-these-two-npumbv-4uj6&cb=1434240458\" width=\"625\" height=\"625\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>Where are these two?<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/where-is-this-located-npuiyj-4uj6?uri=where-is-this-located-npuiyj-4uj6&cb=1434240458\" width=\"625\" height=\"625\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>Where is this located?<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/where-is-this-found-npul4v-4uj6?uri=where-is-this-found-npul4v-4uj6&cb=1434240458\" width=\"625\" height=\"625\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>Where is this found?<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/dorsey/how-cosmopolitan-are-you\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/dorsey/how-cosmopolitan-are-you"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 18:52:37 -0400",
+
+            "group": {
+
+               "description": "See if you can guess where these pics were taken!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "dorsey"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/20/campaign_images/webdr13/how-cosmopolitan-are-you-2-23662-1434157129-16.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Are You Actually Dead And No One Can Hear You?",
+
+            "link": "http://www.buzzfeed.com/katienotopoulos/are-you-actually-dead-and-no-one-can-hear-you?utm_term=4ldqpia",
+
+            "description": "<p>I hate to break it to you but there&#8217;s a decent chance you&#8217;re actually a ghost.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/katienotopoulos/are-you-actually-dead-and-no-one-can-hear-you"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 18:33:08 -0400",
+
+            "group": {
+
+               "description": "I hate to break it to you but there's a decent chance you're actually a ghost.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "katienotopoulos"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/campaign_images/webdr04/are-you-actually-dead-and-no-one-can-hear-you-2-31976-1434148440-8.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can We Guess What Song You Grinded To In Middle School?",
+
+            "link": "http://www.buzzfeed.com/elenachilders/can-we-guess-what-song-you-grinded-to-in-middle-school?utm_term=4ldqpia",
+
+            "description": "<p>That special song that made you want to awkwardly push your butt up against someone else.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/elenachilders/can-we-guess-what-song-you-grinded-to-in-middle-school"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 17:27:41 -0400",
+
+            "group": {
+
+               "description": "That special song that made you want to awkwardly push your butt up against someone else.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "elenachilders"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/campaign_images/webdr04/can-we-guess-what-song-you-grinded-to-in-middle-s-2-20037-1434144442-11.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Guess The Horror Film From A Single Image?",
+
+            "link": "http://www.buzzfeed.com/fangirlingdaily/can-you-guess-these-horror-movies-from-their-scree-ioqb?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;I wanna play a game.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/fangirlingdaily/can-you-guess-these-horror-movies-from-their-scree-ioqb"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 16:48:04 -0400",
+
+            "group": {
+
+               "description": "\"I wanna play a game.\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "fangirlingdaily"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/campaign_images/webdr04/can-you-guess-these-horror-movies-from-their-scre-2-21490-1434145183-17.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Which Teen Movie Couple Are You And Your Significant Other?",
+
+            "link": "http://www.buzzfeed.com/evernevera/which-teen-movie-couple-are-you-and-your-significa-16hvl?utm_term=4ldqpia",
+
+            "description": "<p>♫You&#8217;re just too good to be true, can&#8217;t take my eyes off of you.♫<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/evernevera/which-teen-movie-couple-are-you-and-your-significa-16hvl"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 15:18:56 -0400",
+
+            "group": {
+
+               "description": "♫You're just too good to be true, can't take my eyes off of you.♫",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "evernevera"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/campaign_images/webdr09/which-teen-movie-couple-are-you-and-your-signific-2-16844-1434142718-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Which \"Jurassic Park\" Leading Man Should You Hook Up With?",
+
+            "link": "http://www.buzzfeed.com/mathewguiver/which-jurassic-park-leading-man-should-you-hook-up-with?utm_term=4ldqpia",
+
+            "description": "<p>Definitely don&#8217;t stop to think if you should!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/15/enhanced/webdr14/enhanced-13437-1434136457-2.jpg\" width=\"625\" height=\"550\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Universal Pictures<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/mathewguiver/which-jurassic-park-leading-man-should-you-hook-up-with"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 16:23:19 -0400",
+
+            "group": {
+
+               "description": "Definitely don't stop to think if you should!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "mathewguiver"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/campaign_images/webdr15/which-jurassic-park-leading-man-should-you-hook-u-2-13284-1434141333-19.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "550",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/enhanced/webdr14/enhanced-13437-1434136457-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Guess Which Letter Has Been Added?",
+
+            "link": "http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added6?utm_term=4ldqpia",
+
+            "description": "<p>One extra letter makes a big difference!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>For instance, if you add an M, you’ll go from a Lab to a lamb!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/16/enhanced/webdr02/enhanced-9011-1434139556-3.png\" width=\"625\" height=\"401\" alt=\"For instance, if you add an M, you’ll go from a Lab to a lamb!\" /><\/p>\n \n\t\n\n\n <p><small>GlobalP / BackyardProduction / Via ThinkStock<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Keep in mind, one photo could be described by many different words!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/16/enhanced/webdr11/enhanced-5186-1434139556-19.png\" width=\"625\" height=\"401\" alt=\"Keep in mind, one photo could be described by many different words!\" /><\/p>\n \n\t\n\n\n <p><small>GlobalP / BackyardProduction / Via ThinkStock<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>EASY: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added2#.uka33OaqP\">Can You Guess Which Letter Has Been Added? #2<\/a><\/p>\n\n<p>MEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added3#.ghWjjQoWD\">Can You Guess Which Letter Has Been Added? #3<\/a><\/p>\n\n<p>MEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added#.uu8LLrZ93\">Can You Guess Which Letter Has Been Added? #1<\/a><\/p>\n\n<p>HARD: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added5\">Can You Guess Which Letter Has Been Added? #5?<\/a><\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added6\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added6"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 16:22:40 -0400",
+
+            "group": {
+
+               "description": "One extra letter makes a big difference!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "nathanwpyle"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/campaign_images/webdr06/can-you-guess-which-letter-has-been-added-2-9832-1434143511-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "401",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr02/enhanced-9011-1434139556-3.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "401",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr11/enhanced-5186-1434139556-19.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "EASY: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added2#.uka33OaqP\">Can You Guess Which Letter Has Been Added? #2<\/a>\n\nMEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added3#.ghWjjQoWD\">Can You Guess Which Letter Has Been Added? #3<\/a>\n\nMEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added#.uu8LLrZ93\">Can You Guess Which Letter Has Been Added? #1<\/a>\n\nHARD: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added5\">Can You Guess Which Letter Has Been Added? #5?<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can We Guess Your Personality Based On Your Favorite Cupcake?",
+
+            "link": "http://www.buzzfeed.com/apentak720/can-we-guess-your-personality-based-on-what-cupcak-1b817?utm_term=4ldqpia",
+
+            "description": "<p>Your choice in cupcakes reveals a lot.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/apentak720/can-we-guess-your-personality-based-on-what-cupcak-1b817"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 15:00:38 -0400",
+
+            "group": {
+
+               "description": "Your choice in cupcakes reveals a lot.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "apentak720"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/campaign_images/webdr12/can-we-guess-your-personality-based-on-your-favor-2-20517-1434139910-8.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

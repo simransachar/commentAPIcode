@@ -1,0 +1,1211 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed  - Pics Feed",
+
+      "link": [
+
+         "http://buzzfeed.com/pics",
+
+         {
+
+            "@href": "http://buzzfeed.com/pics.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Sat, 13 Jun 2015 20:08:56 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://buzzfeed.com/pics"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "A Helpful Illustrated Guide To \"Dante's Inferno\"",
+
+            "link": "http://www.buzzfeed.com/kmallikarjuna/a-helpful-illustrated-guide-to-dantes-inferno",
+
+            "description": "<p>Abandon all hope ye who enter here.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr05/18/11/enhanced-buzz-26742-1384793449-8.jpg\" width=\"625\" height=\"881\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://datarep.tumblr.com/post/54007624407/dantes-inferno-a-helpful-diagram-to-eternal\">datarep.tumblr.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kmallikarjuna/a-helpful-illustrated-guide-to-dantes-inferno"
+
+            },
+
+            "pubDate": "Mon, 18 Nov 2013 10:54:39 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Abandon all hope ye who enter here.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kmallikarjuna"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr01/18/11/a-helpful-illustrated-guide-to-dantes-inferno-1-23802-1384793678-1.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Edgar Wright Reveals A Totally Super Important Deleted Scene From \"Thor: The Dark World\"",
+
+            "link": "http://www.buzzfeed.com/kmallikarjuna/edgar-wright-reveals-a-totally-super-important-deleted-scene",
+
+            "description": "<p>So it says here that Earth is 16.78 light years from Asgard?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr02/18/11/enhanced-buzz-17938-1384792352-38.jpg\" width=\"576\" height=\"801\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://twitter.com/edgarwright/status/401566023381295104\">Twitter: @edgarwright<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kmallikarjuna/edgar-wright-reveals-a-totally-super-important-deleted-scene"
+
+            },
+
+            "pubDate": "Mon, 18 Nov 2013 10:36:56 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>So it says here that Earth is 16.78 light years from Asgard?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kmallikarjuna"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr05/18/11/edgar-wright-reveals-a-totally-super-important-de-1-27306-1384792614-7.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Unbelievable Photo Of Mount Sinabung Spewing Ash In Indonesia",
+
+            "link": "http://www.buzzfeed.com/michaelrusch/unbelievable-photo-of-mount-sinabung-spewing-ash-in-indonesi",
+
+            "description": "<p>Is that an old man&#8217;s face with a mustache rising out of the volcano?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr01/18/22/enhanced-buzz-19398-1384832854-14.jpg\" width=\"625\" height=\"416\" alt=\"\" /><\/p>\n \n\t<p><b>Mount Sinabung continued to spew volcanic ash throwing a plume 8,000 meters into the atmosphere on Monday as thousands of residents remained in temporary shelters fearful of more eruptions, according to local media.<\/b><\/p>\n\n\n <p><small>Roni Bintang / Reuters<\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/michaelrusch/unbelievable-photo-of-mount-sinabung-spewing-ash-in-indonesi"
+
+            },
+
+            "pubDate": "Mon, 18 Nov 2013 21:59:03 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Is that an old man&#39;s face with a mustache rising out of the volcano?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "michaelrusch"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr07/19/1/unbelievable-photo-of-mount-sinabung-spewing-ash--1-17398-1384840833-23.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "The Chilling Flyer That Accused JFK Of Treason",
+
+            "link": "http://www.buzzfeed.com/briangalindo/the-surprisingly-chilling-flyer-that-accused-jfk-of-treason",
+
+            "description": "<p>Days before the assassination a far-right group distributed anti-Kennedy leaflets around downtown Dallas.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n\t<p>In the days prior to President John F. Kennedy&#39;s assassination, thousands of copies of this flyer appeared around downtown Dallas, accusing the president, of among other things, being communist sympathizer and anti-Christian. <\/p>\n\n<p>The flyers were the creation of retired Major General Edwin Walker, a far-right ultra-conservative who had fought in World War II and the Korean War. Walker resigned his post in 1961 after he was found guilty of violating the <a href=\"http://en.wikipedia.org/wiki/Hatch_Act_of_1939\">Hatch Act.<\/a> <\/p>\n\n<p>In a strange coincidence, Walker had been the target of an assassination attempt by Lee Harvey Oswald in April of 1963. Oswald, who shot into Walker&#39;s home from less than a hundred feet away, narrowly missed him -- the wooden frame of the window deflected the bullet.<\/p>\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr02/18/10/enhanced-buzz-17875-1384787343-2.jpg\" width=\"625\" height=\"824\" alt=\"\" /><\/p>\n \n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://commons.wikimedia.org/wiki/File:Wanted_for_treason.jpg\">commons.wikimedia.org<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p><small>Via <a target=\"_blank\"  href=\"http://www.slate.com/blogs/the_vault/2013/11/15/jfk_assassination_flyer_distributed_in_dallas_by_edwin_walker_s_group_before.html\">slate.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/briangalindo/the-surprisingly-chilling-flyer-that-accused-jfk-of-treason"
+
+            },
+
+            "pubDate": "Mon, 18 Nov 2013 10:55:10 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Days before the assassination a far-right group distributed anti-Kennedy leaflets around downtown Dallas.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "briangalindo"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr06/18/11/the-surprisingly-chilling-flyer-that-accused-jfk--1-28067-1384793708-10.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Alec Baldwin Hints That His MSNBC Show Might Not Return",
+
+            "link": "http://www.buzzfeed.com/dorsey/alec-baldwin-hints-that-his-msnbc-show-might-not-return",
+
+            "description": "<p>The MSNBC host deleted some Sunday night tweets taunting Anderson Cooper about ratings and another tweet that said his suspended show might not return.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr06/18/10/enhanced-buzz-14177-1384788731-20.jpg\" width=\"625\" height=\"1109\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://twitter.com/davecdnb/status/402318724905963520/photo/1\">Twitter: @davecdnb<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/dorsey/alec-baldwin-hints-that-his-msnbc-show-might-not-return"
+
+            },
+
+            "pubDate": "Mon, 18 Nov 2013 09:53:10 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>The MSNBC host deleted some Sunday night tweets taunting Anderson Cooper about ratings and another tweet that said his suspended show might not return.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "dorsey"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr06/18/10/alec-baldwin-hints-that-his-msnbc-show-might-not--1-14144-1384789988-30.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "R2D2 Hangs Out With J.J. Abrams Behind The Scenes Of \"Star Wars VII\"",
+
+            "link": "http://www.buzzfeed.com/kmallikarjuna/r2d2-hangs-out-with-jj-abrams-behind-the-scenes-of-star-wars",
+
+            "description": "<p>The first look from Bad Robot&#8217;s workshop.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>SO IT BEGINS.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr03/14/17/enhanced-buzz-9757-1384468629-20.jpg\" width=\"601\" height=\"755\" alt=\"SO IT BEGINS.\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://twitter.com/bad_robot/status/401077191087095808/photo/1\">Twitter: @bad_robot<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kmallikarjuna/r2d2-hangs-out-with-jj-abrams-behind-the-scenes-of-star-wars"
+
+            },
+
+            "pubDate": "Thu, 14 Nov 2013 16:39:42 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>The first look from Bad Robot&#39;s workshop.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kmallikarjuna"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr07/14/17/r2d2-hangs-out-with-jj-abrams-behind-the-scenes-o-1-13304-1384468781-16.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "You Only Live Eleven Times",
+
+            "link": "http://www.buzzfeed.com/smbc/you-have-eleven-lifetimes-gc67",
+
+            "description": "<p>YOLO is a myth.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr05/7/13/enhanced-buzz-7125-1383847530-43.jpg\" width=\"612\" height=\"5733\" alt=\"\" /><\/p>\n \n\t<p>Also available as a poster at <a href=\"https://smbc.myshopify.com/collections/frontpage/products/lives-18x24-poster\">SMBC&#39;s shop.<\/a><\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.smbc-comics.com/?id=2722\">smbc-comics.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/smbc/you-have-eleven-lifetimes-gc67"
+
+            },
+
+            "pubDate": "Sun, 10 Nov 2013 13:57:52 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>YOLO is a myth.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "smbc"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr05/10/14/you-only-live-eleven-times-1-26941-1384113471-2.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Charmin Tweeted, Then Deleted, This Spectacular \"Thor\" Pun",
+
+            "link": "http://www.buzzfeed.com/lukelewis/charmin-tweeted-then-deleted-this-rather-brilliant-thor-pun",
+
+            "description": "<p>And here it is, for posterity.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr07/10/7/enhanced-buzz-13677-1384085308-5.jpg\" width=\"600\" height=\"600\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://twitter.com/charmin\">Twitter: @charmin<\/a> / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://twitter.com/woshixiongmao\">Twitter: @woshixiongmao<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/lukelewis/charmin-tweeted-then-deleted-this-rather-brilliant-thor-pun"
+
+            },
+
+            "pubDate": "Sun, 10 Nov 2013 06:11:13 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>And here it is, for posterity.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "lukelewis"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr05/11/5/charmin-tweeted-then-deleted-this-spectacular-tho-1-14078-1384166504-1.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Roald Dahl's Letter To A Young Girl Will Make Your Heart Melt",
+
+            "link": "http://www.buzzfeed.com/leonoraepstein/roald-dahls-letter-to-a-young-girl-will-make-your-heart-melt",
+
+            "description": "<p>In 1989, the author of The BFG talked about dreams in bottles.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Here&#39;s a letter from Roald Dahl to a young fan, who sent him a \"dream in a bottle.\" How effing cute is that?<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr06/8/17/enhanced-buzz-29166-1383951240-20.jpg\" width=\"506\" height=\"366\" alt=\"Here&amp;#39;s a letter from Roald Dahl to a young fan, who sent him a &quot;dream in a bottle.&quot; How effing cute is that?\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://imgur.com/gallery/S6PrqCP\">imgur.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p><small>Via <a target=\"_blank\"  href=\"http://imgur.com/gallery/S6PrqCP\">imgur.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/leonoraepstein/roald-dahls-letter-to-a-young-girl-will-make-your-heart-melt"
+
+            },
+
+            "pubDate": "Fri, 08 Nov 2013 17:06:12 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>In 1989, the author of <i>The BFG<\/i> talked about dreams in bottles.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "leonoraepstein"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr05/8/18/roald-dahls-letter-to-a-young-girl-will-make-your-1-6076-1383951970-0.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Hilary Duff Posted A Very Intense Glamour Shot On Twitter",
+
+            "link": "http://www.buzzfeed.com/emilyhennen/hilary-duff-posted-a-very-intense-glamour-shot-on-twitter",
+
+            "description": "<p>Some kids play in the dirt, some kids wear boas and pose for a camera. No judgements here.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1><i>Toddlers &amp; Tiaras<\/i> missed out on a good one!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr03/8/11/enhanced-buzz-20321-1383926550-9.jpg\" width=\"616\" height=\"615\" alt=\"Toddlers &amp;amp; Tiaras missed out on a good one!\" /><\/p>\n \n\t\n\n\n <p><small>HilaryDuff / <a rel=\"nofollow\" target=\"_blank\" href=\"https://twitter.com/HilaryDuff/status/398603136614817792/photo/1\">Twitter: @HilaryDuff<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/emilyhennen/hilary-duff-posted-a-very-intense-glamour-shot-on-twitter"
+
+            },
+
+            "pubDate": "Fri, 08 Nov 2013 10:30:51 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Some kids play in the dirt, some kids wear boas and pose for a camera.<\/b> No judgements here.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "emilyhennen"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr03/8/11/hilary-duff-posted-a-very-intense-glamour-shot-on-1-7888-1383928249-6.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "In Case You Forgot, Karen Gillan Is One Of Us",
+
+            "link": "http://www.buzzfeed.com/kmallikarjuna/in-case-you-forgot-karen-gillan-is-one-of-us",
+
+            "description": "<p>FIERCE SONIC THE HEDGEHOG MANICURE ALERT.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Can we be best friends now Karen?<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr05/6/14/enhanced-buzz-9610-1383767853-29.jpg\" width=\"594\" height=\"772\" alt=\"Can we be best friends now Karen?\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://twitter.com/KarenGillan2/status/395697355673989120\">Twitter: @KarenGillan2<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kmallikarjuna/in-case-you-forgot-karen-gillan-is-one-of-us"
+
+            },
+
+            "pubDate": "Wed, 06 Nov 2013 14:01:22 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>FIERCE SONIC THE HEDGEHOG MANICURE ALERT.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kmallikarjuna"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr06/6/15/in-case-you-forgot-karen-gillan-is-one-of-us-1-3171-1383768081-18.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "This Photo Of Steve Buscemi And Joe Strummer Hanging Out Together Might Be The Coolest Thing Ever",
+
+            "link": "http://www.buzzfeed.com/briangalindo/this-photo-of-steve-buscemi-and-joe-strummer-hanging-out-tog",
+
+            "description": "<p>The late-great Clash frontman and Nucky Thompson himself (aka Buscemi), really mug it up for the camera.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Buscemi and Strummer both smile happily for the camera on the set of their 1989 film, <i>Mystery Train<\/i>.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr05/6/12/enhanced-buzz-24658-1383760419-25.jpg\" width=\"592\" height=\"676\" alt=\"Buscemi and Strummer both smile happily for the camera on the set of their 1989 film, Mystery Train.\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://mickjonez.tumblr.com/post/57895785957/steve-buscemi-and-joe-strummer\">mickjonez.tumblr.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/briangalindo/this-photo-of-steve-buscemi-and-joe-strummer-hanging-out-tog"
+
+            },
+
+            "pubDate": "Wed, 06 Nov 2013 12:52:45 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>The late-great Clash frontman and Nucky Thompson himself (aka Buscemi), really mug it up for the camera.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "briangalindo"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr02/6/13/this-photo-of-steve-buscemi-and-joe-strummer-hang-1-21967-1383763963-4.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "This Photo Of Jay Z And Blue Ivy Will Melt Your Heart",
+
+            "link": "http://www.buzzfeed.com/whitneyjefferson/this-photo-of-jay-z-and-blue-ivy-will-melt-your-heart",
+
+            "description": "<p>And/or make your ovaries explode. You&#8217;ve been warned.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr03/5/12/enhanced-buzz-1277-1383671376-21.jpg\" width=\"625\" height=\"417\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Beyonce&#39;s Tumblr / <a rel=\"nofollow\" target=\"_blank\" href=\"http://iam.beyonce.com/post/66020832776\">iam.beyonce.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/whitneyjefferson/this-photo-of-jay-z-and-blue-ivy-will-melt-your-heart"
+
+            },
+
+            "pubDate": "Tue, 05 Nov 2013 11:11:22 -0500",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>And/or make your ovaries explode.<\/b> You&#39;ve been warned.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "whitneyjefferson"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr03/5/12/this-photo-of-jay-z-and-blue-ivy-will-melt-your-h-1-2255-1383671481-27.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "\"New Yorker\" Cover Lampoons Obamacare Website Mess",
+
+            "link": "http://www.buzzfeed.com/lisatozzi/new-yorker-cover-lampoons-obamacare-website-mess",
+
+            "description": "<p>&ldquo;When I heard that the troubled Obamacare website was built by a Canadian company, of course I felt personally responsible,&rdquo; said Barry Blitt, who drew the new cover.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr01/1/10/enhanced-buzz-28269-1383316605-0.jpg\" width=\"580\" height=\"792\" alt=\"\" /><\/p>\n \n\t<p>&ldquo;I&rsquo;ll be happy when the glitches are all worked out and everything&rsquo;s running smoothly, so I can put this all behind me,&rdquo; said Blitt, who was born in Montreal.<\/p>\n\n\n <p><small>Barry Blitt/The New Yorker / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.newyorker.com/online/blogs/culture\">newyorker.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/lisatozzi/new-yorker-cover-lampoons-obamacare-website-mess"
+
+            },
+
+            "pubDate": "Fri, 01 Nov 2013 10:45:43 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>&ldquo;When I heard that the troubled Obamacare website was built by a Canadian company, of course I felt personally responsible,&rdquo; said Barry Blitt, who drew the new cover.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "lisatozzi"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr05/1/10/new-yorker-cover-lampoons-obamacare-website-mess-1-10041-1383317142-8.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "The Cast Of \"Honey Boo Boo\" Dressed Up As The Kardashians",
+
+            "link": "http://www.buzzfeed.com/whitneyjefferson/the-cast-of-honey-boo-boo-dressed-up-as-the-kardashians",
+
+            "description": "<p>It makes too much sense.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-11/enhanced/webdr05/1/9/enhanced-buzz-15962-1383313359-15.jpg\" width=\"625\" height=\"469\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Here Comes Honey Boo Boo / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.facebook.com/photo.php?fbid=614165215295960&set=a.426544757391341.92973.425814430797707&type=1&theater\">facebook.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/whitneyjefferson/the-cast-of-honey-boo-boo-dressed-up-as-the-kardashians"
+
+            },
+
+            "pubDate": "Fri, 01 Nov 2013 09:46:01 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>It makes too much sense.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "whitneyjefferson"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-11/campaign_images/webdr07/1/9/the-cast-of-honey-boo-boo-dressed-up-as-the-karda-1-7744-1383313559-0.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "You Will Never Look At Arcade Games The Same Way Again",
+
+            "link": "http://www.buzzfeed.com/josephbernstein/you-will-never-look-at-arcade-games-the-same-way-again",
+
+            "description": "<p>Turns out we&#8217;ve all been playing them wrong.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr02/30/11/anigif_enhanced-buzz-21760-1383146321-4.gif\" width=\"325\" height=\"241\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p><small>Via <a target=\"_blank\"  href=\"http://www.reddit.com/r/gaming/comments/1pivxd/this_is_commitment/\">reddit.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/josephbernstein/you-will-never-look-at-arcade-games-the-same-way-again"
+
+            },
+
+            "pubDate": "Wed, 30 Oct 2013 11:20:40 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Turns out we&#39;ve all been playing them wrong.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "josephbernstein"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-10/campaign_images/webdr02/30/11/you-will-never-look-at-arcade-games-the-same-way--1-22907-1383146996-25.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Anthony Weiner Was Once A Cosmo Bachelor",
+
+            "link": "http://www.buzzfeed.com/briangalindo/anthony-weiner-was-once-a-cosmo-bachelor",
+
+            "description": "<p>Back in the mid-&#8217;90s Weiner (aka Carlos Danger) appeared in the magazine&#8217;s illustrious &ldquo;All About Men&rdquo; issue.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n\t<p>Back in 1996, Weiner, then a 31-year-old New York City councilman, appeared as one of <i>Cosmo<\/i> magazine&#39;s \"101 real-life bachelors\" -- where he revealed not only that he planned to run for Congress (soon), but that wanted to be \"sucked into the throes of love.\"<\/p>\n\n<p>Also, Cosmo called him a future president -- I think we all know how that turned out.<\/p>\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr01/29/17/enhanced-buzz-23780-1383083925-30.jpg\" width=\"625\" height=\"561\" alt=\"\" /><\/p>\n \n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://fuckyeahugly90sclothes.tumblr.com/\">fuckyeahugly90sclothes.tumblr.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/briangalindo/anthony-weiner-was-once-a-cosmo-bachelor"
+
+            },
+
+            "pubDate": "Tue, 29 Oct 2013 18:43:29 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>Back in the mid-&#39;90s Weiner (aka Carlos Danger) appeared in the magazine&#39;s illustrious &ldquo;All About Men&rdquo; issue.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "briangalindo"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-10/campaign_images/webdr06/29/18/anthony-weiner-was-once-a-cosmo-bachelor-1-6188-1383086604-0.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Aaron Paul Posted The Most Delightful Photos Of Walter White On Instagram",
+
+            "link": "http://www.buzzfeed.com/lukelewis/aaron-paul-posted-the-most-delightful-photos-of-walter-white",
+
+            "description": "<p>On-set shots of Bryan Cranston wearing pink and carrying the pink teddy bear that will mean so much to Breaking Bad obsessives. Paul&#8217;s caption? &#8220;I miss this man.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr01/29/4/enhanced-buzz-21621-1383034132-18.jpg\" width=\"612\" height=\"612\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Aaron Paul / @glassofwhiskey / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://statigr.am/viewer.php#/user/146293615/\">statigr.am<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/lukelewis/aaron-paul-posted-the-most-delightful-photos-of-walter-white"
+
+            },
+
+            "pubDate": "Tue, 29 Oct 2013 04:14:26 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>On-set shots of Bryan Cranston wearing pink and carrying the <a href=\"http://breakingbad.wikia.com/wiki/Pink_Teddy_Bear\">pink teddy bear<\/a> that will mean so much to <i>Breaking Bad<\/i> obsessives.<\/b> Paul&#39;s caption? \"I miss this man.\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "lukelewis"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-10/campaign_images/webdr01/29/13/aaron-paul-posted-the-most-delightful-photos-of-w-1-23106-1383069449-0.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "The Evolution Of David Beckham In One GIF",
+
+            "link": "http://www.buzzfeed.com/robinedds/the-evolution-of-david-beckham-in-one-gif",
+
+            "description": "<p>From cheeky Essex boy to the coolest man on the planet in just 40 steps.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr03/28/10/anigif_enhanced-buzz-11917-1382969267-16.gif\" width=\"300\" height=\"376\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Getty<\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/robinedds/the-evolution-of-david-beckham-in-one-gif"
+
+            },
+
+            "pubDate": "Mon, 28 Oct 2013 10:13:01 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>From cheeky Essex boy to the coolest man on the planet in just 40 steps.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "robinedds"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-10/campaign_images/webdr06/28/10/the-evolution-of-david-beckham-in-one-gif-1-16876-1382969579-18.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Here's A New Glimpse Of The Coldest Place In The Universe",
+
+            "link": "http://www.buzzfeed.com/kellyoakes/heres-a-new-glimpse-of-the-coldest-place-in-the-universe",
+
+            "description": "<p>The coolest place in space looks a bit like a tooth.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>This is the <a href=\"http://www.jpl.nasa.gov/spaceimages/details.php?id=PIA17551\">Boomerang Nebula<\/a>, a cloud of gas 5000 light years from Earth thought to be the coldest place in the universe.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2013-10/enhanced/webdr02/28/8/enhanced-buzz-26146-1382962031-4.jpg\" width=\"625\" height=\"625\" alt=\"This is the Boomerang Nebula, a cloud of gas 5000 light years from Earth thought to be the coldest place in the universe.\" /><\/p>\n \n\t<p>The bluish background is what the nebula looks like in visible light. But the red shape, seen by the Atacama Large Millimeter/submillimeter Array (ALMA) observatory in Chile, is new to astronomers. It&#39;s the cold molecular gas that is expanding from the nebula&#39;s central dying star. And it&#39;s -273C, just one degree above absolute zero.<\/p>\n\n\n <p><small>NRAO/AUI/NSF/NASA/STScI/JPL-Caltech<\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kellyoakes/heres-a-new-glimpse-of-the-coldest-place-in-the-universe"
+
+            },
+
+            "pubDate": "Mon, 28 Oct 2013 08:37:28 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>The coolest place in space looks a bit like a tooth.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kellyoakes"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2013-10/campaign_images/webdr05/28/9/heres-a-new-glimpse-of-the-coldest-place-in-the-u-1-26926-1382965540-17.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

@@ -1,0 +1,4881 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed Index - Latest",
+
+      "link": [
+
+         "http://www.buzzfeed.com",
+
+         {
+
+            "@href": "http://www.buzzfeed.com/index.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Sat, 13 Jun 2015 20:15:21 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://www.buzzfeed.com"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "Are You More Like Lincoln Or Jaime From \"Broad City\"?",
+
+            "link": "http://www.buzzfeed.com/megang96/are-you-more-like-lincoln-or-jaime-from-broad-city-a31k?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;I get faded off nitrus oxide.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Megan Gibb",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/megang96/are-you-more-like-lincoln-or-jaime-from-broad-city-a31k"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 18:16:07 -0400",
+
+            "group": {
+
+               "description": "\"I get faded off nitrus oxide.\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "megang96"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/12/campaign_images/webdr09/are-you-more-like-lincoln-or-jaime-from-broad-cit-2-31728-1434127228-10.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Michael Clifford Of 5 Seconds Of Summer Burned During Show In London",
+
+            "link": "http://www.buzzfeed.com/davidmack/michael-clifford-of-5-seconds-of-summer-burned-during-show-i?utm_term=4ldqpia",
+
+            "description": "<p>The singer walked into a pyrotechnical display that shot fire up from the stage.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>According to footage captured by fans at the Wembley Arena, Clifford was singed when he walked into a pyrotechnical display of fire shooting up from the stage.<\/h1>\n\n\t \n\t\t  <iframe src=\"https://vine.co/v/eeAgVLd56W3/embed/simple\" height=\"625\" width=\"625\" scrolling=\"no\" frameborder=\"0\" class=\"vine-embed\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://vine.co/v/eeAgVLd56W3\">vine.co<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/davidmack/michael-clifford-of-5-seconds-of-summer-burned-during-show-i\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "David Mack",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/davidmack/michael-clifford-of-5-seconds-of-summer-burned-during-show-i"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 18:10:12 -0400",
+
+            "group": {
+
+               "description": "<b>The singer walked into a pyrotechnical display that shot fire up from the stage.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "davidmack"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/18/campaign_images/webdr14/michael-clifford-of-5-seconds-of-summer-burned-du-2-3945-1434235180-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "https://vine.co/v/eeAgVLd56W3"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "BuzzFeed News has reached out to the band's representatives for more information.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Watch This Two-Year-Old Totally Lose His Mind While Playing Guitar Hero",
+
+            "link": "http://www.buzzfeed.com/abagg/this-little-kid-hears-rage-against-the-machine-for-the-first?utm_term=4ldqpia",
+
+            "description": "<p>No evens to can.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Reddit user <a href=\"http://www.reddit.com/user/gabew101\">gabew101<\/a> posted this video with the caption, \"my two-year-old son hearing Rage Against the Machine for the first time while 'playing' Guitar Hero. The music takes over...\"<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/bidW4aa-Z6M\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=bidW4aa-Z6M\">youtube.com<\/a> / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=bidW4aa-Z6M\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>I think he likes it?!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/18/enhanced/webdr12/anigif_enhanced-17636-1434149079-2.gif\" width=\"500\" height=\"375\" alt=\"I think he likes it?!\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=bidW4aa-Z6M\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/18/enhanced/webdr15/grid-cell-30102-1434149217-7.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/abagg/this-little-kid-hears-rage-against-the-machine-for-the-first\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Allison Bagg",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/abagg/this-little-kid-hears-rage-against-the-machine-for-the-first"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 18:00:15 -0400",
+
+            "group": {
+
+               "description": "No evens to can.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "abagg"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/campaign_images/webdr03/this-little-kid-hears-rage-against-the-machine-fo-2-24958-1434149618-4.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=bidW4aa-Z6M"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "375",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/enhanced/webdr12/anigif_enhanced-17636-1434149079-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/enhanced/webdr15/grid-cell-30102-1434149217-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/enhanced/webdr15/grid-cell-30102-1434149220-12.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Awful Is Your Friend Group?",
+
+            "link": "http://www.buzzfeed.com/carlanka/how-awful-is-your-friend-group?utm_term=4ldqpia",
+
+            "description": "<p>We&#8217;ve all got at least one friend who&#8217;s done something from this list.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/10/enhanced/webdr08/enhanced-28275-1434119176-1.jpg\" width=\"625\" height=\"430\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Channel 4<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Carl Anka",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/carlanka/how-awful-is-your-friend-group"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 17:46:07 -0400",
+
+            "group": {
+
+               "description": "We've all got at least one friend who's done something from this list.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "carlanka"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/campaign_images/webdr15/how-awful-is-your-friend-group-2-22329-1434123344-16.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "430",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/enhanced/webdr08/enhanced-28275-1434119176-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "16 Reasons You Should Drop What You're Doing And Stand Outside While The Sun Sets",
+
+            "link": "http://www.buzzfeed.com/imaansheikh/16-reasons-you-should-drop-what-youre-doing-and-stand-outsid?utm_term=4ldqpia",
+
+            "description": "<p>Get off the computer and view the bright, full-screen, HD stuff of nature.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>It's a great break from looking at screens all day.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/8/enhanced/webdr12/enhanced-19251-1434111651-9.jpg\" width=\"625\" height=\"416\" alt=\"It's a great break from looking at screens all day.\" /><\/p>\n \n\t<p>Valparai, Tamil Nadu.<\/p>\n\n\n <p><small>Thangaraj Kumaravel / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/kumaravel/8624763406/in/photolist-e99aFm-rAoSeA-dT8ZH4-a5cyoe-dyS43p-hoQMEL-pYXXxC-4hoPVQ-ciB1SA-nfZXwe-c71eNy-8cNot-ckib15-dz6Lb6-7TBgP-at87Ho-pcUgh-dUaFuK-cHzxzU-bWX9nX-quDdHc-9svbHE-hZa9N8-9nUanE-bmDibm-docEuN-cvLeW7-rRUR6\">Flickr: kumaravel<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Fresh air.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/10/enhanced/webdr11/enhanced-11702-1434119731-2.jpg\" width=\"625\" height=\"469\" alt=\"Fresh air.\" /><\/p>\n \n\t<p>Mumbai, Maharashtra.<\/p>\n\n\n <p><small>Mrugesh Karnik / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/floyd_n_milan/7166367343/in/photolist-bVgvkD-9tKf4K-9kz9pt-9pZkze-8b9Csc-rrirQ-9oURv8-LZpda-dMGAmN-ncfW9C-c2gWZh-pKU3vL-9BsxtT-7GFzzC-9aQ1Ec-9cxAKN-gR8Qmq-9qd6xU-cgjN3W-9qLGbA-e5jxHX-z5Bps-qeQxz4-9qLY47-9qLXBJ-awxWnC-qqq2EU-f\">Flickr: floyd_n_milan<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>A perfect time to stretch out those stiff muscles.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/9/enhanced/webdr01/enhanced-11286-1434115955-2.jpg\" width=\"625\" height=\"416\" alt=\"A perfect time to stretch out those stiff muscles.\" /><\/p>\n \n\t<p>Calangute, Goa.<\/p>\n\n\n <p><small>Shashank Gupta / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/shashankgupta/4368623290/in/photolist-7E3kvd-dn5uww-9cRxae-surpHp-bu6e3x-b8nCLH-7DUH3B-iAHXGd-bEgqK-2XGzMa-bKz4uK-vZUXm-cSJfLo-5wtJHB-brDuHA-nT4wHP-gmTPxh-gMbEf-bxSnNU-dW7c9m-c8ZyJb-dQXShU-s1EY3F-AJdT7-pwdSfG-kPTV4-oJejN-duJ8\">Flickr: shashankgupta<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>An excuse to get your butt off that uncomfortable office chair.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/9/enhanced/webdr01/enhanced-13016-1434115860-3.jpg\" width=\"625\" height=\"351\" alt=\"An excuse to get your butt off that uncomfortable office chair.\" /><\/p>\n \n\t<p>Thiruvananthapuram, Kerala.<\/p>\n\n\n <p><small>scomedia / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/scomedia/11799098365/\">Flickr: scomedia<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/imaansheikh/16-reasons-you-should-drop-what-youre-doing-and-stand-outsid\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Imaan Sheikh",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/imaansheikh/16-reasons-you-should-drop-what-youre-doing-and-stand-outsid"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 17:30:13 -0400",
+
+            "group": {
+
+               "description": "Get off the computer and view the bright, full-screen, HD stuff of nature.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "imaansheikh"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/campaign_images/webdr01/16-reasons-you-should-drop-what-youre-doing-and-s-2-28862-1434121520-6.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr12/enhanced-19251-1434111651-9.jpg",
+
+                     "@width": "625",
+
+                     "description": "Valparai, Tamil Nadu.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/enhanced/webdr11/enhanced-11702-1434119731-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "Mumbai, Maharashtra.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr01/enhanced-11286-1434115955-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "Calangute, Goa.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr01/enhanced-13016-1434115860-3.jpg",
+
+                     "@width": "625",
+
+                     "description": "Thiruvananthapuram, Kerala.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "413",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr04/enhanced-23019-1434111941-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "Puri, Odisha.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr11/enhanced-14377-1434112120-7.jpg",
+
+                     "@width": "625",
+
+                     "description": "Chennai, Tamil Nadu.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr09/enhanced-19043-1434112352-2.png",
+
+                     "@width": "625",
+
+                     "description": "Chennai, Tamil Nadu.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr11/enhanced-14441-1434112026-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Srinagar, Jammu and Kashmir.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "327",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr11/enhanced-27419-1434114583-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Mamallapuram, Tamil Nadu.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "362",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr04/enhanced-24599-1434112213-8.jpg",
+
+                     "@width": "625",
+
+                     "description": "Midnapore, West Bengal.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "414",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr01/enhanced-12241-1434115631-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Pindari Glacier, Uttarakhand.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "246",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr04/enhanced-1605-1434117097-4.jpg",
+
+                     "@width": "625",
+
+                     "description": "Kanyakumari, Tamil Nadu.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr09/enhanced-308-1434114801-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Vrindavan, Uttar Pradesh.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr01/enhanced-13779-1434115779-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Karwar, Karnataka.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "374",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/enhanced/webdr04/enhanced-10954-1434117334-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Howrah, West Bengal.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "180",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr12/enhanced-1770-1434113628-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Mumbai, Maharashtra.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "What's Your Best Tip For Maintaining Healthy Hair?",
+
+            "link": "http://www.buzzfeed.com/farrahpenn/whats-your-best-tip-for-maintaining-healthy-hair?utm_term=4ldqpia",
+
+            "description": "<p>My life isn&#8217;t perfect, but my hair is.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Good hair days are truly a glorious thing.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/20/enhanced/webdr04/anigif_enhanced-8283-1434067599-2.gif\" width=\"500\" height=\"278\" alt=\"Good hair days are truly a glorious thing.\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://guh-gifgarden.tumblr.com/post/49502633489\">guh-gifgarden.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>But we all know some major TLC goes into sustaining healthy hair.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/20/enhanced/webdr13/anigif_enhanced-16945-1434067406-2.gif\" width=\"500\" height=\"275\" alt=\"But we all know some major TLC goes into sustaining healthy hair.\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://weheartit.com/entry/60182573\">weheartit.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Because unfortunately, we don't all ~wake up like this~.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/18/enhanced/webdr05/anigif_enhanced-19491-1434062178-2.gif\" width=\"500\" height=\"250\" alt=\"Because unfortunately, we don't all ~wake up like this~.\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://ishareimage.com/beyonce-blowing-kisses-gif.asp\">ishareimage.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Everyone has their own secrets to maintaining their luscious locks...<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr13/anigif_enhanced-7208-1434064947-3.gif\" width=\"500\" height=\"281\" alt=\"Everyone has their own secrets to maintaining their luscious locks...\" /><\/p>\n \n\t\n\n\n <p><small>Paramount Pictures<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/farrahpenn/whats-your-best-tip-for-maintaining-healthy-hair\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Farrah Penn",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/farrahpenn/whats-your-best-tip-for-maintaining-healthy-hair"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 17:16:07 -0400",
+
+            "group": {
+
+               "description": "My life isn't perfect, but my hair is.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "farrahpenn"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/campaign_images/webdr02/whats-your-best-tip-for-maintaining-healthy-hair-2-8212-1434140590-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "278",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/20/enhanced/webdr04/anigif_enhanced-8283-1434067599-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "275",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/20/enhanced/webdr13/anigif_enhanced-16945-1434067406-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "250",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/18/enhanced/webdr05/anigif_enhanced-19491-1434062178-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/19/enhanced/webdr13/anigif_enhanced-7208-1434064947-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "336",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/19/enhanced/webdr03/anigif_enhanced-17444-1434066094-1.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/18/enhanced/webdr07/anigif_enhanced-27492-1434063087-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "264",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/19/enhanced/webdr12/anigif_enhanced-29157-1434066231-5.gif",
+
+                     "@width": "470",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "14 Pop-Punk Tattoos That'll Make You Seriously Jealous",
+
+            "link": "http://www.buzzfeed.com/mlew15/17-pop-punk-tattoos-that-kick-some-serious-butt-h0se?utm_term=4ldqpia",
+
+            "description": "<p>Tat&#8217;s so punk rock.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>The Wonder Years<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/296TeHLfVk/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>From the song \"My Last Semester.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/296TeHLfVk/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Fall Out Boy<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/sfO5uFgKab/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>Lyrics from \"Sophomore Slump or Comeback of the Year.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/sfO5uFgKab/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Brand New<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/jbLocnhYil/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>From the song \"The Boy Who Blocked His Own Shot.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/jbLocnhYil/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>The Story So Far<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/242fJ4LfVK/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>Lyrics from \"Clairvoyant.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/242fJ4LfVK/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/mlew15/17-pop-punk-tattoos-that-kick-some-serious-butt-h0se\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Maddi Lewis",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/mlew15/17-pop-punk-tattoos-that-kick-some-serious-butt-h0se"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 17:00:13 -0400",
+
+            "group": {
+
+               "description": "<i>Tat's<\/i> so punk rock.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "mlew15"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/campaign_images/webdr10/17-pop-punk-tattoos-that-kick-some-serious-butt-h-2-14788-1434119618-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "description": "From the song \"My Last Semester.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/296TeHLfVk/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Sophomore Slump or Comeback of the Year.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/sfO5uFgKab/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "From the song \"The Boy Who Blocked His Own Shot.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/jbLocnhYil/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Clairvoyant.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/242fJ4LfVK/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "From \"Northern Downpour.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/xNmlVfsLd2/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/WN-oLlLmix/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3hk_kSQeX1/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "From the song \"All Hype No Heart.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3AZ09rl62R/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Woodwork.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3l-TO5LzbM/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Feeling This.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/2eRspQzYei/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Stay Awake (Dreams Only Last For A Night).\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3YB6rys0nf/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3bqBEkyaZu/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Ballad For The Lost Romantics.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/2oOo8iGhAQ/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Last Hope.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3kYJwpKqcV/"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Is This Prison Food Cruel And Unusual?",
+
+            "link": "http://www.buzzfeed.com/claudiarestrepo/adults-try-prison-food?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;My mouth is afraid of this food.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/1bei7vlf56w\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=1bei7vlf56w\">youtube.com<\/a> / Via BuzzFeed Video<\/small><\/p>",
+
+            "author": "Claudia Restrepo",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/claudiarestrepo/adults-try-prison-food"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 06:01:06 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "\"My mouth is afraid of this food.\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "claudiarestrepo"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/18/campaign_images/webdr14/adults-try-prison-food-2-12253-1434147766-5.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "5 Times That Christopher Lee Played Great Movie Villains",
+
+            "link": "http://www.buzzfeed.com/danmeth/5-times-that-christopher-lee-played-the-greatest-movie-villa?utm_term=4ldqpia",
+
+            "description": "<p>R.I.P. to a good guy who portrayed bad guys.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Saruman<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr04/enhanced-23439-1434133964-3.png\" width=\"625\" height=\"691\" alt=\"Saruman\" /><\/p>\n \n\t<p><b><i>The Lord of The Rings<\/i> trilogy (2001-2003)<br />\n<i>The Hobbit<\/i> trilogy (2012-2014)<\/b><\/p>\n\n\n <p><small>Dan Meth / Via BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Count Dracula<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr12/enhanced-30807-1434133895-8.png\" width=\"625\" height=\"625\" alt=\"Count Dracula\" /><\/p>\n \n\t<p><b><i>Horror of Dracula<\/i> (1958)<br />\n<i>Dracula: Prince of Darkness<\/i> (1966)<br />\n<i>Dracula Has Risen From The Grave<\/i> (1968)<br />\n<i>Scars of Dracula<\/i> (1970)<br />\n<i>Taste the Blood of Dracula<\/i> (1970)<br />\n<i>Count Dracula<\/i> (1970)<br />\n<i>Dracula A.D. 1972<\/i> (1972)<br />\n<i>The Satanic Rites of Dracula<\/i> (1973)<br />\n<i>Dracula and Son<\/i> (1976)<br />\n<\/b><\/p>\n\n\n <p><small>Dan Meth / Via BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Lord Summerisle<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr04/enhanced-23439-1434133982-9.png\" width=\"625\" height=\"397\" alt=\"Lord Summerisle\" /><\/p>\n \n\t<p><b><i>The Wicker Man<\/i> (1973)<\/b><\/p>\n\n\n <p><small>Dan Meth / Via BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Count Dooku<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr08/enhanced-6318-1434134009-7.png\" width=\"625\" height=\"625\" alt=\"Count Dooku\" /><\/p>\n \n\t<p><b><i>Star Wars: Episode II - Attack of The Clones<\/i> (2002)<br />\n<i>Star Wars: Episode III - Return of The Sith<\/i> (2005)<\/b><\/p>\n\n\n <p><small>Dan Meth / Via BuzzFeed<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/danmeth/5-times-that-christopher-lee-played-the-greatest-movie-villa\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Dan Meth",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/danmeth/5-times-that-christopher-lee-played-the-greatest-movie-villa"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 05:46:09 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b>R.I.P. to a good guy who portrayed bad guys.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "danmeth"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/campaign_images/webdr04/5-times-that-christopher-lee-played-the-greatest--2-2221-1434136808-2.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "The Super Charmed Life Of Instagram's Hottest Guy",
+
+            "link": "http://www.buzzfeed.com/doree/atlas-shrugged?utm_term=4ldqpia",
+
+            "description": "<p>It&#39;s a slightly chilly Saturday afternoon in early May, and Brock O&#39;Hurn is worried. The day before, the 23-year-old personal trainer and <a href=\"http://www.buzzfeed.com/coreybarger/the-king-of-man-buns-has-been-found-fz8t#.vgRk9xX1O\">King of Man Buns<\/a> had announced on his Instagram &mdash; which, at last count, has nearly 800,000 followers for the hundreds of photos of Brock doing Brock things like being shirtless, having his hair in a bun, having his hair down, being at the beach, going to the gym, playing guitar, and hanging with his boys &mdash; that he&#39;d be having a meet and greet at the Santa Monica Pier at 1 p.m., and now, sitting in a nearby Starbucks, he&#39;s hoping that people actually show up.<br /><\/p><p>His friend, a 32-year-old Brazilian fashion designer and photographer named Diogo Vinhais, who takes some of the photos on Brock&#39;s Instagram, is reassuring. \"Dude, they&#39;ll definitely show,\" he says, offering Brock half of his spinach feta wrap. Brock stayed up late the night before, and he looks bleary-eyed. But even bleary-eyed, Brock O&#39;Hurn is still 6&#39;7\", 250 pounds, tan, muscular, blue-eyed, with a light-brown, tousled mane that, when not grazing his often shirtless chest, sits in a perfectly messy topknot. He turns heads, whether he was up until 3 a.m. or not. Now, he takes a sip of a huge iced coffee and says, \"OK. Let&#39;s go.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/longform-6148-1434064462-2.jpg\" width=\"720\" height=\"480\" alt=\"\" /><\/p>\n \n\t<p>Photographed on May 9, 2015 in Santa Monica, California.<\/p>\n\n\n <p><small>Macey J. Foronda / BuzzFeed<\/small><\/p>\n\n\n\n\n<p>As we walk toward the pier, Brock wonders, again, if anyone&#39;s going to come. \"I didn&#39;t give people much notice,\" he says. \"And the weather...\"<\/p><p>\"We&#39;ll just start taking pictures of you,\" says Diogo, referring to himself and BuzzFeed&#39;s photographer, who&#39;s coming along for the afternoon. \"It&#39;ll be like ants on food.\"<\/p><p>The first sign that things will probably be fine is when we approach the pier from the side, and as we walk past the public bathrooms, two blonde women who turn out to be mother and daughter see him and approach cautiously yet excitedly. \"We&#39;re here from Ohio,\" says the daughter, 21-year-old Liz Hriczo. \"I was like, if there&#39;s one thing I do in L.A., it&#39;s meet him. Then I was like, he&#39;s doing a meet and greet&#33;\" Her mom, Chris, takes a photo of her with Brock, but it&#39;s not until she walks away that he takes his shirt off. \"Oh my god. I&#39;m gonna throw up,\" says Liz.<\/p><p>Then it&#39;s on. There&#39;s 36-year-old Trista Chen, who drove in from Alhambra with her friend, who says she&#39;s been following Brock on Instagram for a month. \"He&#39;s <i>so<\/i> hot,\" she says. \"I grew up in Asia &mdash; when we were teenagers we read a lot of romance novels. He looks like that.\" She fans herself theatrically.<\/p><p>A man and his girlfriend walk by. \"Who&#39;s he? Some buff guy?\"<\/p><p>An older woman walks by and yells, \"Are you married?\" Brock shakes his head. \"Do you want to get married?\" She laughs and keeps walking.<\/p>\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n<p>A 9-year-old girl named Maddy and her mom, who came from nearby Huntington Beach, pose for a picture with him. \"I&#39;m the one who follows him on Facebook and Instagram,\" says the mom, Jen. \"But Maddy asked if he was going to be wearing a shirt.\"<\/p><p>A group of three young women run up to Brock. They drove two hours from Oceanside, California, near San Diego, leaving their husbands at home. \"We love him,\" says 20-year-old Kayla Cook.<\/p><p>\"He&#39;s <i>gorgeous<\/i>,\" says her friend, 21-year-old Leeza Lloyd.<\/p><p>\"It&#39;s his hair,\" says the third woman, Chelsea White, 20. \"He has really good eyes, too. He&#39;s <i>so<\/i> nice. The whole time we were driving up here, I was like, what&#39;s he gonna be like? And now it&#39;s like, you&#39;re like, <i>real<\/i>.\"<\/p><p>Brock takes pictures, sometimes more than one, with everyone. He is friendly and cheerful. He picks up a 13-year-old boy named Austin for a picture and Austin asks how he takes care of his hair, and Brock tells him he washes it three times a week.<\/p><p>As the crowd on the pier grows, more and more people who are just walking by want to know who the shirtless man posing for pictures is. \"He looks like Thor&#33;\" I hear more than one person say.<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/21/enhanced/webdr04/grid-cell-17589-1434072627-14.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>\n\n\n\n\n<p>\"It&#39;s Brock O&#39;Hurn,\" says one of his fans. \"He&#39;s Instagram famous but he&#39;s about to become, like, <i>really<\/i> famous.\"<\/p><p>I&#39;m momentarily distracted by what I see out of the corner of my eye: Brock lifting up a woman who looks well into grandmother age, and kissing her on the cheek. She turns out to be 73-year-old Evangelina Garcia, who speaks only Spanish, but a woman with her translates for me: \"She just saw him on the pier and said, &#39;What a beautiful man.&#39;\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/grid-cell-5603-1434064659-14.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>\n\n\n\n\n<p>In a world where \"Instagram famous\" and \"<i>really<\/i> famous\" are increasingly the same, Brock O&#39;Hurn is riding some kind of wave. Maybe it&#39;s the man bun, maybe it&#39;s the eyes, maybe it&#39;s the chiseled physique, maybe it&#39;s the selfies where his pants are juuuuuuust a little too low, or the one of him in a cowboy hat at the Stagecoach Music Festival or the goofy one of him in American flag shorts (still shirtless), or him relaxing by a pool, or reading a book (shirtless, hair in man bun). Maybe it&#39;s the other people who show up in his photos &mdash; <a href=\"https://instagram.com/p/yLWQDtFxl-/\">fist-bumping his baby nephew<\/a>, <a href=\"https://instagram.com/p/3Hyo3ylxpJ/\">having fun<\/a> with his \"boys,\" a loose crew of similarly hot friends he&#39;s picked up in his five or so months in L.A. &mdash; who all seem carefully chosen to reflect The Real Brock: a happy, wholesome, sexy dude just living his best life in Los Angeles. The only women in his pictures are <a href=\"https://instagram.com/p/mJqCW1lxjb/\">his mom, his sisters<\/a>, and the occasional longtime female friend. He posts a lot of pictures with quotes that are blandly uplifting, like \"I&#39;m going to tell you you&#39;re beautiful inside and out until you can say it yourself without insecurity or doubt.\" There are no pictures of Brock getting wasted, or even holding a beer, much less smoking pot.<br /><\/p><p>He&#39;s someone a mom would feel comfortable letting her 9-year-old be into. But he is also someone who has been the subject of countless email threads, texts, instant messages, Facebook comments, tweets, and even real-life conversations by actual grown-ups, men and women, who would not normally follow a Brock-like human on Instagram or any other social network, who have progressive ideas about objectification and the male gaze and the female gaze and being body positive, who believe that beauty comes from inside and that external beauty exists in many, many different forms, and yet who secretly can&#39;t believe that such a human actually exists, and is posting selfies, every single day, for our viewing pleasure. There is a degree of self-imposed irony to this pleasure, an acknowledgment that we are willing, if winking, participants in this spectacle. But at their core the feelings are authentic. Brock is, in fact, really hot, and it is, in fact, nice to look at him.<br /><\/p><p>All that said, Brock might have just stayed on the cusp of fame, a notably hot if ultimately fleeting guy showing up in your feed, if not for a 25-second, low-quality video that he posted to Facebook on Nov. 3 with the caption \"In light of Man Bun Monday and No Shave November. Lets do it.\" It&#39;s shot on a webcam at an upward angle in a room with light brown walls and a white closet door, set to the R&amp;B artist PartyNextDoor&#39;s song \"Muse\" (\"Girl let me demonstrate [Let me do it] / Let me demonstrate on you / Girl don&#39;t hesitate / &#39;Cause I won&#39;t hesitate on you\").<\/p><p>It opens with Brock leaning into the camera, his hair flowing past his shoulders. He gives a tiny nod and half-smile to the camera and stands up straighter, gathering his hair into his hands, and putting it into a bun at the top of his head with the help of a hair elastic he has waiting on his left wrist. He&#39;s wearing a blue V-neck T-shirt, and his tanned arm muscles flex as he works, his fingers fiddling with his hair after he&#39;s gathered it into the topknot, and he leans down and glances back into the camera, as though checking himself out in the mirror, and then stands back up again, tinkering with the bun as though he&#39;s going to redo it, but then, at the last moment, releases all of his hair down again, running his fingers through it, and looking back into the camera one last time, a satisfied smile now on his face.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <p><a href=\"http://www.facebook.com/video.php?v=1550423361854943\" target=\"_blank\">View Video &rsaquo;<\/a><\/p>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.facebook.com/video.php?v=1550423361854943\">Facebook: video.php<\/a><\/small><\/p>\n\n\n\n\n<p>The video has gotten nearly 5 million views, with comments like: \"I shared it to my page and just scrolled down so I could watch again. It should play on a loop. ;)\"; \"I am not watching it again....til tomorrow...smh\"; \"I was so grumpy yesterday and I decided to wake up happy today. First thing I saw on FB, this morning, was this video and I was instantly happy. Might be my new morning ritual to watch it. :)\"; and perhaps the most apt: \"Best. Man. Bun. Ever.\"<\/p><p>Now his <a href=\"https://www.facebook.com/brockohurnofficial\">Facebook page<\/a> has almost 350,000 fans, and he started a Snapchat account a couple months ago and launched a <a href=\"https://www.youtube.com/channel/UCf41D5ZGv2S73eHiXkeAUdw\">YouTube channel<\/a> last week, but he&#39;s still surprised at how popular the video is. \"I honestly didn&#39;t put any thought into it,\" he says. \"I&#39;m like, &#39;That many people have seen me?&#39; And I didn&#39;t do anything but put my hair in a bun? Like this is crazy. But it was so awesome.\"<\/p>\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/2pNC78lxim/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/2pNC78lxim/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n<p>\"So are you ready to work out?\" Brock O&#39;Hurn says, smiling. It&#39;s a few weeks before the Santa Monica meetup and we&#39;re at the West Hollywood Equinox, where he&#39;s been working out since he moved to L.A., and where he has agreed to give me a personal training session.<br /><\/p><p>The first thing I notice about Brock IRL isn&#39;t his hair, which is down; or his eyes, which really are that blue; or his muscles, which are hiding behind a loose-fitting long-sleeve T-shirt and a pair of sweatpants. It&#39;s his sheer <i>size<\/i>. When he gives me a hug in greeting, I feel like I&#39;m being enveloped in an enormous mass of manliness. It&#39;s not in any way unpleasant.<\/p><p>I go to the locker room to change and he tells me to meet him by the recumbent bicycles. (I had hurt my foot a week before and wasn&#39;t able to do anything high-impact.) I meet him there, and he&#39;s sitting on a bicycle, languidly cycling. After we warm up, we head over to the lat pull-down machine, and he puts the weight on the lightest setting for me. I do the reps easily, and then he asks if I mind if he works in with me.<\/p><p>I say of course I don&#39;t mind, but I am also thinking that it&#39;s not normal for a trainer to work out with you. Soon, though, I see what he&#39;s up to: He does his first set at 160 pounds, the second at 220, and the last at 260.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/1uvYVUFxt5/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/1uvYVUFxt5/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n<p>\"That&#39;s not the most I can do,\" he says. \"Usually I&#39;ll put, like, a 45-pound plate on it.\" This scenario is repeated at every machine we go to: me doing a very light workout, Brock then showing me how much weight he can handle. As we work out, a stream of guys &mdash; mostly older, very fit guys &mdash; come by to say hello to Brock. He&#39;s eye candy for everyone. They want to know how his <a href=\"http://edmonton.ctvnews.ca/video?clipId=591182\">appearance at a bar in Edmonton, Canada, went<\/a> (answer: The bar where it was held had never had so many people show up for a meet and greet and he got a segment on the local news), whether he&#39;s going to be visiting Florida or South Africa soon, when he can work out with them.<\/p><p>\"You know, when it&#39;s guys working out with each other &mdash; they&#39;re just trying to show off,\" he says.<\/p><p>As we work out, I start to realize that there&#39;s something unexpectedly not quite sexy about Brock, in person, in a way that doesn&#39;t quite totally jibe with the photos I&#39;d been obsessively dissecting for weeks. It&#39;s not that he&#39;s not attractive: He is, both on Instagram and in person, unquestionably an incredibly handsome man. It&#39;s more that I was expecting him to be Channing Tatum in <i>Magic Mike<\/i> &mdash; a little sassy, brash, in on the joke &mdash; and instead he&#39;s more like Channing Tatum in <a href=\"http://www.imdb.com/title/tt0989757/\"><i>Dear John<\/i><\/a>, the love story based on a Nicholas Sparks book about a chivalrous soldier from South Carolina who falls in love with a ridiculously beautiful, sweet, college student played by Amanda Seyfried. It&#39;s not that <i>Dear John<\/i> Channing Tatum isn&#39;t attractive, but that <i>Magic Mike<\/i> Channing Tatum is more exciting, and when the extent of your fame, so far, is posting selfies on the internet &mdash; well, no matter how hot you are, you&#39;re eventually going to need something a little more compelling than some inspirational quotes to maintain people&#39;s interest <i>if<\/i> your goal in life is to be more than someone who posts really hot selfies on the internet. Which Brock says it is, and which means people are likely going to be expecting a certain degree of charisma, even the tiniest bit of edge, as his career evolves.<\/p><p>I think about this again after the training session ends and we&#39;re sitting outside on the patio of Sunset Plaza, an upscale courtyard of shops, restaurants, and gyms, and Brock starts telling me, in his disarmingly soft voice, about treating women right. \"Even though I&#39;m young, I&#39;m very old-school in a sense that I am that guy who will open the door 100% of the time. And I&#39;ll be like, &#39;Sit in the car until I run around to the other side and open the door for you,&#39;\" he says. \"I won&#39;t let you pay on a date. And like when we&#39;re walking down the sidewalk, you&#39;re on the inside no matter what. That&#39;s just how I am. It&#39;s just embedded in me.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/11/enhanced/webdr06/grid-cell-11270-1434037159-8.jpg\" width=\"412\" height=\"307\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<p>That embedding came from growing up in Southern California, the second-oldest in a family of five. His parents divorced when he was around 9 years old, and he was raised mostly by his mom, Paige Hurn (Brock added the O&#39; because he says his family&#39;s original name in Ireland was O&#39;Hearn and he wanted to get back to its roots), who owns a cleaning company. The way he tells it, adolescence was rocky &mdash; he went to nine different high schools in Orange County, Palm Springs, and San Bernardino &mdash; until he started lifting weights his sophomore year in high school.<br /><\/p><p>\"I got tired of being called so skinny because I was 6&#39;3\", I weighed 135 pounds,\" he says. \"The first month I ever worked out, I put on 35 pounds just because I got so hungry. I would wake up 2 a.m. on the dot every night, and I&#39;d have to go eat two turkey sandwiches and two bowls of Fruity Pebbles. And because of working out, I started to get this confidence to me.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/grid-cell-5603-1434064655-4.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>\n\n\n\n\n<p>After high school, he briefly worked for his uncle&#39;s HVAC company, installing heating and cooling systems, before getting a job at Abercrombie &amp; Fitch in Mission Viejo, a wealthy town in Orange County. (Brock is even nice about Abercrombie: \"Don&#39;t get me wrong. I like Abercrombie,\" he says. \"There&#39;s nothing wrong with them. They&#39;re awesome. It&#39;s just... That wasn&#39;t my dream, you know. That&#39;s not my goal. That&#39;s not what I was passionate about.\") Still, he says, working at Abercrombie and subsequently at a True Religion store taught him the value of customer service &mdash; and helped him overcome his natural shyness.<\/p><p>\"It kind of broke me a little more out of my shell,\" he says. \"That&#39;s one thing I learned being really big and really tall &mdash; I&#39;m really intimidating. And I understand that. So for me I have to go above and beyond to either make myself look really funny, to make people feel comfortable...or to be overly nice, which I&#39;m not trying to say I&#39;m not really nice...I hope &mdash; I don&#39;t know if you got a bad vibe from me or not.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/grid-cell-5603-1434064657-9.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>",
+
+            "author": "Doree Shafrir",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/doree/atlas-shrugged"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 05:31:04 -0400",
+
+            "group": {
+
+               "description": "In 2015, it's not unusual for a 23-year-old to suddenly find fame, and hundreds of thousands of followers, merely for being a perfect human specimen. The question for Brock O'Hurn is: What is he going to do with it?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "doree"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/campaign_images/webdr06/atlas-shrugged-2-20557-1434136023-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "<p>It&#39;s a slightly chilly Saturday afternoon in early May, and Brock O&#39;Hurn is worried. The day before, the 23-year-old personal trainer and <a href=\"http://www.buzzfeed.com/coreybarger/the-king-of-man-buns-has-been-found-fz8t#.vgRk9xX1O\">King of Man Buns<\/a> had announced on his Instagram &mdash; which, at last count, has nearly 800,000 followers for the hundreds of photos of Brock doing Brock things like being shirtless, having his hair in a bun, having his hair down, being at the beach, going to the gym, playing guitar, and hanging with his boys &mdash; that he&#39;d be having a meet and greet at the Santa Monica Pier at 1 p.m., and now, sitting in a nearby Starbucks, he&#39;s hoping that people actually show up.<br /><\/p><p>His friend, a 32-year-old Brazilian fashion designer and photographer named Diogo Vinhais, who takes some of the photos on Brock&#39;s Instagram, is reassuring. \"Dude, they&#39;ll definitely show,\" he says, offering Brock half of his spinach feta wrap. Brock stayed up late the night before, and he looks bleary-eyed. But even bleary-eyed, Brock O&#39;Hurn is still 6&#39;7\", 250 pounds, tan, muscular, blue-eyed, with a light-brown, tousled mane that, when not grazing his often shirtless chest, sits in a perfectly messy topknot. He turns heads, whether he was up until 3 a.m. or not. Now, he takes a sip of a huge iced coffee and says, \"OK. Let&#39;s go.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/longform-6148-1434064462-2.jpg\" width=\"720\" height=\"480\" alt=\"\" /><\/p>\n \n\t<p>Photographed on May 9, 2015 in Santa Monica, California.<\/p>\n\n\n <p><small>Macey J. Foronda / BuzzFeed<\/small><\/p>\n\n\n\n\n<p>As we walk toward the pier, Brock wonders, again, if anyone&#39;s going to come. \"I didn&#39;t give people much notice,\" he says. \"And the weather...\"<\/p><p>\"We&#39;ll just start taking pictures of you,\" says Diogo, referring to himself and BuzzFeed&#39;s photographer, who&#39;s coming along for the afternoon. \"It&#39;ll be like ants on food.\"<\/p><p>The first sign that things will probably be fine is when we approach the pier from the side, and as we walk past the public bathrooms, two blonde women who turn out to be mother and daughter see him and approach cautiously yet excitedly. \"We&#39;re here from Ohio,\" says the daughter, 21-year-old Liz Hriczo. \"I was like, if there&#39;s one thing I do in L.A., it&#39;s meet him. Then I was like, he&#39;s doing a meet and greet&#33;\" Her mom, Chris, takes a photo of her with Brock, but it&#39;s not until she walks away that he takes his shirt off. \"Oh my god. I&#39;m gonna throw up,\" says Liz.<\/p><p>Then it&#39;s on. There&#39;s 36-year-old Trista Chen, who drove in from Alhambra with her friend, who says she&#39;s been following Brock on Instagram for a month. \"He&#39;s <i>so<\/i> hot,\" she says. \"I grew up in Asia &mdash; when we were teenagers we read a lot of romance novels. He looks like that.\" She fans herself theatrically.<\/p><p>A man and his girlfriend walk by. \"Who&#39;s he? Some buff guy?\"<\/p><p>An older woman walks by and yells, \"Are you married?\" Brock shakes his head. \"Do you want to get married?\" She laughs and keeps walking.<\/p>\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n<p>A 9-year-old girl named Maddy and her mom, who came from nearby Huntington Beach, pose for a picture with him. \"I&#39;m the one who follows him on Facebook and Instagram,\" says the mom, Jen. \"But Maddy asked if he was going to be wearing a shirt.\"<\/p><p>A group of three young women run up to Brock. They drove two hours from Oceanside, California, near San Diego, leaving their husbands at home. \"We love him,\" says 20-year-old Kayla Cook.<\/p><p>\"He&#39;s <i>gorgeous<\/i>,\" says her friend, 21-year-old Leeza Lloyd.<\/p><p>\"It&#39;s his hair,\" says the third woman, Chelsea White, 20. \"He has really good eyes, too. He&#39;s <i>so<\/i> nice. The whole time we were driving up here, I was like, what&#39;s he gonna be like? And now it&#39;s like, you&#39;re like, <i>real<\/i>.\"<\/p><p>Brock takes pictures, sometimes more than one, with everyone. He is friendly and cheerful. He picks up a 13-year-old boy named Austin for a picture and Austin asks how he takes care of his hair, and Brock tells him he washes it three times a week.<\/p><p>As the crowd on the pier grows, more and more people who are just walking by want to know who the shirtless man posing for pictures is. \"He looks like Thor&#33;\" I hear more than one person say.<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/21/enhanced/webdr04/grid-cell-17589-1434072627-14.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>\n\n\n\n\n<p>\"It&#39;s Brock O&#39;Hurn,\" says one of his fans. \"He&#39;s Instagram famous but he&#39;s about to become, like, <i>really<\/i> famous.\"<\/p><p>I&#39;m momentarily distracted by what I see out of the corner of my eye: Brock lifting up a woman who looks well into grandmother age, and kissing her on the cheek. She turns out to be 73-year-old Evangelina Garcia, who speaks only Spanish, but a woman with her translates for me: \"She just saw him on the pier and said, &#39;What a beautiful man.&#39;\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/grid-cell-5603-1434064659-14.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>\n\n\n\n\n<p>In a world where \"Instagram famous\" and \"<i>really<\/i> famous\" are increasingly the same, Brock O&#39;Hurn is riding some kind of wave. Maybe it&#39;s the man bun, maybe it&#39;s the eyes, maybe it&#39;s the chiseled physique, maybe it&#39;s the selfies where his pants are juuuuuuust a little too low, or the one of him in a cowboy hat at the Stagecoach Music Festival or the goofy one of him in American flag shorts (still shirtless), or him relaxing by a pool, or reading a book (shirtless, hair in man bun). Maybe it&#39;s the other people who show up in his photos &mdash; <a href=\"https://instagram.com/p/yLWQDtFxl-/\">fist-bumping his baby nephew<\/a>, <a href=\"https://instagram.com/p/3Hyo3ylxpJ/\">having fun<\/a> with his \"boys,\" a loose crew of similarly hot friends he&#39;s picked up in his five or so months in L.A. &mdash; who all seem carefully chosen to reflect The Real Brock: a happy, wholesome, sexy dude just living his best life in Los Angeles. The only women in his pictures are <a href=\"https://instagram.com/p/mJqCW1lxjb/\">his mom, his sisters<\/a>, and the occasional longtime female friend. He posts a lot of pictures with quotes that are blandly uplifting, like \"I&#39;m going to tell you you&#39;re beautiful inside and out until you can say it yourself without insecurity or doubt.\" There are no pictures of Brock getting wasted, or even holding a beer, much less smoking pot.<br /><\/p><p>He&#39;s someone a mom would feel comfortable letting her 9-year-old be into. But he is also someone who has been the subject of countless email threads, texts, instant messages, Facebook comments, tweets, and even real-life conversations by actual grown-ups, men and women, who would not normally follow a Brock-like human on Instagram or any other social network, who have progressive ideas about objectification and the male gaze and the female gaze and being body positive, who believe that beauty comes from inside and that external beauty exists in many, many different forms, and yet who secretly can&#39;t believe that such a human actually exists, and is posting selfies, every single day, for our viewing pleasure. There is a degree of self-imposed irony to this pleasure, an acknowledgment that we are willing, if winking, participants in this spectacle. But at their core the feelings are authentic. Brock is, in fact, really hot, and it is, in fact, nice to look at him.<br /><\/p><p>All that said, Brock might have just stayed on the cusp of fame, a notably hot if ultimately fleeting guy showing up in your feed, if not for a 25-second, low-quality video that he posted to Facebook on Nov. 3 with the caption \"In light of Man Bun Monday and No Shave November. Lets do it.\" It&#39;s shot on a webcam at an upward angle in a room with light brown walls and a white closet door, set to the R&amp;B artist PartyNextDoor&#39;s song \"Muse\" (\"Girl let me demonstrate [Let me do it] / Let me demonstrate on you / Girl don&#39;t hesitate / &#39;Cause I won&#39;t hesitate on you\").<\/p><p>It opens with Brock leaning into the camera, his hair flowing past his shoulders. He gives a tiny nod and half-smile to the camera and stands up straighter, gathering his hair into his hands, and putting it into a bun at the top of his head with the help of a hair elastic he has waiting on his left wrist. He&#39;s wearing a blue V-neck T-shirt, and his tanned arm muscles flex as he works, his fingers fiddling with his hair after he&#39;s gathered it into the topknot, and he leans down and glances back into the camera, as though checking himself out in the mirror, and then stands back up again, tinkering with the bun as though he&#39;s going to redo it, but then, at the last moment, releases all of his hair down again, running his fingers through it, and looking back into the camera one last time, a satisfied smile now on his face.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \t  <p><a href=\"http://www.facebook.com/video.php?v=1550423361854943\" target=\"_blank\">View Video &rsaquo;<\/a><\/p>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.facebook.com/video.php?v=1550423361854943\">Facebook: video.php<\/a><\/small><\/p>\n\n\n\n\n<p>The video has gotten nearly 5 million views, with comments like: \"I shared it to my page and just scrolled down so I could watch again. It should play on a loop. ;)\"; \"I am not watching it again....til tomorrow...smh\"; \"I was so grumpy yesterday and I decided to wake up happy today. First thing I saw on FB, this morning, was this video and I was instantly happy. Might be my new morning ritual to watch it. :)\"; and perhaps the most apt: \"Best. Man. Bun. Ever.\"<\/p><p>Now his <a href=\"https://www.facebook.com/brockohurnofficial\">Facebook page<\/a> has almost 350,000 fans, and he started a Snapchat account a couple months ago and launched a <a href=\"https://www.youtube.com/channel/UCf41D5ZGv2S73eHiXkeAUdw\">YouTube channel<\/a> last week, but he&#39;s still surprised at how popular the video is. \"I honestly didn&#39;t put any thought into it,\" he says. \"I&#39;m like, &#39;That many people have seen me?&#39; And I didn&#39;t do anything but put my hair in a bun? Like this is crazy. But it was so awesome.\"<\/p>\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/2pNC78lxim/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/2pNC78lxim/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n<p>\"So are you ready to work out?\" Brock O&#39;Hurn says, smiling. It&#39;s a few weeks before the Santa Monica meetup and we&#39;re at the West Hollywood Equinox, where he&#39;s been working out since he moved to L.A., and where he has agreed to give me a personal training session.<br /><\/p><p>The first thing I notice about Brock IRL isn&#39;t his hair, which is down; or his eyes, which really are that blue; or his muscles, which are hiding behind a loose-fitting long-sleeve T-shirt and a pair of sweatpants. It&#39;s his sheer <i>size<\/i>. When he gives me a hug in greeting, I feel like I&#39;m being enveloped in an enormous mass of manliness. It&#39;s not in any way unpleasant.<\/p><p>I go to the locker room to change and he tells me to meet him by the recumbent bicycles. (I had hurt my foot a week before and wasn&#39;t able to do anything high-impact.) I meet him there, and he&#39;s sitting on a bicycle, languidly cycling. After we warm up, we head over to the lat pull-down machine, and he puts the weight on the lightest setting for me. I do the reps easily, and then he asks if I mind if he works in with me.<\/p><p>I say of course I don&#39;t mind, but I am also thinking that it&#39;s not normal for a trainer to work out with you. Soon, though, I see what he&#39;s up to: He does his first set at 160 pounds, the second at 220, and the last at 260.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n \n\t\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/1uvYVUFxt5/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/1uvYVUFxt5/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n<p>\"That&#39;s not the most I can do,\" he says. \"Usually I&#39;ll put, like, a 45-pound plate on it.\" This scenario is repeated at every machine we go to: me doing a very light workout, Brock then showing me how much weight he can handle. As we work out, a stream of guys &mdash; mostly older, very fit guys &mdash; come by to say hello to Brock. He&#39;s eye candy for everyone. They want to know how his <a href=\"http://edmonton.ctvnews.ca/video?clipId=591182\">appearance at a bar in Edmonton, Canada, went<\/a> (answer: The bar where it was held had never had so many people show up for a meet and greet and he got a segment on the local news), whether he&#39;s going to be visiting Florida or South Africa soon, when he can work out with them.<\/p><p>\"You know, when it&#39;s guys working out with each other &mdash; they&#39;re just trying to show off,\" he says.<\/p><p>As we work out, I start to realize that there&#39;s something unexpectedly not quite sexy about Brock, in person, in a way that doesn&#39;t quite totally jibe with the photos I&#39;d been obsessively dissecting for weeks. It&#39;s not that he&#39;s not attractive: He is, both on Instagram and in person, unquestionably an incredibly handsome man. It&#39;s more that I was expecting him to be Channing Tatum in <i>Magic Mike<\/i> &mdash; a little sassy, brash, in on the joke &mdash; and instead he&#39;s more like Channing Tatum in <a href=\"http://www.imdb.com/title/tt0989757/\"><i>Dear John<\/i><\/a>, the love story based on a Nicholas Sparks book about a chivalrous soldier from South Carolina who falls in love with a ridiculously beautiful, sweet, college student played by Amanda Seyfried. It&#39;s not that <i>Dear John<\/i> Channing Tatum isn&#39;t attractive, but that <i>Magic Mike<\/i> Channing Tatum is more exciting, and when the extent of your fame, so far, is posting selfies on the internet &mdash; well, no matter how hot you are, you&#39;re eventually going to need something a little more compelling than some inspirational quotes to maintain people&#39;s interest <i>if<\/i> your goal in life is to be more than someone who posts really hot selfies on the internet. Which Brock says it is, and which means people are likely going to be expecting a certain degree of charisma, even the tiniest bit of edge, as his career evolves.<\/p><p>I think about this again after the training session ends and we&#39;re sitting outside on the patio of Sunset Plaza, an upscale courtyard of shops, restaurants, and gyms, and Brock starts telling me, in his disarmingly soft voice, about treating women right. \"Even though I&#39;m young, I&#39;m very old-school in a sense that I am that guy who will open the door 100% of the time. And I&#39;ll be like, &#39;Sit in the car until I run around to the other side and open the door for you,&#39;\" he says. \"I won&#39;t let you pay on a date. And like when we&#39;re walking down the sidewalk, you&#39;re on the inside no matter what. That&#39;s just how I am. It&#39;s just embedded in me.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/11/enhanced/webdr06/grid-cell-11270-1434037159-8.jpg\" width=\"412\" height=\"307\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<p>That embedding came from growing up in Southern California, the second-oldest in a family of five. His parents divorced when he was around 9 years old, and he was raised mostly by his mom, Paige Hurn (Brock added the O&#39; because he says his family&#39;s original name in Ireland was O&#39;Hearn and he wanted to get back to its roots), who owns a cleaning company. The way he tells it, adolescence was rocky &mdash; he went to nine different high schools in Orange County, Palm Springs, and San Bernardino &mdash; until he started lifting weights his sophomore year in high school.<br /><\/p><p>\"I got tired of being called so skinny because I was 6&#39;3\", I weighed 135 pounds,\" he says. \"The first month I ever worked out, I put on 35 pounds just because I got so hungry. I would wake up 2 a.m. on the dot every night, and I&#39;d have to go eat two turkey sandwiches and two bowls of Fruity Pebbles. And because of working out, I started to get this confidence to me.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/grid-cell-5603-1434064655-4.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>\n\n\n\n\n<p>After high school, he briefly worked for his uncle&#39;s HVAC company, installing heating and cooling systems, before getting a job at Abercrombie &amp; Fitch in Mission Viejo, a wealthy town in Orange County. (Brock is even nice about Abercrombie: \"Don&#39;t get me wrong. I like Abercrombie,\" he says. \"There&#39;s nothing wrong with them. They&#39;re awesome. It&#39;s just... That wasn&#39;t my dream, you know. That&#39;s not my goal. That&#39;s not what I was passionate about.\") Still, he says, working at Abercrombie and subsequently at a True Religion store taught him the value of customer service &mdash; and helped him overcome his natural shyness.<\/p><p>\"It kind of broke me a little more out of my shell,\" he says. \"That&#39;s one thing I learned being really big and really tall &mdash; I&#39;m really intimidating. And I understand that. So for me I have to go above and beyond to either make myself look really funny, to make people feel comfortable...or to be overly nice, which I&#39;m not trying to say I&#39;m not really nice...I hope &mdash; I don&#39;t know if you got a bad vibe from me or not.\"<\/p>\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/grid-cell-5603-1434064657-9.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Macey J. Foronda / BuzzFeed News<\/small><\/p>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/1tTgIiFxuP/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://www.facebook.com/video.php?v=1550423361854943"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://www.facebook.com/video.php?v=1550423361854943"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "400",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/20/enhanced/webdr08/longform-3307-1433982245-10.jpg",
+
+                     "@width": "300",
+
+                     "description": "caption tk",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "396",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr09/longform-1628-1434036751-16.jpg",
+
+                     "@width": "300",
+
+                     "description": "Caption TK",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/1uvYVUFxt5/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3ElN6LGomQ/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "480",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/19/enhanced/webdr01/longform-6148-1434064462-2.jpg",
+
+                     "@width": "720",
+
+                     "description": "Photographed on May 9, 2015 in Santa Monica, California.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Magazine Withdraws Cover Asking If We Should \"Burn\" Gay People",
+
+            "link": "http://www.buzzfeed.com/alanwhite/this-magazine-asked-if-we-should-burn-gay-people?utm_term=4ldqpia",
+
+            "description": "<p>Updated: Maroc Hebdo has now withdrawn the magazine from sale.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>This week's issue of <i>Maroc Hebdo<\/i> asks, \"Should gay people be burned?\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/12/enhanced/webdr03/enhanced-24420-1434128058-2.png\" width=\"625\" height=\"827\" alt=\"This week's issue of Maroc Hebdo asks, &quot;Should gay people be burned?&quot;\" /><\/p>\n \n\t\n\n\n <p><small>Maroc Hebdo<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>It asks \"What about moral and religious values?\", in the face of the Moroccan Ministry of Health&#39;s call for the decriminalisation of homosexuality.<\/p>\n\n<p>Inside the magazine there are <a href=\"http://www.docdroid.net/139p4/article-homo.pdf.html\">three articles<\/a>. One is a summary of the situation for gay people in Morocco. The second is an interview with a pro LGBT activist in Morroco named Abdellah Ta&iuml;a.<\/p>\n\n<p>However, there is also a piece by the staff writer Mustapha Sehimi, in which he downplays the dangers for gay people in Morocco, saying: \"Today, more than 70 states forbid homosexuality. In around ten of them, the sentence gay people risk death penalty,\" and he adds:<\/p>\n\n<p>\"There is a public moral to preserve... religious values too... There is still a lot to do to strenghten human rights in Morocco so we don&#39;t have to be misled into some dubious fight for such a marginal purpose as decriminalization of homosexuality.\"<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>One Twitter user <a href=\"https://twitter.com/deslnformateur/status/609117983387041793\">noticed<\/a> that the photo was taken in a gay-friendly hotel in Cancun, Mexico.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/6/enhanced/webdr10/enhanced-4106-1434104595-5.jpg\" width=\"625\" height=\"427\" alt=\"One Twitter user noticed that the photo was taken in a gay-friendly hotel in Cancun, Mexico.\" /><\/p>\n \n\t\n\n\n <p><small>Grand Oasis / TA / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.tripadvisor.co.uk/Hotel_Review-g150807-d155958-Reviews-Grand_Oasis_Sens-Cancun_Yucatan_Peninsula.html#photos\">tripadvisor.co.uk<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>It appears to have been uploaded to TripAdvisor by officials from the hotel.<\/p>\n\n<p><a href=\"http://www.eturbonews.com/33471/oasis-sens-rolls-out-new-lgbt-friendly-red-carpet\">According to Global Travel Industry News<\/a>, since \"January 2013, the resort officially began courting LGBT clientele\".<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/alanwhite/this-magazine-asked-if-we-should-burn-gay-people\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Alan White",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alanwhite/this-magazine-asked-if-we-should-burn-gay-people"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 05:16:10 -0400",
+
+            "group": {
+
+               "description": "Updated: <i>Maroc Hebdo<\/i> has now withdrawn the magazine from sale.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alanwhite"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/12/campaign_images/webdr09/magazine-withdraws-cover-asking-if-we-should-burn-2-3600-1434128076-16.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "827",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/12/enhanced/webdr03/enhanced-24420-1434128058-2.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "It asks \"What about moral and religious values?\", in the face of the Moroccan Ministry of Health's call for the decriminalisation of homosexuality.\n\nInside the magazine there are <a href=\"http://www.docdroid.net/139p4/article-homo.pdf.html\">three articles<\/a>. One is a summary of the situation for gay people in Morocco. The second is an interview with a pro LGBT activist in Morroco named Abdellah Taïa.\n\nHowever, there is also a piece by the staff writer Mustapha Sehimi, in which he downplays the dangers for gay people in Morocco, saying: \"Today, more than 70 states forbid homosexuality. In around ten of them, the sentence gay people risk death penalty,\" and he adds:\n\n\"There is a public moral to preserve... religious values too... There is still a lot to do to strenghten human rights in Morocco so we don't have to be misled into some dubious fight for such a marginal purpose as decriminalization of homosexuality.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "427",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/6/enhanced/webdr10/enhanced-4106-1434104595-5.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "It appears to have been uploaded to TripAdvisor by officials from the hotel.\n\n<a href=\"http://www.eturbonews.com/33471/oasis-sens-rolls-out-new-lgbt-friendly-red-carpet\">According to Global Travel Industry News<\/a>, since \"January 2013, the resort officially began courting LGBT clientele\".",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "249",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/6/enhanced/webdr05/enhanced-662-1434104464-1.png",
+
+                     "@width": "456",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Are you stupid?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Your covers are the worst and your publications too lol.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Page reported. And I encourage you all to do the same.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "This is the shameful, irresponsible and criminal issue of <i>Maroc Hebdo<\/i>. It's this unworthy magazine that should be burned.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The magazine has been withdrawn from circulation.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://www.facebook.com/press.mhi/posts/928105257212943"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "In a statement the magazine said that, \"given the particularly strong reactions through social media, <i>Morocco Hebdo<\/i> decided to withdraw this issue from sale and its sites on the internet.\" The statement added: \"It presents at the same time its apologies to all readers who were offended by this theme and it stresses it has no other requirement other than to continue to work for the expansion of a national debate on... the shape of society.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "17 Things All People From Adelaide Say When They Move To Sydney",
+
+            "link": "http://www.buzzfeed.com/stephanieanderson/omg-why-is-it-so-humid?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;WHY IS IT SO HUMID HOW DO PEOPLE LIVE LIKE THIS?!&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>\"I'll never be over how pretty the Bridge and the Opera House are.\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/0/enhanced/webdr07/anigif_enhanced-19001-1434083229-1.gif\" width=\"500\" height=\"380\" alt=\"&quot;I'll never be over how pretty the Bridge and the Opera House are.&quot;\" /><\/p>\n \n\t\n\n\n <p><small>TV Asahi<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/1/enhanced/webdr12/grid-cell-19860-1434086004-4.jpg\" width=\"625\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>CBS<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>\"Everything is open ALL THE TIME HERE OMG.\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/0/enhanced/webdr08/anigif_enhanced-31890-1434084482-2.gif\" width=\"500\" height=\"281\" alt=\"&quot;Everything is open ALL THE TIME HERE OMG.&quot;\" /><\/p>\n \n\t\n\n\n <p><small>FOX<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/stephanieanderson/omg-why-is-it-so-humid\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Stephanie Anderson",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/stephanieanderson/omg-why-is-it-so-humid"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 05:01:05 -0400",
+
+            "group": {
+
+               "description": "\"WHY IS IT SO HUMID HOW DO PEOPLE LIVE LIKE THIS?!\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "stephanieanderson"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/2/campaign_images/webdr07/omg-why-is-it-so-humid-2-6458-1434091454-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "380",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr07/anigif_enhanced-19001-1434083229-1.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/1/enhanced/webdr12/grid-cell-19860-1434086004-4.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr08/anigif_enhanced-31890-1434084482-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "275",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr14/anigif_enhanced-28955-1434084395-4.gif",
+
+                     "@width": "488",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/1/enhanced/webdr02/grid-cell-4529-1434085571-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/1/enhanced/webdr02/grid-cell-4529-1434085573-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "201",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr04/anigif_enhanced-16025-1434084161-3.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "201",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr02/anigif_enhanced-9951-1434084190-2.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/1/enhanced/webdr02/anigif_enhanced-15210-1434088392-5.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "211",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr13/anigif_enhanced-18290-1434083357-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "226",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr05/anigif_enhanced-3712-1434083462-2.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr01/anigif_enhanced-19789-1434083505-6.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "234",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr11/anigif_enhanced-11630-1434083548-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "230",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr13/anigif_enhanced-26013-1434084288-7.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "375",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr04/anigif_enhanced-18171-1434084692-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "367",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/1/enhanced/webdr14/anigif_enhanced-26751-1434085240-7.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "225",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr07/anigif_enhanced-13671-1434083172-8.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "280",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/1/enhanced/webdr14/anigif_enhanced-32241-1434085306-9.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "17 People Who Are Sad To See The End Of MX Newspaper",
+
+            "link": "http://www.buzzfeed.com/caitlinjinks/heres-looking-at-you?utm_term=4ldqpia",
+
+            "description": "<p>Farewell, Mx.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/caitlinjinks/heres-looking-at-you\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Caitlin Jinks",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/caitlinjinks/heres-looking-at-you"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 04:46:09 -0400",
+
+            "group": {
+
+               "description": "Farewell, <i>Mx.<\/i>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "caitlinjinks"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/3/campaign_images/webdr02/17-people-who-are-sad-to-see-the-end-of-mx-newspa-2-29146-1434095134-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "News Corp confirmed the closure of the newspapers late last month.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "230",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/3/enhanced/webdr11/anigif_enhanced-29286-1434093427-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "How Many Julia Roberts Movies Have You Seen?",
+
+            "link": "http://www.buzzfeed.com/IlanaGazda/how-many-julia-roberts-movies-have-you-seen-xlbl?utm_term=4ldqpia",
+
+            "description": "<p>“I’m gonna treat you so nice, you’re never gonna let me go.”<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Ilana Gazda",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/IlanaGazda/how-many-julia-roberts-movies-have-you-seen-xlbl"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 04:46:08 -0400",
+
+            "group": {
+
+               "description": "“I’m gonna treat you so nice, you’re never gonna let me go.”",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "IlanaGazda"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/13/campaign_images/webdr14/how-many-julia-roberts-movies-have-you-seen-2-29898-1434130427-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Dave Grohl Breaks His Leg During Show, Continues Playing Like The Badass He Is",
+
+            "link": "http://www.buzzfeed.com/jamiejones/dave-grohl-is-boss?utm_term=4ldqpia",
+
+            "description": "<p>Rock &#8216;n&#8217; roll personified.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1><i>Foo Fighters<\/i> front man, and rock god, Dave Grohl was performing in Gothenburg, Sweden when he fell off the stage, breaking his leg.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/13/4/enhanced/webdr07/enhanced-5948-1434182628-1.jpg\" width=\"625\" height=\"417\" alt=\"Foo Fighters front man, and rock god, Dave Grohl was performing in Gothenburg, Sweden when he fell off the stage, breaking his leg.\" /><\/p>\n \n\t\n\n\n <p><small>Erik Abel / AP<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/13/4/enhanced/webdr13/grid-cell-3048-1434184125-2.jpg\" width=\"309\" height=\"204\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=pNf0NEHVIdk\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/13/4/enhanced/webdr13/grid-cell-3048-1434184126-5.jpg\" width=\"309\" height=\"204\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=pNf0NEHVIdk\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/jamiejones/dave-grohl-is-boss\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Jamie Jones",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/jamiejones/dave-grohl-is-boss"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 04:32:31 -0400",
+
+            "group": {
+
+               "description": "Rock 'n' roll personified.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "jamiejones"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/15/campaign_images/webdr07/dave-grohl-breaks-his-leg-during-show-continues-p-2-23404-1434225320-6.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/4/enhanced/webdr07/enhanced-5948-1434182628-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/4/enhanced/webdr13/grid-cell-3048-1434184125-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/4/enhanced/webdr13/grid-cell-3048-1434184126-5.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "424",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/3/enhanced/webdr01/enhanced-23155-1434182365-4.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "According to a concert attendee: \"Medics arrived shortly and carried him off the stage. The rest of the band followed him backstage but soon returned to play a few songs without him. After those few songs, MEDICS CARRY DAVE BACK ONTO THE STAGE AND PLACE HIM IN A CHAIR. They continued to play for 2 hours after that, only taking a 5 minute break for Dave to have his leg put in a cast.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "627",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/5/enhanced/webdr06/enhanced-28619-1434186957-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/319dxwtcuP/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://www.facebook.com/photo.php?fbid=10155643082760545&amp;set=a.279348605544.316433.25098475544&amp;type=1"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/13/4/enhanced/webdr01/anigif_enhanced-buzz-25005-1434183570-11.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "What Song Should You Play On Repeat This Weekend?",
+
+            "link": "http://www.buzzfeed.com/kelleydunlap/what-song-should-you-play-on-repeat-this-weekend-26?utm_term=4ldqpia",
+
+            "description": "<p>Let&#8217;s get it started.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/11/enhanced/webdr01/enhanced-3707-1434123993-6.jpg\" width=\"625\" height=\"625\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Alice Mongkongllite / BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Kelley Dunlap",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kelleydunlap/what-song-should-you-play-on-repeat-this-weekend-26"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 04:31:05 -0400",
+
+            "group": {
+
+               "description": "Let's get it started.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kelleydunlap"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/campaign_images/webdr12/what-song-should-you-play-on-repeat-this-weekend-2-6546-1434135160-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "625",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/enhanced/webdr01/enhanced-3707-1434123993-6.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "16 Signs You've Failed Your Italian Heritage",
+
+            "link": "http://www.buzzfeed.com/tahliapritchard/sorry-for-the-shame-family?utm_term=4ldqpia",
+
+            "description": "<p>Sorry Nonna and Nonno.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>You haven't been to Italy.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/23/enhanced/webdr08/anigif_enhanced-24979-1434081385-2.gif\" width=\"400\" height=\"225\" alt=\"You haven't been to Italy.\" /><\/p>\n \n\t\n\n\n <p><small>Bravo<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>You can't speak Italian.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/21/enhanced/webdr02/anigif_enhanced-buzz-7025-1434073994-6.gif\" width=\"500\" height=\"281\" alt=\"You can't speak Italian.\" /><\/p>\n \n\t\n\n\n <p><small>DreamWorks Pictures<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>You don't date other Italians.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/21/enhanced/webdr08/anigif_enhanced-buzz-31727-1434074234-6.gif\" width=\"500\" height=\"282\" alt=\"You don't date other Italians.\" /><\/p>\n \n\t\n\n\n <p><small>FOX<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/tahliapritchard/sorry-for-the-shame-family\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Tahlia Pritchard",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/tahliapritchard/sorry-for-the-shame-family"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 04:24:08 -0400",
+
+            "group": {
+
+               "description": "Sorry Nonna and Nonno.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "tahliapritchard"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/campaign_images/webdr11/sorry-for-the-shame-family-2-18634-1434085059-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "225",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/23/enhanced/webdr08/anigif_enhanced-24979-1434081385-2.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/21/enhanced/webdr02/anigif_enhanced-buzz-7025-1434073994-6.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "282",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/21/enhanced/webdr08/anigif_enhanced-buzz-31727-1434074234-6.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr02/grid-cell-1598-1434081601-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr02/grid-cell-1598-1434081602-5.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "278",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/21/enhanced/webdr10/anigif_enhanced-buzz-16769-1434074370-6.gif",
+
+                     "@width": "500",
+
+                     "description": "Do not drag the \"o\" in risotto. Ever.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "426",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/0/enhanced/webdr10/anigif_enhanced-4114-1434081677-2.gif",
+
+                     "@width": "450",
+
+                     "description": "Like the food is fine, but also you've spent your whole life eating it.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "232",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr14/anigif_enhanced-4709-1434075004-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr03/anigif_enhanced-buzz-9729-1434075207-5.gif",
+
+                     "@width": "500",
+
+                     "description": "You know if you're going to eat Italian foods, your nonna makes it best anyway.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "219",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr13/anigif_enhanced-buzz-1759-1434075373-16.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr08/anigif_enhanced-buzz-7092-1434075046-5.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr03/anigif_enhanced-buzz-9883-1434075544-5.gif",
+
+                     "@width": "499",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "280",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr02/anigif_enhanced-15238-1434075688-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr07/anigif_enhanced-buzz-26611-1434075796-9.gif",
+
+                     "@width": "490",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr10/grid-cell-22280-1434076089-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr10/grid-cell-22280-1434076091-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "210",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/23/enhanced/webdr15/anigif_enhanced-buzz-25897-1434081236-6.gif",
+
+                     "@width": "500",
+
+                     "description": "Fact: Italians love gossiping.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/23/enhanced/webdr14/anigif_enhanced-buzz-19617-1434081308-5.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Guess Which Letter Has Been Added?",
+
+            "link": "http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added6?utm_term=4ldqpia",
+
+            "description": "<p>One extra letter makes a big difference!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>For instance, if you add an M, you’ll go from a Lab to a lamb!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/16/enhanced/webdr02/enhanced-9011-1434139556-3.png\" width=\"625\" height=\"401\" alt=\"For instance, if you add an M, you’ll go from a Lab to a lamb!\" /><\/p>\n \n\t\n\n\n <p><small>GlobalP / BackyardProduction / Via ThinkStock<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Keep in mind, one photo could be described by many different words!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/16/enhanced/webdr11/enhanced-5186-1434139556-19.png\" width=\"625\" height=\"401\" alt=\"Keep in mind, one photo could be described by many different words!\" /><\/p>\n \n\t\n\n\n <p><small>GlobalP / BackyardProduction / Via ThinkStock<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>EASY: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added2#.uka33OaqP\">Can You Guess Which Letter Has Been Added? #2<\/a><\/p>\n\n<p>MEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added3#.ghWjjQoWD\">Can You Guess Which Letter Has Been Added? #3<\/a><\/p>\n\n<p>MEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added#.uu8LLrZ93\">Can You Guess Which Letter Has Been Added? #1<\/a><\/p>\n\n<p>HARD: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added5\">Can You Guess Which Letter Has Been Added? #5?<\/a><\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added6\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Nathan W. Pyle",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added6"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 04:16:10 -0400",
+
+            "group": {
+
+               "description": "One extra letter makes a big difference!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "nathanwpyle"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/campaign_images/webdr06/can-you-guess-which-letter-has-been-added-2-9832-1434143511-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "401",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr02/enhanced-9011-1434139556-3.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "401",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/enhanced/webdr11/enhanced-5186-1434139556-19.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "EASY: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added2#.uka33OaqP\">Can You Guess Which Letter Has Been Added? #2<\/a>\n\nMEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added3#.ghWjjQoWD\">Can You Guess Which Letter Has Been Added? #3<\/a>\n\nMEDIUM: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added#.uu8LLrZ93\">Can You Guess Which Letter Has Been Added? #1<\/a>\n\nHARD: <a href=\"http://www.buzzfeed.com/nathanwpyle/can-you-guess-which-letter-has-been-added5\">Can You Guess Which Letter Has Been Added? #5?<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "The Plot Of \"27 Dresses\" Explained By Someone Who Has Never Seen It",
+
+            "link": "http://www.buzzfeed.com/alexisnedd/how-many-dresses-are-there-i-think-twenty-seven-end-of-movie?utm_term=4ldqpia",
+
+            "description": "<p>This is it, right? Right?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/16/enhanced/webdr12/enhanced-20525-1434140140-7.jpg\" width=\"510\" height=\"755\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>20th Century Fox / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.impawards.com/2008/twenty_seven_dresses.html\">impawards.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/15/enhanced/webdr01/enhanced-14493-1434138101-17.jpg\" width=\"625\" height=\"804\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Lalouetto / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/15/enhanced/webdr03/enhanced-22471-1434138104-8.jpg\" width=\"625\" height=\"624\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Lalouetto / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/15/enhanced/webdr07/enhanced-11592-1434138554-1.jpg\" width=\"625\" height=\"414\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>20th Century Fox / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.justjared.com/photo-gallery/808171/27-dresses-movie-stills-03/\">justjared.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/alexisnedd/how-many-dresses-are-there-i-think-twenty-seven-end-of-movie\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Alexis Nedd",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alexisnedd/how-many-dresses-are-there-i-think-twenty-seven-end-of-movie"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 04:01:05 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "This is it, right? Right?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alexisnedd"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/16/campaign_images/webdr15/the-plot-of-27-dresses-explained-by-someone-who-h-2-11722-1434140440-0.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "21 Times Mary-Kate And Ashley Movies Gave You Unrealistic Life Goals",
+
+            "link": "http://www.buzzfeed.com/eleanorbate/21-times-mary-kate-and-ashley-movies-gave-you-unre-1b0l9?utm_term=4ldqpia",
+
+            "description": "<p>When their hair was always perfectly tousled.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>When they seemed to travel to every single continent and money wasn't an issue.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/8/enhanced/webdr13/anigif_enhanced-23053-1433940099-2.gif\" width=\"475\" height=\"334\" alt=\"When they seemed to travel to every single continent and money wasn't an issue.\" /><\/p>\n \n\t\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/seriously-they-went-ieverywherei-npqceh-1k1kf?uri=seriously-they-went-ieverywherei-npqceh-1k1kf&cb=1434240922\" width=\"625\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>Seriously. They went <i>everywhere<\/i>.<\/h1>\n\n \n\t\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>When they broke into a super fancy hotel room and all they got out of it was a hot, shirtless love interest.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/8/enhanced/webdr15/anigif_enhanced-15161-1433939645-2.gif\" width=\"500\" height=\"281\" alt=\"When they broke into a super fancy hotel room and all they got out of it was a hot, shirtless love interest.\" /><\/p>\n \n\t\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/when-they-came-up-with-sassy-lines-like-this-on-npqayf-1k1kf?uri=when-they-came-up-with-sassy-lines-like-this-on-npqayf-1k1kf&cb=1434240922\" width=\"625\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>When they came up with ~sassy~ lines like this on the spot:<\/h1>\n\n \n\t\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/eleanorbate/21-times-mary-kate-and-ashley-movies-gave-you-unre-1b0l9\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Ellie Bate",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/eleanorbate/21-times-mary-kate-and-ashley-movies-gave-you-unre-1b0l9"
+
+            },
+
+            "pubDate": "Sat, 13 Jun 2015 03:46:10 -0400",
+
+            "group": {
+
+               "description": "When their hair was always perfectly tousled.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "eleanorbate"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/12/campaign_images/webdr14/21-times-mary-kate-and-ashley-movies-gave-you-unr-2-10580-1434126131-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "334",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr13/anigif_enhanced-23053-1433940099-2.gif",
+
+                     "@width": "475",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr15/anigif_enhanced-15161-1433939645-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr15/anigif_enhanced-16118-1433939709-2.gif",
+
+                     "@width": "499",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "This was probably the cause of all the fights with your parents about how mature you were at age twelve.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "250",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr11/anigif_enhanced-10450-1433939753-4.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "400",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr01/anigif_enhanced-3368-1433939884-9.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "And they still saved the day at the end.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "They just made it look <i>so fun<\/i>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "346",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr02/anigif_enhanced-21304-1433940215-14.gif",
+
+                     "@width": "480",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "333",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr04/anigif_enhanced-27774-1433940310-7.gif",
+
+                     "@width": "587",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "375",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr03/anigif_enhanced-24723-1433940355-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "218",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/9/enhanced/webdr06/anigif_enhanced-3856-1433941225-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "360",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr14/anigif_enhanced-18049-1433940410-5.gif",
+
+                     "@width": "480",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Literally nobody is this smooth in real life.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "343",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr07/anigif_enhanced-6099-1433940542-2.gif",
+
+                     "@width": "480",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "337",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr07/anigif_enhanced-6359-1433940669-3.gif",
+
+                     "@width": "482",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "273",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr12/anigif_enhanced-7406-1433940775-3.gif",
+
+                     "@width": "500",
+
+                     "description": "Also when they got free makeovers from a salon in New York City. Yeah, right.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "265",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/9/enhanced/webdr14/anigif_enhanced-18172-1433941438-8.gif",
+
+                     "@width": "480",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "280",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/9/enhanced/webdr12/anigif_enhanced-8189-1433941418-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

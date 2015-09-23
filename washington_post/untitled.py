@@ -5,6 +5,7 @@ import mysql.connector
 import json
 import requests
 from ConfigParser import SafeConfigParser
+from random import randint
 
 app = Flask(__name__)
 app.debug = True
@@ -19,14 +20,6 @@ user = parser.get('credentials', 'user')
 password = parser.get('credentials', 'password')
 host = parser.get('credentials', 'host')
 database = parser.get('credentials', 'database')
-
-# cnx = mysql.connector.connect(user='root', password='simran',
-#                               host='127.0.0.1',
-#                               database='comment_iq')
-# # cnx = mysql.connector.connect(user='merrillawsdb', password='WR3QZGVaoHqNXAF',
-# #                              host='awsdbinstance.cz5m3w6kwml8.us-east-1.rds.amazonaws.com',
-# #                              database='comment_iq')
-# cursor = cnx.cursor()
 
 base_url = "http://api.comment-iq.com/commentIQ/v1"
 
@@ -68,7 +61,11 @@ def show_index():
             tag.replaceWithChildren()
             row[2] = soup.get_text()
     cnx.close
-    return render_template('index.html',article_text_list=article_text_list,article_title=article_title,article_url=article_url,disp_list=disp_list)
+
+    current_time = time.strftime("%B %d, %Y")
+
+    return render_template('index.html',article_text_list=article_text_list,article_title=article_title, \
+                           article_url=article_url,disp_list=disp_list,current_time=current_time)
 
 @app.route('/articles')
 def articles():
@@ -126,8 +123,9 @@ def articles():
         new_comment="yes"
 
     else:
+
         cursor.execute("select commentBody,approveDate,display_name,ArticleRelevance,ConversationalRelevance,commentID" \
-                       ",PersonalXP,Readability from client_comments where articleURL = '" + article_url + "' "
+                       ",PersonalXP,Readability,CommentLength from client_comments where articleURL = '" + article_url + "' "
                         "order by approveDate ")
     for row in cursor:
         row = list(row)
@@ -153,8 +151,12 @@ def articles():
         article_title.append(row[2])
         article_url.append(row[7])
     cnx.close
+
+    current_time = time.strftime("%B %d, %Y")
+
     return render_template('style-demo.html',comment_data=comment_data,article_data=article_data,new_comment=new_comment \
-                           ,article_text_list=article_text_list,article_title=article_title,article_url=article_url,updated=updated)
+                           ,article_text_list=article_text_list,article_title=article_title,article_url=article_url, \
+                           current_time=current_time,updated=updated)
 
 @app.route('/new_article', methods=['GET', 'POST'])
 def new_article():
@@ -163,15 +165,22 @@ def new_article():
 
     if request.method == 'POST':
         article_title = request.form['title']
+        if len(article_title) < 1:
+            article_title = "No Title"
         article_text = request.form['article_text']
+        if len(article_text) < 1:
+            article_text = "No Text in the article"
         article_url = request.form['url']
+        if len(article_url) < 1:
+            article_url = "articleurl" + str(randint(1,100))
+
         material_type = request.form['type']
         current_time = time.strftime("%Y-%m-%d %I:%M:%S")
         url = base_url + "/addArticle"
         params = {'article_text' : article_text }
         param_json = json.dumps(params)
         response = requests.post(url, param_json)
-        print
+        print response
         commentiq_article_id = response.json()['articleID']
         article_text = article_text.strip()
         article_text = escape_string(article_text)
@@ -195,8 +204,13 @@ def new_article():
         article_text_list.append(article_text)
         article_title.append(row[2])
         article_url.append(row[7])
+    cnx.commit()
     cnx.close
-    return render_template('new_article.html',article_text_list=article_text_list,article_title=article_title,article_url=article_url)
+
+    current_time = time.strftime("%B %d, %Y")
+
+    return render_template('new_article.html',article_text_list=article_text_list,article_title=article_title, \
+                           current_time=current_time,article_url=article_url)
 
 @app.route('/add_comment', methods=['GET', 'POST'])
 def add_comment():
@@ -235,6 +249,7 @@ def add_comment():
                         str(Readability), str(Length),str(commentiq_comment_id))
         cursor.execute(insert_query)
         new_comment="yes"
+        cnx.commit()
         cnx.close
     return redirect(url_for('articles',article_url=article_url,new_comment=new_comment))
 
@@ -317,8 +332,12 @@ def edit_comment():
         article_title.append(row[2])
         article_url.append(row[7])
     cnx.close
+
+    current_time = time.strftime("%B %d, %Y")
+
     return render_template('edit_comment.html',comment_data=comment_data,article_data=article_data,new_comment=new_comment \
-                           ,article_text_list=article_text_list,article_title=article_title,article_url=article_url,commentID=commentID)
+                           ,article_text_list=article_text_list,article_title=article_title,article_url=article_url, \
+                           current_time=current_time,commentID=commentID)
 
 @app.route('/update_comment', methods=['GET', 'POST'])
 def update_comment():
@@ -350,6 +369,7 @@ def update_comment():
                  ",PersonalXP = '"+ str(PersonalXP) +"',Readability = '"+ str(Readability) +"'" \
                  ",CommentLength = '"+ str(Length) +"' where commentID = '"+ str(commentID) +"'"
         cursor.execute(update)
+        cnx.commit()
         cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
@@ -371,8 +391,15 @@ def delete_comment():
     cursor.execute("select commentID from client_comments where articleURL = '"+ article_url +"' and " \
                    "commentID > '"+ commentID +"' Limit 1 ")
     next_id = cursor.fetchall()
+    if len(next_id) > 0:
+        next_id = next_id[0][0]
+        new_comment=None
+    else:
+        next_id = None
+        new_comment="yes"
+    cnx.commit()
     cnx.close
-    return redirect(url_for('articles',article_url=article_url,updated=next_id[0][0]))
+    return redirect(url_for('articles',article_url=article_url,updated=next_id,new_comment=new_comment))
 
 @app.route('/get_AR', methods=['GET', 'POST'])
 def get_AR():
@@ -390,6 +417,7 @@ def get_AR():
     ar_score = response.json()['ArticleRelevance']
     update = "UPDATE client_comments SET ArticleRelevance = '" + str(ar_score) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.commit()
     cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
@@ -411,6 +439,7 @@ def get_CR():
     print response.json()
     update = "UPDATE client_comments SET ConversationalRelevance = '" + str(cr_score) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.commit()
     cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 @app.route('/get_CR', methods=['GET', 'POST'])
@@ -432,6 +461,7 @@ def get_PX():
     print response.json()
     update = "UPDATE client_comments SET PersonalXP = '" + str(PersonalXP) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.commit()
     cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
@@ -452,6 +482,7 @@ def get_RD():
     print response.json()
     update = "UPDATE client_comments SET Readability = '" + str(Readability) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.commit()
     cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 
@@ -473,6 +504,7 @@ def get_Len():
     print response.json()
     update = "UPDATE client_comments SET CommentLength = '" + str(Length) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.commit()
     cnx.close
 
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
@@ -502,6 +534,7 @@ def get_scores():
               ", PersonalXP = '" + str(PersonalXP) + "', Readability = '" + str(Readability) + "' " \
               ", CommentLength = '" + str(Length) + "' where commentID = '"+ str(commentID) +"'"
     cursor.execute(update)
+    cnx.commit()
     cnx.close
     return redirect(url_for('articles',article_url=article_url,updated=commentID))
 

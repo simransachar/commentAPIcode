@@ -38,7 +38,7 @@ Licence URI: http://www.os-templates.com/template-terms
   <div id="header">
     <div class="fl_left">
       <h1><a href="index.html"><strong>T</strong>imes of <strong>M</strong>aryland</a></h1>
-      <p>January 16, 2015</p>
+      <p>{{ current_time }}</p>
     </div>
 
     <br class="clear" />
@@ -80,12 +80,15 @@ Licence URI: http://www.os-templates.com/template-terms
   <div class="container">
     <div class="content">
       <h1>{{ article_data[0] }}</h1>
-        <p>{{ article_data[1] }}</p>
+        <div>{{ article_data[1]|safe }}</div>
 
       <div id="comments">
         <h2>Comments</h2>
-      <a href="/articles?article_url={{ article_data[2] }}&&sort=ar">Sort by AR</a> &nbsp;&nbsp;
-      <a href="/articles?article_url={{ article_data[2] }}&&sort=cr">Sort by CR</a>
+      Sort by: <a href="/articles?article_url={{ article_data[2] }}&&sort=ar">Article Relevance</a>|
+      <a href="/articles?article_url={{ article_data[2] }}&&sort=cr">Coversational Relevance</a>|
+       <a href="/articles?article_url={{ article_data[2] }}&&sort=px">Personal XP</a>|
+        <a href="/articles?article_url={{ article_data[2] }}&&sort=rd">Readability</a>|
+        <a href="/articles?article_url={{ article_data[2] }}&&sort=len">Length</a>
       &nbsp;&nbsp;&nbsp;&nbsp; <a href="/articles?article_url={{ article_data[2] }}&&new_comment=yes">(clear)</a>
       </br>
       </br>
@@ -101,8 +104,8 @@ Licence URI: http://www.os-templates.com/template-terms
                 <label for="comment" style="display:none;"><small>Comment (required)</small></label>
                 </p>
                     <p>
-            <input name="submit" type="submit" id="submit" value="Update" />
-
+            <input name="submit" type="submit" id="submit" value="Update" /> &nbsp;&nbsp;
+            <a href="/articles?article_url={{ article_data[2] }}&&updated={{commentID}}">CANCEL</a>
           </p>
 
                 </li>
@@ -112,11 +115,56 @@ Licence URI: http://www.os-templates.com/template-terms
             <div class="author"><img class="avatar" src="static/images/demo/avatar.gif" width="32" height="32" alt="" /><span class="name"><a href="#">{{ comment[2] }}</a></span> <span class="wrote">wrote:</span></div>
             <div class="submitdate"><a href="#"> {{ comment[1] }} </a></div>
             <p>{{ comment[0] }}</p>
-            <div class="submitdate"><a href="#"> AR: {{ comment[3] }},CR: {{ comment[4] }} </a> </div>
+            <div class="submitdate">
+            <a href="/get_AllScores?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">Get All Scores</a>
+                   <br> ------------------ <br>
+            {% if comment[3] == None %}
+             ArticleRelevance:  <a href="/get_AR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             ArticleRelevance:  {{ comment[3] }}
+            {% endif %}
+
+                    <br>
+            {% if comment[4] == None %}
+             Conversational Relevance:  <a href="/get_CR?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Conversational Relevance:  {{ comment[4] }}
+            {% endif %}
+                    <br>
+            {% if comment[6] == None %}
+             Personal Experience:  <a href="/get_PX?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Personal Experience:  {{ comment[6] }}
+            {% endif %}
+                    <br>
+            {% if comment[7] == None %}
+             Readability:  <a href="/get_RD?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Readability:  {{ comment[7] }}
+            {% endif %}
+
+                <br>
+            {% if comment[8] == None %}
+            Length:  <a href="/get_Len?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">(Get score)</a>
+            {% else %}
+             Length:  {{ comment[8] }}
+            {% endif %}
+
+            </div>
                 </br>
-             <div class="submitdate">    <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> | <a href="">delete</a> </div>
+             <form action="{{ url_for('update_comment',commentID = comment[5],article_url=article_data[2]) }}" method=post>
+                <textarea name="comment_text"cols="0%" rows="0%" style="display:none;">{{ comment[0] }}</textarea>
+                <input name="submit" type="submit" id="submit" value="Update Scores" />
+
+            </form>
+                </br>
+             <div class="submitdate">
+                 <a href="/edit_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">edit</a> |
+                 <a href="/delete_comment?commentID={{ comment[5] }}&&article_url={{ article_data[2] }}">delete</a>
+             </div>
 
           </li>
+
             {% endif %}
            {% endfor %}
          <li>

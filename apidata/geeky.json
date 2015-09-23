@@ -1,0 +1,4693 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed - Geeky",
+
+      "link": [
+
+         "http://www.buzzfeed.com/geeky",
+
+         {
+
+            "@href": "http://www.buzzfeed.com/geeky.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Sat, 13 Jun 2015 20:56:40 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://www.buzzfeed.com/geeky"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "Can You Name The Tom Hiddleston Movie From A Screenshot?",
+
+            "link": "http://www.buzzfeed.com/alexisnedd/burdened-with-glorious-porpoise?utm_term=4ldqpia",
+
+            "description": "<p>With a few TV shows thrown in, for good measure.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Alexis Nedd",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alexisnedd/burdened-with-glorious-porpoise"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 13:41:29 -0400",
+
+            "group": {
+
+               "description": "With a few TV shows thrown in, for good measure.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alexisnedd"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/campaign_images/webdr04/can-you-name-the-tom-hiddleston-movie-from-a-scre-2-30528-1434135307-6.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "21 Questions Girls Who Play Dungeons And Dragons Are Sick Of Answering",
+
+            "link": "http://www.buzzfeed.com/anjalipatel/questions-girls-who-play-dungeons-and-dragons-are-sick-of?utm_term=4ldqpia",
+
+            "description": "<p>How hot is your character?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>\"Are you here to watch your boyfriend play?\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/15/enhanced/webdr07/anigif_enhanced-11774-1433966070-3.gif\" width=\"500\" height=\"207\" alt=\"&quot;Are you here to watch your boyfriend play?&quot;\" /><\/p>\n \n\t<p>Nice to meet you, too.<\/p>\n\n\n <p><small>Warner Brothers / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://giphy.com/gifs/harry-potter-emma-watson-hermione-granger-12kmDEDUpTWe3e\">giphy.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>\"Did your boyfriend get you into this game?\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/14/enhanced/webdr01/enhanced-25231-1434047924-5.jpg\" width=\"500\" height=\"281\" alt=\"&quot;Did your boyfriend get you into this game?&quot;\" /><\/p>\n \n\t\n\n\n <p><small>BBC America<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>\"Could you be our healer?\"<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/3vJqM6RVFk/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>If you want to wipe, sure.<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/3vJqM6RVFk/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>\"Are you playing as a half-elf?\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/18/enhanced/webdr01/enhanced-32067-1434063048-5.jpg\" width=\"500\" height=\"278\" alt=\"&quot;Are you playing as a half-elf?&quot;\" /><\/p>\n \n\t\n\n\n <p><small>Felicia Day<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/anjalipatel/questions-girls-who-play-dungeons-and-dragons-are-sick-of\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Anjali Patel",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/anjalipatel/questions-girls-who-play-dungeons-and-dragons-are-sick-of"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 11:34:00 -0400",
+
+            "group": {
+
+               "description": "How hot is your character?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "anjalipatel"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/campaign_images/webdr08/questions-girls-who-play-dungeons-and-dragons-are-2-3942-1434122922-8.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "207",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/15/enhanced/webdr07/anigif_enhanced-11774-1433966070-3.gif",
+
+                     "@width": "500",
+
+                     "description": "Nice to meet you, too.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr01/enhanced-25231-1434047924-5.jpg",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "If you want to wipe, sure.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3vJqM6RVFk/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "278",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/18/enhanced/webdr01/enhanced-32067-1434063048-5.jpg",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/15/enhanced/webdr02/enhanced-11750-1433965973-5.jpg",
+
+                     "@width": "625",
+
+                     "description": "*Rage effective for 10 minutes*.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "210",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr07/enhanced-18925-1434047506-1.jpg",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/21/enhanced/webdr05/anigif_enhanced-31978-1433987589-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "313",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/22/enhanced/webdr13/enhanced-2030-1433991578-7.jpg",
+
+                     "@width": "625",
+
+                     "description": "L.O.L.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "467",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/enhanced/webdr02/anigif_enhanced-8914-1434118283-1.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "298",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr10/enhanced-14604-1434047988-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "My intelligence modifier is +3. I'm pretty sure I can calculate my own damage.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "408",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/17/enhanced/webdr08/anigif_enhanced-15986-1434056934-22.gif",
+
+                     "@width": "555",
+
+                     "description": "Whoops I just cast Burning Hands right into your face.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "267",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/18/enhanced/webdr03/enhanced-4010-1434060149-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "My charisma modifier is -1 so I accidentally told it to eat us. Sorry.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "262",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/17/enhanced/webdr15/enhanced-841-1434057149-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/15/enhanced/webdr02/enhanced-32292-1434050988-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/enhanced/webdr14/enhanced-28699-1433967024-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "Does someone have a problem with pink magic?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr07/enhanced-23031-1434049090-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "262",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/15/enhanced/webdr09/anigif_enhanced-10068-1434049986-2.gif",
+
+                     "@width": "500",
+
+                     "description": "You're a human bard, I'm a half-orc barbarian. Sit down.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "305",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/10/enhanced/webdr06/enhanced-28886-1434031667-7.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "267",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/17/enhanced/webdr12/enhanced-5210-1434057699-13.jpg",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "300",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/17/enhanced/webdr13/enhanced-25018-1434059091-1.jpg",
+
+                     "@width": "533",
+
+                     "description": "Yes, we meet. That's it.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "225",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/15/enhanced/webdr01/anigif_enhanced-30218-1434050620-4.gif",
+
+                     "@width": "500",
+
+                     "description": "Just rolled a natural 20, so why aren't you rolling like a girl?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Where In Middle Earth Should You Live?",
+
+            "link": "http://www.buzzfeed.com/livortiz87/where-in-middle-earth-should-you-live-1jpgc?utm_term=4ldqpia",
+
+            "description": "<p>One land to rule them all.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Olivia Ortiz",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/livortiz87/where-in-middle-earth-should-you-live-1jpgc"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 17:21:38 -0400",
+
+            "group": {
+
+               "description": "One land to rule them all.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "livortiz87"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/campaign_images/webdr10/where-in-middle-earth-should-you-live-2-22768-1434122315-4.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This \"Game Of Thrones\" Map Shows A Much More Detailed Westeros",
+
+            "link": "http://www.buzzfeed.com/agh/game-of-thrones-true-map?utm_term=4ldqpia",
+
+            "description": "<p>Be prepared for this Sunday&#8217;s finale.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/17/enhanced/webdr13/enhanced-25045-1434059305-9.png\" width=\"625\" height=\"1133\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Andrea Hickey / BuzzFeed / HBO / Thinkstock<\/small><\/p>",
+
+            "author": "Andrea Hickey",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/agh/game-of-thrones-true-map"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 10:21:28 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "Be prepared for this Sunday's finale.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "agh"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/campaign_images/webdr11/game-of-thrones-true-map-2-5205-1434118976-1.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "19 Beautiful Cinnamon Rolls, Too Good For This World, Too Pure",
+
+            "link": "http://www.buzzfeed.com/kmallikarjuna/beautiful-cinnamon-rolls-too-good-for-this-world-too-pure?utm_term=4ldqpia",
+
+            "description": "<p>*weeps from perfection*<\/p>\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/look-npu4ui-726i?uri=look-npu4ui-726i&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>LOOK<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/at-npu4v4-726i?uri=at-npu4v4-726i&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>AT<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/these-npu4vh-726i?uri=these-npu4vh-726i&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>THESE<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/sweet-npu4ww-726i?uri=sweet-npu4ww-726i&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>SWEET<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kmallikarjuna/beautiful-cinnamon-rolls-too-good-for-this-world-too-pure\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Krutika Mallikarjuna",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kmallikarjuna/beautiful-cinnamon-rolls-too-good-for-this-world-too-pure"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 11:08:02 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "*weeps from perfection*",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kmallikarjuna"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/campaign_images/webdr05/19-beautiful-cinnamon-rolls-too-good-for-this-wor-2-14659-1434121678-0.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Friendly Reminder: This Is The Last Time We Saw Mulder And Scully",
+
+            "link": "http://www.buzzfeed.com/danieldalton/things-are-getting-strange-im-starting-to-worry?utm_term=4ldqpia",
+
+            "description": "<p>A post-credit sequence left the X-Files pair all at sea. WARNING: SPOILERS<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>But where have they been? Last time we saw them was 2009 film sequel, <i>The X-Files: I Want To Believe<\/i>.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/7/enhanced/webdr03/anigif_enhanced-4247-1434108530-2.gif\" width=\"500\" height=\"275\" alt=\"But where have they been? Last time we saw them was 2009 film sequel, The X-Files: I Want To Believe.\" /><\/p>\n \n\t<p>Mulder had gone full lumbersexual, and Scully had grown her hair out.<\/p>\n\n\n <p><small>20th Century Fox<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>At the start of the film, Fox is on the lam, hiding from the FBI.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/7/enhanced/webdr14/enhanced-30967-1434109341-5.jpg\" width=\"625\" height=\"357\" alt=\"At the start of the film, Fox is on the lam, hiding from the FBI.\" /><\/p>\n \n\t<p>Dana is working at a hospital.<\/p>\n\n\n <p><small>20th Century Fox<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Scully agrees to help the FBI when a young agent goes missing.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/7/enhanced/webdr12/enhanced-19235-1434109397-1.jpg\" width=\"625\" height=\"400\" alt=\"Scully agrees to help the FBI when a young agent goes missing.\" /><\/p>\n \n\t<p>She persuades Mulder to shave. And to get back to what he does best: Investigating paranormal phenomena.<\/p>\n\n\n <p><small>20th Century Fox<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/danieldalton/things-are-getting-strange-im-starting-to-worry\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Daniel Dalton",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/danieldalton/things-are-getting-strange-im-starting-to-worry"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 09:14:04 -0400",
+
+            "group": {
+
+               "description": "A post-credit sequence left the <i>X-Files<\/i> pair all at sea. WARNING: SPOILERS",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "danieldalton"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/9/campaign_images/webdr04/things-are-getting-strange-im-starting-to-worry-2-1656-1434114969-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "275",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr03/anigif_enhanced-4247-1434108530-2.gif",
+
+                     "@width": "500",
+
+                     "description": "Mulder had gone full lumbersexual, and Scully had grown her hair out.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "357",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr14/enhanced-30967-1434109341-5.jpg",
+
+                     "@width": "625",
+
+                     "description": "Dana is working at a hospital.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "400",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr12/enhanced-19235-1434109397-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "She persuades Mulder to shave. And to get back to what he does best: Investigating paranormal phenomena.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "400",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr05/enhanced-603-1434109688-8.jpg",
+
+                     "@width": "625",
+
+                     "description": "And was actually very good. Well done, Xzibit.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "261",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr05/enhanced-576-1434108642-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "*swoons*",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr05/enhanced-665-1434108789-9.jpg",
+
+                     "@width": "625",
+
+                     "description": "Long story short: They catch the bad guys, save the girl, and Scully resolves her crisis of faith.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "267",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr09/anigif_enhanced-19075-1434109844-2.gif",
+
+                     "@width": "625",
+
+                     "description": "The helicopter flies low across a tropical looking ocean...",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "267",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr05/anigif_enhanced-16342-1434109937-1.gif",
+
+                     "@width": "625",
+
+                     "description": "Mulder is rowing while Scully lounges like a boss.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "267",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/7/enhanced/webdr10/anigif_enhanced-18163-1434110057-1.gif",
+
+                     "@width": "625",
+
+                     "description": "Then, as the camera zooms out, they both look up and wave goodbye.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "400",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr02/enhanced-17444-1434111560-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "Were they undercover in the Bermuda Triangle? (Perhaps in a nod to one of the original series' best episodes, <i>Triangle<\/i>). Or were they just causally breaking the fourth wall? So many questions!",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "313",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/enhanced/webdr08/enhanced-31763-1434110850-3.jpg",
+
+                     "@width": "625",
+
+                     "description": "&lt;3 you Sculder.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "17 F*cked Up Things Gamers Admit To Having Done",
+
+            "link": "http://www.buzzfeed.com/jamiejones/the-most-messed-up-things-gamers-have-done?utm_term=4ldqpia",
+
+            "description": "<p>A Reddit user asked the question: “What’s the most messed up thing you’ve done in a video game?” It turns out we’re pretty messed up.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/12/enhanced/webdr10/enhanced-buzz-16986-1434040204-12.jpg\" width=\"625\" height=\"352\" alt=\"\" /><\/p>\n \n\t<p>\"My kids always throw Toad into the lava on S<i>uper Mario Wii<\/i> while chanting &#39;sacrifice, sacrifice&#39;.\"<\/p>\n\n\n <p><small>Nintendo / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.reddit.com/r/AskReddit/comments/38prxg/whats_the_most_messed_up_thing_youve_done_in_a/crwzdpf\">reddit.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/12/enhanced/webdr12/edit-16302-1434041974-4.jpg\" width=\"625\" height=\"432\" alt=\"\" /><\/p>\n \n\t<p>\"It sounds weird af but I would act out famous serial killings in <i>GTA<\/i>.\"<\/p>\n\n\n <p><small>Rockstar Games / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.reddit.com/r/AskReddit/comments/38prxg/whats_the_most_messed_up_thing_youve_done_in_a/crwwh1b\">reddit.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/18/enhanced/webdr12/enhanced-buzz-12602-1434060440-23.jpg\" width=\"625\" height=\"352\" alt=\"\" /><\/p>\n \n\t<p>\"I got a villager pregnant in <i>Fable 3<\/i>. After our son was born I murdered his mother in front of him, so he was sent to an orphanage. I then returned to murder everyone in the orphanage (in front of him, obviously).\"<\/p>\n\n\n <p><small>Microsoft Studios / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.reddit.com/r/AskReddit/comments/38prxg/whats_the_most_messed_up_thing_youve_done_in_a/crwwbhn\">reddit.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/12/enhanced/webdr08/enhanced-buzz-22950-1434041727-11.jpg\" width=\"625\" height=\"352\" alt=\"\" /><\/p>\n \n\t<p>\"Made two horrendously ugly families on <i>The Sims<\/i> and made them keep having children together to see how ugly they would get (as it turns out, very much so).\"<\/p>\n\n\n <p><small>Electronic Arts / <a rel=\"nofollow\" target=\"_blank\" href=\"https://www.reddit.com/r/AskReddit/comments/38prxg/whats_the_most_messed_up_thing_youve_done_in_a/crww5mc\">reddit.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/jamiejones/the-most-messed-up-things-gamers-have-done\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Jamie Jones",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/jamiejones/the-most-messed-up-things-gamers-have-done"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 06:33:39 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "A Reddit user <a href=\"https://www.reddit.com/r/AskReddit/comments/38prxg/whats_the_most_messed_up_thing_youve_done_in_a/\">asked the question<\/a>: “What’s the most messed up thing you’ve done in a video game?” It turns out we’re pretty messed up.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "jamiejones"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/6/campaign_images/webdr05/the-most-messed-up-things-gamers-have-done-2-621-1434105984-3.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "There Is No \"Game Of Thrones\" Backlash",
+
+            "link": "http://www.buzzfeed.com/kateaurthur/game-of-thrones-is-huger-than-ever?utm_term=4ldqpia",
+
+            "description": "<p>Season 5 has been its most-watched season.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/17/enhanced/webdr07/grid-cell-16826-1434058953-2.jpg\" width=\"203\" height=\"307\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Helen Sloan / HBO<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/17/enhanced/webdr07/grid-cell-16826-1434058955-7.jpg\" width=\"203\" height=\"307\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Helen Sloan / HBO<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/17/enhanced/webdr07/grid-cell-16826-1434058959-12.jpg\" width=\"203\" height=\"307\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Helen Sloan / HBO<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kateaurthur/game-of-thrones-is-huger-than-ever\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Kate Aurthur",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kateaurthur/game-of-thrones-is-huger-than-ever"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 18:57:14 -0400",
+
+            "group": {
+
+               "description": "Season 5 has been its most-watched season.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kateaurthur"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/14/campaign_images/webdr15/there-is-no-game-of-thrones-backlash-2-28734-1434134384-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/17/enhanced/webdr07/grid-cell-16826-1434058953-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/17/enhanced/webdr07/grid-cell-16826-1434058955-7.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/17/enhanced/webdr07/grid-cell-16826-1434058959-12.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "HBO's <i>Game of Thrones<\/i> has inspired so much argument in its fifth season that it has, at times, almost seemed to cease being a television show, instead evolving into a turbine that manufactures Think Pieces. \n\nBecause of its recent controversies — <b>spoiler alert<\/b> — which include the rape of Sansa and <a href=\"http://www.buzzfeed.com/jennaguillaume/stannis-no-longer-the-mannis#.juG6jaPPx\">Stannis' murder<\/a> of <a href=\"http://www.buzzfeed.com/alexisnedd/beautiful-cinnamon-roll-princess-too-good-for-this-planetos\">Shireen<\/a>, an idea has taken hold that there is a <i>Game of Thrones<\/i> backlash. The passion has raised to such a pitch that on his blog this week, George R.R. Martin, the author of the show's source material, <i>A Song of Ice and Fire<\/i>, basically screamed, <a href=\"http://grrm.livejournal.com/429752.html\">\"What I can control <i>is what happens in my books<\/i>.\" And \"please stop emailing me.\"<\/a>\n\nBut all of the discussion seems to have propelled the show, already HBO's most popular series ever, to even greater heights. For Season 5, its gross audience — meaning, the average viewership for each episode when HBO adds up live viewers, replays, VOD, and streaming — is 18.7 million viewers. By the time all viewership for <i>Game of Thrones<\/i> is counted after Sunday's finale, that number should be close to 20 million. \n\n<i>Game of Thrones<\/i>' ratings have grown in every season. The first ended with an average audience of 9.3 million, and last year it surpassed <i>The Sopranos<\/i> as HBO's most-watched show ever. There are a lot of ways to watch <i>Game of Thrones<\/i> each week, but its Live + Same Day ratings on Sunday nights continue to be strong: June 7's <a href=\"http://www.buzzfeed.com/kateaurthur/game-of-thrones-fly-drogon-fly#.hir5kd99D\">\"The Dance of Dragons\"<\/a> drew 7.1 million viewers, and added more in its replays that night.\n\nWhether <i>Game of Thrones<\/i> goes on for two more seasons or <a href=\"http://www.ew.com/article/2015/03/11/game-thrones-end?\">longer<\/a>, it has probably reached its peak; to continue to grow in its sixth season would be unusual (though with <a href=\"http://www.buzzfeed.com/brendanklinkenberg/hbo-announces-standalone-streaming-app-exclusive-to-apple#.avm33RBW5\">HBO Now<\/a>, the network's new streaming service, it could happen). But we're getting ahead of ourselves, because Season 5 isn't over yet. And if what happens in the fifth book happens in the finale, well… All men must cry.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/19/enhanced/webdr09/grid-cell-24674-1434065538-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "A 15-Year-Old May Be The Youngest To Have Ever Found A Planet",
+
+            "link": "http://www.buzzfeed.com/kasiagalazka/wasp-planet?utm_term=4ldqpia",
+
+            "description": "<p>How many planets have YOU discovered?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>While interning at England's Keele University, teen Tom Wagg found a new planet 1,000 light-years away.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/14/enhanced/webdr03/enhanced-6009-1434049132-1.jpg\" width=\"625\" height=\"415\" alt=\"While interning at England's Keele University, teen Tom Wagg found a new planet 1,000 light-years away.\" /><\/p>\n \n\t<p>When a planet passes in front of its host star, the light gives a tell-tale dip &mdash; and that&#39;s exactly what Wagg noticed when combing data for a project called <a href=\"http://wasp-planets.net/\">WASP<\/a> (Wide Angle Search for Planets), according to a <a href=\"http://www.keele.ac.uk/pressreleases/2015/work-experienceschoolboydiscoversanewplanet.html\">university press release<\/a>.<\/p>\n\n<p>The discovery took two years of observations to confirm. Wagg, now 17, may be the youngest person to have ever discovered a planet.<\/p>\n\n\n <p><small>Keele University / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.keele.ac.uk/pressreleases/2015/work-experienceschoolboydiscoversanewplanet.html\">keele.ac.uk<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Here's an artist's rendition of the distant world, which has been classified as a \"hot Jupiter,\" meaning its orbit is very close to its star.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/15/enhanced/webdr13/enhanced-5802-1434051320-6.jpg\" width=\"625\" height=\"446\" alt=\"Here's an artist's rendition of the distant world, which has been classified as a &quot;hot Jupiter,&quot; meaning its orbit is very close to its star.\" /><\/p>\n \n\t<p>The planet is also estimated to be the size of Jupiter, but unlike our Jupiter, which takes <a href=\"https://solarsystem.nasa.gov/planets/profile.cfm?Object=Jupiter\">12 Earth years<\/a> to orbit the sun, its trip around the star is a mere two days. <\/p>\n\n<p>The planet doesn&#39;t have a name quite yet: As the project&#39;s 142nd discovery, it&#39;s been aptly catalogued as WASP-142b. The International Astronomical Union has held contests to <a href=\"http://www.iau.org/news/pressreleases/detail/iau1404/\">name celestial bodies<\/a> before, and it may be possible for Tom to contribute a suggestion.<\/p>\n\n\n <p><small>David A. Hardy / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.keele.ac.uk/pressreleases/2015/work-experienceschoolboydiscoversanewplanet.html\">keele.ac.uk<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Meanwhile, Tom has aced all of his school exams and wants to study physics at university.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/15/enhanced/webdr04/enhanced-29658-1434052565-8.jpg\" width=\"625\" height=\"415\" alt=\"Meanwhile, Tom has aced all of his school exams and wants to study physics at university.\" /><\/p>\n \n\t<p>\"Tom is keen to learn about science, so it was easy to train him to look for planets,\" Professor Coel Hellier, who leads the WASP project, said in the release.<\/p>\n\n\n <p><small>Keele University / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://www.keele.ac.uk/pressreleases/2015/work-experienceschoolboydiscoversanewplanet.html\">keele.ac.uk<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Way to go, Tom!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/15/enhanced/webdr15/anigif_enhanced-22810-1434052387-2.gif\" width=\"500\" height=\"242\" alt=\"Way to go, Tom!\" /><\/p>\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://giphy.com/gifs/cat-adorable-yJC5hp8abH6GA\">giphy.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kasiagalazka/wasp-planet\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Kasia Galazka",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kasiagalazka/wasp-planet"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 16:19:53 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "How many planets have YOU discovered?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kasiagalazka"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/16/campaign_images/webdr05/wasp-planet-2-29566-1434054701-4.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "21 Of The Realest College Struggles As Told By \"Pokémon\"",
+
+            "link": "http://www.buzzfeed.com/candicedarden/college-struggles-as-told-by-pokemon?utm_term=4ldqpia",
+
+            "description": "<p>Gotta get to class!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>When you're situated in your dorm and finally have to say goodbye to your family.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/18/enhanced/webdr06/anigif_enhanced-buzz-27147-1433889255-14.gif\" width=\"500\" height=\"384\" alt=\"When you're situated in your dorm and finally have to say goodbye to your family.\" /><\/p>\n \n\t<p>I&#39;ll be okay, I promise&#33;<\/p>\n\n\n <p><small>Cartoon Network / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://cdn.smosh.com/sites/default/files/ftpuploads/bloguploads/1013/funny-pokemon-gif-pikachu-no.gif\">cdn.smosh.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>When you're new on campus and don't know anyone yet.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/18/enhanced/webdr12/anigif_enhanced-buzz-7159-1433890039-11.gif\" width=\"500\" height=\"302\" alt=\"When you're new on campus and don't know anyone yet.\" /><\/p>\n \n\t<p>Hi guys&#33; Anyone need a friiiiiiend?<\/p>\n\n\n <p><small>Cartoon Network / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://pokemongifs.tumblr.com/post/120697213232/meteor-falls-wild-spheal\">pokemongifs.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>When you're trying to learn a new format for papers.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/18/enhanced/webdr14/anigif_enhanced-buzz-4503-1433887421-10.gif\" width=\"500\" height=\"350\" alt=\"When you're trying to learn a new format for papers.\" /><\/p>\n \n\t<p>Wait Professor, I&rsquo;m gonna need you to <i>Clefairy<\/i> &mdash; what&rsquo;s the difference between APA and MLA format again?<\/p>\n\n\n <p><small>Cartoon Network / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://2damnfunny.com/wp-content/uploads/2012/12/Clefairy-Has-No-Idea-What-Its-Doing-Pokemon-Gif.gif\">2damnfunny.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>When the struggle is REAL waking up for an 8 a.m. class.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/20/enhanced/webdr12/anigif_enhanced-15644-1433984239-4.gif\" width=\"500\" height=\"281\" alt=\"When the struggle is REAL waking up for an 8 a.m. class.\" /><\/p>\n \n\t<p>Snorlax hears ALARM.<br />\n<i>It&#39;s not very effective...<\/i><br />\nSnorlax hits SNOOZE.<\/p>\n\n\n <p><small>Cartoon Network / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://thenotsosleepysnorlax.tumblr.com\">thenotsosleepysnorlax.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/candicedarden/college-struggles-as-told-by-pokemon\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Candice Darden",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/candicedarden/college-struggles-as-told-by-pokemon"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 16:14:56 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "Gotta get to class!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "candicedarden"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "adult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/15/campaign_images/webdr11/college-struggles-as-told-by-pokemon-2-8866-1434050618-10.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "21 Times \"Charmed\" Vanquished Your Feelings",
+
+            "link": "http://www.buzzfeed.com/alannabennett/blessed-be-our-feels?utm_term=4ldqpia",
+
+            "description": "<p>Charmed was a fun show EXCEPT FOR WHEN IT WAS RIPPING YOUR HEART OUT.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/when-phoebe-had-to-vanquish-one-of-the-loves-of-he-npstii-hvpi?uri=when-phoebe-had-to-vanquish-one-of-the-loves-of-he-npstii-hvpi&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>When Phoebe had to vanquish one of the loves of her life for the sake of her sisters and the world.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/and-when-her-sisters-were-there-for-her-in-the-aft-npsswk-hvpi?uri=and-when-her-sisters-were-there-for-her-in-the-aft-npsswk-hvpi&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>And when her sisters were there for her in the aftermath.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/any-time-phoebe-doubted-her-goodness-npsrmk-hvpi?uri=any-time-phoebe-doubted-her-goodness-npsrmk-hvpi&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>Any time Phoebe doubted her goodness.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/the-episode-where-we-learned-leod-been-carrying-a-npsuza-hvpi?uri=the-episode-where-we-learned-leod-been-carrying-a-npsuza-hvpi&cb=1434243400\" width=\"540\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>The episode where we learned Leo'd been carrying around guilt over his last human day all this time.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/alannabennett/blessed-be-our-feels\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Alanna Bennett",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/alannabennett/blessed-be-our-feels"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 18:07:38 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<i>Charmed<\/i> was a fun show EXCEPT FOR WHEN IT WAS RIPPING YOUR HEART OUT.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "alannabennett"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/18/campaign_images/webdr06/blessed-be-our-feels-2-22347-1434060979-3.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "The \"Game Of Thrones\" Father's Day Cards You Deserve",
+
+            "link": "http://www.buzzfeed.com/sarahburton/7-game-of-thrones-fathers-day-cards-you-deserve?utm_term=4ldqpia",
+
+            "description": "<p>Father&#8217;s Day is coming. Here are some cards to send to the shitty dads in your life.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/12/enhanced/webdr05/enhanced-5665-1433866960-8.jpg\" width=\"625\" height=\"463\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>HBO<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/18/enhanced/webdr11/enhanced-25389-1433974066-9.jpg\" width=\"625\" height=\"470\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>HBO<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/18/enhanced/webdr11/enhanced-23688-1433974181-3.jpg\" width=\"625\" height=\"465\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>HBO<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/18/enhanced/webdr04/enhanced-1542-1433974291-7.jpg\" width=\"625\" height=\"466\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>HBO<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/sarahburton/7-game-of-thrones-fathers-day-cards-you-deserve\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Sarah Burton",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/sarahburton/7-game-of-thrones-fathers-day-cards-you-deserve"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 13:38:35 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "Father's Day is coming. Here are some cards to send to the shitty dads in your life.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "sarahburton"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/21/campaign_images/webdr14/the-game-of-thrones-fathers-day-cards-you-deserve-2-32747-1434072301-6.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "Pornhub Wants To Make The First Ever Sex Tape In Space",
+
+            "link": "http://www.buzzfeed.com/kasiagalazka/pornhub-space-sex-video?utm_term=4ldqpia",
+
+            "description": "<p>Calling all asstronauts.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Pornhub is calling all sexplorers for a <a href=\"https://www.indiegogo.com/projects/pornhub-space-program-sexploration\">crowdfunding Indiegogo campaign<\/a> to shoot the first ever sex tape in space.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/12/enhanced/webdr13/enhanced-2923-1434040779-7.png\" width=\"625\" height=\"427\" alt=\"Pornhub is calling all sexplorers for a crowdfunding Indiegogo campaign to shoot the first ever sex tape in space.\" /><\/p>\n \n\t<p>That we know of, anyway. The porn site is teaming up with adult studio Digital Playground, and the video will feature stars Eva Lovia and Johnny Sins.<\/p>\n\n\n <p><small>Pornhub / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.indiegogo.com/projects/pornhub-space-program-sexploration\">indiegogo.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>The funds needed: $3.4 million. When this post was published, they were at nearly $9,000 after one day.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/12/enhanced/webdr05/enhanced-19434-1434040667-7.png\" width=\"620\" height=\"348\" alt=\"The funds needed: $3.4 million. When this post was published, they were at nearly $9,000 after one day.\" /><\/p>\n \n\t<p>Here&#39;s a breakdown of the costs, which shows that most of the money would be allocated to actually getting into space. (Where does one get space insurance?)<\/p>\n\n\n <p><small>Pornhub / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.indiegogo.com/projects/pornhub-space-program-sexploration#/story\">indiegogo.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/12/enhanced/webdr03/grid-cell-6394-1434041878-10.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Pornhub<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kasiagalazka/pornhub-space-sex-video\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Kasia Galazka",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kasiagalazka/pornhub-space-sex-video"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 13:11:47 -0400",
+
+            "group": {
+
+               "description": "Calling all asstronauts.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kasiagalazka"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/campaign_images/webdr01/pornhub-space-sex-video-2-6385-1434042817-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "427",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/enhanced/webdr13/enhanced-2923-1434040779-7.png",
+
+                     "@width": "625",
+
+                     "description": "That we know of, anyway. The porn site is teaming up with adult studio Digital Playground, and the video will feature stars Eva Lovia and Johnny Sins.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "348",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/enhanced/webdr05/enhanced-19434-1434040667-7.png",
+
+                     "@width": "620",
+
+                     "description": "Here's a breakdown of the costs, which shows that most of the money would be allocated to actually getting into space. (Where does one get space insurance?)",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Missed opportunity for Rock-Hard Scientists or...?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/enhanced/webdr03/grid-cell-6394-1434041878-10.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/enhanced/webdr03/grid-cell-6394-1434041879-13.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "628",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/enhanced/webdr15/enhanced-17457-1434041722-12.png",
+
+                     "@width": "625",
+
+                     "description": "Finally, you have free reign to make as many black hole and Uranus jokes as your heart desires.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "260",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/enhanced/webdr04/anigif_enhanced-24286-1434041310-4.gif",
+
+                     "@width": "500",
+
+                     "description": "Will the porn stars make it to the stars?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Which \"Harry Potter\" Wizarding School Would You Attend?",
+
+            "link": "http://www.buzzfeed.com/eleanorbate/which-harry-potter-wizarding-school-would-you-at-1b0l9?utm_term=4ldqpia",
+
+            "description": "<p>Not everyone goes to Hogwarts.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "Ellie Bate",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/eleanorbate/which-harry-potter-wizarding-school-would-you-at-1b0l9"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 04:00:11 -0400",
+
+            "group": {
+
+               "description": "<b>Not everyone goes to Hogwarts.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "eleanorbate"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/campaign_images/webdr07/which-harry-potter-wizarding-school-would-you-att-2-26573-1434039883-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Which Kingsman Are You?",
+
+            "link": "http://www.buzzfeed.com/haliameguid/which-kingsman-are-you-1i2p7?utm_term=4ldqpia",
+
+            "description": "<p>Oxfords, not brogues.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>",
+
+            "author": "HaliaMeguid",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/haliameguid/which-kingsman-are-you-1i2p7"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 22:41:29 -0400",
+
+            "group": {
+
+               "description": "Oxfords, not brogues.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "haliameguid"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/campaign_images/webdr11/which-kingsman-are-you-2-4174-1434037680-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "11 Makeup Palettes Inspired By '90s Cartoon Characters",
+
+            "link": "http://www.buzzfeed.com/esraerol/11-makeup-looks-inspired-by-your-favorite-90s-cartoon-charac?utm_term=4ldqpia",
+
+            "description": "<p>Are you more Jane Lane or Poison Ivy?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/13/enhanced/webdr06/enhanced-13201-1434045258-1.jpg\" width=\"625\" height=\"1094\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Esra Erol for BuzzFeed / via MTV<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/13/enhanced/webdr13/grid-cell-6409-1433956417-2.jpg\" width=\"203\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Cartoon Network<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/13/enhanced/webdr13/grid-cell-6409-1433956418-5.jpg\" width=\"412\" height=\"203\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Cartoon Network<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/esraerol/11-makeup-looks-inspired-by-your-favorite-90s-cartoon-charac\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Esra Erol",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/esraerol/11-makeup-looks-inspired-by-your-favorite-90s-cartoon-charac"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 11:43:55 -0400",
+
+            "group": {
+
+               "description": "Are you more Jane Lane or Poison Ivy?",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "esraerol"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/campaign_images/webdr09/11-makeup-looks-inspired-by-your-favorite-90s-car-2-609-1433954010-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "1094",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr06/enhanced-13201-1434045258-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr13/grid-cell-6409-1433956417-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr13/grid-cell-6409-1433956418-5.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The Powerpuff Girls are the most bad-ass five-year-olds—like, ever. They were created/born in one day, and then they went out and saved an entire city from complete destruction, so who wouldn't want to look like them? \n\n<b>Eyeshadow<\/b>: Urban Decay <a href=\"http://www.urbandecay.com/electric-pressed-pigment-palette-urban-decay/421.html#start=25&amp;cgid=1\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Nars Via Vento Larger Than Life Long-Wear <a href=\"http://www.narscosmetics.com/USA/larger-than-life-long-wear-eyeliner/999NACLTLLWE0.html?dwvar_999NACLTLLWE0_color=7845080510#start=3\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Maybelline <a href=\"http://www.target.com/p/maybelline-volum-express-the-falsies-mascara/-/A-12404421?ref=tgt_adv_XSG10001&amp;AFID=google_pla_df&amp;LNM=12404421&amp;CPNG=Health+Beauty&amp;kpid=12404421&amp;LID=17pgs&amp;ci_src=17588969&amp;ci_sku=12404421&amp;kpid=12404421&amp;gclid=CjwKEAjwndqrBRC16IyeqPicp3ASJAB-vB-cnFlgLRLm_Ols8qpJmiLa-t0y6EcNxqmIwy29B-uwPRoC5I7w_wcB\">Mascara<\/a>\n\n<b>Lip<\/b>: Chanel <a href=\"http://www.chanel.com/en_US/fragrance-beauty/Makeup-Lipstick-ROUGE-COCO-SHINE-119570/sku/119578\">Lipstick<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr08/grid-cell-6067-1434036699-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr12/grid-cell-22088-1433954093-3.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr12/grid-cell-22088-1433954094-6.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Susie Carmichael is not a day over four and she has better style than you ever will. If you can't have that dress, you may as well add some purple and yellow to your face.\n\n<b>Eyeshadow<\/b>: ColourPop <a href=\"https://colourpop.com/product-category/shadows-pigments/\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Chanel <a href=\"http://www.chanel.com/en_US/fragrance-beauty/Makeup-Eyeliner-STYLO-YEUX-WATERPROOF-89255\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: CoverGirl <a href=\"http://www.covergirl.com/beauty-products/eye-makeup/mascara/full-lash-bloom-mascara\">Mascara<\/a>\n\n<b>Lip<\/b>: Sephora <a href=\"http://www.sephora.com/cream-lip-stain-P281411?skuId=1646868\">Lip Stain<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/10/enhanced/webdr03/grid-cell-10764-1434032485-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr14/grid-cell-27845-1433954162-10.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr14/grid-cell-27845-1433954163-13.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Rogue can kill a guy with, like, one touch. You can stop a guy with one look—her look. That's basically a superpower, right?\n\n<b>Eyeshadow<\/b>: Shiseido <a href=\"http://www.shiseido.com/luminizing-satin-eye-color-trio/9990000000068,en_US,pd.html&amp;cgid=makeup-eyes-eyeshadow&amp;&amp;dwvar_9990000000068_color=00068_BL215\">Eye Color<\/a>\n\n<b>Eyeliner<\/b>: Maybelline <a href=\"http://www.maybelline.com/Products/Eye-Makeup/Eye-Liner/eye-studio-lasting-drama-gel-eyeliner.aspx\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Maybelline <a href=\"http://www.maybelline.com/Products/Eye-Makeup/Mascara/volum-express-the-colossal-chaotic-lash-waterproof.aspx\">Mascara<\/a>\n\n<b>Lip<\/b>: NYX <a href=\"http://www.nyxcosmetics.com/p-17-soft-matte-lip-cream.aspx\">Lip Cream<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/10/enhanced/webdr06/grid-cell-3454-1434032816-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr10/grid-cell-5677-1433954198-22.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr10/grid-cell-5677-1433954199-25.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Two words: killer lips.\n\n<b>Eyeshadow<\/b>: Dior <a href=\"http://www.dior.com/beauty/en_us/fragrance-and-beauty/makeup/eyes/eyeshadows/pr-eyeshadows-y0148140_f014814308-the-makeup-artist-tutorial-palette.html\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: E.L.F. <a href=\"http://www.eyeslipsface.com/studio/eyes/eyeliner/precision_liquid_eyeliner\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Physician's Formula <a href=\"http://www.physiciansformula.com/en-us/productdetail/eyes/mascara/07353.html\">Mascara<\/a>\n\n<b>Lip<\/b>: Tom Ford <a href=\"http://www.tomford.com/lip-color/T0T3.html?dwvar_T0T3_color=TWISTOFFATE#start=11\">Lipstick<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr08/grid-cell-4226-1434036538-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr03/grid-cell-9311-1433954343-4.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr03/grid-cell-9311-1433954344-7.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Pretty sure Elle Woods learned everything there is to know about that #PinkLife from Dee Dee. Girl is basically cotton candy personified. Go get some pink—now.\n\n<b>Eyeshadow<\/b>: Marc Jacobs <a href=\"http://www.marcjacobs.com/style-eye-con-no.-7/C4001103.html?cgid=beauty-eyes&amp;dwvar_C4001103_color=999#start=1\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Make Up For Ever <a href=\"http://www.makeupforever.com/us/en-us/make-up/eyes/eyeliner/artist-liner\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Rimmel London <a href=\"http://us.rimmellondon.com/products/eyes/scandaleyes-retro-glam-mascara\">Mascara<\/a>\n\n<b>Lip<\/b>: Kat Von D <a href=\"http://www.sephora.com/studded-kiss-lipstick-P387435?skuId=1621754\">Lipstick<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr15/grid-cell-3952-1434036609-21.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr13/grid-cell-1347-1433955125-7.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr13/grid-cell-1347-1433955127-10.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "She has a talking cat. I repeat: a talking cat. That's enough reason to want to embody everything she is/represents.\n\n<b>Eyeshadow<\/b>: Yves Saint Laurent <a href=\"http://www.sephora.com/couture-palette-P387052?skuId=1627397\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Stila <a href=\"http://www.stilacosmetics.com/product/kitten-glitter-eye-liner.do?sortby=ourPicks\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Benefit <a href=\"https://www.benefitcosmetics.com/product/view/theyre-real\">Mascara<\/a>\n\n<b>Lip<\/b>: Laura Mercier <a href=\"http://www.lauramercier.com/lipstick/shimmer-lip-colour-prod120004.html#start=6\">Lipstick<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/10/enhanced/webdr05/grid-cell-326-1434034482-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr01/grid-cell-27609-1433955409-4.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr01/grid-cell-27609-1433955411-7.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Phoebe's got brains and she grows up to marry Gerald (and we all know it). Is it possible she's cooler than Rhonda? Oh yeah!\n\n<b>Eyeshadow<\/b>: Sonia Kashuk <a href=\"http://soniakashuk.com/products/eye-couture/\">Eyeshadow<\/a>\n\n<b>Mascara<\/b>: Josie Maran <a href=\"http://www.josiemarancosmetics.com/argan-black-oil-mascara.html#.VXejwGRViko\">Mascara<\/a>\n\n<b>Lip<\/b>: Fresh Sugar <a href=\"http://www.fresh.com/US/lip-treatment/sugar-nude-tinted-lip-treatment-sunscreen-spf-15/H00003258.html#start=1&amp;cgid=lip-treatment\">Lip Treatment<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr08/grid-cell-5006-1434036634-8.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr07/grid-cell-19487-1433955582-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr07/grid-cell-19487-1433955583-5.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "She's Jane f**cking Lane. Enough said.\n\n<b>Eyeshadow<\/b>: Chanel <a href=\"http://www.chanel.com/en_US/fragrance-beauty/Makeup-Eyeshadow-LES-4-OMBRES-138006\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Stila <a href=\"http://www.stilacosmetics.com/product/stay-all-day-waterproof-liquid-eye-liner.do\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Urban Decay <a href=\"http://www.urbandecay.com/perversion-by-urban-decay/457.html\">Mascara<\/a>\n\n<b>Lip<\/b>: M.A.C. <a href=\"http://www.maccosmetics.com/product/13854/310/Products/Makeup/Lips/Lipstick/Lipstick#/shade/Ruby_Woo\">Lipstick<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr02/grid-cell-25891-1434034996-3.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr06/grid-cell-17725-1433955877-3.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr06/grid-cell-17725-1433955879-6.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Remember when Spinelli became an \"Ashley\" and you lost your shit because she's better than those clones? Yeah. Screw that. She's the Toughest Girl in Third Street School. \n\n<b>Eyeshadow<\/b>: CoverGirl <a href=\"http://www.covergirl.com/beauty-products/eye-makeup/eyeshadow/eye-enhancers-3-kit-eyeshadows\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Urban Decay <a href=\"http://www.sephora.com/24-7-glide-on-eye-pencil-P133707?skuId=1139393\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Clinique <a href=\"http://www.clinique.com/product/1606/5416/Makeup/Mascara/High-Impact-Mascara\">Mascara<\/a>\n\n<b>Lip<\/b>: Revlon <a href=\"http://www.revlon.com/products/lips/lip-color/colorburst-matte-balm#309975726053||0\">Lip Balm<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr12/grid-cell-22586-1434035965-22.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr06/grid-cell-17772-1433956247-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr06/grid-cell-17772-1433956248-5.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Misty is the ultimate beach babe. Seriously. What is it with Cerulean City girls and that mermaid-walking-on-land look? Need her look.\n\n<b>Eyeshadow<\/b>: ColourPop <a href=\"https://colourpop.com/product/rebound/\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Stila <a href=\"http://www.stilacosmetics.com/product/smudge+stick+waterproof+eye+liner.do?sortby=ourPicks\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: CoverGirl <a href=\"http://www.covergirl.com/beauty-products/eye-makeup/mascara/no-clump-mascara?utm_source=google&amp;utm_medium=cpc&amp;utm_term=clump%20crusher%20mascara&amp;utm_campaign=Covergirl_Search_Category+Interest+Product.Exact&amp;utm_content=sY0VpUjrW_dc|79610359838\">Mascara<\/a>\n\n<b>Lip<\/b>: Yves Saint Laurent <a href=\"http://www.sephora.com/rouge-volupte-silky-sensual-radiant-lipstick-spf-15-P218426?skuId=1148451\">Lipstick<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr11/grid-cell-29969-1434035940-8.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr11/grid-cell-7443-1433956454-4.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr11/grid-cell-7443-1433956455-7.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Never forget: Max unmasked Batman, and then he asked her to help out with all that computer programming \"stuff.\" She is the Queen of Badassery.\n\n<b>Eyeshadow<\/b>: Nars <a href=\"http://www.narscosmetics.com/USA/duo-eyeshadow/999NACDUOES02.html?dwvar_999NACDUOES02_color=7845039037#start=1\">Eyeshadow<\/a>\n\n<b>Eyeliner<\/b>: Rimmel London <a href=\"http://www.target.com/p/rimmel-exaggerate-eye-definer/-/A-15651060#prodSlot=medium_1_13&amp;term=rimmel\">Eyeliner<\/a>\n\n<b>Mascara<\/b>: Benefit <a href=\"https://www.benefitcosmetics.com/product/view/badgal-lash-mascara\">Mascara<\/a>\n\n<b>Lip<\/b>: Nars <a href=\"http://www.narscosmetics.com/USA/audacious-lipstick/999NARS000011.html?dwvar_999NARS000011_color=7845094883#start=1\">Lipstick<\/a>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/11/enhanced/webdr14/grid-cell-26510-1434035829-23.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "11 Things You Need To Know About Jurassic World's Dinosaurs, According To The Film’s Dinosaur Expert",
+
+            "link": "http://www.buzzfeed.com/tomphillips/also-they-should-have-feathers?utm_term=4ldqpia",
+
+            "description": "<p>Spoiler warning: those Velociraptors aren&#8217;t actually Velociraptors.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>This is Jack Horner. He's <i>Jurassic Park<\/i>'s resident dinosaur expert.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/10/enhanced/webdr08/enhanced-buzz-20503-1434031204-9.jpg\" width=\"625\" height=\"466\" alt=\"This is Jack Horner. He's Jurassic Park's resident dinosaur expert.\" /><\/p>\n \n\t<p>One of the best-known (and often most controversial) paleontologists in the world, Horner has been the main dinosaur adviser for every <i>Jurassic Park<\/i> film since the original in 1993, including the new <i>Jurassic World<\/i>. And he didn&#39;t just help the filmmakers get the dinosaurs right &ndash; Dr. Grant, Sam Neill&#39;s character in the first film, was largely inspired by him.<\/p>\n\n<p>BuzzFeed Science caught up with him in London to get the lowdown on some of the dinosaurs featured in the new film.<\/p>\n\n\n <p><small>Matthew Tucker / BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1><i>Velociraptor<\/i><\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/14/enhanced/webdr04/enhanced-890-1433961432-5.jpg\" width=\"625\" height=\"312\" alt=\"Velociraptor\" /><\/p>\n \n\t<p><i>Velociraptor<\/i> may be one of the most famous dinosaur species in the world, thanks to <i>Jurassic Park<\/i>. The only problem is that the dinosaurs in the films aren&#39;t actually <i>Velociraptors<\/i>. <\/p>\n\n<p>\"<i>Velociraptor<\/i> is really a tiny little dinosaur,\" Horner confesses. The raptors in the films \"are really based on <i>Deinonychus<\/i>, which we didn&#39;t think anybody would be able to say.\"<\/p>\n\n<p>\"The cool thing about <i>Deinonychus<\/i> is that they&#39;re the dinosaur we do actually have evidence for being pack hunters,\" Horner adds &ndash; although even then, <a href=\"http://www.bioone.org/doi/abs/10.3374/0079-032X%282007%2948%5B103%3AAROCPH%5D2.0.CO%3B2\">some experts aren&#39;t 100% convinced<\/a>. What certainly does seem to be true is that <a href=\"http://www.theguardian.com/science/blog/2011/mar/29/dinosaurs-behaviour-raptors-pack-hunters\"><i>Deinoychus<\/i> and its relatives were social animals, at least some of the time<\/a>.<\/p>\n\n<p>If you want to know what real-life <i>Velociraptors<\/i> looked like, they were a couple of feet tall and (like many dinosaurs) they had feathers. A bit like a predatory turkey.<\/p>\n\n\n <p><small>Universal<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/23/enhanced/webdr12/edit-6536-1433993583-4.jpg\" width=\"625\" height=\"503\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Mr1805 / Getty Images<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1><i>Triceratops<\/i><\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/23/enhanced/webdr06/anigif_enhanced-23910-1433994918-2.gif\" width=\"625\" height=\"309\" alt=\"Triceratops\" /><\/p>\n \n\t<p>Horner&#39;s own research had a direct impact on how we see one much-loved creature in the movie. \"Triceratops is actually one of the dinosaurs I had to have the artists change,\" Horner says. \"Because we see juveniles in the movie &ndash; kids are riding them &ndash; and we know that in juvenile triceratops, <a href=\"http://rspb.royalsocietypublishing.org/content/273/1602/2757\">their horns actually curve backwards<\/a>. Then as the animal gets older, their horns grow forward. So we had to get the juvenile horns to curve backwards, and the artists did <i>not<\/i> want to do that...\"<\/p>\n\n\n <p><small>Universal<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/tomphillips/also-they-should-have-feathers\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Tom Phillips",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/tomphillips/also-they-should-have-feathers"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 10:14:10 -0400",
+
+            "group": {
+
+               "description": "Spoiler warning: those <i>Velociraptors<\/i> aren't actually <i>Velociraptors<\/i>.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "tomphillips"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/10/campaign_images/webdr08/also-they-should-have-feathers-2-29729-1434032960-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "466",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/10/enhanced/webdr08/enhanced-buzz-20503-1434031204-9.jpg",
+
+                     "@width": "625",
+
+                     "description": "One of the best-known (and often most controversial) paleontologists in the world, Horner has been the main dinosaur adviser for every <i>Jurassic Park<\/i> film since the original in 1993, including the new <i>Jurassic World<\/i>. And he didn't just help the filmmakers get the dinosaurs right – Dr. Grant, Sam Neill's character in the first film, was largely inspired by him.\n\nBuzzFeed Science caught up with him in London to get the lowdown on some of the dinosaurs featured in the new film.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "312",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/14/enhanced/webdr04/enhanced-890-1433961432-5.jpg",
+
+                     "@width": "625",
+
+                     "description": "<i>Velociraptor<\/i> may be one of the most famous dinosaur species in the world, thanks to <i>Jurassic Park<\/i>. The only problem is that the dinosaurs in the films aren't actually <i>Velociraptors<\/i>. \n\n\"<i>Velociraptor<\/i> is really a tiny little dinosaur,\" Horner confesses. The raptors in the films \"are really based on <i>Deinonychus<\/i>, which we didn't think anybody would be able to say.\"\n\n\"The cool thing about <i>Deinonychus<\/i> is that they're the dinosaur we do actually have evidence for being pack hunters,\" Horner adds – although even then, <a href=\"http://www.bioone.org/doi/abs/10.3374/0079-032X%282007%2948%5B103%3AAROCPH%5D2.0.CO%3B2\">some experts aren't 100% convinced<\/a>. What certainly does seem to be true is that <a href=\"http://www.theguardian.com/science/blog/2011/mar/29/dinosaurs-behaviour-raptors-pack-hunters\"><i>Deinoychus<\/i> and its relatives were social animals, at least some of the time<\/a>.\n\nIf you want to know what real-life <i>Velociraptors<\/i> looked like, they were a couple of feet tall and (like many dinosaurs) they had feathers. A bit like a predatory turkey.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "503",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/23/enhanced/webdr12/edit-6536-1433993583-4.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/23/enhanced/webdr06/anigif_enhanced-23910-1433994918-2.gif",
+
+                     "@width": "625",
+
+                     "description": "Horner's own research had a direct impact on how we see one much-loved creature in the movie. \"Triceratops is actually one of the dinosaurs I had to have the artists change,\" Horner says. \"Because we see juveniles in the movie – kids are riding them – and we know that in juvenile triceratops, <a href=\"http://rspb.royalsocietypublishing.org/content/273/1602/2757\">their horns actually curve backwards<\/a>. Then as the animal gets older, their horns grow forward. So we had to get the juvenile horns to curve backwards, and the artists did <i>not<\/i> want to do that...\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/14/enhanced/webdr15/enhanced-15573-1433959880-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "If you've been scared of <i>T. rex<\/i> ever since it first attacked the cars in <i>Jurassic Park<\/i>, Horner would very much like to crush your nightmares. \n\n\"In real life, my favourite thing about <i>T. rex<\/i> is that it really wasn't a top predator – it was an opportunist,\" says Horner. \"It probably only ate weak animals, and sick animals, and dead animals. I mean, it's got bone-crushing teeth – teeth that are totally different to any other dinosaur.\"\n\nBut... not so fast. Despite a lot of media attention, the question of whether <i>Tyrannosaurus<\/i> was a predator or scavenger <a href=\"http://phenomena.nationalgeographic.com/2013/07/16/time-to-slay-the-t-rex-scavenger-debate/\">is actually more of a long-running non-controversy<\/a>. For decades, Horner has been firmly on Team Scavenger; however, most other paleontologists are on Team Predator (or at least Team It Was Probably Both.) The <a href=\"http://www.academia.edu/293223/A_critical_re-appraisal_of_the_obligate_scavenging_hypothesis_for_Tyrannosaurus_rex_and_other_tyrant_dinosaurs\">most comprehensive study of the issue strongly suggests<\/a> that the arguments for <i>T. rex<\/i> being a scavenger alone are flawed, while there is <a href=\"http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3732924/\">plenty of additional evidence<\/a> that it definitely did hunt other large dinosaurs. So, good news, everybody – <i>T. rex<\/i> is still absolutely terrifying after all.\n\nFun fact: Horner's best-known rival in the great was-<i>T. Rex<\/i>-a-hunter debate, Robert T. Bakker, was rewarded for sticking to his guns by having a thinly-disguised caricature of him featured in <i>Jurassic Park II<\/i>... being eaten by a <i>T. rex<\/i>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/14/enhanced/webdr01/grid-cell-8668-1433960513-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/14/enhanced/webdr01/grid-cell-8668-1433960514-5.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "312",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/21/enhanced/webdr12/anigif_enhanced-25125-1433987521-11.gif",
+
+                     "@width": "625",
+
+                     "description": "Not one but two species of pterosaur (they're not technically dinosaurs, although they're closely related) get to go all Alfred Hitchcock on a crowd of tourists in the movie. Horner admits that both species have been \"oversized\" for the film; but in case you're worried about being snatched away by a flying reptile, he notes that even at their new larger sizes, they'd still \"probably not actually be able to pick up people...\"\n\n\"The interesting thing about those pterosaurs is that their bones are paper thin,\" Horner adds. \"They have among the thinnest bones of any animals that we know of. I mean it's just extraordinarily thin.\" How thin is \"extraordinarily thin\"? <a href=\"http://www.sciencedirect.com/science/article/pii/S0195667113001080\">One recent study<\/a> of a pterosaur skeleton <a href=\"http://www.theguardian.com/science/lost-worlds/2013/sep/11/pterosaur-air-filled-bones\">found that its sternum had bone walls as thin as 0.06mm in places<\/a>. Like lots of dinosaurs, and modern day birds, the rest of the bone cavity was filled with air – keeping them light enough that they could get off the ground.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr05/enhanced-18673-1433939584-21.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/23/enhanced/webdr10/anigif_enhanced-13387-1433992203-2.gif",
+
+                     "@width": "625",
+
+                     "description": "The park's new marine attraction is another case that Horner acknowledges that the filmmakers have bumped its size up for the movie – \"but then,\" he adds, \"we do keep finding bigger ones and bigger ones.\" \n\n\"The one in the movie is pretty spectacular, and is spectacular because of its size. Whether it'd jump out of the water to eat a shark, though, I don't know...\"\n\n(<i>Mososaurs<\/i>: also not actually dinosaurs, by the way.)",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "312",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/21/enhanced/webdr15/anigif_enhanced-24700-1433987225-10.gif",
+
+                     "@width": "625",
+
+                     "description": "The tank-like, wrecking ball-tailed <i>Ankylosaurs<\/i> make their full debut in <i>Jurassic World<\/i>, after a cameo in <i>JP III<\/i>. \"<i>Ankylosaurus<\/i> is an armoured dinosaur and... er, I don't know what to say about <i>Ankylosaurus<\/i>,\" says Horner, a little shamefacedly. \n\n\"We don't know very much about them. They've got a very peculiar head; they've got all kinds of strange structures in their skulls, and we have absolutely no idea what they're for. So, it's got a big club on its tail, it's got a bunch of this armour on it... but we think the armour may have actually been for display, not for protection.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "The stars of the classic \"flocking this way\" scene in the original film return for more... well, flocking. \"We have found <i>Gallimimus<\/i> in groups, so while we don't know if they would have herded <i>quite<\/i> like we see in <i>Jurassic Park<\/i>, we definitely know that they were social animals,\" says Horner. \"They were very much like an ostrich, and probably one of the fastest dinosaurs. Faster than <i>Velociraptor<\/i>.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/22/enhanced/webdr12/grid-cell-31573-1433990461-3.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/22/enhanced/webdr12/grid-cell-31573-1433990462-6.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "312",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/9/enhanced/webdr09/anigif_enhanced-17887-1434029720-7.gif",
+
+                     "@width": "625",
+
+                     "description": "These huge sauropods take over the role that <i>Brachiasaurus<\/i> played in the first films. \"One theory on <i>Apatosaurus<\/i> is that they could <a href=\"http://www.nytimes.com/1997/12/02/science/did-dinosaurs-break-the-sound-barrier.html\">snap their tails faster than sound<\/a>, and produce very loud noises. Nathan Myrvohld, who came up with that hypothesis, thinks thats how they may have actually communicated with one another – by popping their tails.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "335",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/9/enhanced/webdr07/enhanced-1310-1434031000-7.jpg",
+
+                     "@width": "625",
+
+                     "description": "The distinctively-crested <i>Parasaurolophus<\/i> have been a feature of the <i>Jurassic Park<\/i> universe since that memorable first shot across the park. Horner says: \"Parasaurolophus is an interesting duck-billed dinosaur. A lot of people think the tube is some kind of communication device (although other duck-billed dinosaurs that didn't have them could probably communicate just as well.) What's interesting is that the big giant tube on an adult parasaurolophus, if you blow air through it, it produces an infrasound too deep for even us to hear.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr06/enhanced-2826-1433939592-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "\"<i>Stegosaurus<\/i>, with its big plates. Lots of people thought the plates were for defence, then they thought they were for cooling or warming the animal, but we're pretty sure now that <a href=\"http://www.smithsonianmag.com/science-nature/stegosaurus-plate-debate-142166929/?no-ist\">they were just big giant display features<\/a>.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/enhanced/webdr11/enhanced-31545-1433952969-10.jpg",
+
+                     "@width": "625",
+
+                     "description": "<i>Indominus rex<\/i>, the big bad of <i>Jurassic World<\/i>, is not a real dinosaur – it's the hybrid of lots of dinosaurs (and various other creatures) cooked up by the theme park's geneticists. And, of course, by the film's creators, alongside Horner. \n\n\"We initially started with a thing called a <i>Therizinosaur<\/i>,\" Horner says, \"because we wanted a dinosaur with big arms and big claws. And then from there it morphed into all sorts of things... <i>T. rex<\/i> and [SPOILERS ABOUT SOME OF THE ANIMAL DNA USED TO MAKE INDOMINUS] and <i>Carnotaurus<\/i> and all kinds of things. Who knows what it is now?\"\n\n<i>Indominus<\/i> has a few extra tricks up its sleeve from the animal kingdom: \"The most important thing for me was camoflage, and getting the cuttlefish characteristics – that was the most important thing of all for me,\" Horner says.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Despite its fearsome appearance, though, it was probably a herbivore. Which is possibly why the film's makers didn't include as much of it in the <i>Indominus<\/i> as Horner would have liked. \n\n\"I was hoping we'd have more <i>Therizinosaur<\/i> and less <i>T. rex<\/i>,\" he admits. \"But in the end, it's always [executive producer] Steven Spielberg who has the final say on what an animal actually looks like.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/22/enhanced/webdr11/grid-cell-4020-1433990823-21.jpg",
+
+                     "@width": "309",
+
+                     "description": "<i>Therizinosaurus<\/i>, as seen in <i>Chased By Dinosaurs<\/i>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/22/enhanced/webdr11/grid-cell-4020-1433990824-24.jpg",
+
+                     "@width": "309",
+
+                     "description": "The Indominus rex's big claws",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Jurassic World <i>is in cinemas from today.<\/i>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "7 Important Things Science Has Learned About Dinosaurs Since \"Jurassic Park\"",
+
+            "link": "http://www.buzzfeed.com/kellyoakes/clever-girl?utm_term=4ldqpia",
+
+            "description": "<p>The original movie came out 22 years ago this week, and a lot has changed since then. Spoiler: BIRDS ARE DINOSAURS.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Dinosaurs had feathers.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/5/enhanced/webdr12/enhanced-7272-1433929992-1.jpg\" width=\"625\" height=\"421\" alt=\"Dinosaurs had feathers.\" /><\/p>\n \n\t<p>Paleontologists had known that dinosaurs were way more colourful than the muted greens and browns of the <i>Jurassic Park<\/i> dinosaurs a couple of decades before the movie came out. But it wasn&#39;t until three years after its debut that we got confirmation that at least one species had <i>feathers<\/i> (there were, however, <a href=\"http://phenomena.nationalgeographic.com/2013/01/28/p-is-for-pelecanimimus/\">unconfirmed<\/a> fuzzy specimens found earlier than this).<\/p>\n\n\n <p><small>Chuang Zhao / Via <a href=\"http://www.buzzfeed.com/kellyoakes/theres-a-newly-found-dinosaur-called-pinocchio-rex\">buzzfeed.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/6/enhanced/webdr08/enhanced-31116-1433933877-2.png\" width=\"625\" height=\"382\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>CC BY-SA / Wikimedia Commons / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://commons.wikimedia.org/wiki/File:Sinosauropteryx_mmartyniuk_solosml.png#/media/File:Sinosauropteryx_mmartyniuk_solosml.png\">commons.wikimedia.org<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Brian Switek writes in <i>My Beloved Brontosaurus<\/i> (Farrar, Straus and Giroux, 2013):<\/p>\n\n<blockquote><p>The first fluffy dinosaur discovery enthralled paleontologists. At the annual Society of Vertebrate Paleontology conference in 1996, scientists circulated a photograph of a small fossil that revealed a mane of fuzz along a dinosaur&#39;s back and tail.<\/p><\/blockquote>\n\n\n<p>It was a small theropod called <i>Sinosauropteryx<\/i> and had a coat of protofeathers that weren&#39;t enough for flight, only for show and keeping the dinosaur warm. This and further discoveries confirmed what&#39;s possibly the greatest fact you will ever know: birds are dinosaurs.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>In fact, most dinosaurs probably had some kind of feathers.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/7/enhanced/webdr02/enhanced-7367-1433936475-12.jpg\" width=\"625\" height=\"399\" alt=\"In fact, most dinosaurs probably had some kind of feathers.\" /><\/p>\n \n\t<p>It wasn&#39;t until last year when scientists <a href=\"http://news.nationalgeographic.com/news/2014/07/140724-feathered-siberia-dinosaur-scales-science/\">discovered<\/a> a fossilised feather dinosaur that <i>wasn&#39;t<\/i> an ancestor of modern birds that they realised most dinosaurs could have been at least a bit fuzzy.<\/p>\n\n<p>\"Probably that means the common ancestor of all dinosaurs had feathers,\" study lead author Pascal Godefroit, of the Royal Belgian Institute of Natural Science in Brussels, <a href=\"http://news.nationalgeographic.com/news/2014/07/140724-feathered-siberia-dinosaur-scales-science/\">told <i>National Geographic News<\/i><\/a> at the time.<\/p>\n\n\n <p><small>Andrey Atuchin / Via Science<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/kellyoakes/clever-girl\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Kelly Oakes",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kellyoakes/clever-girl"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 06:30:58 -0400",
+
+            "group": {
+
+               "description": "The original movie came out 22 years ago this week, and a lot has changed since then. Spoiler: BIRDS ARE DINOSAURS.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kellyoakes"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/campaign_images/webdr06/clever-girl-2-1321-1433939038-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "421",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/5/enhanced/webdr12/enhanced-7272-1433929992-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Paleontologists had known that dinosaurs were way more colourful than the muted greens and browns of the <i>Jurassic Park<\/i> dinosaurs a couple of decades before the movie came out. But it wasn't until three years after its debut that we got confirmation that at least one species had <i>feathers<\/i> (there were, however, <a href=\"http://phenomena.nationalgeographic.com/2013/01/28/p-is-for-pelecanimimus/\">unconfirmed<\/a> fuzzy specimens found earlier than this).",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "382",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/6/enhanced/webdr08/enhanced-31116-1433933877-2.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Brian Switek writes in <i>My Beloved Brontosaurus<\/i> (Farrar, Straus and Giroux, 2013):\n\n<blockquote>The first fluffy dinosaur discovery enthralled paleontologists. At the annual Society of Vertebrate Paleontology conference in 1996, scientists circulated a photograph of a small fossil that revealed a mane of fuzz along a dinosaur's back and tail.<\/blockquote>\n\nIt was a small theropod called <i>Sinosauropteryx<\/i> and had a coat of protofeathers that weren't enough for flight, only for show and keeping the dinosaur warm. This and further discoveries confirmed what's possibly the greatest fact you will ever know: birds are dinosaurs.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "399",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/7/enhanced/webdr02/enhanced-7367-1433936475-12.jpg",
+
+                     "@width": "625",
+
+                     "description": "It wasn't until last year when scientists <a href=\"http://news.nationalgeographic.com/news/2014/07/140724-feathered-siberia-dinosaur-scales-science/\">discovered<\/a> a fossilised feather dinosaur that <i>wasn't<\/i> an ancestor of modern birds that they realised most dinosaurs could have been at least a bit fuzzy.\n\n\"Probably that means the common ancestor of all dinosaurs had feathers,\" study lead author Pascal Godefroit, of the Royal Belgian Institute of Natural Science in Brussels, <a href=\"http://news.nationalgeographic.com/news/2014/07/140724-feathered-siberia-dinosaur-scales-science/\">told <i>National Geographic News<\/i><\/a> at the time.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Paleontologist Steve Brusatte, who wasn't involved in the research, <a href=\"http://news.nationalgeographic.com/news/2014/07/140724-feathered-siberia-dinosaur-scales-science/\">agreed<\/a>: \n\n<blockquote>This does mean that we can now be very confident that feathers weren't just an invention of birds and their closest relatives, but evolved much deeper in dinosaur history. I think that the common ancestor of dinosaurs probably had feathers, and that all dinosaurs had some type of feather, just like all mammals have some type of hair.<\/blockquote>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "454",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/7/enhanced/webdr10/enhanced-16893-1433936855-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "An <i>Archaeopteryx<\/i> fossil <a href=\"http://news.nationalgeographic.com/news/2014/07/140702-archaeopteryx-fossil-feathers-dinosaurs-science/\">revealed<\/a> in <a href=\"http://www.nature.com/nature/journal/v511/n7507/full/nature13467.html\">a <i>Nature<\/i> paper in 2014<\/a> was covered head to toe in pennaceous feathers, the type birds use today to fly, but <i>Archaeopteryx<\/i> was flightless. The study's authors suggest that the feathers didn't evolve for any one reason, but were primarily used for display.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "452",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/7/enhanced/webdr02/enhanced-21145-1433937384-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Actual velociraptors were turkey-sized creatures that probably wouldn't attack a human, unlike the <i>Jurassic Park<\/i> velociraptors, which most definitely did, and were actually based on a related but distinct dinosaur called <i>Deinonychus<\/i>.\n\nScientists believed for years that <i>Deinonychus<\/i> hunted in packs, co-operating and working together, just like the velociraptors in <i>Jurassic Park<\/i>. But in 2007 <a href=\"http://www.bioone.org/doi/abs/10.3374/0079-032X%282007%2948%5B103%3AAROCPH%5D2.0.CO%3B2\">a paper<\/a> published in the <i>Bulletin of the Peabody Museum of Natural History<\/i> pointed out that there was not enough evidence to say either way whether <i>Deinonychus<\/i> worked together. The scientists who published the paper, Roach and Brinkman, put forward another hypothesis: that the multiple <i>Deinonychus<\/i> fossils found at a hunt site were actually killed by each other as they fought over a carcass.\n\nWe do know that they at least spent some time <a href=\"http://www.ncbi.nlm.nih.gov/pubmed/17952398\">walking together<\/a>, but we don't know for sure why.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "350",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/6/enhanced/webdr03/anigif_enhanced-5555-1433933580-1.gif",
+
+                     "@width": "625",
+
+                     "description": "<i>Brontosaurus<\/i> was named in 1879, but in 1903 two scientists published a paper claiming the specimen was actually just a larger version of the <i>Apatosaurus<\/i>, and this conclusion stuck.\n\nBut <a href=\"http://www.buzzfeed.com/alexkasprak/brontosaurus-may-be-a-real-dinosaur-after-all\">this year<\/a>, after applying some computer algorithms to a new data set in a process known as cladistics, a group of scientists <a href=\"https://peerj.com/articles/857\">argued<\/a> that Brontosaurs should be a distinct genus after all. Time for a reprise?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "610",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/4/enhanced/webdr14/enhanced-32477-1433924900-1.png",
+
+                     "@width": "588",
+
+                     "description": "Male stegosaurus had wide plates from their head down to their tail, while females had taller ones, a <a href=\"http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0123503\">paper<\/a> published this year in the journal <i>PLOS One<\/i> claimed. It's the first evidence of \"sexual dimorphism\" – where the male and female of a particular species differ in appearance – in dinosaurs, though we see this kind of thing all around us in animals that are alive today (think of male peacocks and their huge feathery displays vs. the more demure female peahen).\n\nScientists have been looking for such evidence for years, but whenever it would look like they'd found it, the variations turned out to be due to something else – slightly different species, or different aged dinosaurs of the same species. In fact, some scientists have <a href=\"http://news.sciencemag.org/paleontology/2015/04/dino-sexing-study-slammed-critics\">disputed<\/a> the stegosaurus findings, claiming the evidence does not support that conclusion, and that the dinosaurs in the study could just have been different ages after all.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Birds form a kind of bone tissue called <a href=\"http://www.nature.com/srep/2014/140910/srep06253/full/srep06253.html\">medullary bone<\/a> before laying their eggs. They draw calcium from this tissue and use it to form eggshell. And in 2005 paleontologist Mary Schweitzer <a href=\"http://www.sciencemag.org/content/307/5717/1952.abstract\">revealed<\/a> that <a href=\"http://news.sciencemag.org/2005/06/what-sex-rex\">a <i>Tyrannosaurus rex<\/i> had formed this bone tissue<\/a> to lay their eggs too. A few years later, other paleontologists <a href=\"http://www.pnas.org/content/105/2/582\">reported<\/a> finding the tissue in two other dinosaurs too (<i>Allosaurus<\/i> and <i>Tenontosaurus<\/i>, for those who are keeping track).",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr08/grid-cell-1623-1433955758-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/13/enhanced/webdr08/grid-cell-1623-1433955760-5.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "216",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/6/enhanced/webdr05/anigif_enhanced-19493-1434019200-5.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Someone Turned My Little Pony Toys Into \"Mad Max\" Characters And It's Terrifying",
+
+            "link": "http://www.buzzfeed.com/jennaguillaume/immortan-noooo?utm_term=4ldqpia",
+
+            "description": "<p>Immortan Nooooo.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Tumblr user <a href=\"http://savethewailes.tumblr.com/post/120186445031/mad-max-fury-road-ponies-because-i-am-a-monster\">SaveTheWailes<\/a> has created these amazing (and slightly terrifying) custom My Little Pony toys inspired by <i>Mad Max: Fury Road<\/i>.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/4/enhanced/webdr13/enhanced-18605-1434011257-1.jpg\" width=\"500\" height=\"336\" alt=\"Tumblr user SaveTheWailes has created these amazing (and slightly terrifying) custom My Little Pony toys inspired by Mad Max: Fury Road.\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://savethewailes.tumblr.com/post/120186445031/mad-max-fury-road-ponies-because-i-am-a-monster\">savethewailes.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/4/enhanced/webdr07/grid-cell-6632-1434012248-3.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://savethewailes.tumblr.com/post/120186445031/mad-max-fury-road-ponies-because-i-am-a-monster\">savethewailes.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/4/enhanced/webdr07/grid-cell-6632-1434012249-6.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://savethewailes.tumblr.com/post/120186445031/mad-max-fury-road-ponies-because-i-am-a-monster\">savethewailes.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/jennaguillaume/immortan-noooo\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Jenna Guillaume",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/jennaguillaume/immortan-noooo"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 04:52:31 -0400",
+
+            "group": {
+
+               "description": "Immortan Nooooo.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "jennaguillaume"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/campaign_images/webdr03/immortan-noooo-2-28381-1434013098-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "336",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr13/enhanced-18605-1434011257-1.jpg",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr07/grid-cell-6632-1434012248-3.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr07/grid-cell-6632-1434012249-6.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Furiosa looks fierce as ever in pony form.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr06/grid-cell-2818-1434012279-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr06/grid-cell-2818-1434012282-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr05/grid-cell-2425-1434012220-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr05/grid-cell-2425-1434012221-5.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr14/grid-cell-17371-1434012206-5.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr14/grid-cell-17371-1434012207-8.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "272",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/4/enhanced/webdr06/anigif_enhanced-buzz-29666-1434012013-12.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This Guy Proposed To His Girlfriend By Hacking Into A Video Game",
+
+            "link": "http://www.buzzfeed.com/norbertobriceno/nuh-nuh-nuh-nuhhhhhh?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;YOU GOT THE RING!&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Here's a YouTube video that shows how James Dowdell reprogrammed the ending of <i>The Legend of Zelda<\/i> to propose to his girlfriend Natalie Martin.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/yyEMFiJ_FgA\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=yyEMFiJ_FgA\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/according-to-this-a-hrefhttpimgurcomgaller-npr8nm-nwop?uri=according-to-this-a-hrefhttpimgurcomgaller-npr8nm-nwop&cb=1434243401\" width=\"1\" height=\"1\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>According to this <a href=\"http://imgur.com/gallery/f0CFV\">Imgur<\/a> post, James and Natalie like to spend time playing video games together. And so, when the two chose to play <i>The Legend of Zelda<\/i> on the original NES hardware, he used the opportunity to propose.<\/h1>\n\n \n\t<p>\"A highlight of our lives is getting together on the couch for play throughs of video games,\" writes James on <a href=\"http://imgur.com/gallery/f0CFV\">Imgur<\/a>. \"<i>The Legend of Zelda<\/i> for NES is my all time favorite game.\"<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/after-setting-a-date-to-play-the-game-he-fiddled-npr7a2-nwop?uri=after-setting-a-date-to-play-the-game-he-fiddled-npr7a2-nwop&cb=1434243401\" width=\"1\" height=\"1\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>After setting a date to play the game, he fiddled around with the graphics to make Princess Zelda appear like Natalie.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/james-then-hacked-into-the-games-code-which-a-h-npr8tu-nwop?uri=james-then-hacked-into-the-games-code-which-a-h-npr8tu-nwop&cb=1434243401\" width=\"1\" height=\"1\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>James then hacked into the game's code, which <a href=\"http://imgur.com/gallery/f0CFV\">according to James<\/a>, was a lot harder than anticipated.<\/h1>\n\n \n\t<p>He writes in the <a href=\"http://imgur.com/gallery/f0CFV\">Imgur post<\/a>: \"What I thought would be &#39;just a Saturday&#39; of work turned into week after increasingly intense week of nights and weekends poking into 6502 assembly, the NES architecture, and the ins and outs of this rom in particular - especially squeezing whatever I could into such a tiny bit of space.\"<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/norbertobriceno/nuh-nuh-nuh-nuhhhhhh\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "author": "Norberto Brice&ntilde;o",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/norbertobriceno/nuh-nuh-nuh-nuhhhhhh"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 21:00:04 -0400",
+
+            "group": {
+
+               "description": "\"YOU GOT THE RING!\"",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "norbertobriceno"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/21/campaign_images/webdr04/nuh-nuh-nuh-nuhhhhhh-2-28409-1433984866-11.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=yyEMFiJ_FgA"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "\"A highlight of our lives is getting together on the couch for play throughs of video games,\" writes James on <a href=\"http://imgur.com/gallery/f0CFV\">Imgur<\/a>. \"<i>The Legend of Zelda<\/i> for NES is my all time favorite game.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "He writes in the <a href=\"http://imgur.com/gallery/f0CFV\">Imgur post<\/a>: \"What I thought would be 'just a Saturday' of work turned into week after increasingly intense week of nights and weekends poking into 6502 assembly, the NES architecture, and the ins and outs of this rom in particular - especially squeezing whatever I could into such a tiny bit of space.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "361",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/19/enhanced/webdr14/anigif_enhanced-1426-1433980257-8.gif",
+
+                     "@width": "421",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "361",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/19/enhanced/webdr13/anigif_enhanced-3148-1433980779-4.gif",
+
+                     "@width": "421",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}

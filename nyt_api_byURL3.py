@@ -57,7 +57,7 @@ class NYTCommunityAPI (object):
         params["api-key"] = self.api_key
         params["offset"] = str(offset)
         params["sort"] = "oldest"
-
+        params["replyLimit"] = "100"
 
         url = self.URL + "url" + ".json?" + urllib.urlencode (params)
 
@@ -123,7 +123,7 @@ def CollectComments():
                 print comment["replies"]
                 if a > 3:
                     a = 3
-
+                    print "replies: " + str(len(comment["replies"]))
                 rep_count = rep_count + a
                 if len(comment["replies"]) > 0:
                     for reply in comment["replies"]:

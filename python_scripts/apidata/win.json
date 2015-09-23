@@ -1,0 +1,6649 @@
+{
+
+   "@version": "2.0",
+
+   "channel": {
+
+      "title": "BuzzFeed  - WIN Feed",
+
+      "link": [
+
+         "http://buzzfeed.com/win",
+
+         {
+
+            "@href": "http://buzzfeed.com/win.xml",
+
+            "@rel": "self"
+
+         }
+
+      ],
+
+      "description": "BuzzFeed, Find Your New Favorite Thing",
+
+      "language": "en",
+
+      "copyright": "Copyright 2015 BuzzFeed, Inc.",
+
+      "lastBuildDate": "Sat, 13 Jun 2015 19:37:37 -0400",
+
+      "managingEditor": "editor@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "webMaster": "info@buzzfeed.com (http://www.buzzfeed.com/about)",
+
+      "image": {
+
+         "title": "BuzzFeed",
+
+         "url": "http://www.buzzfeed.com/static/images/public/rss/logo.png",
+
+         "link": "http://buzzfeed.com/win"
+
+      },
+
+      "item": [
+
+         {
+
+            "title": "Women Scientists Are Tweeting \"Sexy\" Photos Of Themselves At Work To Shut Down Sexism",
+
+            "link": "http://www.buzzfeed.com/skarlan/biohazard-suits-are-nsfw?utm_term=4ldqpia",
+
+            "description": "<p>Marine biologists, archeologists, and many others are posting images with the hashtag #DistractinglySexy in response to comments made by British scientist Tim Hunt earlier this week.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Not a great statement to make at a conference honoring women in science.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/skarlan/biohazard-suits-are-nsfw\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/skarlan/biohazard-suits-are-nsfw"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 15:15:51 -0400",
+
+            "group": {
+
+               "description": "Marine biologists, archeologists, and many others are posting images with the hashtag #DistractinglySexy in response to comments made by British scientist Tim Hunt earlier this week.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "skarlan"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/8/campaign_images/webdr15/women-scientists-are-tweeting-sexy-photos-of-them-2-30756-1434113629-2.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Not a great statement to make at a conference honoring women in science.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "BuzzFeed News has reached out to <i>Vagenda<\/i> magazine for comment on its original tweet.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "A Teen Mom Turned Designer Makes Bikinis To Hide Pregnancy Scars",
+
+            "link": "http://www.buzzfeed.com/essencegant/this-teen-mom-designs-sexy-bikinis-that-mask-pregnancy-scars?utm_term=4ldqpia",
+
+            "description": "<p>A.Lekay wants every woman to feel confident at the beach.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Meet Altrichia Cook, a 28-year-old mom and swimsuit designer in Lakeland, Florida.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/12/enhanced/webdr11/enhanced-4022-1434038858-10.jpg\" width=\"625\" height=\"625\" alt=\"Meet Altrichia Cook, a 28-year-old mom and swimsuit designer in Lakeland, Florida.\" /><\/p>\n \n\t<p>Her friends call her A.Lekay.<\/p>\n\n<p>In 2013, A.Lekay was on the hunt for a well-made and fashionable high-waist bikini that would hide the scarring related to the birth of her now-9-year-old son.<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.facebook.com/photo.php?fbid=10102172473038463&set=a.10102172473018503.3372589.5231976&type=3&theater\">facebook.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>She couldn't find a swimsuit with a waist high enough to cover the scars, so she worked with a tailor to create her own design.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/13/enhanced/webdr11/enhanced-15994-1434043652-11.jpg\" width=\"625\" height=\"549\" alt=\"She couldn't find a swimsuit with a waist high enough to cover the scars, so she worked with a tailor to create her own design.\" /><\/p>\n \n\t<p>After posting photos on social media in her new beachwear, her friends began asking where she had gotten it.<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://instagram.com/p/q7a12bChXV/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/11/14/enhanced/webdr08/grid-cell-20289-1434047998-3.jpg\" width=\"309\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Frankie Benjamin Photography<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/essencegant/this-teen-mom-designs-sexy-bikinis-that-mask-pregnancy-scars\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/essencegant/this-teen-mom-designs-sexy-bikinis-that-mask-pregnancy-scars"
+
+            },
+
+            "pubDate": "Thu, 11 Jun 2015 15:19:11 -0400",
+
+            "group": {
+
+               "description": "A.Lekay wants every woman to feel confident at the beach.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "essencegant"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/15/campaign_images/webdr13/this-teen-mom-designs-sexy-bikinis-that-mask-preg-2-4345-1434051352-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "625",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/enhanced/webdr11/enhanced-4022-1434038858-10.jpg",
+
+                     "@width": "625",
+
+                     "description": "Her friends call her A.Lekay.\n\nIn 2013, A.Lekay was on the hunt for a well-made and fashionable high-waist bikini that would hide the scarring related to the birth of her now-9-year-old son.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "549",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr11/enhanced-15994-1434043652-11.jpg",
+
+                     "@width": "625",
+
+                     "description": "After posting photos on social media in her new beachwear, her friends began asking where she had gotten it.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "\"The idea transformed into a business,\" Lekay tells BuzzFeed Life. \"Allusions by A.Lekay came to me.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr08/grid-cell-20289-1434047998-3.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr08/grid-cell-20289-1434048000-6.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "The suit is available via <a href=\"mailto:info@allusionsbyalekay.com\">email<\/a>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3R1MRmiBcc/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "626",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr14/enhanced-27192-1434046075-11.jpg",
+
+                     "@width": "625",
+
+                     "description": "The positive feedback she received after posting her custom-made swimsuit in 2013 taught her that other women shared similar feelings. \n\n\"As I have grown, I get so many thank-you emails of women thanking me,\" the mom and entrepreneur tells us. \"One instance, a customer told me that she hadn't worn a two-piece swimsuit in over 20 years.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "614",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr05/enhanced-5736-1434045879-10.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "630",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr05/enhanced-5737-1434045829-10.jpg",
+
+                     "@width": "625",
+
+                     "description": "For women who have any abdominal scarring, whether from pregnancy or surgery, Allusions by A.Lekay offers fashionable swimwear they can wear on their journey to rebuilding their body confidence.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "626",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr07/enhanced-29961-1434042941-9.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "31 Times “Pushing Daisies” Was So Stunningly Beautiful You Cried",
+
+            "link": "http://www.buzzfeed.com/iramadison/31-times-pushing-daisies-was-so-stunningly-beautiful-you-cri?utm_term=4ldqpia",
+
+            "description": "<p>Let Ned give you life.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1><i>Pushing Daisies<\/i> was one of the most gorgeous shows on television.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr05/enhanced-22038-1434134709-1.jpg\" width=\"625\" height=\"417\" alt=\"Pushing Daisies was one of the most gorgeous shows on television.\" /><\/p>\n \n\t\n\n\n <p><small>ABC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Which is no surprise, because it was created by Bryan Fuller, who loves <a href=\"http://www.buzzfeed.com/danieldalton/i-gave-you-a-rare-gift#.jqjqjwrPJ\">lush, beautiful shows<\/a>.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr02/enhanced-21460-1434132681-1.jpg\" width=\"625\" height=\"352\" alt=\"Which is no surprise, because it was created by Bryan Fuller, who loves lush, beautiful shows.\" /><\/p>\n \n\t\n\n\n <p><small>ABC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Aside from the food porn...<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr11/anigif_enhanced-19613-1434132386-5.gif\" width=\"432\" height=\"204\" alt=\"Aside from the food porn...\" /><\/p>\n \n\t\n\n\n <p><small>ABC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/14/enhanced/webdr10/enhanced-672-1434132940-1.png\" width=\"500\" height=\"281\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>ABC<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/iramadison/31-times-pushing-daisies-was-so-stunningly-beautiful-you-cri\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/iramadison/31-times-pushing-daisies-was-so-stunningly-beautiful-you-cri"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 15:36:36 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "Let Ned give you life.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "iramadison"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/15/campaign_images/webdr01/31-times-pushing-daisies-was-so-stunningly-beauti-2-14453-1434137979-3.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "14 Pop-Punk Tattoos That'll Make You Seriously Jealous",
+
+            "link": "http://www.buzzfeed.com/mlew15/17-pop-punk-tattoos-that-kick-some-serious-butt-h0se?utm_term=4ldqpia",
+
+            "description": "<p>Tat&#8217;s so punk rock.<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>The Wonder Years<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/296TeHLfVk/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>From the song \"My Last Semester.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/296TeHLfVk/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Fall Out Boy<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/sfO5uFgKab/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>Lyrics from \"Sophomore Slump or Comeback of the Year.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/sfO5uFgKab/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Brand New<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/jbLocnhYil/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>From the song \"The Boy Who Blocked His Own Shot.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/jbLocnhYil/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>The Story So Far<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/242fJ4LfVK/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t<p>Lyrics from \"Clairvoyant.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/242fJ4LfVK/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/mlew15/17-pop-punk-tattoos-that-kick-some-serious-butt-h0se\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/mlew15/17-pop-punk-tattoos-that-kick-some-serious-butt-h0se"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 09:41:22 -0400",
+
+            "group": {
+
+               "description": "<i>Tat's<\/i> so punk rock.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "mlew15"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/campaign_images/webdr10/17-pop-punk-tattoos-that-kick-some-serious-butt-h-2-14788-1434119618-7.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "description": "From the song \"My Last Semester.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/296TeHLfVk/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Sophomore Slump or Comeback of the Year.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/sfO5uFgKab/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "From the song \"The Boy Who Blocked His Own Shot.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/jbLocnhYil/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Clairvoyant.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/242fJ4LfVK/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "From \"Northern Downpour.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/xNmlVfsLd2/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/WN-oLlLmix/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3hk_kSQeX1/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "From the song \"All Hype No Heart.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3AZ09rl62R/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Woodwork.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3l-TO5LzbM/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Feeling This.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/2eRspQzYei/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Stay Awake (Dreams Only Last For A Night).\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3YB6rys0nf/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3bqBEkyaZu/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Ballad For The Lost Romantics.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/2oOo8iGhAQ/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Lyrics from \"Last Hope.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/3kYJwpKqcV/"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "22 Reasons To Be Glad You Grew Up In Canada In The '90s",
+
+            "link": "http://www.buzzfeed.com/cylapanin/reasons-to-be-glad-you-grew-up-in-canada-in-the-90-17dvc?utm_term=4ldqpia",
+
+            "description": "<p>*When a kid could be a kid*<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>You got to experience all the haphazard weirdness of 1990s YTV.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/-ouwlfw69zs\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t<p>Like this robot ballerina. Why? Because <i>why not?<\/i><\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=-ouwlfw69zs\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>And came home to PJ Phil and Snit every day after school, where you learned world-class <i>sass<\/i> from Snit.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/16/enhanced/webdr04/enhanced-15516-1433966501-6.jpg\" width=\"480\" height=\"360\" alt=\"And came home to PJ Phil and Snit every day after school, where you learned world-class sass from Snit.\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=Lu-10cQZhXQ\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>You were let in on the secret of the majestic House Hippo.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/YLG2JP0P5JE\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t<p>Which you still look for in open bags of chips.<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=YLG2JP0P5JE\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>You, then, could enjoy a nice bowl of Trix while watching <i>Inspector Gadget<\/i> on Saturday mornings.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/16/enhanced/webdr06/enhanced-15127-1433967712-2.jpg\" width=\"625\" height=\"467\" alt=\"You, then, could enjoy a nice bowl of Trix while watching Inspector Gadget on Saturday mornings.\" /><\/p>\n \n\t<p>Canadian kids have been denied the Trix experience since 2005.<\/p>\n\n<p><b>IMPORTANT UPDATE:<\/b> <a href=\"http://news.nationalpost.com/news/silly-rabbit-trix-are-for-canadians-sugary-general-mills-cereal-to-return-to-canada\">Trix is apparently here<\/a>, IN CANADA, for a limited time this spring.<\/p>\n\n\n <p><small>Creative Commons / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.flickr.com/photos/jeepersmedia/13791689783/\">Flickr: jeepersmedia<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/cylapanin/reasons-to-be-glad-you-grew-up-in-canada-in-the-90-17dvc\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/cylapanin/reasons-to-be-glad-you-grew-up-in-canada-in-the-90-17dvc"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 11:51:22 -0400",
+
+            "group": {
+
+               "description": "<b>*When a kid could be a kid*<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "cylapanin"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/17/campaign_images/webdr15/22-reasons-to-be-glad-you-grew-up-in-canada-in-th-2-23783-1434144184-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "description": "Like this robot ballerina. Why? Because <i>why not?<\/i>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=-ouwlfw69zs"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "360",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/enhanced/webdr04/enhanced-15516-1433966501-6.jpg",
+
+                     "@width": "480",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Which you still look for in open bags of chips.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=YLG2JP0P5JE"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "467",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/enhanced/webdr06/enhanced-15127-1433967712-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "Canadian kids have been denied the Trix experience since 2005.\n\n<b>IMPORTANT UPDATE:<\/b> <a href=\"http://news.nationalpost.com/news/silly-rabbit-trix-are-for-canadians-sugary-general-mills-cereal-to-return-to-canada\">Trix is apparently here<\/a>, IN CANADA, for a limited time this spring.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "343",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/enhanced/webdr05/anigif_enhanced-12519-1433969040-2.gif",
+
+                     "@width": "480",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "246",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/enhanced/webdr09/anigif_enhanced-10263-1433969293-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "338",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/enhanced/webdr04/anigif_enhanced-23488-1433969155-2.gif",
+
+                     "@width": "450",
+
+                     "description": "Well, maybe you still leave it open. <i>Just in case<\/i>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Which made you start all your own stories with \"It happened to a friend of a friend of mine.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=nC3e1dhiAaI"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "375",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr01/enhanced-6124-1434043619-1.jpg",
+
+                     "@width": "500",
+
+                     "description": "Was it a requisite that at least one member of a '90s boy band have long hair?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "415",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/17/enhanced/webdr13/enhanced-9239-1433970496-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "When you'd carefully put away a $2 bill in your piggy bank *knowing* that it'd be worth a fortune one day.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "523",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/17/enhanced/webdr10/enhanced-22954-1433971864-1.jpg",
+
+                     "@width": "600",
+
+                     "description": "You may or may not have pretended it was a Growers cooler like mom was drinking.\n\n<b>IMPORTANT UPDATE:<\/b> These are <a href=\"http://www.vancitybuzz.com/2015/06/clearly-canadian-coming-back/\">coming back too<\/a>!! See? No one can deny the power of the '90s.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr07/enhanced-13637-1434044953-1.jpg",
+
+                     "@width": "625",
+
+                     "description": "Actually, it's probably a good thing these aren't around anymore.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "<i>Such<\/i> swag.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/1To4jODGri/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Where do kids get fitness tips these days?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=-SHDDA4mi4U"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Because what child doesn't want to create grape friends just to send them through a maze of torture devices?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=xlrx2tnSw0U"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "437",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr06/enhanced-4528-1434044225-1.jpg",
+
+                     "@width": "420",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr13/enhanced-11781-1434044685-14.jpg",
+
+                     "@width": "625",
+
+                     "description": "And crazy ball. And dodgeball. Kids these days have <i>nothing<\/i>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "412",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr12/enhanced-30773-1434044532-2.jpg",
+
+                     "@width": "550",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "412",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/13/enhanced/webdr03/enhanced-22682-1434044577-1.jpg",
+
+                     "@width": "550",
+
+                     "description": "What <i>is<\/i> this travesty?",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "416",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr08/enhanced-13633-1434045828-2.jpg",
+
+                     "@width": "625",
+
+                     "description": "<i>God forbid<\/i> your mom forgot to send the little envelope full of toonies and loonies for your order.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=cKM4_Qstrek"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/14/enhanced/webdr01/enhanced-25080-1434047264-7.jpg",
+
+                     "@width": "625",
+
+                     "description": "In double VHS, of course.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "It also inspired you to try to start your own school paper...which, of course, was full of stick men and the <i>fascinating<\/i> exploits of all your friends during recess.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=S8i3l7Z53Xs"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "542",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/22/enhanced/webdr08/enhanced-10042-1434076422-1.jpg",
+
+                     "@width": "454",
+
+                     "description": "And settle instead for wearing board shorts to school.\n\nAlso, Ryan Gosling...obviously.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/23/enhanced/webdr05/enhanced-1978-1434080092-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "Take THAT, 2015.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/30JMdvy_yz/"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "A Tattoo Artist Found The Most Genius Way To Cover Up A Rubbish Pokémon Tattoo",
+
+            "link": "http://www.buzzfeed.com/jamiejones/the-pikasso-of-the-tattoo-world?utm_term=4ldqpia",
+
+            "description": "<p>Tattoo correction at its best.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>A guy went to his local tattoo shop to get a regrettable Pokémon tattoo fixed and the results are better than any fully thought-out tattoo ever could have been.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/11/enhanced/webdr02/edit-22019-1434123204-5.jpg\" width=\"612\" height=\"633\" alt=\"A guy went to his local tattoo shop to get a regrettable Pokémon tattoo fixed and the results are better than any fully thought-out tattoo ever could have been.\" /><\/p>\n \n\t\n\n\n <p><small>Lindsay Barker / <a rel=\"nofollow\" target=\"_blank\" href=\"http://imgur.com/gallery/pQoJbeP\">imgur.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>The cover up was created by Northampton, Massachusetts-based tattoo artist <a href=\"https://instagram.com/lindsaybugbaker/\">Lindsay Baker<\/a>.<\/h1>\n\n\t \n\t\t  <iframe src=\"//instagram.com/p/2tx0mam8uz/embed/\" height=\"710\" width=\"612\" scrolling=\"no\" frameborder=\"0\" ><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://instagram.com/p/2tx0mam8uz/\">instagram.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>\"It was his first tattoo and apparently the girl who did it had been drinking,\" Baker told BuzzFeed. \"He's had it for almost four years\".<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/11/enhanced/webdr11/enhanced-19227-1434122011-2.jpg\" width=\"625\" height=\"632\" alt=\"&quot;It was his first tattoo and apparently the girl who did it had been drinking,&quot; Baker told BuzzFeed. &quot;He's had it for almost four years&quot;.\" /><\/p>\n \n\t\n\n\n <p><small>Lindsay Barker / <a rel=\"nofollow\" target=\"_blank\" href=\"http://imgur.com/gallery/pQoJbeP\">imgur.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>\"I have tattooed this particular client a few times and he showed me the tattoo. I got excited and suggested we tattoo Pikachu drawing himself and my client told me he had the same idea.\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/12/10/enhanced/webdr11/enhanced-buzz-4506-1434117834-9.jpg\" width=\"625\" height=\"621\" alt=\"&quot;I have tattooed this particular client a few times and he showed me the tattoo. I got excited and suggested we tattoo Pikachu drawing himself and my client told me he had the same idea.&quot;\" /><\/p>\n \n\t\n\n\n <p><small>Lindsay Barker / <a rel=\"nofollow\" target=\"_blank\" href=\"http://imgur.com/gallery/pQoJbeP\">imgur.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/jamiejones/the-pikasso-of-the-tattoo-world\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/jamiejones/the-pikasso-of-the-tattoo-world"
+
+            },
+
+            "pubDate": "Fri, 12 Jun 2015 12:41:26 -0400",
+
+            "group": {
+
+               "description": "Tattoo correction at its best.",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "jamiejones"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/12/campaign_images/webdr04/the-pikasso-of-the-tattoo-world-2-5756-1434128126-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "633",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/enhanced/webdr02/edit-22019-1434123204-5.jpg",
+
+                     "@width": "612",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://instagram.com/p/2tx0mam8uz/"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "632",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/enhanced/webdr11/enhanced-19227-1434122011-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "621",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/enhanced/webdr11/enhanced-buzz-4506-1434117834-9.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "1013",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/enhanced/webdr05/grid-cell-19541-1434123894-2.jpg",
+
+                     "@width": "600",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "1013",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/11/enhanced/webdr05/grid-cell-19541-1434123896-5.jpg",
+
+                     "@width": "600",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/12/10/enhanced/webdr07/anigif_enhanced-12385-1434119262-7.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "A Same-Sex Couple Had An Amazing Response To Parenting Advice From A Bunch Of Anti-Gay Strangers",
+
+            "link": "http://www.buzzfeed.com/krishrach/a-same-sex-couple-had-an-amazing-response-to-a-strangers-par?utm_term=4ldqpia",
+
+            "description": "<p>The Chiongs are ready to answer your hateful comments.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Olivia and Irene Chiong live in Singapore with their daughter, Zoe.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/7/enhanced/webdr03/enhanced-467-1433934343-10.png\" width=\"625\" height=\"377\" alt=\"Olivia and Irene Chiong live in Singapore with their daughter, Zoe.\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://olivia.thechiongs.com/\">olivia.thechiongs.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Olivia runs the blog <a href=\"http://olivia.thechiongs.com/\">The Chiongs<\/a> to document not only what it's like raising a baby in a same-sex couple, but what it's like to do so in one of the most expensive cities on earth: Singapore.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/7/enhanced/webdr01/enhanced-23093-1433934597-1.png\" width=\"625\" height=\"340\" alt=\"Olivia runs the blog The Chiongs to document not only what it's like raising a baby in a same-sex couple, but what it's like to do so in one of the most expensive cities on earth: Singapore.\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://olivia.thechiongs.com/\">olivia.thechiongs.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>This week, Olivia noticed a spike in her blog's traffic. When she investigated the source, she noticed her blog had been shared on the <a href=\"https://www.facebook.com/groups/542917079078427/\">Facebook page<\/a> “We are against Pinkdot Singapore” (WAAPD).<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/7/enhanced/webdr05/enhanced-5748-1433935459-6.png\" width=\"488\" height=\"394\" alt=\"This week, Olivia noticed a spike in her blog's traffic. When she investigated the source, she noticed her blog had been shared on the Facebook page “We are against Pinkdot Singapore” (WAAPD).\" /><\/p>\n \n\t<p>The group describes itself as \"a public policy group\" that \"stands against the normalization of homosexuality within Singaporean society.\"<\/p>\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.facebook.com/groups/542917079078427/?fref=ts\">Facebook: 542917079078427<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/krishrach/a-same-sex-couple-had-an-amazing-response-to-a-strangers-par\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/krishrach/a-same-sex-couple-had-an-amazing-response-to-a-strangers-par"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 10:55:09 -0400",
+
+            "group": {
+
+               "description": "<b>The Chiongs are ready to answer your hateful comments.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "krishrach"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/campaign_images/webdr13/a-same-sex-couple-had-an-amazing-response-to-a-st-2-15817-1433948104-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "377",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/7/enhanced/webdr03/enhanced-467-1433934343-10.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "340",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/7/enhanced/webdr01/enhanced-23093-1433934597-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "394",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/7/enhanced/webdr05/enhanced-5748-1433935459-6.png",
+
+                     "@width": "488",
+
+                     "description": "The group describes itself as \"a public policy group\" that \"stands against the normalization of homosexuality within Singaporean society.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr09/enhanced-10495-1433938488-14.jpg",
+
+                     "@width": "625",
+
+                     "description": "\"As for the books that we buy for Zoey, she happens to have a library of over 500 books. We believe in diversity and so expose her to many different kinds of books and toys.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "80",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr02/enhanced-21062-1433940347-14.png",
+
+                     "@width": "497",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr10/enhanced-26102-1433940535-6.jpg",
+
+                     "@width": "625",
+
+                     "description": "\"Dear Bjorn Liu, yes, we are married. In fact we had a pretty awesome wedding in San Francisco about 6 months ago. Here’s a photo of our fabulous wedding entourage :).\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "74",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr07/enhanced-5523-1433940666-1.png",
+
+                     "@width": "503",
+
+                     "description": "\"I am happy to let you know that Zoey is a well-adjusted and well-liked child in her school. In fact, her teachers often comment that she is a delightful child whom everyone likes. She has no psychological/emotional problems to speak of and the only problem she has is she is quite messy when she eats and gets food everywhere.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "65",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr08/enhanced-19122-1433941193-1.png",
+
+                     "@width": "511",
+
+                     "description": "\"Perhaps you can try changing your last name to Vernon Straight and let us know if that works? If it does, we can consider to change our last names to Lesbian.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "140",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr15/enhanced-3003-1433939233-2.png",
+
+                     "@width": "478",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "176",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr11/enhanced-10388-1433939255-7.png",
+
+                     "@width": "583",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "154",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr14/enhanced-16641-1433939270-1.png",
+
+                     "@width": "351",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "53",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/8/enhanced/webdr01/enhanced-2522-1433939534-2.png",
+
+                     "@width": "479",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Can You Guess The Canadian Provinces And Territories Based On Emojis?",
+
+            "link": "http://www.buzzfeed.com/tanyachen/can-you-guess-the-canadian-province-based-on-emojis?utm_term=4ldqpia",
+
+            "description": "<p>Canada, eh❓<\/p>\n\n\n\n\n\n\n\n\n\n\n <p><i>Disclaimer: As it turns out, emojis are <u>not<\/u> very Canadian-friendly. In fact, there should be <a href=\"http://www.buzzfeed.com/adamjkurtz/canadian-emojis-that-should-totally-exist#.yfjKVq39M\">so many more emojis<\/a> in existence to properly service and represent our great native land. But we did the best we could.<\/i> <\/p>\n\n<p><i>Now... how many of these can you get right?&#33;<\/i><\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/item-npoxqm-k4la?uri=item-npoxqm-k4la&cb=1434238658\" width=\"625\" height=\"625\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t\n\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://emojipedia.org\">emojipedia.org<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/item-npox9p-k4la?uri=item-npox9p-k4la&cb=1434238658\" width=\"625\" height=\"625\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t\n\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://emojipedia.org/\">emojipedia.org<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/item-npox9v-k4la?uri=item-npox9v-k4la&cb=1434238658\" width=\"625\" height=\"625\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t\n\n \n\t\n\n\n <p><small>Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://emojipedia.org/\">emojipedia.org<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/tanyachen/can-you-guess-the-canadian-province-based-on-emojis\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/tanyachen/can-you-guess-the-canadian-province-based-on-emojis"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 11:28:08 -0400",
+
+            "group": {
+
+               "description": "<b>Canada, eh<\/b>❓",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "tanyachen"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/11/12/campaign_images/webdr08/can-you-guess-the-canadian-provinces-and-territor-2-21292-1434040963-1.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "<i>Disclaimer: As it turns out, emojis are <u>not<\/u> very Canadian-friendly. In fact, there should be <a href=\"http://www.buzzfeed.com/adamjkurtz/canadian-emojis-that-should-totally-exist#.yfjKVq39M\">so many more emojis<\/a> in existence to properly service and represent our great native land. But we did the best we could.<\/i> \n\n<i>Now... how many of these can you get right?!<\/i>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "<i><b>SORRY<\/b> — This quiz has now been updated to reflect both Canadian provinces<\/i> and territories!",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This Video Hilariously Compares Catcalling To Cheeseburgers",
+
+            "link": "http://www.buzzfeed.com/keelyflaherty/what-if-catcalls-were-cheeseburgers?utm_term=4ldqpia",
+
+            "description": "<p>Would you throw a cheeseburger at your mother?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Thanks to comedian and <a href=\"http://www.buzzfeed.com/keelyflaherty/typecast-is-the-only-royals-parody-youll-ever-need#.rorr1OOl8\">parody<\/a> master <a href=\"http://www.tessparas.com/\">Tess Paras<\/a>, you may never look at cheeseburgers the same way again.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/10/enhanced/webdr04/enhanced-30854-1433947814-1.png\" width=\"625\" height=\"341\" alt=\"Thanks to comedian and parody master Tess Paras, you may never look at cheeseburgers the same way again.\" /><\/p>\n \n\t\n\n\n <p><small>Tess Paras / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=VZaARdlLfLM&amp;amp;amp;feature=youtu.be\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>In her newest video, Tess explores what catcalling would look like if catcalls were cheeseburgers.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/10/enhanced/webdr10/enhanced-22788-1433947729-8.jpg\" width=\"476\" height=\"796\" alt=\"In her newest video, Tess explores what catcalling would look like if catcalls were cheeseburgers.\" /><\/p>\n \n\t\n\n\n <p><small>Tess Paras / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=VZaARdlLfLM&amp;amp;amp;amp;amp;amp;feature=youtu.be\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>We see Tess going through her normal day, walking past men who hand her unsolicited cheeseburgers.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/10/enhanced/webdr12/enhanced-4238-1433948015-2.jpg\" width=\"507\" height=\"813\" alt=\"We see Tess going through her normal day, walking past men who hand her unsolicited cheeseburgers.\" /><\/p>\n \n\t\n\n\n <p><small>Tess Paras / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=VZaARdlLfLM&amp;amp;amp;amp;amp;amp;amp;feature=youtu.be\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Tess told BuzzFeed that the video is meant to \"challenge the notion that catcalls are compliments that all women should enjoy.\"<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/10/10/enhanced/webdr08/enhanced-12911-1433948237-1.jpg\" width=\"625\" height=\"678\" alt=\"Tess told BuzzFeed that the video is meant to &quot;challenge the notion that catcalls are compliments that all women should enjoy.&quot;\" /><\/p>\n \n\t\n\n\n <p><small>Tess Paras / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=VZaARdlLfLM&amp;amp;amp;amp;amp;amp;amp;feature=youtu.be\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/keelyflaherty/what-if-catcalls-were-cheeseburgers\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/keelyflaherty/what-if-catcalls-were-cheeseburgers"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 12:06:08 -0400",
+
+            "group": {
+
+               "description": "<b>Would you throw a cheeseburger at your mother?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "keelyflaherty"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/11/campaign_images/webdr06/when-you-think-about-catcalling-as-cheeseburgers--2-8151-1433951606-3.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "341",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/enhanced/webdr04/enhanced-30854-1433947814-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "796",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/enhanced/webdr10/enhanced-22788-1433947729-8.jpg",
+
+                     "@width": "476",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "813",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/enhanced/webdr12/enhanced-4238-1433948015-2.jpg",
+
+                     "@width": "507",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "678",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/enhanced/webdr08/enhanced-12911-1433948237-1.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "1132",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/11/enhanced/webdr15/enhanced-11784-1433948725-3.jpg",
+
+                     "@width": "522",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "340",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/enhanced/webdr15/enhanced-12596-1433948329-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "684",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/11/enhanced/webdr15/enhanced-13113-1433948919-1.jpg",
+
+                     "@width": "621",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "688",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/11/enhanced/webdr08/enhanced-12145-1433949502-5.jpg",
+
+                     "@width": "624",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=VZaARdlLfLM"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Canada Is Finally Getting Rid Of The \"Tampon Tax\"",
+
+            "link": "http://www.buzzfeed.com/laurenstrapagiel/canada-is-finally-getting-rid-of-the-tampon-tax?utm_term=4ldqpia",
+
+            "description": "<p>It&#8217;s about bloody time.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Rejoice, menstruating Canadians! The federal government will no longer <a href=\"http://www.cbc.ca/news/politics/tampon-tax-will-end-july-1-1.3091533\">charge GST on tampons as of July 1.<\/a><\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/28/15/enhanced/webdr15/anigif_enhanced-2097-1432841196-19.gif\" width=\"400\" height=\"226\" alt=\"Rejoice, menstruating Canadians! The federal government will no longer charge GST on tampons as of July 1.\" /><\/p>\n \n\t\n\n\n <p><small>CBS / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://giphy.com/gifs/clapping-anne-hathaway-ObfxaAyZgFyN2\">giphy.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>And not just tampons — the change <a href=\"http://www.fin.gc.ca/drleg-apl/2015/nwmm-amvm-0515-l-eng.asp\">applies to pads and menstrual cups, too.<\/a><\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/28/15/enhanced/webdr11/anigif_enhanced-16492-1432841451-2.gif\" width=\"600\" height=\"328\" alt=\"And not just tampons — the change applies to pads and menstrual cups, too.\" /><\/p>\n \n\t<p><a href=\"http://www.mum.org/belt02b.jpg\">Sanitary belts<\/a> are also included, in case anyone still uses those.<\/p>\n\n\n <p><small>HelloFlo / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://youtu.be/NEcZmT0fiNM\">youtu.be<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>The change comes after a campaign from Canadian Menstruators, including a petition and <a href=\"https://www.youtube.com/watch?v=QDLIKLF0Cpc\">cheeky video.<\/a><\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/28/15/enhanced/webdr12/anigif_enhanced-25657-1432841776-52.gif\" width=\"600\" height=\"325\" alt=\"The change comes after a campaign from Canadian Menstruators, including a petition and cheeky video.\" /><\/p>\n \n\t\n\n\n <p><small>Canadian Menstruators / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=QDLIKLF0Cpc\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>Their Change.org petition calling for an end to GST on menstrual products <a href=\"https://www.change.org/p/no-tax-on-tampons-a-campaign-to-remove-the-gst-charged-on-menstruation-products-sign-the-petition\">gained more than 74,000 signatures<\/a>. As it pointed out, that little percentage on top of your purchase doesn&#39;t feel so little to everyone:<\/p>\n\n<blockquote><p>A small tax on tampons/pads/panty liners/menstrual cups adds up when combined with the systemic challenges many women, trans people, genderqueer people, and other menstruators face in terms of their income, housing, and economic stability.<\/p><\/blockquote>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/laurenstrapagiel/canada-is-finally-getting-rid-of-the-tampon-tax\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/laurenstrapagiel/canada-is-finally-getting-rid-of-the-tampon-tax"
+
+            },
+
+            "pubDate": "Thu, 28 May 2015 16:08:35 -0400",
+
+            "group": {
+
+               "description": "<b>It's about bloody time.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "laurenstrapagiel"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/campaign_images/webdr11/canada-is-finally-getting-rid-of-the-tampon-tax-2-9029-1433968180-10.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "226",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/15/enhanced/webdr15/anigif_enhanced-2097-1432841196-19.gif",
+
+                     "@width": "400",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "328",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/15/enhanced/webdr11/anigif_enhanced-16492-1432841451-2.gif",
+
+                     "@width": "600",
+
+                     "description": "<a href=\"http://www.mum.org/belt02b.jpg\">Sanitary belts<\/a> are also included, in case anyone still uses those.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "325",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/15/enhanced/webdr12/anigif_enhanced-25657-1432841776-52.gif",
+
+                     "@width": "600",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Their Change.org petition calling for an end to GST on menstrual products <a href=\"https://www.change.org/p/no-tax-on-tampons-a-campaign-to-remove-the-gst-charged-on-menstruation-products-sign-the-petition\">gained more than 74,000 signatures<\/a>. As it pointed out, that little percentage on top of your purchase doesn't feel so little to everyone:\n\n<blockquote>A small tax on tampons/pads/panty liners/menstrual cups adds up when combined with the systemic challenges many women, trans people, genderqueer people, and other menstruators face in terms of their income, housing, and economic stability.<\/blockquote>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "270",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/15/enhanced/webdr13/anigif_enhanced-7938-1432842638-25.gif",
+
+                     "@width": "480",
+
+                     "description": "The petition also <a href=\"https://www.change.org/p/no-tax-on-tampons-a-campaign-to-remove-the-gst-charged-on-menstruation-products-sign-the-petition\">noted<\/a> that wedding cakes and cocktail cherries have been tax-free this whole time.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/15/enhanced/webdr09/anigif_enhanced-27017-1432842737-30.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "220",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/28/15/enhanced/webdr11/anigif_enhanced-16483-1432843161-25.gif",
+
+                     "@width": "390",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "15 Reasons Why \"The Mindy Project\" Is Actually So Canadian",
+
+            "link": "http://www.buzzfeed.com/sarahaspler/mindy-project-is-actually-so-canadian?utm_term=4ldqpia",
+
+            "description": "<p>More like The Mind-eh Project, right guys?!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Something unthinkable recently happened. FOX decided to <a href=\"http://www.buzzfeed.com/emilyorley/the-mindy-project-is-not-coming-back-to-fox#.ddLNLWo4o\">cancel \"The Mindy Project\"<\/a> and fans were not pleased.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/26/10/enhanced/webdr05/anigif_enhanced-7586-1432650473-2.gif\" width=\"500\" height=\"281\" alt=\"Something unthinkable recently happened. FOX decided to cancel &quot;The Mindy Project&quot; and fans were not pleased.\" /><\/p>\n \n\t<p>\"HOW DARE YOU&#33;\" &ndash; an angry mob<\/p>\n\n\n <p><small>Fox / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://blushnella.tumblr.com/post/69571916020/the-process-of-writing-a-final-paper\">blushnella.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>But don't worry because it's been <a href=\"http://www.thestar.com/entertainment/television/2015/05/25/mindy-project-staying-on-city-despite-being-dropped-by-fox.html\">picked up<\/a> by a Canadian broadcaster!<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/26/10/enhanced/webdr04/anigif_enhanced-18454-1432649641-3.gif\" width=\"500\" height=\"281\" alt=\"But don't worry because it's been picked up by a Canadian broadcaster!\" /><\/p>\n \n\t<p>The show will be returning to its prime-time schedule on City in Canada, despite being dropped by Fox in the United States. <b>Hallelujah&#33;<\/b><\/p>\n\n\n <p><small>Fox / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://rose-petals-of-temptation.tumblr.com/post/99870622092/how-i-look-like-comforting-someone\">rose-petals-of-temptation.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Mindy understands what it's like to go a full 24 hours without Tim Hortons.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/26/10/enhanced/webdr07/anigif_enhanced-18980-1432649091-2.gif\" width=\"500\" height=\"270\" alt=\"Mindy understands what it's like to go a full 24 hours without Tim Hortons.\" /><\/p>\n \n\t\n\n\n <p><small>Fox / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://hellomewhatsup.tumblr.com/post/77780804695\">hellomewhatsup.tumblr.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/sarahaspler/mindy-project-is-actually-so-canadian\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/sarahaspler/mindy-project-is-actually-so-canadian"
+
+            },
+
+            "pubDate": "Tue, 26 May 2015 13:08:27 -0400",
+
+            "group": {
+
+               "description": "<b>More like The Mind-eh Project, right guys?!<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "sarahaspler"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/campaign_images/webdr12/15-reasons-why-the-mindy-project-is-actually-so-c-2-30015-1433967946-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/10/enhanced/webdr05/anigif_enhanced-7586-1432650473-2.gif",
+
+                     "@width": "500",
+
+                     "description": "\"HOW DARE YOU!\" – an angry mob",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/10/enhanced/webdr04/anigif_enhanced-18454-1432649641-3.gif",
+
+                     "@width": "500",
+
+                     "description": "The show will be returning to its prime-time schedule on City in Canada, despite being dropped by Fox in the United States. <b>Hallelujah!<\/b>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "270",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/10/enhanced/webdr07/anigif_enhanced-18980-1432649091-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "250",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr05/anigif_enhanced-7556-1432653165-10.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr13/anigif_enhanced-26638-1432652748-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/10/enhanced/webdr11/enhanced-16548-1432651636-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/10/enhanced/webdr07/enhanced-20659-1432651660-10.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "352",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/10/enhanced/webdr01/enhanced-21624-1432651671-2.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "214",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr09/anigif_enhanced-2099-1432653549-4.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "250",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr12/anigif_enhanced-16409-1432653964-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "250",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr04/anigif_enhanced-17409-1432653986-22.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "230",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/12/enhanced/webdr07/anigif_enhanced-9808-1432659382-21.gif",
+
+                     "@width": "500",
+
+                     "description": "(Like when she bought Danny a whole cake to say \"sorry\")",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "*Blows dust off of jorts; mums prayer*",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/12/enhanced/webdr08/grid-cell-23735-1432658869-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/12/enhanced/webdr08/grid-cell-23735-1432658870-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "198",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr05/anigif_enhanced-6008-1432653706-18.gif",
+
+                     "@width": "360",
+
+                     "description": "*polite mic drop*",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "250",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr11/anigif_enhanced-15984-1432654630-6.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/12/enhanced/webdr03/grid-cell-21586-1432658120-18.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/12/enhanced/webdr03/grid-cell-21586-1432658120-21.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/10/enhanced/webdr04/anigif_enhanced-18528-1432651897-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "324",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/12/enhanced/webdr03/anigif_enhanced-20858-1432658072-44.gif",
+
+                     "@width": "575",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "275",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/12/enhanced/webdr04/anigif_enhanced-6772-1432658976-9.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "255",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/26/11/enhanced/webdr13/anigif_enhanced-26613-1432653427-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "This Hospital Threw A Giant Slumber Party For Its Young Patients",
+
+            "link": "http://www.buzzfeed.com/craigsilverman/when-the-symphone-came-for-bedtime?utm_term=4ldqpia",
+
+            "description": "<p>Rock A Bye Baby in B Minor<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/10/enhanced/webdr01/grid-cell-32276-1433342383-23.jpg\" width=\"625\" height=\"309\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>MUHC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Little patients like Jouri Abdulmaola had to be packed up and moved to the new hospital.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/9/enhanced/webdr03/enhanced-18451-1433338406-8.jpg\" width=\"625\" height=\"417\" alt=\"Little patients like Jouri Abdulmaola had to be packed up and moved to the new hospital.\" /><\/p>\n \n\t\n\n\n <p><small>Owen Egan / MUHC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Recently, ambulances lined up to move the patients. It was a long process, and tough on the children, many of whom are suffering from serious illnesses.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/9/enhanced/webdr09/enhanced-26978-1433339127-10.jpg\" width=\"625\" height=\"417\" alt=\"Recently, ambulances lined up to move the patients. It was a long process, and tough on the children, many of whom are suffering from serious illnesses.\" /><\/p>\n \n\t\n\n\n <p><small>Owen Egan / MUHC<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/craigsilverman/when-the-symphone-came-for-bedtime\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/craigsilverman/when-the-symphone-came-for-bedtime"
+
+            },
+
+            "pubDate": "Wed, 03 Jun 2015 10:47:57 -0400",
+
+            "group": {
+
+               "description": "<b>Rock A Bye Baby in B Minor<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "craigsilverman"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/campaign_images/webdr13/this-hospital-threw-a-giant-slumber-party-for-its-2-2778-1433967786-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr01/grid-cell-32276-1433342383-23.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/9/enhanced/webdr03/enhanced-18451-1433338406-8.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/9/enhanced/webdr09/enhanced-26978-1433339127-10.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/13/enhanced/webdr09/grid-cell-18993-1433351970-15.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "309",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/13/enhanced/webdr09/grid-cell-18993-1433351972-18.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/9/enhanced/webdr02/enhanced-3298-1433339929-10.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr11/enhanced-28465-1433340066-4.jpg",
+
+                     "@width": "625",
+
+                     "description": "\"It's a serious disease but he's a little cutie patootie,\" Kim Fraser, the hospital's vice president of marketing and communications, told BuzzFeed Canada.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr05/enhanced-11403-1433340319-16.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr09/enhanced-26980-1433340364-11.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "\"We thought, why not have them come to the children and play the world's biggest lullaby to help get kids asleep, because it's always weird when you are in a new building,\" Fraser said.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr10/grid-cell-7755-1433342442-7.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr10/grid-cell-7755-1433342443-10.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "307",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr10/grid-cell-7755-1433342444-13.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr13/enhanced-1274-1433340395-9.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/3/10/enhanced/webdr09/enhanced-26978-1433340760-22.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "A Sneaky Cop Pretended To Be A Panhandler In Order To Bust Drivers On Their Phones",
+
+            "link": "http://www.buzzfeed.com/craigsilverman/a-sneaky-cop-pretended-to-be-a-panhandler?utm_term=4ldqpia",
+
+            "description": "<p>Buddy, can you spare $167 for a traffic ticket?<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Many drivers thought Cpl. Mark Taylor of the Royal Canadian Mounted Police (RCMP) was a panhandler when he stood at a busy intersection with this sign. But a closer reading reveals what he was really up to...<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/16/enhanced/webdr10/enhanced-15075-1433277392-7.jpg\" width=\"625\" height=\"833\" alt=\"Many drivers thought Cpl. Mark Taylor of the Royal Canadian Mounted Police (RCMP) was a panhandler when he stood at a busy intersection with this sign. But a closer reading reveals what he was really up to...\" /><\/p>\n \n\t\n\n\n <p><small>RCMP<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Taylor would walk past cars at the intersection, peering in to see if the drivers had their seatbelts on, and to see if they were using their cell phone while driving, which is illegal.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/16/enhanced/webdr11/edit-7300-1433277550-9.jpg\" width=\"625\" height=\"295\" alt=\"Taylor would walk past cars at the intersection, peering in to see if the drivers had their seatbelts on, and to see if they were using their cell phone while driving, which is illegal.\" /><\/p>\n \n\t\n\n\n <p><small>RCMP<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>That made it easy for Taylor to radio to his colleagues around the corner in order to tell them which cars to stop, and for what infraction. Molendyk said 11 tickets were issued in an hour. <\/p>\n\n<p>Is that a good tally?<\/p>\n\n<p>\"Put it this way, it was high enough that [the officers are] saying we&#39;ll be doing it again,\" Molendyk said.<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/2/17/enhanced/webdr04/enhanced-21506-1433280271-9.jpg\" width=\"482\" height=\"342\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>RCMP<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/craigsilverman/a-sneaky-cop-pretended-to-be-a-panhandler\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/craigsilverman/a-sneaky-cop-pretended-to-be-a-panhandler"
+
+            },
+
+            "pubDate": "Tue, 02 Jun 2015 17:26:47 -0400",
+
+            "group": {
+
+               "description": "<b>Buddy, can you spare $167 for a traffic ticket?<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "craigsilverman"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/16/campaign_images/webdr15/a-sneaky-cop-pretended-to-be-a-panhandler-in-orde-2-3934-1433966784-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "833",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/16/enhanced/webdr10/enhanced-15075-1433277392-7.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "295",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/16/enhanced/webdr11/edit-7300-1433277550-9.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "That made it easy for Taylor to radio to his colleagues around the corner in order to tell them which cars to stop, and for what infraction. Molendyk said 11 tickets were issued in an hour. \n\nIs that a good tally?\n\n\"Put it this way, it was high enough that [the officers are] saying we'll be doing it again,\" Molendyk said.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "342",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/17/enhanced/webdr04/enhanced-21506-1433280271-9.jpg",
+
+                     "@width": "482",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "\"City police forces have been riding on buses so they can see down [at people using their phones],\" he said. They've also pretended to be construction workers.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "417",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/2/17/enhanced/webdr03/enhanced-25907-1433279099-2.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "74 Times \"Hannibal\" Was The Most Stunningly Beautiful Show On Television",
+
+            "link": "http://www.buzzfeed.com/danieldalton/i-gave-you-a-rare-gift?utm_term=4ldqpia",
+
+            "description": "<p>Hannibal is art. Words simply don&#8217;t do it justice. WARNING: NSFW! SPOILERS!<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1><i>Hannibal<\/i> is the most beautiful show on television.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/7/enhanced/webdr07/enhanced-2770-1433330276-5.jpg\" width=\"625\" height=\"351\" alt=\"Hannibal is the most beautiful show on television.\" /><\/p>\n \n\t\n\n\n <p><small>NBC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Every frame a sumptuous feast.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/12/enhanced/webdr03/enhanced-13770-1433869170-1.jpg\" width=\"625\" height=\"351\" alt=\"Every frame a sumptuous feast.\" /><\/p>\n \n\t\n\n\n <p><small>NBC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Every shot to die for.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/7/enhanced/webdr04/enhanced-28767-1433330277-11.jpg\" width=\"625\" height=\"350\" alt=\"Every shot to die for.\" /><\/p>\n \n\t\n\n\n <p><small>NBC<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>It's poetry.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/3/7/enhanced/webdr10/enhanced-32173-1433330271-1.jpg\" width=\"625\" height=\"351\" alt=\"It's poetry.\" /><\/p>\n \n\t\n\n\n <p><small>NBC<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/danieldalton/i-gave-you-a-rare-gift\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/danieldalton/i-gave-you-a-rare-gift"
+
+            },
+
+            "pubDate": "Wed, 10 Jun 2015 07:23:22 -0400",
+
+            "content": {
+
+               "@isDefault": "true",
+
+               "description": "<b><i>Hannibal<\/i> is art.<\/b> Words simply don't do it justice. WARNING: NSFW! SPOILERS!",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "danieldalton"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": {
+
+                  "@height": "236",
+
+                  "@medium": "image",
+
+                  "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/7/campaign_images/webdr13/i-gave-you-a-rare-gift-2-10355-1433935976-6.jpg",
+
+                  "@width": "355"
+
+               }
+
+            }
+
+         },
+
+         {
+
+            "title": "NHL Star P.K. Subban Joined A Street Hockey Game, Got Stopped By An 8 Year-Old",
+
+            "link": "http://www.buzzfeed.com/craigsilverman/pk-subban-joined-a-kids-street-hockey-game?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;This says everything about what kind of a guy P.K. is.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/7/22/enhanced/webdr14/grid-cell-3494-1433730910-2.jpg\" width=\"309\" height=\"204\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>Usa Today Sports / USA Today Sports<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/7/22/enhanced/webdr14/grid-cell-3494-1433730911-5.jpg\" width=\"309\" height=\"204\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Subban, wearing sandals, scored on Jack with a couple of one-timers.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/7/21/enhanced/webdr09/enhanced-6546-1433727040-1.png\" width=\"625\" height=\"344\" alt=\"Subban, wearing sandals, scored on Jack with a couple of one-timers.\" /><\/p>\n \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"https://www.youtube.com/watch?v=qI_z0etJxD8&feature=youtu.be\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/craigsilverman/pk-subban-joined-a-kids-street-hockey-game\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/craigsilverman/pk-subban-joined-a-kids-street-hockey-game"
+
+            },
+
+            "pubDate": "Sun, 07 Jun 2015 22:22:25 -0400",
+
+            "group": {
+
+               "description": "<b>\"This says everything about what kind of a guy P.K. is.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "craigsilverman"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/12/campaign_images/webdr02/nhl-star-pk-subban-joined-a-street-hockey-game-go-2-9618-1433954900-8.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "description": "Aaron Fraser lives on the street, which is located in lower Westmount. His son Jack, 8, plays centre for the Novice Westmount Wings. Jack put on the pads to get in net against Subban.\n\n\"I am a goalie so he keeps trying to get me to let him play net, but he is a natural goal scorer so I am reluctant,\" Fraser said.\n\n<b>Let's see how Jack did against one of the NHL's best.<\/b>",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/22/enhanced/webdr14/grid-cell-3494-1433730910-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/22/enhanced/webdr14/grid-cell-3494-1433730911-5.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "344",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr09/enhanced-6546-1433727040-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "344",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr05/enhanced-24502-1433727128-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "343",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr09/anigif_enhanced-7530-1433727590-1.gif",
+
+                     "@width": "625",
+
+                     "description": "Yes Jack!",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "344",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr02/enhanced-19777-1433727803-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "345",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr13/enhanced-31175-1433727869-2.png",
+
+                     "@width": "625",
+
+                     "description": "\"He was blown away but was trying to act cool and wanted to stop all of P.K.'s shots,\" said Fraser. \"You could see him get discouraged when the first two went in but then he made a few saves and you could see his confidence swell.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "344",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr05/enhanced-18980-1433727962-8.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "344",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr02/enhanced-17747-1433728113-1.png",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "469",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/7/21/enhanced/webdr15/enhanced-17745-1433728354-10.jpg",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "@medium": "video",
+
+                     "description": "\"This says everything about what kind of a guy P.K. is,\" Fraser said. \"P.K. is not only the most talented defenseman in hockey, he also does it with a smile on his face. The kids can sense it and they eat it up!\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://www.facebook.com/photo.php?fbid=10152870154917797&amp;set=a.427687062796.207958.527072796&amp;type=1"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "What Happens When People Try Going A Week Without Looking In A Mirror",
+
+            "link": "http://www.buzzfeed.com/mikerose/these-5-people-went-a-week-without-looking-in-a-mirror?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;This has been the most body-positive week I&#8217;ve ever had.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Mirrors are everywhere. They're there when you wake up, go to work, and go to the bathroom. What if you went a full week without looking at one? We got five participants to do exactly that, and they came out with a new outlook on body image.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/dQqaVas-Oms\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=dQqaVas-Oms\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/15/enhanced/webdr07/enhanced-12798-1433879654-1.jpg\" width=\"561\" height=\"231\" alt=\"\" /><\/p>\n \n\t\n\n\n <p><small>BuzzFeed<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Nearly everyone mentioned how much they <i>do<\/i> look at themselves in their mirror daily, as it was an essential part of looking and feeling good to them.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/15/enhanced/webdr05/anigif_enhanced-13482-1433879448-9.gif\" width=\"560\" height=\"315\" alt=\"Nearly everyone mentioned how much they do look at themselves in their mirror daily, as it was an essential part of looking and feeling good to them.\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>They were about to go from all to nothing real quick.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/15/enhanced/webdr14/anigif_enhanced-11629-1433879794-9.gif\" width=\"560\" height=\"315\" alt=\"They were about to go from all to nothing real quick.\" /><\/p>\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/mikerose/these-5-people-went-a-week-without-looking-in-a-mirror\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/mikerose/these-5-people-went-a-week-without-looking-in-a-mirror"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 18:12:50 -0400",
+
+            "group": {
+
+               "description": "<b>\"This has been the most body-positive week I've ever had.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "mikerose"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/13/campaign_images/webdr05/these-5-people-went-a-week-without-looking-in-a-m-2-22053-1433872103-12.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=dQqaVas-Oms"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "231",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/15/enhanced/webdr07/enhanced-12798-1433879654-1.jpg",
+
+                     "@width": "561",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/15/enhanced/webdr05/anigif_enhanced-13482-1433879448-9.gif",
+
+                     "@width": "560",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/15/enhanced/webdr14/anigif_enhanced-11629-1433879794-9.gif",
+
+                     "@width": "560",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/15/enhanced/webdr05/anigif_enhanced-11843-1433879915-18.gif",
+
+                     "@width": "560",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/16/enhanced/webdr13/anigif_enhanced-15350-1433880094-8.gif",
+
+                     "@width": "560",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/16/enhanced/webdr13/anigif_enhanced-20016-1433880280-6.gif",
+
+                     "@width": "560",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/16/enhanced/webdr02/anigif_enhanced-27928-1433881371-3.gif",
+
+                     "@width": "560",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "315",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/16/enhanced/webdr13/anigif_enhanced-23422-1433881994-8.gif",
+
+                     "@width": "560",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "306",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/17/enhanced/webdr13/anigif_enhanced-9566-1433886838-2.gif",
+
+                     "@width": "543",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "306",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/17/enhanced/webdr02/anigif_enhanced-20219-1433887186-2.gif",
+
+                     "@width": "543",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "306",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/18/enhanced/webdr13/anigif_enhanced-9842-1433887253-8.gif",
+
+                     "@width": "543",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "21 Reasons \"A Cinderella Story\" Was A Masterpiece Of The Mid '00s",
+
+            "link": "http://www.buzzfeed.com/eleanorbate/21-reasons-why-a-cinderella-story-was-a-masterpi-1b0l9?utm_term=4ldqpia",
+
+            "description": "<p>It doesn&#8217;t get more &#8217;00s than a movie about AIM and a flip phone.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Because it stars Hilary Duff, aka the Queen of Teen.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/5/enhanced/webdr11/anigif_enhanced-28828-1433840686-2.gif\" width=\"500\" height=\"200\" alt=\"Because it stars Hilary Duff, aka the Queen of Teen.\" /><\/p>\n \n\t<p>And you were so jealous of those perfect bangs.<\/p>\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>And her love interest was Chad Michael Murray at the peak of his <i>One Tree Hill<\/i> fame.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/5/enhanced/webdr15/anigif_enhanced-24770-1433840502-3.gif\" width=\"500\" height=\"281\" alt=\"And her love interest was Chad Michael Murray at the peak of his One Tree Hill fame.\" /><\/p>\n \n\t\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Plus, it featured Jennifer Coolidge, like any notable '00s movie should.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/5/enhanced/webdr11/anigif_enhanced-20684-1433840398-3.gif\" width=\"500\" height=\"270\" alt=\"Plus, it featured Jennifer Coolidge, like any notable '00s movie should.\" /><\/p>\n \n\t\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>Because everyone felt like this in high school:<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/5/enhanced/webdr11/anigif_enhanced-22403-1433842335-6.gif\" width=\"500\" height=\"265\" alt=\"Because everyone felt like this in high school:\" /><\/p>\n \n\t\n\n\n <p><small>Warner Bros.<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/eleanorbate/21-reasons-why-a-cinderella-story-was-a-masterpi-1b0l9\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/eleanorbate/21-reasons-why-a-cinderella-story-was-a-masterpi-1b0l9"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 08:00:21 -0400",
+
+            "group": {
+
+               "description": "<b>It doesn't get more '00s than a movie about AIM and a flip phone.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "eleanorbate"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/campaign_images/webdr15/21-reasons-a-cinderella-story-was-a-masterpiece-o-2-6237-1433945362-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@height": "200",
+
+                     "@isDefault": "true",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr11/anigif_enhanced-28828-1433840686-2.gif",
+
+                     "@width": "500",
+
+                     "description": "And you were so jealous of those perfect bangs.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr15/anigif_enhanced-24770-1433840502-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "270",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr11/anigif_enhanced-20684-1433840398-3.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "265",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr11/anigif_enhanced-22403-1433842335-6.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "259",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr04/anigif_enhanced-332-1433841149-10.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "180",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr04/anigif_enhanced-11455-1433841228-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "It wasn't just <i>The Notebook<\/i>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr09/anigif_enhanced-22355-1433841455-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "270",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr03/anigif_enhanced-5575-1433843011-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "Also because \"J-Lo\".",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/14/enhanced/webdr06/anigif_enhanced-6568-1433874148-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "270",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr12/anigif_enhanced-21984-1433842529-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "259",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr02/anigif_enhanced-21899-1433841628-13.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "284",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr09/anigif_enhanced-26781-1433843393-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "214",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr15/anigif_enhanced-30070-1433842611-10.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "245",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr15/anigif_enhanced-10253-1433842883-2.gif",
+
+                     "@width": "245",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "270",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/5/enhanced/webdr12/anigif_enhanced-20636-1433842235-10.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "258",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/8/enhanced/webdr12/anigif_enhanced-18542-1433851405-9.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "These Vintage Photos Of Canada's Banff Park Will Give You Intense Wanderlust",
+
+            "link": "http://www.buzzfeed.com/tanyachen/vintage-photos-of-banff-national-park-canada?utm_term=4ldqpia",
+
+            "description": "<p>Take me there, and then take me back in time.<\/p>\n\n\n\n\n\n\n\n\n\n\n \n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/29/17/enhanced/webdr01/enhanced-16901-1432936711-6.jpg\" width=\"625\" height=\"612\" alt=\"\" /><\/p>\n \n\t<p>Canoeing on Bow River in front of Cascade Mountain.<\/p>\n\n\n <p><small>Library and Archives Canada/National Film Board fonds / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayItem&amp;amp;amp;lang=eng&amp;amp;amp;rec_nbr=4317500\">collectionscanada.gc.ca<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/29/18/enhanced/webdr03/enhanced-20636-1432936942-12.jpg\" width=\"625\" height=\"617\" alt=\"\" /><\/p>\n \n\t<p>The garden, with Banff&#39;s main street into town in the backdrop.<\/p>\n\n\n <p><small>Library and Archives Canada/ National Film Board fonds / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&amp;amp;lang=eng&amp;amp;rec_nbr=4317501&amp;amp;rec_nbr_list=3810379,3810357,3810350,3810386,3810397,4317616,4293035,4317518,4317506,4317501&amp;amp;t\">collectionscanada.gc.ca<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-05/29/18/enhanced/webdr07/enhanced-28584-1432937115-9.jpg\" width=\"625\" height=\"639\" alt=\"\" /><\/p>\n \n\t<p>Painting along the Bow River.<\/p>\n\n\n <p><small>Library and Archives Canada/ National Film Board fonds / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://collectionscanada.gc.ca/pam_archives/index.php?fuseaction=genitem.displayEcopies&amp;amp;lang=eng&amp;amp;rec_nbr=4293037&amp;amp;rec_nbr_list=4311843,4293039,4293037,4317666,4317616,4293085,4293035,4317522,4317519,4317518&amp;amp;t\">collectionscanada.gc.ca<\/a><\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/tanyachen/vintage-photos-of-banff-national-park-canada\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/tanyachen/vintage-photos-of-banff-national-park-canada"
+
+            },
+
+            "pubDate": "Mon, 01 Jun 2015 12:11:04 -0400",
+
+            "group": {
+
+               "description": "<b>Take me there, and then take me back in time.<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "tanyachen"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/10/10/campaign_images/webdr03/these-vintage-photos-of-canadas-banff-park-will-g-2-15800-1433945525-0.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "612",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/17/enhanced/webdr01/enhanced-16901-1432936711-6.jpg",
+
+                     "@width": "625",
+
+                     "description": "Canoeing on Bow River in front of Cascade Mountain.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "617",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr03/enhanced-20636-1432936942-12.jpg",
+
+                     "@width": "625",
+
+                     "description": "The garden, with Banff's main street into town in the backdrop.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "639",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr07/enhanced-28584-1432937115-9.jpg",
+
+                     "@width": "625",
+
+                     "description": "Painting along the Bow River.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "630",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr05/enhanced-29594-1432937668-10.jpg",
+
+                     "@width": "625",
+
+                     "description": "And along the Hoodoos hike.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "629",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr01/enhanced-16889-1432937626-11.jpg",
+
+                     "@width": "625",
+
+                     "description": "Rocks at Lake Minnewanka.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "606",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr15/enhanced-11786-1432937965-21.jpg",
+
+                     "@width": "625",
+
+                     "description": "A field of poppies near Lake Louise.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "634",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr07/enhanced-28671-1432938215-11.jpg",
+
+                     "@width": "625",
+
+                     "description": "The banks of the Bow River.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "493",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr11/enhanced-29990-1432938104-12.jpg",
+
+                     "@width": "625",
+
+                     "description": "The swimming pool at Cave and Basin.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "620",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr08/enhanced-29661-1432938558-32.jpg",
+
+                     "@width": "625",
+
+                     "description": "Mountain sheep on Banff-Lake Louise road.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "634",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr08/enhanced-29701-1432938596-11.jpg",
+
+                     "@width": "625",
+
+                     "description": "Lake Moraine Road during winter months.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "639",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr11/enhanced-29975-1432938897-9.jpg",
+
+                     "@width": "625",
+
+                     "description": "Castle Mountain in the background.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "622",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr08/enhanced-29740-1432938699-7.jpg",
+
+                     "@width": "625",
+
+                     "description": "A black bear at the park <i>*do not try this at home*<\/i>.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "658",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr04/enhanced-26256-1432938752-10.jpg",
+
+                     "@width": "625",
+
+                     "description": "Banff during the fall months.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "619",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr08/enhanced-29697-1432938850-19.jpg",
+
+                     "@width": "625",
+
+                     "description": "An Elmer Fudd sign in front of the Administration Building.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "645",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-05/29/18/enhanced/webdr12/enhanced-11960-1432938944-22.jpg",
+
+                     "@width": "625",
+
+                     "description": "And a romantic lookout to Peyto Valley.",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Piper And Alex Are Totally Back On In The New Season Of \"Orange Is The New Black\"",
+
+            "link": "http://www.buzzfeed.com/lanesainty/season-three-of-oitnb-will-be-the-sexiest-yet?utm_term=4ldqpia",
+
+            "description": "<p>&#8220;This is the sexiest season by far.&#8221;<\/p>\n\n\n\n\n\n\n\n\n\n\n\n \n \n\t<h1>Netflix has dropped another teaser for Season 3 of <i>Orange Is the New Black<\/i>, featuring interviews with stars Taylor Schilling and Laura Prepon and new cast member Ruby Rose.<\/h1>\n\n\t \t  <iframe width=\"560\" height=\"349\" src=\"http://www.youtube.com/embed/4Ap2Kfr3wTM\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"><\/iframe>\n\t  \n\t\n\n\n <p><small><a rel=\"nofollow\"  target=\"_blank\"  href=\"http://youtube.com/watch?v=4Ap2Kfr3wTM\">youtube.com<\/a><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>As we learned in the season trailer, Alex Vause (Laura Prepon) has landed back in Litchfield.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/21/enhanced/webdr12/anigif_enhanced-24456-1433898435-2.gif\" width=\"501\" height=\"279\" alt=\"As we learned in the season trailer, Alex Vause (Laura Prepon) has landed back in Litchfield.\" /><\/p>\n \n\t\n\n\n <p><small>Netflix<\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n <p>\"In Season 3, Alex has to deal with the consequences of violating your parole,\" Prepon says. \"You definitely do see more of Alex&#39;s vulnerable side. But Alex is, like, a total badass. That&#39;s the cool thing about her.\"<\/p>\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>And it looks like Piper (Taylor Schilling) and Alex are going to ~rekindle~ things – presumably until Alex finds out Piper dobbed her in to the parole officer.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/21/enhanced/webdr10/anigif_enhanced-9605-1433898638-2.gif\" width=\"625\" height=\"351\" alt=\"And it looks like Piper (Taylor Schilling) and Alex are going to ~rekindle~ things – presumably until Alex finds out Piper dobbed her in to the parole officer.\" /><\/p>\n \n\t\n\n\n <p><small>Netflix<\/small><\/p>\n\n\n\n\n<hr /><p><a href=\"http://www.buzzfeed.com/lanesainty/season-three-of-oitnb-will-be-the-sexiest-yet\">View Entire List &rsaquo;<\/a><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/lanesainty/season-three-of-oitnb-will-be-the-sexiest-yet"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 22:05:21 -0400",
+
+            "group": {
+
+               "description": "<b>\"This is the sexiest season by far.\"<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "lanesainty"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/22/campaign_images/webdr13/season-three-of-oitnb-will-be-the-sexiest-yet-2-19471-1433902316-5.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "@medium": "video",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     },
+
+                     "player": {
+
+                        "@url": "http://youtube.com/watch?v=4Ap2Kfr3wTM"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "279",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr12/anigif_enhanced-24456-1433898435-2.gif",
+
+                     "@width": "501",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "\"In Season 3, Alex has to deal with the consequences of violating your parole,\" Prepon says. \"You definitely do see more of Alex's vulnerable side. But Alex is, like, a total badass. That's the cool thing about her.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr10/anigif_enhanced-9605-1433898638-2.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr07/grid-cell-21037-1433898907-2.jpg",
+
+                     "@width": "203",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "203",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr07/grid-cell-21037-1433898908-5.jpg",
+
+                     "@width": "412",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr14/grid-cell-4454-1433900016-3.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr14/grid-cell-4454-1433900017-6.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "description": "\"As Piper's growing and Alex is growing, their dynamic is turned on its head a little,\" said Schilling. \"Piper's in a stronger place than we've ever seen her before.\"\n\nPrepon agreed, saying, \"The interesting thing about the relationship is that the dynamic constantly changes between the two of them.\"",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr07/anigif_enhanced-20126-1433899040-5.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr11/grid-cell-30213-1433899205-2.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "204",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr11/grid-cell-30213-1433899208-7.jpg",
+
+                     "@width": "309",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr13/anigif_enhanced-12548-1433900374-3.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "351",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr14/anigif_enhanced-3654-1433900618-1.gif",
+
+                     "@width": "625",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "280",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/21/enhanced/webdr10/anigif_enhanced-14784-1433900576-2.gif",
+
+                     "@width": "500",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         },
+
+         {
+
+            "title": "Listen To Miley Cyrus' New Song \"Nightmare\"",
+
+            "link": "http://www.buzzfeed.com/kelleydunlap/listen-to-miley-cyrus-new-song-nightmare?utm_term=4ldqpia",
+
+            "description": "<p>This is not a drill!<\/p>\n\n\n\n\n\n\n\n\n\n\n\n  <iframe src=\"/embed/sub/if-youve-been-dying-for-new-miley-cyrus-music-go-npp2x2-180ia?uri=if-youve-been-dying-for-new-miley-cyrus-music-go-npp2x2-180ia&cb=1434238658\" width=\"625\" height=\"0\" scrolling=\"no\" frameborder=\"0\"><\/iframe>\n \n \n\t<h1>If you've been dying for new Miley Cyrus music, good news! A previously unreleased track titled \"Nightmare\" made its way online this afternoon.<\/h1>\n\n \n\t\n\n\n <p><small><\/small><\/p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n \n\t<h1>The bad news? It'll only make you want more.<\/h1>\n\n   <p><img src=\"http://ak-hdl.buzzfed.com/static/2015-06/9/16/enhanced/webdr08/anigif_enhanced-20143-1433882264-7.gif\" width=\"500\" height=\"281\" alt=\"The bad news? It'll only make you want more.\" /><\/p>\n \n\t<p>Bring on the \"<a href=\"http://www.buzzfeed.com/kelleydunlap/miley-cyrus-next-album-is-going-to-be-weird-yall\">weird<\/a>\" <i>Bangerz<\/i> follow-up&#33;<\/p>\n\n\n <p><small>Giphy / Via <a rel=\"nofollow\"  target=\"_blank\"  href=\"http://giphy.com/gifs/girl-miley-cyrus-music-video-Umx7zVTCpDaco\">giphy.com<\/a><\/small><\/p>",
+
+            "guid": {
+
+               "@isPermaLink": "false",
+
+               "#text": "http://www.buzzfeed.com/kelleydunlap/listen-to-miley-cyrus-new-song-nightmare"
+
+            },
+
+            "pubDate": "Tue, 09 Jun 2015 16:47:33 -0400",
+
+            "group": {
+
+               "description": "<b>This is not a drill!<\/b>",
+
+               "credit": {
+
+                  "@role": "user",
+
+                  "@scheme": "http://www.buzzfeed.com",
+
+                  "#text": "kelleydunlap"
+
+               },
+
+               "rating": {
+
+                  "@scheme": "urn:simple",
+
+                  "#text": "nonadult"
+
+               },
+
+               "content": [
+
+                  {
+
+                     "@height": "236",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/16/campaign_images/webdr10/listen-to-miley-cyrus-new-song-nightmare-2-4523-1433883040-10.jpg",
+
+                     "@width": "355"
+
+                  },
+
+                  {
+
+                     "@isDefault": "true",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@isDefault": "false",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  },
+
+                  {
+
+                     "@height": "281",
+
+                     "@isDefault": "false",
+
+                     "@medium": "image",
+
+                     "@url": "http://s3-ak.buzzfed.com/static/2015-06/9/16/enhanced/webdr08/anigif_enhanced-20143-1433882264-7.gif",
+
+                     "@width": "500",
+
+                     "description": "Bring on the \"<a href=\"http://www.buzzfeed.com/kelleydunlap/miley-cyrus-next-album-is-going-to-be-weird-yall\">weird<\/a>\" <i>Bangerz<\/i> follow-up!",
+
+                     "rating": {
+
+                        "@scheme": "urn:simple",
+
+                        "#text": "nonadult"
+
+                     }
+
+                  }
+
+               ]
+
+            }
+
+         }
+
+      ]
+
+   }
+
+}
